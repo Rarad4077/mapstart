@@ -1,7 +1,12 @@
 # Note from Kobe
 
-	pip install -r requirements.txt
+	pip install JPype1
+	pip install chardet
+	python setup.py install
 	python webScraping_v1.py
+	
+	pip install -r requirements.txt
+	
 
 
 
