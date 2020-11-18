@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[6]:
-
-
-# importing libraries
 import pandas as pd
 import numpy as np
 # deep learning library
@@ -53,7 +49,6 @@ model.add(GlobalMaxPooling1D())
 model.add(Dense(64, activation='relu'))
 model.add(Dense(1, activation='sigmoid'))
 
-# Add loss function, metrics, optimizer
 model.compile(optimizer='adam', loss='binary_crossentropy', metrics=["acc"])
 
 # Adding callbacks
@@ -65,9 +60,6 @@ mc = ModelCheckpoint('best_model.h5', monitor='val_acc',
 print(model.summary())
 
 
-# In[7]:
-
-
 history = model.fit(np.array(x_tr_seq), np.array(y_tr), batch_size=128, epochs=10, validation_data=(
     np.array(x_val_seq), np.array(y_val)), verbose=1, callbacks=[es, mc])
 # loading best model
@@ -77,9 +69,6 @@ model = load_model('best_model.h5')
 # evaluation
 _, val_acc = model.evaluate(x_val_seq, y_val, batch_size=128)
 print(val_acc)
-
-
-# In[9]:
 
 
 # load the whole embedding into memory
@@ -102,9 +91,6 @@ for word, i in tokenizer.word_index.items():
     embedding_vector = embeddings_index.get(word)
     if embedding_vector is not None:
         embedding_matrix[i] = embedding_vector
-
-
-# In[10]:
 
 
 model = Sequential()
@@ -142,9 +128,6 @@ model = load_model('best_model.h5')
 # evaluation
 _, val_acc = model.evaluate(x_val_seq, y_val, batch_size=128)
 print(val_acc)
-
-
-# In[ ]:
 
 
 history = model.fit(np.array(x_tr_seq), np.array(y_tr), batch_size=128, epochs=10, validation_data=(
