@@ -1,0 +1,1875 @@
+-------URL--------- http://www.sap.com -------URL---------
+Design your own free SAP TechEd experience. Select keynotes, sessions, virtual hands-on workshops, and strategy talks led by SAP product managers, developers, and customers. December 8–10.
+Why SAP?
+Analysts name SAP business software a leader across all categories. See how we can help you thrive in the digital era.
+Never stop delivering
+Supply chain solutions from SAP give you visibility and flexibility, so you can always come through for your customers.
+Agility, adaptability, speed
+SAP S/4HANA gives you the agility you need today, with smart automated processes and insight into every corner of your business, so you can move from crisis to opportunity.
+SAP HANA Cloud can transform your entire data landscape into real-time, actionable business value.
+-------URL--------- http://www.sap.com/products.html -------URL---------
+Portfolio Categories
+Explore our comprehensive solutions for all business processes across all industries to find the solutions you need to run your business better, faster, and simpler enterprise-wide.
+ERP and Finance
+Featured Products
+Find the right products to enable digital transformation across your enterprise and run business-critical processes quickly and securely in the cloud – today and as your business needs evolve.
+SAP S/4HANA
+Improve decision making and increase productivity with a digital core that supports all your mission-critical business processes. Built on the SAP HANA platform, the SAP S/4HANA Enterprise Management solution is designed with the SAP Fiori user experience and delivered in the cloud and on premise.
+Build and deploy apps quickly with our cloud platform-as-a-service (PaaS). With SAP Cloud Platform, you can deliver secure business apps that integrate and optimize your IT landscape, drive agility, and accelerate digital transformation – in weeks, instead of years.
+Accelerate business processes, deliver more business intelligence, and simplify your IT environment with our in-memory data platform that provides the foundation for all your data needs.
+Integrate travel spend, ERP, accounting, and card data into a single, cloud-based and mobile system that manages the entire expense process – from spend requests to reconciliation.
+Manage sourcing and suppliers across all spend categories with a single closed-loop, source-to-contract suite of solutions that handles the advanced requirements of direct materials sourcing. 
+Increase responsiveness, reduce IT costs and workload, and drive better decision making by providing easy, self-service access to insights on a unified platform for data and analytics.
+Deliver exceptional, seamless customer experiences by integrating all digital and physical customer touchpoints – including online, mobile, call center, and social media – onto a single platform.
+SAP SuccessFactors Employee Central
+Transform the work experience with a cloud-based, multilingual solution that serves as a “system of record” for people- and HR-related data, as well as a platform for streamlining core HR processes.
+Technology and Innovation
+In the digital age, business leaders must stay on top of new, emerging, and future technologies or risk falling behind. But where do you start? Explore the latest digital trends to determine the best opportunities for your company.
+Digital Transformation
+Traditional business models are being radically disrupted in the digital economy. Discover what it means and takes to transform – explore strategies, best practices, and more.
+Artificial intelligence (AI), machine learning, and deep learning are powering a new breed of software innovation. See how the technology can harness an ocean of Big Data to create business opportunities.
+Blockchain has the potential to majorly disrupt every industry. This distributed ledger technology goes far beyond cryptocurrencies to include everything from land titles and intellectual property to votes. 
+Internet of Things
+The Internet of Things (IoT) is connecting machines to machines (M2M) and machines to people in nearly every industry. Explore this world of networks – including the IIoT and Internet of Everything (IoE).
+Cloud Computing
+From SaaS and PaaS to private and hybrid – learn more about cloud technology and its benefits. You can also investigate the latest cloud trends and hot topics, such as security and public cloud options.
+Big Data continues to explode in volume and variety, and companies must keep up. Learn about the latest Big Data tech trends, including real-time analytics and AI – and find out what they can do for business. 
+-------URL--------- http://www.sap.com/industries.html -------URL---------
+Intelligent enterprises start the transformation journey in their home industry. SAP offers solutions driven by intelligent technologies for best-practice business processes that help you run better.
+Introducing industry cloud solutions
+See how industry cloud solutions from SAP can help you run an Intelligent Enterprise and deliver value.
+SAPPHIRE NOW Converge
+See how organizations in any industry can rapidly respond to change and transform their business.
+Explore the impact of the COVID-19 pandemic on various industries
+Hear how industries are being impacted by the COVID-19 pandemic – and learn how your industry is evolving in this time of uncertainty.​
+-------URL--------- http://www.sap.com/support.html -------URL---------
+Keep your systems running at peak performance
+ 
+ 
+Services and Support Offerings
+Get support for your transformation journey every step of the way by working with a trusted adviser that knows SAP software best.
+SAP Support Portal
+Visit the SAP Support Portal and the SAP ONE Support Launchpad to search our knowledge base, find solutions to issues, and report incidents.
+SAP Help Portal
+Become an SAP solution expert by accessing documentation for our complete list of SAP products and using Learning Journey guides.
+SAP for Me Customer Portal
+SAP for Me is your digital companion to easily interact with SAP and get immediate guidance to the best solution for you. 
+Trusted partner responds to COVID-19 and beyond
+In an interview, SAP Services President Shane Paladin shares how the global organization is helping customers feel good about every experience they have with SAP.
+Essential Business Services from SAP
+With essential business services and our off-site service delivery framework, customers receive delivery and installation of SAP services from an off-site location rather than on-site.
+Get the guidance you need to take the best path toward digital transformation, cloud adoption, and sustainable innovation.
+Accelerate the implementation, migration, and adoption of SAP solutions with a combination of unique expertise and best practices.
+Create value for your organization and customers with the promise of speed, innovation, flexibility, elasticity, and simplicity.
+Move on-premise solutions to the cloud with guided support plans – helping your business adapt and ensure high-performing solutions.
+Support your implementation with packaged services and support to co-innovate with SAP and create ground-breaking business models.
+SAP Support Portal
+Use the SAP Support Portal to access technical support resources and product support experts quickly and easily.
+Get next-generation support for the Intelligent Enterprise
+The SAP Support Portal provides customers and partners with support-related news and features, as well as help and context for support applications, services, and offerings. You can use it to access critial tasks, important updates, and all of SAP's live support channels anytime, anywhere, and from any device.
+Prevent issues before they happen
+Find solutions in our extensive knowledge base or with intelligent tools like Guided Answers and Cloud Availability Center.
+Get help from experts, when and how you need it
+For fast issue resolution and prevention, get help directly from SAP support experts with our Expert Chat and Schedule an Expert services.
+Customize your personal dashboard to quickly access your common tasks – downloading software, checking incidents, managing users, and more.
+SAP Help Portal
+Access SAP Help Portal to stay up to date on the latest information on installation, upgrades, and product availability.
+Product documentation finder
+Browse the complete list of SAP products to find documentation on implementation, upgrades, and the latest features.
+Use structured visual guides to navigate the path to becoming fully competent with high-priority SAP solutions.
+Best practices
+Use proven best practices to get your software up and running within weeks – in the cloud, on premise, or in a hybrid environment.
+SAP Road Maps
+Take a look at our road maps to explore your current options, as well as planned innovations and future direction.
+SAP for Me Customer Portal
+SAP for Me aggregates important alerts, metrics, and insights about your SAP product portfolio with a single access point.
+SAP Solution Manager
+Easily manage your SAP and non-SAP applications with all the processes, tools, and services you need to support your IT landscape now and in the future.
+-------URL--------- http://www.sap.com/training-certification.html -------URL---------
+Best practices for accelerating user productivity
+Discover how to boost software adoption with targeted learning delivered in the flow of work, resulting in faster adoption, more productive users, and improved ROI.
+Reducing deployment time and staying current with SAP
+Join us on November 19 to hear from SAP customers and select partners on the game-changing value of expert training and keeping skills current.
+Game Changer: The Transformative Impact of Training
+IDC-led research amongst 1,000+ companies from small to large reveal how training can impact the success of your software implementation.
+Deliver transformative business outcomes with world-leading training that drives software adoption. Enable people to perform at their best with continuous learning that keeps pace with technology advances, boosts productivity, and accelerates innovation.
+Training for me
+Get the training you need from a complete, flexible, learner-centered training platform that meets individual needs and delivery preferences.
+Get free training courses, podcasts, and microlearning playlists 
+Find training courses and global certifications from SAP
+Build SAP skills 24x7 with online and social learning 
+Access visual guides to help you navigate your learning path
+Training for your teams
+Keep teams of all sizes on track with SAP innovations and deliver real business impact user adoption solutions and services from SAP and our partners. 
+Keep deployment projects on track and maintain SAP systems
+Get expert guidance on organizational change management
+Find end-user training and adoption services
+Improve technology usage and people productivity 
+Deliver transformative business outcomes
+Maximize business performance, achieve outstanding results, and optimize your intelligent enterprise with skillful use of SAP solutions supporting every role at every level.
+Empower innovation
+Enables your business to always stay ahead of the competition by creating a culture of continuous learning, keep pace with technology advances, and innovate faster with the only training built by SAP for SAP solutions.
+Enable people success
+Achieve KPIs and improve the user experience by enabling new, more effective ways to work. Drive SAP software adoption and productivity with best-in-class SAP training available online, on-site, virtually, and in the flow of work.
++15 %
+organization satisfaction with SAP solutions with 45 hours of training for system administrators1
+7-13 X
+$1 M
+in benefits per 1000 SAP users and 671% ROI over 3 years2
+Digital Skills for the Digital Age
+Get insights on how to develop the key skills and competencies to make the digital transformation to the Intelligent Enterprise a success. 
+In this series, learn about available training for SAP Ariba, SAP SuccessFactors, and multiple SAP S/4HANA line of business areas.
+Training best practices for SAP Analytics solutions
+Listen to this event replay to hear how you can fast-track the deployment of SAP Analytics solutions and accelerate user adoption.
+SAP S/4HANA training best practices to drive productivity
+Gain a solid, practical understanding of best practices, tools, and resources to fully train and enable your people to succeed with SAP S/4HANA.
+Using knowledge sharing on the go
+Learn how itelligence’s SAP consultants can now learn individually or collaboratively, informally or interactively, digitally or in the classroom with SAP Enable Now and SAP Learning Hub.
+Refining end-user education with SAP Enable Now
+Hear how Dimension Data is able to efficiently create and deploy training materials for over 28,000 employees in 46 countries.
+Keeping consultants fluent in the latest technology
+Find out how ROFF ensures its consultants are up to date on changing requirements so they can maximize their SAP software skills.
+Additional Resources
+Developer tutorials
+Find hundreds of tutorials in 45 product areas with step-by-step instructions for building applications and learn about the capabilities of the products and tools we offer.
+Product road map Webinars
+Hear about the latest SAP product and industry road maps and get answers to your questions in live, expert-led sessions.
+SAP Support Portal
+Visit SAP Support Portal and SAP ONE Support Launchpad to search our knowledge base, find solutions to issues, and report incidents.
+SAP University Alliances
+Access a global network of educational institutions and learning resources for SAP solutions to help students gain the skills needed for the digital future.
+Join a purpose-driven community that enables companies, partners, and universities to connect and innovate with objectives linked to United Nations Global Goals. 
+SAP Young Thinkers
+Enable young people to use tools of the digital age and explore how they can shape the world of tomorrow with the SAP Young Thinkers program.
+2IDC, SAP User Experience Management by Knoa Research, October 2019
+How is your experience with this page?
+-------URL--------- http://www.sap.com/community.html -------URL---------
+Community topics
+Browse through the community topic pages to find in-depth product-related or topic-related information.
+Search through all the questions and answers in the community or ask the experts questions of your own. 
+Community blogs
+Read or write blogs on various topics, products, technology, and trends to exchange knowledge and share your expertise.
+As the leading online community in the business software industry, SAP Community enables professionals across the globe to connect, exchange information, engage, and receive recognition for your achievements. This inclusive and receptive environment welcomes all individuals who want to seek help and share knowledge about SAP software and solutions.
+SAP Community newsletter
+Subscribe to Community Voice, our bi-weekly e-newsletter about new products and releases, upcoming trainings and events, new community features and programs, and more.
+Access our one-stop shop for all developer-related materials, including free trials and downloads, step-by-step tutorials and how-to guides to help you get started, documentation, support, and more.
+-------URL--------- http://www.sap.com/partner.html -------URL---------
+The Power of Partnership
+Whether you're a customer trying to find a partner to work with, a company looking to explore and join our partner ecosystem, or an existing SAP partner who wants to login to our secure website – you've come to the right place!
+Find a Partner
+Regardless of your company size or industry – our partners can help you buy, build, implement, service, support and run the SAP solution that best fits your unique needs. Find a trusted professional to work with today.
+SAP's complete portfolio of industry-leading solutions and award-winning partner program will help you win more customers and revenue to your existing business. Browse our partnering opportunities today.
+Boost customer confidence in the innovative applications you've built to run on SAP technology with a certification from SAP Integration and Certification Center – an official seal of approval from SAP.
+If you're an existing SAP partner, you can login to the sappartneredge.com website to access exclusive sales and marketing tools, events, solution information, support, demos, education, benefits, and more.
+-------URL--------- http://www.sap.com/corporate/en.html -------URL---------
+About SAP SE
+About SAP SE
+What is SAP?
+SAP stands for Systems, Applications, and Products in Data Processing (Anwendungen und Produkte in der Datenverarbeitung in German). SAP was founded in 1972 in Walldorf, Germany and now has offices around the world. 
+Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end enterprise application software, database, analytics, intelligent technologies, and experience management. A top cloud company with 200 million users worldwide, SAP helps businesses of all sizes and in all industries to operate profitably, adapt continuously, and achieve their purpose.
+Company Information
+Learn more about our company – get SAP facts, company profile, and business information.
+SAP innovations help 440,000 customers worldwide work together more efficiently and use business insight more effectively. Explore our leadership, history, sustainability, diversity, FAQs, and more.
+Explore SAP Investor Relations, with financial news, investor events, annual reports, and quarterly statements.
+Investor Relations
+The SAP Investor Relations site provides information and services for institutional, socially responsible, and individual investors. Learn about our financial performance, browse quarterly and annual reports, and track our financial news.
+Integrated Report
+SAP helps the world run better and improves peoples’ lives through our integrated strategy. Our annual Integrated Report details our performance and what is material for our sustainable business success.
+Find the information you need on cloud performance, security, privacy, and compliance.
+Your business is built on trust, and you expect the same from your software provider. As a leading software provider and a cloud company, we’re dedicated to building – and keeping – our customers’ trust.
+Read in-depth feature articles on current business and technology trends.
+The SAP News Center is the official site for the latest SAP news and information. More than just press releases, you'll find in-depth feature articles on business and technology trends, blogs from SAP experts and thought leaders, and more. 
+Discover SAP careers and job opportunities. 
+At SAP, more than 101,450 of us flourish in an environment that encourages open, free expression of ideas. You'll work alongside creative thinkers who turn big ideas into reality for our customers. And with innovative job training, mentors to help you grow, and flexibility to balance work and personal life, you get more out of your career, too.
+Engage with SAP and your peers for the optimal customer experience.
+See how our customers are using SAP software to become intelligent enterprises – and how you can help shape future SAP software and technologies by participating in our customer involvement programs.
+Connect with industry experts and hone your skills anytime, anywhere.
+Get ready to connect with industry experts and hone your skills. Visit our events finder page to view upcoming webinars and conferences – and get details about the ones you missed.
+Enable young people to use tools of the digital age.
+Started in 2015 as a grassroots movement, the SAP Young Thinkers community is more of a mindset than a program – made to inspire young people at secondary and vocational schools and curious IT beginners to learn about computer and data science, as well as economy. SAP Young Thinkers is made up of SAP colleagues, ambassadors, and a global network of diverse institutions including schools, universities, not-for-profits, start-ups, ministries, and corporate organizations that provides students the opportunity to learn and practice 21st-century skills.
+-------URL--------- http://www.sap.com/covid-19.html -------URL---------
+COVID-19 Resources 
+Access resources to help you manage your business and learn how SAP is responding
+Back to best
+SAP is committed to helping you be a best-run business. Together, we can help you move forward from COVID-19 for your employees, your customers, and your business.
+Leading with purpose
+At SAP, we believe innovators rise in times of crisis. As we unite around the world to show gratitude for healthcare professionals and all essential workers, we would also like to applaud the SAP Purpose Network, our network of customers and partners leading with purpose during these times.
+In addition to SAP offerings, we want to connect you to free offerings from our vibrant ecosystem of 21,000+ partners to help support your business through COVID-19 challenges. Together with our partners, we are committed to jointly deliver success to your business – now and in the future.
+We stand for small
+SAP is dedicated to helping you keep your small business moving forward by offering free and time-limited discounts on select solutions. 
+Essential business services
+Essential business services from SAP and the off-site service delivery framework can help you manage risk and support continuity during uncertain times to help your business get back to best.
+Moments of extraordinary challenge bring out the best of our collective humanity. Get more news and information about the SAP response to COVID-19.
+-------URL--------- http://www.sap.com/products/erp-financial-management.html -------URL---------
+ERP and Financial Management
+Connect all departments and functions with an ERP system that supports resilience and operational excellence – in the cloud or on premise.​
+Visit the Converge Channels for the on-demand videos and Unplugged series.
+Learn why SAP S/4HANA is key to solve today's finance challenges.
+Take advantage of the extended value in SAP S/4HANA to boost your finance function.
+Resilience with ERP and Financial Management Solutions
+With SAP Financial Management solutions, you can minimize the impact of economic disruption while maintaining business continuity. SAP’s ERP system and financial software solutions can help companies emerge from crisis with great resiliency.​
+Transform your business processes with SAP S/4HANA, our intelligent, integrated ERP system.
+Industry-specific capabilities and best practices
+Machine learning-enabled business processes
+ERP for Small and Midsize Businesses
+Grow your business with on-premise and cloud ERP software from SAP that fits your needs and budget.
+Connected processes across every part of your business
+Access to insights and analytics from anywhere
+Quick deployment for a fast ROI
+Seamless interactions with today’s digital consumers
+80%
+of SAP customers who recently implemented SAP S/4HANA Cloud are small or midsize businesses
+Source: SAP Global Corporate Fast Facts
+40%
+Financial Planning and Analysis
+Act in the moment and focus more on strategy by uniting transactions, analytics, and planning.
+Real-time revenue and cost analysis
+Continuous planning and forecasting
+Increased forecast accuracy
+Streamlined financial close process
+Fast, transparent financial consolidation
+Enel customer case study
+SAP Performance Benchmarking
+Manage working capital, payments, and financial risk more efficiently with integrated solutions.
+Comprehensive management of working capital
+Central streamlining of payments
+Optimized cash and liquidity
+Seamless connection and integration
+Perfect your customers’ payment experience with subscription and usage-based billing models.
+Scalable subscription models
+Digitalized receivables management
+Intelligent payment matching
+SAP Performance Benchmarking
+75%
+less manual effort for selected control activities by managing by exception with control monitoring.
+Eli Lilly customer case study
+Cybersecurity and Governance, Risk, and Compliance
+Adapt quickly to changes in technology, regulations, and a global landscape.
+Integrated risk and compliance management
+Security monitoring features for applications and events
+Continuous control and exception monitoring
+Extensive data protection and privacy governance
+Automated and centrally managed global trade processes
+Optimized identity and access management
+Manage finance and capital effectively while supporting business continuity and providing controls for the acceleration of remote work.
+Optimize working capital and cash flow
+Oversee liquidity, monitor foreign exchange risks, ensure credit lines, and optimize working capital with effective  Treasury Management  and Cash Management from SAP.
+Sustain business continuity in the financial close
+Access governance for the virtual workplace
+ 
+Enable agile international trade compliance management
+Verify new sources, manage import/export compliance, and take advantage of preferential trade agreements with  SAP’s Global Trade Services . Assess new vendors and customers and build trust in your supply chain with  SAP Watch List Screening .
+SAP is a Leader in the 2018 ERP Value Matrix
+Find out why Nucleus Research recognized SAP for making strides to bring more of the capabilities that deliver intelligent ERP in the cloud. 
+Intelligent GRC drives business value
+Learn about the value of improved governance, risk, and compliance practices and the necessary steps to realize them in this Forrester Opportunity Snapshot.
+Powering industry transformation
+SAP S/4HANA is an intelligent, integrated ERP system that runs on our in-memory database, SAP HANA, and utilizes artificial intelligence to transform your business processes in the cloud or on premise. 
+Questions? Get in touch!
+-------URL--------- http://www.sap.com/products/s4hana-erp.html -------URL---------
+ 
+Discover a truly modern ERP system with embedded AI and machine learning – available on premise, in a public or private cloud, or in a hybrid environment.
+Back to Best with SAP S/4HANA
+Get the inside scoop on the Intelligent ERP that’s changing how businesses adapt and scale.   
+Browse IDC's assessment of worldwide SaaS and cloud-enabled large enterprise ERP applications.
+What is SAP S/4HANA?
+SAP S/4HANA is a future-ready enterprise resource planning (ERP) system with built-in intelligent technologies, including AI, machine learning, and advanced analytics. It transforms business processes with intelligent automation and runs on SAP HANA – a market-leading in-memory database that offers real-time processing speeds and a dramatically simplified data model.
+On-premise, public/private cloud, or hybrid deployment
+Embedded AI, analytics, and intelligent process automation
+In-memory database and simplified data model
+Capabilities and best practices for a wide range of industries
+Consumer-grade UX
+Explore SAP S/4HANA ERP capabilities
+Choose and deploy from a wide range of SAP S/4HANA ERP capabilities – all of which leverage the latest technologies and intelligent automation to transform your business processes. Capabilities span lines of business, from finance, supply chain, and manufacturing to sales, distribution, and more.
+Features and business benefits of SAP S/4HANA
+See how cloud ERP can help you become a best-run business and sharpen your competitive edge.
+50% reduction in data footprint
+Due to in-memory, columar database
+100 times faster reporting
+Embedded AI technology
+Real-time advanced analytics
+Streamlined data display
+Competitive edge and better workflows
+With Industry-specific business processes
+Consumer-grade UX across devices
+Reduces errors, increases productivity
+Transform Automotive with Intelligent ERP
+Learn how SAP S/4HANA provides automotive firms with a proven framework to adopt industry best practices while attaining operational excellence. Discover how SAP supports the automotive value chain with intelligent solutions and integrated, automated processes that are transparent and...
+Transform Aerospace and Defense with Intelligent ERP
+Learn how a digital strategy can help A&D companies streamline complex programs, optimize their global supply chain, and standardize core processes.
+Transform Banking with Intelligent ERP
+Learn how banks are using SAP S/4HANA and SAP Leonardo as a digital core to build a more flexible and intelligent enterprise – enabling them to adapt to changes in M&A activity, business models, and customer demand.
+Transform Building Products companies with Intelligent ERP
+Discover why building products businesses can lay solid foundations for their digital initiatives with SAP S/4HANA. Achieve customer centricity, offer small lot sizes and individualization, run smart factories and distribution networks, and ensure worker safety on the spot – and in real time.
+Transform Chemicals with Intelligent ERP
+Learn how SAP S/4HANA provides chemicals companies with a proven framework to adopt industry best practices while attaining operational excellence – across core customer engagement, asset management, and financial processes.
+Transform Consumer Products with Intelligent ERP
+See how SAP S/4HANA software provides consumer products companies with a proven framework to adopt industry best practices while attaining operational excellence.
+Transform EC&O with Intelligent ERP
+Learn how SAP S/4HANA provides a framework and digital core to help EC&O companies adopt best practices and optimize operations. See how real-time transactions and analytics, the ability to work with Big Data, and connectivity to LoB extensions enable alignment between project management and financial controls.
+Transform Fashion with Intelligent ERP
+Find out how fashion companies are becoming intelligent enterprises using SAP S/4HANA and SAP Leonardo as their digital core, enabling employees to provide more personalized services to customers and gaining a competitive edge in the digital marketplace.
+Transform High Tech with Intelligent ERP
+Learn how SAP S/4HANA provides high tech companies with a proven framework to adopt industry best practices while attaining operational excellence. Explore innovation-led digital road maps and use cases for delivering a smart factory, service-centric business models, and smart products.
+Transform IM&C with Intelligent ERP
+Learn how SAP S/4HANA can help your IM&C company as you compete in the new digital reality. Deliver worldwide, including data as a service, based on highly-customized, digitalized products that address the segment of one to improve customer experiences.
+Transform Insurance with Intelligent ERP
+Get ready to take advantage of the latest ground-breaking technology that will revolutionize the insurance industry. Pursue new digital business models and improve and protect your customers’ health, property, and business.
+Transform Life Sciences with Intelligent ERP
+Learn how life science companies can transform into event-driven businesses. Find out how bringing SAP S/4HANA and SAP Leonardo technologies together as a digital core results in a flexible, intelligent enterprise that can be continuously enhanced and extended with innovative services and applications.
+Learn how media companies are transforming their entire approach to content delivery. Driven by consumer expectations, new entrants, and competition for attention, media companies across multiple segments are using intelligent technology to reach and serve their stakeholders.
+Transform Metals with Intelligent ERP
+Learn how SAP S/4HANA can help your metals company as you compete in the new digital reality. Find out how it provides a proven framework to adopt industry best practices while attaining operational excellence – specifically across core customer engagement, asset management, and financial processes.
+Transform Mining with Intelligent ERP
+Learn how SAP S/4HANA can help your mining company as you compete in the new digital reality. Deliver resources responsibly by increasing productivity through automation; operating in a predictable, sustainable, and agile way; and collaborating deeply with customers, suppliers, and communities.
+Transform Professional Services with Intelligent ERP
+Learn how SAP S/4HANA provides professional services firms with a proven framework to adopt industry best practices while attaining operational excellence. Meet client needs and generate revenue by blending data and processes and managing workers.
+Transform Public Sector with Intelligent ERP
+Learn how SAP S/4HANA can help your public sector organization as you compete in the new digital reality. Find out how it provides a proven framework to adopt industry best practices while attaining operational excellence – specifically across core constituent engagement, asset management, and financial processes.
+Transform Retail with Intelligent ERP
+Make SAP S/4HANA Retail for merchandise management the digital core of your future value network and start to connect your workforce, suppliers, consumers, and the Internet of Things (IoT) in real time to capture every opportunity and leverage digital transformation for increased business value.
+Learn how oil and gas companies can compete more effectively by reducing complexity. Streamline and simplify operations by creating intelligent enterprises based on industrialized and intelligent cloud services that enable innovative technologies such as robotic process automation (RPA).
+Transform Paper & Packaging with Intelligent ERP
+Learn how SAP S/4HANA can help your paper and packaging company as you compete in the new digital reality. Find out how it provides a proven framework to adopt industry best practices while attaining operational excellence – specifically across core customer engagement, asset management, and financial processes.
+Transform Telecommunications with Intelligent ERP
+Succeed in a competitive market with a coherent digital strategy. Discover how SAP S/4HANA provides telcos with a proven framework to adopt industry best practices while attaining operational excellence and revenue and margin optimization across core financial, engagement management, and procurement processes.
+Transform the Airline Industry with Intelligent ERP
+Find out why airlines must transform to the use of digital technologies. Learn how SAP can help you offer innovative services that enrich the experience of your customers and travel itself with a digital core with provides a single source of truth.
+Transform Travel (Cargo) with Intelligent ERP
+Find out how the transportation and cargo industries can use Intelligent ERP to become more flexible intelligent enterprises, achieve next-generation business processes, and optimize cargo transportation to compete in a digital world. Our solutions can help you improve customer experiences, operations, costs, workforce productivity, and shareholder value.
+Transform Utilities with Intelligent ERP
+Learn how SAP S/4HANA provides utilities companies with a proven framework to adopt industry best practices while attaining operational excellence.
+Transform Wholesale Distribution with Intelligent ERP
+Learn how SAP S/4HANA can help your wholesale distribution company as you compete in the new digital reality. Run flexible, tightly integrated processes to achieve operational excellence – from demand planning and CRM to inventory and supply chain management.
+Run on the SAP HANA database
+The SAP S/4HANA ERP system is built for the SAP HANA in-memory database. This market-leading columnar database enables a dramatically simplified data model and incredible speed. Run analytics and transactions on a single database without separating OLTP and OLAP.
+No more batch processing
+Powerful granularity for data-driven decision-making in real time
+Deliver an exceptional user experience with SAP Fiori
+SAP Fiori – our modern, award-winning user interface – is built into SAP S/4HANA and provides a consistent look and feel across the entire ERP system, on all device types. Based on how people actually work, SAP Fiori delivers an intuitive, role-based UX that improves both employee productivity and satisfaction. 
+Personalized SAP S/4HANA launchpad
+Conversational UI and digital assistants
+Build resilience in uncertain times by delivering speed, agility, and visibility through deeply integrated ERP systems. Connect networks, deploy artificial intelligence, and enable new business models.
+Keep systems connected
+Adjust supply chains quickly, deploy new operating models, and realign workforces with a connected ERP system.
+Tightly manage finances
+Understand changing needs and manage resources to preserve capital, while building balance sheet reserves. 
+Manage change with AI
+Find new patterns and enable decisions in order to seize opportunities with artificial intelligence. 
+Forrester names SAP a leader
+See why SAP was recognized as a leader in The Forrester Wave: Digital Operations Platforms For Manufacturing Businesses.
+Browse IDC's assesment of worldwide SaaS and cloud-enabled large enterprise ERP applications.
+SAP’s S/4HANA Cloud Options: The Value of Customer Choice
+Read the paper to see how Josh Greenbaum of Enterprise Applications Consulting (EAC) highlights the value of Cloud choice in transformations to SAP S/4HANA.
+Transition from SAP ECC to SAP S/4HANA
+Move from SAP ERP Central Component (SAP ECC) to our intelligent ERP system with minimal disruption and risk – with the SAP S/4HANA Movement program. This free service package offers guidance and tools for existing SAP ECC customers. 
+Enhance business results with expert-led training, hands-on experience, documentation, and best practices.
+Expert services
+Discover how we can help you address key aspects of your project and set up your own operations for ongoing success.
+Learn about SAP innovations with a flexible, fun, and engaging learning experience delivered on the openSAP platform.
+Learning journeys
+Find and plan the best training and certification for you and your team using our visual learning journey guides.
+-------URL--------- http://www.sap.com/products/erp-financial-management/small-business-erp.html -------URL---------
+E-mail us with comments, questions or feedback.
+ERP for Small Businesses and Midsize Companies
+Capture all your data in an integrated enterprise resource planning (ERP) system for small businesses and midsize companies.
+It's more affordable than you think.
+Transforming finance to spur business growth
+Learn how SME leaders can apply digital technologies to sustain and accelerate rapid growth.
+Learn how small and midsize companies can weather financial uncertainty.
+Small business ERP that grows with you
+Our cloud and on-premise ERP software helps you manage everything from accounting and CRM to supply chain management and purchasing.
+Increase business agility
+Machine learning-enabled processes
+Real-time, embedded analytics
+Automated, group-wide processes
+Quick deployment
+Real-time analytics to help improve profits and efficiency 
+Solve your specific ERP small business needs
+Do more with less – and fuel rapid growth – with an enterprise resource planning system for small business and midsize companies. Integrate all your data and use automation and intelligent technologies to break new ground.
+Take control with SME ERP
+Manage core small and midsize enterprise (SME) business processes on a single ERP platform to improve cash flow and visibility, while cutting inventory costs. 
+Driving success for small and midsize companies with finance
+Discover insights and best practices on how finance can respond to the needs of their companies and prepare for the next economy.
+Innovate and transform at the speed of digital. See how our market-leading cloud ERP software can help – whether you have a small start-up or expanding midsize business. 
+See how customers are succeeding with SAP
+Visibility into performance with SAP Business One
+See how Astro Pneumatic uses real-time reporting, automated processes, and a mobile application to manage warehouse operations.
+Driving manufacturing with SAP S/4HANA Cloud
+Discover how Geographe is able to reliably predict customer demand by automating key processes and workflows to access real-time data.
+SAP S/4HANA
+Maximize business agility with standardized processes, rapid innovation, and fast time-to-value. Utilize intelligent automation to unlock new levels of performance across your organization.
+SAP Business One
+Gain greater control over your SME with small business management software and ERP tools designed to grow with you. Streamline key processes, gain greater insight into your business, and make decisions based on real-time information – so you can drive profitable growth.
+Leverage a single cloud-based ERP package to help your midmarket business compete and grow. With SAP Business ByDesign, you can streamline processes from finance to CRM, act on real-time analytics insights, and jump on new opportunities.
+Give your SME an unlimited path to growth
+Learn how SAP supports growth by offering a choice of preconfigured ERP solutions designed to meet the needs of ambitious small and midsize businesses.
+Vision X gains illuminating insight with SAP Business One
+See how Vision X makes faster, smarter decisions and operates with unprecedented efficiency.
+Improve daily operations with SAP S/4HANA
+See how Ananda Dairy connects end-to-end operational processes to grow its business and take care of society and the environment.
+Get the latest small business ERP news and trends from experts
+Jacqueline Prause
+SAP News
+SAP injects innovation into SME portfolio
+Find out why SAP is rolling out the new Business Application Factory concept, accelerating partner-led innovation across the SME portfolio.
+SAP
+Discover how contingency planning helps midsize companies adapt to rapid disruption in supply chains and global markets to seize emerging opportunities.
+SAP
+Why SMEs should upgrade to a modern ERP solution
+Learn the highly visible signs of an outgrown ERP system, or one that needs an upgrade, to transform your business. 
+Vice President and Head of Solution Management, Treasury and Working Capital Management, SAP
+How midsize businesses can avoid the cash-flow crunch
+Learn about the importance of incorporating cash-flow management as an integral part of a midsize company’s strategic plan – no matter the economic condition.
+SAP Help Portal
+Find documentation on product onboarding, implementation, and extensibility, while exploring Learning Journeys and accessing support resources, for SAP HANA and our databases.
+Receive guidance, best practices, and expertise from industry experts, consultants, and support engineers to jump-start SAP solutions and drive ROI.
+SAP training and certification
+Achieve your strategic goals by gaining the right knowledge and experience with training courses that are available at select SAP offices, your own location, and online.
+SAP Developer Center
+Make the most of your SAP solutions by following step-by-step guides, referring to documentation and how-to-videos, and subscribing to our monthly newsletter.
+-------URL--------- http://www.sap.com/products/erp-financial-management/financial-planning-analysis-fpa.html -------URL---------
+Financial Planning and Analysis
+Model scenarios quickly to help your business to navigate the unexpected in every economic condition with FP&A solutions from SAP.
+SAP Intelligent Finance Virtual Event
+Tune into the financial planning and analytics track and leverage insights from experts and thought leaders.
+Responsive Business Planning Package
+Stay ahead of change and seize new opportunities with a modernized planning and analysis experience.
+Become a true business partner and trusted advisor by supporting smarter decisions across the enterprise with collaborative financial planning and analysis (FP&A) software from SAP.
+Plan and budget
+Embedded business intelligence
+Real-time simulations and insights
+Improve performance with planning and analysis
+Find out how planning and analysis solutions from SAP can help you plan, analyze, and report performance for improved results.
+Unify financial planning, analysis, and execution
+Discover how SAP S/4HANA and SAP Analytics Cloud help you manage planning, analysis, and execution in one place.
+Reimagine performance reporting
+Help financial planning and analysis tell the story behind the numbers in real time to reveal your most important KPIs.
+Choose your SAP software for financial planning and analysis
+Integrate financial planning and analysis in a single solution
+Analyze, plan, and make intelligent decisions with centralized access to all data and embedded analytics and capabilities for planning, business intelligence, and predictive in one solution.
+Make insightful decisions with a deep understanding of cost and profitability drivers to improve business efficiency, performance, and value.
+Best practices in FP&A
+Find out how more than 300 finance executives see financial planning and analysis (FP&A) as a strategic partner for building an intelligent enterprise.
+Predictive planning for better decision-making
+Learn about the future of predictive planning and how to leverage predictive planning methods in this webinar by industry CFOs.
+SAP Help Portal
+SAP training and certification
+Achieve your strategic goals by gaining the right knowledge and experience with training courses that are available at select SAP offices, your own location, and online.
+SAP Developer Center
+Make the most of your SAP solutions by following step-by-step guides, referring to documentation and how-to-videos, and subscribing to our monthly newsletter.
+-------URL--------- http://www.sap.com/products/erp-financial-management/accounting-financial-close.html -------URL---------
+Accounting, Financial Close and Tax Management
+Streamline reconciliation and consolidation processes and enable compliant reporting.
+Learn what SAP is doing to help employees and businesses in this time of global disruption.
+Join finance specialists to hear their perspective on the new normal.
+Automate workflows to support faster, leaner accounting processes while helping ensure you fulfill regulatory requirements.
+Consolidate
+Unified view of all financial and operational data
+Flexible and consumable reporting
+Best practice, template-driven processes
+Real-time replication
+Single source of truth
+Mass transaction screening
+Automatic correction measures
+Equipping the CFO for a successful enterprise transformation
+Today, the CFO’s view reaches past the finance function to encompass the entire enterprise, as well as the strategic partners and suppliers in its digital ecosystem. Read the Harvard Business Review Analytic Services briefing paper sponsored by SAP to explore how.
+Real-time accounting and financial processes
+Achieve a faster, more compliant financial close by enabling one common view of accounting and financial data to improve enterprise-wide consistency and gain live business insights.
+Automate complex closing processes, simplify auditing activities, and comply with financial reporting and regulatory standards by enabling accounting teams to work together in one intuitive user interface.
+Centralized SAP S/4HANA deployment
+Integrate with SAP or non-SAP systems in real time, delivering a nondisruptive path to an innovative and intelligent enterprise.
+Automated tax compliance checks
+Improve the accuracy of your tax data by applying automated compliance checks to large transaction volumes and automatically triggering remediations. 
+Standardize and streamline financial closing; support continuous accounting practices in the cloud; and enhance key steps to increase efficiency, productivity, and data integrity.
+Centralize and streamline intercompany transactions and subledger details in a global hub to unify intercompany processes, data, and people and extend ERP solutions with capabilities like intercompany reconciliation, netting, and settlement.
+Deploy next-generation finance for the Digital Age
+Implement SAP S/4HANA for central finance foundation, without disrupting existing systems, and adopt capabilities for financial reconciliation and the preparation of financial statements.
+Enhance group-level financial reporting by using unified consolidation to combine local and group closing, resulting in substantial gains in speed, accuracy, and group-wide transparency.  
+SAP Help Portal
+SAP training and certification
+Achieve your strategic goals by gaining the right knowledge and experience with training courses that are available at select SAP offices, your own location, and online.
+SAP Developer Center
+Make the most of your SAP solutions by following step-by-step guides, referring to documentation and how-to-videos, and subscribing to our monthly newsletter.
+Elizabeth Milne
+SAP
+Supporting end-to-end financial close processes
+Find out how SAP’s partnership with BlackLine is helping deliver a comprehensive solution for financial closing.
+SAP
+Transforming the balance sheet substantiation process
+See how SAP solution extensions by BlackLine complement ERP to enable standardization and automation in financial close processes.
+SAP
+Streamlining and automating core close tasks
+Learn how SAP Account Substantiation and Automation automates tasks, such as balance sheet substantiation and journal entries.
+-------URL--------- http://www.sap.com/products/erp-financial-management/treasury-management.html -------URL---------
+Treasury Management
+Get real-time cash visibility, improve liquidity, and lower risk with treasury and risk management solutions from SAP.
+Learn how treasurers can navigate uncertain times by leveraging key solutions from SAP.
+Discover the latest Treasury and Working Capital Management Solutions from SAP.
+ 
+ 
+Automated treasury processes
+Regulatory compliance management
+On this page
+Navigate uncertainty with treasury management
+See how SAP Treasury and Risk Management can give you the insights to mitigate risk and emerge from uncertain times even stronger.
+Gain more visibility, control, and compliance
+Find out how next-generation intelligent treasury solutions can help you digitalize treasury processes, increase accuracy, and accelerate analysis.
+Learn how our customers are succeeding with cash and corporate treasury management solutions from SAP.
+Optimize working capital and cash flow
+Learn how Delivery Hero SE centralized treasury operations to gain real-time views of working capital, enabling the company to increase revenue in a downturn economy.
+Investigate how Wieland-Werke is improving how it communicates with banks worldwide, manages cash assets, and promotes future growth.
+Driving in the fast lane for finance transformation
+Check out the modifications that Volkswagen Group made to its global treasury platform to cover functional gaps, while co-innovating with SAP and our partner ecosystem. 
+Increase the agility of your treasury and risk mitigation processes
+Use end-to-end analytics to automate treasury processes, integrate cash flow analysis and business planning, centralize bank account management, and get real-time visibility of bank balances and currency exposures.
+Streamline capital management and liquidity accounting by integrating all data onto a single platform and accessing accurate information to analyze cash positions.
+Manage your company’s liquidity and mitigate risk by optimizing straight-through processing and integrating cash flows, transactions, commodity positions, and market data.
+Multi-bank connectivity
+Exchange payments, account statements, and other data with your banking institutions.
+Support market data integration with a single service for your entire enterprise.
+In-house cash management
+Use core finance integration tools, based on standard APIs, to manage cash flows, exposures, and ledger postings. 
+Christian Mnich
+Vice President and Head of Solution Management, Treasury and Working Capital Management, SAP
+How midsize businesses can avoid cash flow crunch
+Discover how finance leaders from midsize businesses monitor nuanced signals and risk indicators with a three-pronged cash flow management framework.
+Treasury solutions for sustainable success
+Find out why treasury functions are not – and should not be –isolated from operational applications that are scattered throughout your organization.
+Get a few insights from top treasury leaders
+Learn how more than 250 leading treasury and risk management professionals are prioritizing and progressing in their digital transformation journey.
+SAP Help Portal
+Find documentation on product onboarding, implementation, and extensibility, while exploring learning journeys and accessing support resources, for SAP HANA and our databases.
+SAP training and certification
+Achieve your strategic goals by gaining the right knowledge and experience with training courses that are available at select SAP offices, your own location, and online.
+SAP Developer Center
+Make the most of your SAP solutions by following step-by-step guides, referring to documentation and how-to-videos, and subscribing to our monthly newsletter.
+-------URL--------- http://www.sap.com/products/erp-financial-management/accounts-receivable-billing.html -------URL---------
+Accounts Receivable, Billing and Revenue Management
+Enhance the payment experience with innovative subscription-based billing, revenue, and accounts receivables management.
+Finance Professionals Webinar Series
+Learn why SAP S/4HANA is key to helping you solve today's finance challenges.
+ 
+Real-time customer payment data
+Thrive in the subscription-based economy
+Build and monetize new service-driven business models as digitalization continues to transform expectations for your products and services.
+Simplify and centralize your invoice-to-cash processes with streamlined customer risk assessment, proactive collection and dispute strategies, and automated cash application.
+Miles of supported fiber optic cables
+Find out how GlobeNet provides new services and reaches new customers with a competitive digital platform.
+Higher invoice and payment matching rate
+Learn how ALPIQ automated its invoice and payment matching processes to improve efficiencies and prepare for significant growth.
+Increase in the number of automated financial postings
+See how Döhler is managing its accounts receivable processes with less time and manual effort – thanks to machine learning.
+Scalable, flexible, and automated revenue models
+Monetize subscription and usage-based business models with agile revenue management and recurring billing capabilities, while making the entire process more transparent. 
+Transform your business with intelligent receivables management solutions that can help you automate processes that optimize the financial value chain.
+Automate your invoice matching process with new technologies, such as machine learning and robotic process automation, to support less labor-intensive cash collection. 
+Move from time-consuming to simple, efficient processes
+Strengthen collaboration and accelerate access to relevant data for critical processes by using the SAP CoPilot digital assistant. See how modern enterprises are shortening cash cycles, improving liquidity, and increasing working capital.
+Get the latest news and trends from experts
+Amr El Meleegy
+Principal Enterprise Architect
+Generate predictable revenue streams
+Learn how companies evolve business models to sell products as a service and generate new and predictable revenue streams with subscription order management.
+Five technologies catalyzing changes in finance
+Check out how five technologies can empower your finance organization to steer your entire company toward becoming an intelligent enterprise. 
+The leapfrog to enterprise transformation
+Investigate best practices that can help ensure your finance team answers the increasing and changing expectations from the business.
+SAP Help Portal
+SAP training and certification
+Achieve your strategic goals by gaining the right knowledge and experience with training courses that are available at select SAP offices, your own location, and online.
+SAP Developer Center
+Make the most of your SAP solutions by following step-by-step guides, referring to documentation and how-to-videos, and subscribing to our monthly newsletter.
+-------URL--------- http://www.sap.com/products/erp-financial-management/grc.html -------URL---------
+Governance, Risk, Compliance (GRC) and Cybersecurity
+Strengthen governance, risk, and compliance (GRC) by mitigating risk and gaining visibility into existing and future threats.
+Automate and manage risks, controls, identities, cyber threats, and international trade across the enterprise with embedded analytics and artificial intelligence.  Unify enterprise risk and control activities on a common technology platform, leveraging continuous monitoring for agile decision-making.
+Respond to risks
+Enterprise risk management
+Security monitoring and threat detection
+Identification of lapses in your application landscape
+Data protection and privacy management
+Configurable, predefined access policies 
+Integrate digital trust into your company’s DNA
+Optimize security for success in an increasingly insecure digital age by implementing services and solutions supported by a new partnership between SAP and EY. 
+Learn how to align GRC resources with your strategic priorities through insights from OYAK Mining Metallurgy Group, which successfully transformed its audit and GRC processes.
+Create a business case for improving your GRC landscape by calculating the potential value of technologies for automating risk analysis, fraud screening, and audit management.
+Reducing compliance risk with scalable support
+See how Flint Group continuously monitors its operational and transactional processes to quickly remedy inconsistencies and errors.
+US$2.6 million avoided in total FTZ duty costs
+Find out how Kodak streamlined and automated goods management and tracking in and out of United States foreign-trade zones (FTZs).
+Discover how Delivery Hero satisfies customer demand while meeting diverse governance regulations in more than 40 countries.
+and internal audit.
+Manage financial, vendor, and operational risk
+Get detailed insight into how risk drivers can impact your business value and reputation for smart, risk-aware decisions with our enterprise risk management (ERM) software.
+Document, assess, test, and remediate critical process risks and controls by streamlining enterprise compliance efforts and using best practice internal control processes.
+Streamline internal audits and improve their quality by simplifying document evidence, organizing work papers, and creating reports – on-site and remote.
+Detect fraud and investigate suspicious patterns faster
+Screen large volumes of transactional data in real time based on predictive analyses and extensible rule sets that uncover anomalies, fraud, or deviations from policy.
+International Trade Management
+Screen trading partners, reduce the risk of penalties and fines, and clear inbound and outbound customs quickly.
+Simplify business partner screening
+Lower the cost and effort of third-party due diligence by simplifying the process of assessing business partners against restricted or denied party lists from governments and institutions.
+Automate tasks for international trade management and compliance to accelerate your cross-border supply chain, clear customs faster, and validate orders against the latest regulations.
+Use flexible solutions for threat monitoring, data controlling, and privacy management.
+Address cyber-threats with real-time intelligence
+Identify, analyze, and address cyberattacks while they're happening with our security information and event management (SIEM) tool.
+Identity and Access Governance
+Monitor and manage identities and control who has access to information and processes within your organization – in the cloud and on premise. 
+Detect and remediate access risk violations
+Automate user provisioning, role management, privileged access, and periodic certification, while continuously monitoring users and applications for risk.
+Deliver an intuitive sign-on experience and use dashboards to pinpoint issues, adjust user access dynamically, improve access compliance, and resolve risks quickly.
+SAP named a leader in key cybersecurity features
+Discover why two recent KuppingerCole Leadership Compass reports named SAP a leader in access control tools and identity governance and administration.
+SAP named a global trade management leader
+Learn why SAP was once again recognized as a market share leader of global trade compliance solutions by ARC Advisory Group.
+GRC trends for SAP S/4HANA and cloud applications
+Check out GRC strategies and required actions that organizations are using or planning to use with SAP S/4HANA or any cloud-based applications.
+Thomas Frenehard
+Securing operations during increased disruption
+Review how SAP is helping organizations improve security and streamline access governance for the increased remote workforce. 
+SAP
+Winning trust with the SAP Data Custodian co-innovation project
+Explore how SAP is working with customers to meet objectives related to public-cloud data access, data transfer, and data requirements.
+SAP
+Data Privacy and Protection Series: Part 3
+Read the blog to learn how SAP is raising the bar on data trust to deliver the right customer experiences,
+Product Manager of SAP Enterprise Threat Detection, SAP
+Build a strong security and compliance foundation for your SAP landscape
+Read the SAPInsider article to learn how to ensure a secure environment using SAP solutions and the NIST cybersecurity framework.
+SAP Help Portal
+SAP training and certification
+Achieve your strategic goals by gaining the right knowledge and experience with training courses that are available at select SAP offices, your own location, and online.
+SAP Developer Center
+Make the most of your SAP solutions by following step-by-step guides, referring to documentation and how-to-videos, and subscribing to our monthly newsletter.
+-------URL--------- http://www.sap.com/products/crm.html -------URL---------
+SAP Customer Experience has evolved CRM
+Understand your customers and engage them with hyper-personalized experiences. Give them the freedom to explore and interact – and choose you.
+Submit a review and G2 will donate $10 USD to the WHO.
+See how companies have created effortless, meaningful experiences with customer experience solutions from SAP.
+“
+”
+E-Commerce Solutions
+Benefit from using a single commerce solution
+Support all go-to-market models
+Exceed expectations with built-in flexibility
+Uncover opportunities by unifying online and offline customer data
+Customer Data Solutions
+Know who your customers are and how they want to be treated.
+Build hyper-personalized experiences with a dynamic customer data platform (CDP)
+Scale and optimize your B2B value network, while reducing risk
+Deliver frictionless engagements with customer identity and access management (CIAM)
+Honor the true purpose of customer data throughout your organization
+Build customer trust by giving them the transparency and control they demand
+Address GDPR, CCPA, and other regional data privacy requirements
+Franklin Covey has chosen
+”
+“
+”
+Michael Stichnote, Global Head of eCRM and Sales IT, Henkel AG & Co. KGaA
+Sales Solutions
+Save time and guesswork to accelerate sales
+Guide sales reps through quotes and contracts fast
+Model and manage sales territories and incentives
+Embrace the future of selling
+Power customer relationship management (CRM) with real-time customer data
+Create a unified service experience
+Develop an elite team of skilled experts
+Deliver the next generation of self-service
+Capture and understand customer feedback
+“
+”
+“
+”
+Marketing Solutions
+Deliver hyper-personalized customer experiences across your business
+Build customer trust to develop ongoing relationships
+Optimize marketing to drive revenue
+Drive demand and growth for B2B marketers
+Fuel omnichannel engagement with a dynamic customer data foundation
+Automotive
+Exceed customer expectations while capitalizing on future revenue opportunities beyond the showroom floor with SAP Customer Experience solutions for the automotive industry.
+Deliver a relevant and consistent message across multiple interaction points by orchestrating intelligent initiatives across all routes to market, including modern retail, independent stores, distributors, and direct-to-consumer.
+Deliver great experiences to fashion customers
+Customize the digital experience for consumers and wholesale buyers with personalized merchandising strategies that stand out from the crowd and provide seamless omnichannel customer journeys.
+Simplify and accelerate transformation and innovation
+Transform your business into a subscription, solution, or outcome-based business that offers hardware, software, and services bundled into one package with SAP Customer Experience solutions for high tech.
+Help your customers address demand fluctuations, navigate supply chain disruptions, and deliver service continuity and quality by using SAP Customer Experience solutions.
+Engage your customers to build lasting relationships
+Add customer value beyond quotes, claims, and renewals and streamline operations in ways that promote agent trust with customer relationship management and insurance agent management solutions from SAP.
+Improve citizen experiences in the public sector
+Respond efficiently and effectively to constituent needs – within tight budgets and under close scrutiny – with best practices supported by SAP Customer Experience solutions for public sector organizations.
+Build stronger relationships with customers by delivering individualized experiences your customers can trust with SAP Customer Experience solutions for retail.
+Become a digital service provider and monetize services
+Deliver a first-class omnichannel customer experience that’s hyperpersonalized and trusted with rich, seamless, and contextual experiences that will help your brand stay competitive.
+Engage travelers better with CRM solutions
+Create new business models, contactless guest touch points, and better traveler engagement for your travel firm with SAP Customer Experience solutions.
+Engage customers and  be more than a utility…
+Give your customers the advice and offers they need to become more energy efficient and go green. SAP solutions help utilities create new business models and optimize existing ones to deliver a personalized utilities customer experience.
+The future of B2C customer experience
+How can companies thrive in a world where customers themselves specify the terms of the relationship, but then let AI guide their buying journey?
+As decision-making and purchasing processes rapidly change, how do B2B companies reinvent themselves to lead in the experience economy?
+Innovate, integrate, and extend your customer experience solutions
+Discover the power of a business platform that allows you to personalize, extend, and create every app you’ll ever need.
+A Web page and dashboard supported by SAP C/4HANA and SAP Cloud Platform
+Web page with a list of tweets with the keyword "machine"
+Dashboard with employee, manager, sales, and sourcing and procurement information
+SAP Cloud Platform
+SAP Customer Experience and SAP Cloud Platform provide a vital combination of power, trust, and speed to deliver a seamlessly connected end-to-end experience.
+Simplify complex integrations for any size business by connecting on-premise and cloud applications, as well as cloud to cloud, with 150+ prebuilt connectors
+Connect and extend enterprise SAP Customer Experience cloud applications with SAP Cloud Platform Extension Factory or Kyma open-source project designed natively on Kubernetes
+Leverage prebuilt applications by SAP’s partner ecosystem to get started quickly
+Explore the other SAP Customer Experience solutions. 
+SAP Customer Experience solutions
+See how Customer Experience solutions bring together customer data, machine learning technology, and microservices to power real-time customer engagements across sales, service, marketing, and commerce.
+-------URL--------- http://www.sap.com/products/crm/customer-data-management.html -------URL---------
+United States
+Grow your business by truly knowing your customers
+Deliver value by understanding who your customers are and how they want to engage with our customer data and CIAM solutions.
+Build a dynamic customer data foundation
+Our customer data management solutions can help you turn unknown visitors into known, loyal customers and deliver trusted, hyper-personalized experiences.
+Customer Activity Data and Timelines in SAP Customer Data Platform
+Identify customers and deliver exceptional digital experiences that adapt to their behaviors seamlessly.
+Dynamic Access Development Server Control in SAP CIAM for B2B
+Optimize B2B value networks by speeding time to market, simplifying identity lifecycle management, and mitigating risks.
+SAP Enterprise Consent and Preference Management
+Build customer trust and protect your business by addressing GDPR, CCPA, and other data privacy regulations.
+Deliver seamless experiences, build trust, and activate insights for omnichannel
+engagement in B2C and B2B relationships.
+Customer Privacy Data Used to Build Trust in SAP Enterprise Consent and Preference Management
+Customer Login in SAP Enterprise Consent and Preference Management
+Turn anonymous online visitors into known, loyal customers through CIAM solutions
+Optimize B2B value networks by speeding time to market, simplifying identity lifecycle management, and mitigating risks
+Build trust while addressing GDPR, CCPA, and other data privacy regulations with enterprise consent and preference management
+Strengthen customer trust in the era of GDPR, CCPA, and beyond
+Meet global data privacy requirements and build customer trust by offering
+transparency and personal data control.    
+Maintain proof of how, when, where, and why you collect and process customer data
+Implement a holistic solution for managing customer profiles, preferences, and consent
+Address many of the toughest requirements of consumer data privacy regulations
+Provide transparency into how you collect and use customers’ personal data
+Take a customer-centric approach to global data privacy
+Discover the foundations of a global consumer data privacy strategy that can strengthen customer trust and ensure compliance with individual consumer data privacy regulations.    
+Address key requirements for GDPR, CCPA, and LGPD
+Learn how new data privacy laws are changing the rules when it comes to how businesses can collect and process customer data.
+See how BCD Travel provides personalized service and support
+Find out how BCD Travel addresses GDPR requirements for customer data management and empowers customers to manage their own experiences.
+Forrester: SAP is a leader in CIAM solutions
+See why SAP is named a CIAM leader in the Forrester Wave™: Customer Identity and Access Management, Q4 2020 report.
+SAP Customer Data Cloud is named a CIAM leader
+Discover why KuppingerCole Analysts rated SAP Customer Data Cloud among the overall leaders for the third straight year in the rapidly evolving category of CIAM.
+KuppingerCole assesses SAP Customer Data Cloud
+Read an analyst’s view of how SAP Customer Data Cloud delivers advanced customer data management to fuel better marketing, sales, and services.
+SAP Customer Data Cloud Resource Center
+View how-to videos on using software features and functions
+Watch webinars and attend expert events for the latest updates, insights, and advice
+Get information about our releases, service availability, and cloud support
+Follow the learning journey for SAP Customer Data Cloud
+Find the best training and certification for you and your team using our visual learning guides. Plan your learning journey to get started quickly.
+Transform your business faster with services and support from SAP.
+Get an overview of services for SAP Customer Data Cloud solutions and discover how we can help you address key aspects of your project, enforce best practices, and set up your own operations for ongoing success.
+Benefit from specialist expertise to guide your SAP Customer Data Cloud project. SAP Customer Experience solution partners provide the service and support you need to meet your enterprise goals.
+Explore the other cloud solutions in the SAP Customer Experience portfolio. 
+SAP Customer Experience solutions
+See how the SAP Customer Experience solutions bring together customer data, machine learning technology, and microservices to power real-time customer engagements across sales, service, marketing, and commerce.
+-------URL--------- http://www.sap.com/products/crm/marketing.html -------URL---------
+Offer customers the freedom to define their journey
+Fulfill the promise of CRM with SAP Marketing Cloud. Drive more revenue and give customers freedom to discover, engage, and buy.
+Stand out by understanding your customers
+Sharpen the focus of your marketing team by leveraging the full context of customer needs and demands.
+A customer segmentation model supported by SAP Marketing Cloud solutions
+A customer segmentation model supported by SAP Marketing Cloud solutions
+Gain deeper insights into customers to understand their intent and anticipate their behavior
+Identify hidden trends and discover micro-segments with just a few clicks to shape your marketing strategy
+Build customer trust and deepen customer relationships with greater insight and agility.
+A customer profile with consent-based marketing information
+Build customer trust through consent-based engagements
+Orchestrate seamless experiences throughout the customer journey
+Use advanced data analytics to engage customers  with precision, while providing a five-star shopping experience
+Use real-time business intelligence to enable fast analysis and confident decision-making across the organization, while delighting customers and optimizing marketing performance.
+Spend analysis dashboard shows planned versus actual spend for marketing plans
+Charts and graphs provide insights into customer demographics, behaviors, and sentiments
+Plan and manage all marketing activities and campaigns, while collaborating with teams for seamless execution
+Discover and understand performance drivers with advanced data visualization and multi-dimensional analysis
+Empower marketers to successfully generate demand, increase lead conversions, and, ultimately, drive more sales.
+Pipeline and deals information for lead management
+Identify and target customers with account-based marketing across touchpoints with timely and personalized engagements
+Equip your teams with the right insights to make intelligent decisions
+Choose a 2020 Gartner Magic Quadrant Leader for Multichannel Marketing Hubs
+Find out why SAP has been named a Leader in the Gartner Magic Quadrant for Multichannel Marketing Hubs for the fourth year in a row.*
+Discover a strategy for e-commerce marketing planning and measurement
+Now more than ever before, your e-commerce marketing needs agile planning and measurement. Find out how to achieve this mission-critical goal.
+Training and Certification for SAP Marketing Cloud
+Achieve your strategic goals with the right knowledge and experience.
+Boost expertise
+Develop the knowledge and skills you need with professional courses and certifications offered at our training office, your own location, or online.
+Empower your team
+Use Learning Journeys to ramp up quickly with role-based training from SAP for every member of your team.
+Get unlimited access to comprehensive training content enhanced by social learning and peer collaboration with SAP Learning Hub.
+View how-to videos on using software features and functions
+Watch Webinars and attend expert events for the latest updates, insights, and advice
+Get information about our releases, service availability, and cloud support
+Transform your business faster with services and support from SAP.
+Get an overview of services for SAP Marketing Cloud solutions and discover how we can help you address key aspects of your project, enforce best practices, and set up your own operations for ongoing success.
+Partner Ecosystem
+Benefit from specialist expertise to guide your SAP Marketing Cloud project. SAP Customer Experience solution partners provide the service and support you need to meet your enterprise goals.
+Explore the other cloud solutions in the SAP Customer Experience portfolio.
+SAP Customer Experience solutions
+See how the SAP Customer Experience solutions bring together customer data, machine learning technology, and microservices to power real-time customer engagements across sales, service, marketing, and commerce.
+*Gartner Magic Quadrant for Multichannel Marketing Hubs, Noah Elkin, Benjamin Bloom, Mike McGuire, Colin Reid, Joseph Enever, 12 May 2020.
+Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner's research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.
+-------URL--------- http://www.sap.com/products/crm/e-commerce-platforms.html -------URL---------
+Build what you need swiftly, simplify buying processes, and turn e-commerce customers into brand advocates.
+Adopt new touchpoints quickly and launch new digital experiences with
+headless e-commerce capabilities.
+Two computer monitors demonstrating SAP Commerce Cloud solutions
+Web page displaying a product catalog for electronics
+Preview of a Web page for an online apparel catalog
+Online order fulfillment properties form
+Experiment with different touchpoints and screens without back-end constraints
+Accelerate innovation with technology and creative partners working in parallel on an openly accessible platform 
+Produce new digital experiences that increase customer engagement and conversions
+Meet customers where they are by offering rich, mobile-first buying experiences.
+Commerce sites on two different mobile devices
+Landing page from an e-commerce site
+Web page with product categories and search results from an e-commerce site
+Web page with search results for snow jackets
+Web page with search results and categories for filtering the results
+Speed purchases and drive sales through intuitive mobile browsing and single-click purchase options 
+Reach new customers by engaging them on their mobile device, where half of all e-commerce sales happen today 
+Provide more personalized customer experiences with direct notifications and location-based services
+Achieve time to value faster with built-in, industry-specific language, currency,
+and support for multinational rollouts.
+Web page with options for requesting a product
+Travel booking Web site displaying a drop-down menu for flights
+Enable end-to-end commerce processes quickly to deliver a commerce experience on your customers’ terms
+Reduce cost and risk, while deeply integrating your commerce platform with core SAP applications
+Execute multinational rollouts with embedded support for multiple languages, currencies, and regional regulatory compliance
+Maximize your ROI with prebuilt integrations
+Benefit from many prebuilt integrations with SAP S/4HANA, SAP ERP, SAP Customer Experience solutions, and other SAP applications.
+SAP Cloud Platform integration page
+SAP Cloud Platform integration page with mapping information
+Facilitate end-to-end commerce processes for simple and transparent commerce experiences
+Reduce the cost, risk, effort, and time to value of integrating your commerce platform with core SAP applications
+Accelerate time-to-value by reducing effort when integrating your commerce platform to core SAP business systems
+Innovate at the speed of your customer through extensive, serverless microservices running on a cloud-native platform.
+Service management workflow in a console from project "Kyma"
+Two computer monitors displaying an omnichannel platform
+Service instances page for viewing and configuring service instances
+Customer-registered-function details page
+Develop cloud-native, side-by-side extensions through SAP Commerce Cloud events and APIs
+Gain maximum flexibility by consuming services provided by SAP Cloud Platform or third-party cloud platforms  
+SAP Commerce Cloud solutions enable you to ease the buying process for your customers with a seamless experience – from search to sales. A combination of intuitive, self-service capabilities and AI-powered merchandising, guided selling, assisted service, and chatbots further aid the buying process and drive more profit at a lower cost of ownership.
+SAP Commerce Cloud also simplifies complex commerce and order processes, so you can engage customers more effectively and connect the demand with your supply chain.
+The SAP Commerce Cloud portfolio enables personalization through context-driven services, a cloud-native add-on that delivers insights through the capture and analysis of data.
+You can use this information to define dynamic customer segments based on intuitive conditions. For example, if the customer is female and purchased sunglasses before, the solution can be programmed to put her into a female sunglass shopper segment. Segments can be set up and run constantly, watching and listening for customers to meet those conditions. When a customer matches a defined condition, the solution determines what the customer sees on the storefront and triggers personalized promotions or prices.
+Read the solution brief to learn more about context-driven services.
+Prebuilt integration is based on SAP Cloud Platform Integration Suite , which helps connect applications with other SAP and third-party cloud and on-premise applications.
+Since SAP Commerce Cloud is based on open APIs, it can be quickly integrated with third-party solutions as well. We offer many prebuilt integrations to third-party solutions through SAP App Center .
+You can also use serverless microservices to extend the platform through the open-source project “ Kyma .”
+Yes, SAP Commerce Cloud provides a fully embedded solution for product, content, and catalog management.
+The SAP Product Content Management solution enables you to consolidate product data and catalogs centrally and publish them in various channels. You can make edits through an intuitive user interface, enhance product content quality with built-in data validation and workflows, bulk-edit and mass-upload product data, and support multilingual catalogs for a global commerce site.
+What are analysts saying about commerce solutions from SAP?
+2020 Gartner Magic Quadrant for Digital Commerce: SAP is named a Leader
+Are you evaluating next-generation digital commerce platforms? Find out why Gartner again recognized SAP as a Leader in the 2020 Magic Quadrant for Digital Commerce.*
+Training and Certification
+Realize business results fast with expert-led training, hands-on experience, and best practices for SAP Commerce Cloud.
+Train where it suits you best
+Training courses are available at select SAP offices, your own location, and online to meet your needs and preferences.
+Empower your team
+Role-based training equips your team with knowledge needed to adopt and optimize SAP Commerce Cloud quickly and effectively. 
+Comprehensive, up-to-date resources are available when you need them by accessing SAP Learning Hub with a subscription.
+Start your learning journey
+Find the best training and certification for you and your team using our visual learning guides. Plan your learning journey to get started quickly.
+View how-to videos on using software features and functions
+Watch Webinars and attend expert events for the latest updates, insights, and advice
+Get information about our quarterly release cycles, service availability, and cloud support
+Benefit from specialist expertise to guide your SAP Commerce Cloud project. SAP Customer Experience solution partners provide the service and support you need to meet your enterprise goals.
+Learn about other products from the SAP Commerce Cloud portfolio.
+SAP Upscale Commerce
+Explore the other cloud solutions in the SAP Customer Experience portfolio.
+SAP Customer Experience solutions
+See how the SAP Customer Experience solutions bring together customer data, machine learning technology, and microservices to power real-time customer engagements across sales, service, marketing, and commerce.
+*Gartner, Magic Quadrant for Digital Commerce, Mike Lowndes, Jason Daigler, Sandy Shen, Penny Gillespie, Yanna Dharmasthira, 25 August, 2020. 
+Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, express or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.
+-------URL--------- http://www.sap.com/products/crm/sales.html -------URL---------
+Deliver connected sales experiences that accelerate the buying process and turn customers into advocates.
+Our sales solutions can help you engage customers through connected, customer-centric processes that improve experiences and maximize sales.
+Sales performance dashboard in SAP Commissions
+Map of sales territories and data in SAP Territory and Quota
+Bicycles for sale on a Web site supported by SAP Sales Cloud
+Engage customers with dynamic quotes that maximize revenue, while improving deal velocity and protecting your margin.
+Empower your sales organization to engage with customers, build relationships, and win business with SAP sales solutions.
+A streamlined view of retail execution and field sales activities with SAP Sales Cloud
+A unified view of every customer in the office or on the go with SAP Sales Cloud
+Maximize sales performance by connecting territory, quota, and incentive compensation management
+Drive revenue with streamlined pricing and configuration of customer quotes
+Uncover insights and improve outcomes through embedded AI and sales intelligence
+Review Gartner’s 2020 Magic Quadrant report on sales performance management (SPM) solutions and discover why SAP is named a Leader in the report.*
+SAP named a Leader in Gartner’s 2020 Magic Quadrant for SFA
+Take a look at Gartner’s assessment of sales force automation (SFA) solutions and see why SAP is named a Leader in this report.**
+Engage your sales organization with intuitive and effective sales training enabled by SAP Litmos solutions.
+Promote sales learning with flexible, 100% online training on any device
+Create custom training courses leveraging advanced technologies, such as video, gamification, and assessments
+Gain insight into the impact of your training programs with reports and dashboards
+Benefit from an ever-growing library of professionally developed courses
+Transform your business faster with services and support from SAP.
+Get an overview of services for SAP Sales Cloud solutions and discover how we can help you address key aspects of your project, enforce best practices, and set up your own operations for ongoing success.
+Provide users with the skills required to optimize their use of SAP Sales Cloud and drive maximum business value with easy-to-access, specialized training.
+Access free online courses with openSAP
+Experience a flexible, engaging, and open learning environment that is designed to help you optimize your software investment.
+Engage in specialized training anywhere
+Take advantage of specialized training courses for SAP Sales Cloud that are available at your convenience, no matter where you are in the world.
+Find your learning path to SAP Sales Cloud
+Choose your path based on your role, area of interest, learning needs, and preferred training method through SAP Sales Cloud Learning Journeys.
+Access SAP Learning Hub for live and on-demand learning
+Get the training you need with instant access to SAP Learning Rooms and self-paced digital learning content with SAP Learning Hub.
+Jump-start employee adoption and productivity
+Deploy your solution on time and on budget  
+Support training for all roles involved in implementation, deployment, and ongoing enablement
+Lower your training cost per learner with a single, affordable subscription
+*Gartner, Magic Quadrant for Sales Performance Management, Melissa Hilbert, 18 February 2020
+**Gartner, Magic Quadrant for Sales Force Automation, Theodore Travis, Adnan Zijadic, Ilona Hansen, Melissa Hilbert, 28 July 2020.
+***Gartner, Magic Quadrant for Configure, Price and Quote Application Suites, Christina Klock, Mark Lewis, 28 October 2019
+Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, express or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.
+This graphic was published by Gartner, Inc. as part of a larger research document and should be evaluated in the context of the entire document. The Gartner document is available upon request from SAP SE.
+How is your experience with this page?
+-------URL--------- http://www.sap.com/products/crm/customer-service.html -------URL---------
+Deliver fast and reliable service experiences that build customer loyalty.
+Service Solutions from SAP
+Provide great service experiences through your contact center and in the field.
+ 
+ 
+Streamline processes for answering customer questions and resolving issues with comprehensive service solutions.
+Mobile Self-Service Functionality for Field Services
+Resolve customer issues quickly in the contact center
+Provide fast resolutions in field service 
+Increase customer service efficiency with intelligent technologies
+Enable contact center agents to provide fast, accurate answers and quick resolutions.
+Provide great omnichannel customer service
+Create, route, and solve tickets efficiently with a unified agent desktop and flexible ticketing tools
+Save time and reduce routine tasks with AI- driven service intelligence
+Help your agents solve issues quickly with contextual knowledge management
+Provide speedy and reliable field service
+Fix customer issues quickly on the first visit with a comprehensive field service management solution.
+ Accelerate service execution with AI-supported scheduling and dispatching
+Empower your technicians with mobile tools and access to information
+Provide proactive and predictive maintenance with the Internet of Things
+Expand service teams with crowd service
+SAP Service Cloud Resource Center
+Realize business results fast with expert-led training, hands-on experience, and best practices for SAP Service Cloud.
+Train where it suits you best
+Training courses are available at select SAP offices, your own location, and online to meet your specific learning needs and preferences.
+Empower your team
+Role-based training equips your team with knowledge needed to adopt and optimize SAP Service Cloud quickly and effectively.
+Comprehensive, up-to-date resources are available when you need them by accessing SAP Learning Hub with a subscription.
+Start your learning journey
+Find the best training and certification for you and your team using our visual learning guides. Plan your learning journey to get started quickly.
+View how-to videos on using software features and functions
+Watch Webinars and attend expert events for the latest updates, insights, and advice
+Get information about our quarterly release cycles, service availability, and cloud support
+Transform your business faster with services and support from SAP.
+Get an overview of services for SAP Service Cloud solutions and discover how we can help you address key aspects of your project, enforce best practices, and set up your own operations for ongoing success.
+Partner Ecosystem
+Benefit from specialist expertise to guide your SAP Service Cloud project. SAP Customer Experience solution partners provide the service and support you need to meet your enterprise goals.
+Explore the other cloud solutions in the SAP Customer Experience portfolio.
+SAP Customer Experience solutions
+See how the SAP Customer Experience solutions bring together customer data, machine learning technology, and microservices to power real-time customer engagements across sales, service, marketing, and commerce.
+*Gartner, Magic Quadrant for Field Service Management, Jim Robinson, 16 April 2019.
+Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, express or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.
+This graphic was published by Gartner, Inc. as part of a larger research document and should be evaluated in the context of the entire document. The Gartner document is available upon request from SAP.
+-------URL--------- http://www.sap.com/products/e-procurement.html -------URL---------
+Network and Spend Management
+Manage all categories of spend with the market's leading cloud solutions and world's largest business network.
+Keep your supply chain intact
+Access to SAP Ariba Discovery is now open to help buyers find the suppliers who can keep their supply chains intact and production on track. Suppliers can respond for free through December 31, 2020.
+Supply chain Rx
+Connect with more buyers and sellers to keep your goods moving in times of disruption.
+“
+”
+Supplier Management
+Supplier risk management
+Risk reduction and savings leakage prevention
+Integrated procurement processes
+Accelerated sourcing cycles
+Best-value sourcing agreements
+“
+”
+“
+”
+Procurement
+Digitize and streamline all or parts of your procurement processes for greater compliance and control with lower costs and risks.
+Broadest set of capabilities on the market
+Innovations in guided buying and spot buy
+The most pre-enabled suppliers
+Integration with Ariba Network
+Services Procurement and Contingent Workforce
+Harness the power of the external workforce and services providers to accelerate business success.
+Contingent workforce management
+“
+”
+“
+”
+Linda Jäger, Business Development Manager, Rand-Air South Africa Pty Ltd.
+Selling and Fulfillment
+Accelerate the sales cycle while lowering the cost of sales
+Network fulfillment
+Strengthen customer relationships and increase customer retention
+Gain visibility and proactively manage employee spend with integrated travel and expense management.
+Travel booking and approval
+Expense tracking and management
+User-friendly mobile apps
+“
+”
+Kenichi Sugamuta, Executive VP and Personnel Services Division GM, NEC
+What are analysts saying about intelligent spend management?
+Truth in numbers: Intelligent spend management is here and now
+According to a recent IDC survey of over 800 respondents worldwide more than 50% of organizations are using fragmented applications to manage spend. Learn why 95% of the organizations surveyed say they plan to invest in and deploy an intelligent spend management platform in the next two years.
+Control and manage all categories of spend, while simultaneously coordinating spend and policy across categories, with a unified view of all spending.
+Tackling the complexities of modern spend management
+Find out how you can minimize uncertainty in today’s increasingly complex world by implementing a real-time Intelligent Spend Management strategy.
+Realizing the benefits of Intelligent Spend Management
+Get an overview of how Intelligent Spend Management can help you gain one unified view of spending for faster, smarter decision-making.
+See how customers are succeeding with SAP solutions
+Resource Center
+-------URL--------- http://www.sap.com/products/e-procurement/supplier-management.html -------URL---------
+Gain actionable guidance and transparency across your procurement processes with complete and up-to-date supplier insights.
+Manage supplier information, lifecycle, performance, and risk all in one place
+With SAP Ariba supplier management solutions, you can drive spend to preferred suppliers and reduce risk every step of the way, from supplier onboarding and qualification to segmentation and performance management. 
+Supplier risk
+Cloud deployment
+Targeted risk due diligence using public and private data sources
+Risk monitoring and compliance check
+Supplier qualification and segmentation
+Self-service supplier information management
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Integrated data sources
+Perform targeted risk due diligence with more than 600,000 public and private       data sources.
+Risk monitoring and compliance check
+Track risks real-time or run periodic compliance checks, trigger alerts when       anomalies are detected in more than 200 incident types. 
+Risk disposition and remediation
+Protect your entire business against risks with collaborative assessment of potential issues and proactive resolutions.
+Drive social impact
+Provide intelligence on modern slavery and workplace diversity to foster ethical       sourcing.
+Gregor Müller, Strategic Procurement Lead, Deutsche Bahn AG Watch the video
+SAP Ariba Supplier Lifecycle and Performance
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Vendor data model integrated with SAP ERP
+Extend your supplier data model in the cloud to receive near real-time updates on supplier creation, changes, and inactivity.
+Supplier qualification and segmentation
+Manage your suppliers with a flexible matrix architecture based on category, location, and business unit.
+Comprehensive view of suppliers
+Combine supplier network information, qualification and segmentation data into a centralized view across SAP Ariba solutions.
+Self-service supplier information management
+Allow suppliers to easily self-manage their information and updates using a single SAP Ariba supplier network portal.
+Resource Center
+Jump-start your SAP solutions and drive ROI by collaborating with industry experts, consultants, and support engineers to receive guidance, prescriptive best practices, and expertise – no matter where you are on your journey.
+Realize your business goals by simplifying and accelerating your digital transformation
+In an era focused on continuous innovation and anticipating customer needs, it can be hard to turn your vision into reality. This is where services and support from SAP can help. With over 40 years of experience, we can help you reach your business transformation goals.
+Transform your business with unparalleled service support enterprise-wide
+Services and support from SAP helps close the gap between the business and IT to advance your digital transformation strategy and execution. From designing and value discovery to accelerated innovation and productive usage, you can evolve your business by breaking new ground with a trusted adviser.
+-------URL--------- http://www.sap.com/products/e-procurement/strategic-sourcing.html -------URL---------
+Strategic Sourcing
+Run all sourcing, contracting, and spend processes on a single platform of strategic sourcing solutions from SAP.
+Optimize cost, manage risk, and ensure the savings you negotiate are fully realized
+Manage your entire sourcing, contracting, and spend analysis processes for all types of spend – direct and indirect materials as well as services – all in one place. 
+Sourcing
+Access to benchmarks and intelligence
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Product lifecycle sourcing
+Share data seamlessly and enable demand-driven sourcing by uniting the product lifecycle and materials and vendor management.
+Advanced negotiation and supplier selection
+Increase cost savings on materials across your entire supplier base while selecting suppliers with highly granular insight.
+Product costing of multilevel bills of materials
+Take advantage of what-if analysis to improve volume pricing and predict final product costs with greater accuracy.
+Direct materials supplier management
+SAP Ariba Strategic Sourcing
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Immediate savings
+Achieve value at a lower cost by supporting comprehensive RFx management and reverse and forward auction capabilities. 
+Faster supplier discovery
+Uncover and explore qualiﬁed suppliers by improving your bid competitiveness with the SAP Ariba Discovery solution. 
+Business agility
+Compliant commerce
+Operate compliantly by pushing procurement demand into SAP Ariba Sourcing and transferring the sourcing award to SAP ERP. 
+Peer benchmarking
+Ease change management and drive user adoption with integrated global product support and valuable sourcing support desk. 
+Start sourcing for free
+With SAP Ariba Start Sourcing, two of your team members can quickly and easily create and manage two RFx sourcing events on Ariba Network per month. No subscription fee. 
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Integrate contract processes with SAP Ariba solutions or other third-party systems for unrivaled compliance and control. 
+Controlled processes
+Receive automatic alerts when the preapproved format or language of a contract is modified to manage nonstandard agreements. 
+Complete visibility
+Stay informed throughout the contract cycle with automatic alerts, accessible dashboards, and configurable reports. 
+On-time renewals
+Make the most of your business opportunities with advanced notification of key milestone dates for supplier contracts. 
+Fortified compliance
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Enriched supplier data
+Magnify supplier leverage and guard against risk with insights from Dun & Bradstreet, while finding sourcing opportunities.
+Increased compliance
+Access updated spend records and reports to discover and control spend that is maverick, off-contract, or not PO-based. 
+Advanced artificial intelligence
+Deliver fast and accurate supplier enrichment and commodity classification with the latest machine learning technologies. 
+Best-practice guidance
+Count on ongoing support and expertise to build your sourcing pipeline, advance reporting, and enhance data accuracy. 
+Fast analysis and reporting
+Run blazingly fast analytics delivered through the 100% in-memory computing technology of the SAP HANA platform.
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Discover suppliers for virtually any sourcing need, including spot buys, nonstrategic or indirect spend, and services. 
+Competitive cost reduction
+Decrease the average overall spend for your projects by leveraging competitive bids provided by new suppliers. 
+Diverse supplier network
+Find suppliers across a pool of global companies representing 20,000 categories, such as green, minority-owned, and women-led. 
+Convenient, central access
+Source more categories, manage RFPs, respond to bids, and award contracts – all from a single, intuitive interface. 
+Rich supplier information
+Rely on accurate, up-to-date supplier information. A five-star ranking system can help you make your selection decision. 
+Resource Center
+Jump-start your SAP solutions and drive ROI by collaborating with industry experts, consultants, and support engineers to receive guidance, prescriptive best practices, and expertise – no matter where you are on your journey.
+Realize your business goals by simplifying and accelerating your digital transformation
+In an era focused on continuous innovation and anticipating customer needs, it can be hard to turn your vision into reality. This is where services and support from SAP can help. With over 40 years of experience, we can help you reach your business transformation goals.
+Transform your business with unparalleled service support enterprise-wide
+Services and support from SAP helps close the gap between the business and IT to advance your digital transformation strategy and execution. From designing and value discovery to accelerated innovation and productive usage, you can evolve your business by breaking new ground with a trusted adviser.
+-------URL--------- http://www.sap.com/products/e-procurement/procurement.html -------URL---------
+Whether you want to improve your entire buying and settlement process end-to-end, or just part of it, SAP Ariba e-procurement solutions deliver negotiated savings that improve your bottom line. 
+Buying and invoicing
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Increased visibility and control
+Drive more savings to the bottom line by boosting visibility and controlof purchasing activity, including complex services.
+Decreased costs and risks
+Reduce the cost and risk of your procurement activities by letting 4.1 million suppliers compete for your business. 
+Global reach
+Process mining
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Fast supplier enablement
+Connect with suppliers quickly and easily, even when using catalogs in multiple languages and with millions of SKUs. 
+Simplified catalog maintenance
+Update your catalogs with improved accuracy and in a matter of minutes by automating verification and reducing workloads.  
+Drive more savings to the bottom line by boosting visibility and control of purchasing activity, including complex services.
+Control with compliance
+Search for preferred suppliers and products based on relevance to keyword criteria, and apply contract pricing proactively. 
+Efficient collaboration
+Connect and collaborate with your suppliers more efficiently by extending your procure-to-pay process to the cloud. 
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Prioritize suppliers, products, and services based on relevance to search criteria and apply contract pricing proactively. 
+Fast enablement
+Manage supplier catalogs – from creation to cleaning and onboarding – in multiple languages and with millions of SKUs.
+Low-maintenance catalog management
+Update your catalogs with improved accuracy and in a matter of minutes by automating verification and reducing workloads.  
+Always-on support
+Get the 24x7 support you need to answer critical questions through Web-based training, tutorials, and documentation. 
+Catalog services and products
+Requisition any type of service for your business by collaborating with suppliers, gathering quotes, and boosting interest. 
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Convenient access
+Provide a single location for occasional and frequent buyers to purchase goods and services they need for their organization. 
+Compliant purchasing
+Direct buyers to the right items, while helping ensure they follow the right policies and use preferred suppliers. 
+Supplier collaboration
+Intelligent guidance
+Benefit from built-in policy support and a buying channel process that is integrated with supplier management capabilities.
+Streamlined integration
+Tap existing catalogs and approval flows by integrating the guided buying capability with the SAP Ariba Buying solution. 
+Chelsea Grey, Services and Systems Manager, FMG
+SAP Ariba Spot Buy Catalog
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Quick search of options
+Guide users to the goods they need quickly and easily across common business categories with one intuitive search query. 
+Trusted suppliers
+Find high-quality, trusted suppliers in a comprehensive B2B marketplace to help your supply meet global buying demand. 
+Compliant and controlled processes
+Perfect your balance between user convenience and buying control by preselecting suppliers that adhere to corporate policies. 
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Customizable dashboards
+Give managers an accurate, real-time view into the progress, priorities, and performance of your procurement operations desk. 
+Intelligent workflows
+Manage, track, and collaborate on source-to settle tasks quickly and efficiently with end-to-end, role-based workflows. 
+Task queues
+In-context collaboration
+Drive speed and transparency with collaboration tools that operate within the context of request details. 
+Assignment engine
+Assign buying requests automatically to appropriate team members, and reassign them to balance out the workload as needed. 
+Jump-start your SAP solutions and drive ROI by collaborating with industry experts, consultants, and support engineers to receive guidance, prescriptive best practices, and expertise – no matter where you are on your journey.
+Realize your business goals by simplifying and accelerating your digital transformation
+In an era focused on continuous innovation and anticipating customer needs, it can be hard to turn your vision into reality. This is where services and support from SAP can help. With over 40 years of experience, we can help you reach your business transformation goals.
+Transform your business with unparalleled service support enterprise-wide
+Services and support from SAP helps close the gap between the business and IT to advance your digital transformation strategy and execution. From designing and value discovery to accelerated innovation and productive usage, you can evolve your business by breaking new ground with a trusted adviser.
+-------URL--------- http://www.sap.com/products/e-procurement/contingent-workforce.html -------URL---------
+Find, engage, and manage your external workforce and services procurement resources, including temporary staff, Statement of Work-based consultants, freelancers, contractors and more.
+Procurement Reimagined: A new virtual event from SAP
+Join your peers and SAP partners and leaders to learn how to manage through uncertainty and carry your business forward.
+Transform how you select, engage, and manage your external workforce
+SAP Fieldglass industry-leading solutions enable organizations to optimize their use of external resources to increase operational agility and accelerate business outcomes.
+Procure Services
+On- and offboarding
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Management of individual categories
+Drive better results by managing each category in a way that is unique to its specific requirements.
+Spend control
+Enforce the use of preferred suppliers and support a multi-bid SOW to drive competitive pricing and maintain budget oversight.
+Risk mitigation
+Ensure strong compliance to corporate policies and government regulations across all business operations.
+Simplified critical processes
+Accelerate and streamline activities such as vendor selection, onboarding, and offboarding; time and deliverable tracking; and invoicing.
+Built-in business-wide collaboration
+Work with your internal workforce and supplier network directly by defining contracts within a single integrated platform.
+Working with Randstad Sourceright and SAP Fieldglass solutions, we have built a robust strategy to access the specialist skills we need, where and when we need them and at the right price.
+Martin Thomas, Head of Total Workforce Management, Royal Philips Watch the video
+SAP Fieldglass Contingent Workforce Management
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Spend control
+Drive better results by managing each category in a way that is unique to its specific requirements.
+Risk mitigation
+Enforce compliance to corporate policies and government mandates with better ease, faster insights, and enhanced governance.
+Quality improvement
+Track workers and supplier performance to make strategic decisions about the partners and providers you choose.
+Access to needed talent
+Find, source, and manage contingent workers across a variety of channels and around the world with greater ease.
+Enriched business efficiency
+Streamlineand automate critical processes to ensure timely response to changing businessneeds and market opportunities.
+SAP Fieldglass Worker Profile Management
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Ensure on- and off-boarding processes occur on time and consistently.
+Health and safety
+Enhanced visibility
+Track and report all headcount across your entire global workforce accurately.
+Greater efficiency
+Allow suppliers to create and edit worker profiles without manual entry.
+Phil Biddle, Global Commodity Manager, Siemens Watch the video
+See how customers are succeeding with SAP Fieldglass solutions
+Resource Center
+SAP Fieldglass’ research of the evolving workforce shows that effective management of external talent and services providers – now more than 40% of total workforce spend worldwide – can help organizations yield impressive business outcomes in the digital economy.
+Services Procurement Insights 2019: The Big Reveal
+Our global research study examines the critical role of services providers in getting work done. While critical to business success, this "invisible workforce" is frequently under-managed – limiting value and increasing risk.
+The results of this groundbreaking study from SAP Fieldglass, in collaboration with Oxford Economics,  provide an unprecedented view into the ways external talent - more than 44% of total workforce spend - is sourced, managed, and deployed.
+Explore some of our innovations. Customer firsts. Industry firsts.
+Our innovation story
+SAP Fieldglass Labs continually scan the horizon for technology advancements than we can leverage to help our customers transform how work gets done, achieve greater agility, and accelerate business outcomes.
+SAP Fieldglass makes it easy for organizations around the world to achieve total workforce visibility, maximize cost savings, improve worker quality and efficiencies, and enforce compliance with a robust partner network and simple integration into their existing technology stack.
+Digital Partner Network for SAP Fieldglass Solutions
+The Digital Partner Network for SAP Fieldglass Solutions makes it easy for companies to engage and manage their external workforce through seamless pre-built integrations with industry-leading digital providers. Through this network, SAP Fieldglass solutions customers can more quickly and efficiently find, hire and manage non-payroll workers and services providers to work across enterprises. 
+Integration
+Our open platform and extensive integration experience firmly places us as the top VMS provider, which includes an open API framework designed and developed to work with any enterprise solution. We offer a robust suite of configurable integration points for either on premise or cloud-based software suites.  
+SAP Fieldglass External Talent Marketplace
+The SAP Fieldglass External Talent Marketplace connects needed talent to critical roles through a simple solution that helps companies find and hire temporary workers now and helps staffing firms put people in the right place.  
+-------URL--------- http://www.sap.com/products/e-procurement/selling-fulfillment.html -------URL---------
+Make selling and fulfillment activities smarter by working efficiently and cost-effectively with buyers and suppliers.
+Keep your supply chain intact
+Access to SAP Ariba Discovery is now open to help buyers find the suppliers who can keep their supply chains intact and production on track. Suppliers can respond for free through December 31, 2020.
+Identify new business opportunities, boost your sales by connecting with qualified buyers, and simplify the purchase of non-sourced goods. 
+Supplier discovery
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Receive leads for your company’s product or service
+Establish a new sales channel to efficiently source leads. Receive notifications when there are new matching leads.
+Matching companies across the globe
+Get your company in front of buyers, who are ready to buy, in every category and geographic region.
+Convenient, central access
+Source more categories, manage RFPs, respond to bids, and award contracts – all from a single, intuitive interface.
+Know your market
+Discover purchasing trends, customer needs, and companies who are actively buying. Evaluate your position in the market and brand equity based on buyer feedback.
+Alvaro Daniel Barrera, Strategic International Buyer, Tetra Pak
+Ariba Network
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Automate invoice approvals to comply with procurement policies, minimize errors, and improve invoice processing performance. 
+Effective supplier collaboration
+Connect with millions of suppliers to transition quickly from paper processing to e-commerce and accelerate onboarding. 
+Global supplier portal
+Scale your business by transacting immediately with multiple buyers, from proposal to payment, with a self-service portal. 
+Management of complex services
+Global e-invoicing compliance
+SAP Ariba Catalog
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Prioritize suppliers, products, and services based on relevance to search criteria and apply contract pricing proactively. 
+Fast enablement
+Manage supplier catalogs – from creation to cleaning and onboarding – in multiple languages and with millions of SKUs.  
+Low-maintenance catalog management
+Update your catalogs with improved accuracy and in a matter of minutes by automating verification and reducing workloads.  
+Always-on support
+Get the 24x7 support you need to answer critical questions through Web-based training, tutorials, and documentation. 
+Catalog services and products
+Requisition any type of service for your business by collaborating with suppliers, gathering quotes, and boosting interest. 
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Quick search of options
+Guide users to the goods they need quickly and easily across common business categories with one intuitive search query. 
+Trusted suppliers
+Find high-quality, trusted suppliers in a comprehensive B2B marketplace to help your supply meet global buying demand. 
+Compliant and controlled processes
+Perfect your balance between user convenience and buying control by preselecting suppliers that adhere to corporate policies.
+Training
+Top introductory training courses on SAP Ariba Solutions for customers
+Gain information on a variety of instructor-led or e-learning courses to help your personnel master the SAP Ariba solutions they will use.
+Top introductory training courses on SAP Ariba Solutions for partners
+Learn how to help customers take optimal advantage of SAP Ariba Solutions. Training the right teams at the right time can improve configuration decisions and facilitate administration.
+Jump-start your SAP solutions and drive ROI by collaborating with industry experts, consultants, and support engineers to receive guidance, prescriptive best practices, and expertise – no matter where you are on your journey.
+Realize your business goals by simplifying and accelerating your digital transformation
+In an era focused on continuous innovation and anticipating customer needs, it can be hard to turn your vision into reality. This is where services and support from SAP can help. With over 40 years of experience, we can help you reach your business transformation goals.
+Transform your business with unparalleled service support enterprise-wide
+Services and support from SAP helps close the gap between the business and IT to advance your digital transformation strategy and execution. From designing and value discovery to accelerated innovation and productive usage, you can evolve your business by breaking new ground with a trusted adviser.
+Eamon Ida
+Set the stage for successful business performance
+Create a harmonious procurement network by coordinating the implementation of relevant solutions with proven best practices for aligned supplier enablement.
+Explore supplier enhancements on Ariba Network
+Learn how suppliers can communicate directly with customers, accelerate payment with e-invoices, and deploy supplier registration and qualification processes. 
+Assess how the cloud integration gateway capability provides a future integration strategy for IT landscape simplicity, self-services, and accelerated outcomes.
+-------URL--------- http://www.sap.com/products/e-procurement/travel-expense-management.html -------URL---------
+Travel and Expense Management
+Get a clear, complete view into spend to cut costs, be more efficient, and drive compliance across your organization.
+Simplify travel, expense and invoice management for total visibility and greater control
+Submit and approve expenses from anywhere, capture travel no matter where it's booked, and automate and integrate your AP processes.
+Expense
+Concur Expense
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Simplify the spend management process, from system implementation to submitting expense reports, with user-friendly tools.
+One view of spend
+Get a single view of all employee spend to better manage budgets, forecast accurately, and drive policy compliance. 
+Integrated spend data
+Bring all spend data into a single system so you can manage expenses end-to-end and make more strategic decisions.
+Expenses on the go
+Create, submit, and approve expense reports from any device to work from anywhere and increase productivity.
+Amber Starkey, Manager, Supplier Financial Services, Cardinal Health Watch the video
+Concur Travel
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Connected travel
+Connect your travel ecosystem and see how much you’re spending with user-friendly tools and applications.
+Reporting tools
+Leverage reporting tools to unlock data that can help you make better decisions and control travel spend before it happens.
+Transparent travel data
+Gain visibility into all travel data to control spend, enforce compliance, and capture data wherever travel is booked.
+Organized, consolidated itineraries
+Book travel and manage itineraries from any device and locate any traveler, anywhere, to fulfill Duty of Care requirements.
+Concur Invoice
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Automated accounts payable
+Automate invoice management to eliminate paper, reduce tedious manual tasks, and prevent costly errors.
+Connected invoice solutions
+Integrate with any ERP or accounting system and connect with solutions from other vendors across the procure-to-pay lifecycle.
+Electronic invoice capture
+Capture e-invoices or use OCR technology to eliminate paper invoices, save time, and reduce errors and double payment.
+On-time vendor payments
+Track and control the timing of payments to pay vendors on time and take advantage of early payment discounts.
+Karen Grobert, Staff Accountant, Recordati Rare Diseases Watch the video
+See how customers are succeeding with SAP
+Resource Center
+Jump-start your SAP solutions and drive ROI by collaborating with industry experts, consultants, and support engineers to receive guidance, prescriptive best practices, and expertise – no matter where you are on your journey.
+Realize your business goals by simplifying and accelerating your digital transformation
+In an era focused on continuous innovation and anticipating customer needs, it can be hard to turn your vision into reality. This is where services and support from SAP can help. With over 40 years of experience, we can help you reach your business transformation goals.
+Transform your business with unparalleled service support enterprise-wide
+Services and support from SAP helps close the gap between the business and IT to advance your digital transformation strategy and execution. From designing and value discovery to accelerated innovation and productive usage, you can evolve your business by breaking new ground with a trusted adviser.
+The SAP Concur team
+Innovation and the changing face of business
+Listen to “The Intelligent Business” podcast from The Wall Street Journal to learn about issues facing businesses today and how emerging technology can help.
+Try our interactive Concur Expense demo
+Check out our interactive demo to experience Concur Expense for yourself and see just how fast and simple the expense reporting process can be.
+SAP Concur
+How finance and IT can take the lead in business growth
+Learn about the value of finance and IT leaders coming together to share expertise, simplify processes, control spend, and make data-driven decisions.
+-------URL--------- http://www.sap.com/products/supply-chain-management.html -------URL---------
+Supply Chain Management
+Get customer-centric products to market faster and at less cost with global supply chain management (SCM) software from SAP.
+Stay resilient in times of supply chain disruption
+Enable your company to thrive by anticipating and preparing for disruptions with supply chain management software from SAP, an integrated portfolio that includes predictive analytics, automation, and IoT with industry expertise to execute and act.
+”
+Design
+Connect systems, people, and processes with an end-to-end digital thread to accelerate innovation.
+Enterprise product development
+Make agile, market-driven plans with supply chain visibility, collaboration, and intelligence.
+Collaborative supply chain network
+“
+”
+“
+”
+Manufacture
+Integrated manufacturing execution system (MES)
+Production management, planning, and optimization
+Industrial Internet of Things (IIoT) solutions
+Unified supply chain data and manufacturing analytics
+Deliver
+Run fast, efficient, and sustainable logistics and supply chain management processes.
+Warehouse management
+“
+”
+“
+”
+Operate
+Maintenance and service management
+Asset network and collaboration
+Asset strategy and performance
+Mobile asset management
+Minimize risk and maximize opportunities
+Prioritize your value chain to ensure that your organizational strategy and supply chain are integrated, so you can meet your business goals. 
+Industry 4.0 technologies for supply chain management
+Achieve data-driven customer devotion and operational flexibility
+Find out how Industry 4.0 technologies can help you focus on customers, reinvent production to deliver customization at scale, and connect your company with production to transform how you work.
+-------URL--------- http://www.sap.com/products/supply-chain-management/supply-chain-planning.html -------URL---------
+Supply Chain Planning
+Respond quickly and cost-effectively to changes in supply, demand, and market conditions – with integrated supply chain planning software from SAP.
+Synchronize planning with operations to gain agility.
+Step up to intelligent supply and demand planning
+Connect all your planning processes in an integrated supply chain planning system to improve lead times and service levels.
+Integrated business planning
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Use demand sensing, statistical modeling, and machine learning algorithms to make accurate short-, mid-, and long-term forecasts. 
+Inventory optimization
+Set inventory targets designed to maximize profits while leaving a buffer to help you meet unexpected demand.
+Sales and operations planning (S&OP)
+Deliver a cross-departmental sales and operations plan that balances inventory, service levels, and profitability.
+Response and supply planning
+Optimize supply management with plans based on prioritized demands, allocations, and constraints such as production capacity.
+Demand-driven replenishment
+Tame supply chain variability and improve material flow using techniques for demand-driven material requirements planning (MRP).
+SAP Ariba Supply Chain Collaboration for Buyers
+Manage relationships with suppliers, partners, and contract manufacturers across your supply chain – in real time.
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Dashboards for status monitoring
+Get order status updates from suppliers, and identify quality issues and mismatches of supply and demand quickly. 
+Rapid onboarding
+Provide on-demand tools or use supplier integration options to facilitate efficient supplier onboarding and rapid user adoption.
+Enhanced compliance
+Resource Center
+Benefit from a full digital representation of connected assets along their lifecycle.
+Digital twin technologies
+Find out how digital twins synchronize the virtual, physical, conditional, and commercial definitions of assets and products in real time to help you accelerate innovation, optimize operating performance conditions, and predict service requirements.
+Jump-start your SAP solutions and drive ROI by collaborating with industry experts, consultants, and support engineers to receive guidance, prescriptive best practices, and expertise – no matter where you are on your journey.
+Realize your business goals by simplifying and accelerating your digital transformation
+In an era focused on continuous innovation and anticipating customer needs, it can be hard to turn your vision into reality. This is where services and support from SAP can help. With over 40 years of experience, we can help you reach your business transformation goals.
+Transform your business with unparalleled service support enterprise-wide
+Services and support from SAP helps close the gap between the business and IT to advance your digital transformation strategy and execution. From designing and value discovery to accelerated innovation and productive usage, you can evolve your business by breaking new ground with a trusted adviser.
+David Vallejo
+Synchronizing supply chains to address disruption
+Learn how your business can use technology to create unified short-term, mid-term, and long-term plans that can withstand the unexpected.
+SAP
+Envisioning the future of supply chains
+Discover the importance of visibility, agility, and resiliency in creating a successful future for supply chains in a world of uncertainty.
+Four myths of inventory optimization
+Explore how inventory optimization can improve supply chain planning and investment efficiency, and consider the most common myths and facts about its value.
+-------URL--------- http://www.sap.com/products/supply-chain-management/supply-chain-logistics.html -------URL---------
+Supply Chain Logistics
+See how becoming an Intelligent Enterprise can help you build resilience and succeed in times of crisis and recovery.
+1
+2
+3
+Speed up your logistics management to secure a responsive and agile supply chain
+Get real-time insights into your supply chain and use intelligent logistics software and processes to identify bottlenecks and mitigate risks as soon as they arise.
+Warehousing and fulfillment
+Inbound logistics management
+Storage and operations
+Outbound logistics management 
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Storage and operations management
+Manage shared stock ownership, improve labor demand planning, track physical inventory, and monitor material handling equipment.
+Outbound logistics management
+Schedule and optimize pick-pack-ship activities and use augmented reality and voice picking to increase productivity. 
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Optimize freight procurement for multiple modes, lower spending, and monitor shipper- and trade-agreement compliance.
+Order management
+Better serve customers with fast, accurate order fulfillment processes and optimized, dynamically generated routing proposals.
+Transportation planning
+Transportation execution
+Manage cargo handling and reduce freight costs through a scalable and responsive logistics system.
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Tracking and tracing
+View the status of goods in transit and handle deviations to plans during purchase, sales, and freight order fulfillment.
+Real-time alerts and notifications
+Gain insights from analytics and benchmarking based on real-time alerts and notifications.
+ 
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Reduce idle time, improve resource utilization, and communicate with carriers while planning incoming and outgoing transportation.
+Yard execution and processing
+Gain visibility and tighter control over processing and execution activities to increase yard throughput and service levels.
+Integration and monitoring
+Support end-to-end supply chain logistics processes in the cloud, and gain insights using graphical monitoring features.
+Jump-start your SAP solutions and drive ROI by collaborating with industry experts, consultants, and support engineers to receive guidance, prescriptive best practices, and expertise – no matter where you are on your journey.
+Realize your business goals by simplifying and accelerating your digital transformation
+In an era focused on continuous innovation and anticipating customer needs, it can be hard to turn your vision into reality. This is where services and support from SAP can help. With over 40 years of experience, we can help you reach your business transformation goals.
+Transform your business with unparalleled service support enterprise-wide
+Services and support from SAP helps close the gap between the business and IT to advance your digital transformation strategy and execution. From designing and value discovery to accelerated innovation and productive usage, you can evolve your business by breaking new ground with a trusted adviser.
+Susan Galer
+Communications Director
+Tackle supply chain obstacles with blockchain
+Find out how blockchain improves food safety and boosts customer trust by enabling traceability across the entire supply chain.
+SAP
+Maximizing logistics capacity in times of disruption
+Learn how SAP is collaborating with InstaFreight to help ensure fast, efficient handling of road shipments in Europe by overcoming global logistics challenges. 
+Supply Chain Resource Cooperative
+Creating intelligent supply chains
+In the digital economy, response velocity and visibility will define competitive survival. Learn how technologies like edge computing and AI can help.
+-------URL--------- http://www.sap.com/products/supply-chain-management/manufacturing.html -------URL---------
+Manufacturing
+Fast-track time to market, gain new production efficiencies, and lower costs with SAP manufacturing software and Industrial Internet of Things (IIoT) solutions.
+The power of change from Industry 4.0
+Discover how your peers are using Industry 4.0 to take manufacturing to the next level.
+Drive success with supply chain excellence
+Learn how leadership in manufacturing can drive supply chain excellence in a report by Oxford Economics.
+Digital manufacturing is the future of productivity
+Meet demand in a challenging market with automated and flexible manufacturing operations.
+Digital manufacturing
+Manufacturing analytics platform
+Optimize productivity with an integrated cloud MES
+Gain visibility into operations with a manufacturing execution system (MES) that provides near real-time data and analytics.
+Monitor, analyze, and optimize your production processes – and run leaner manufacturing operations.
+Harness the Industrial Internet of Things (IIoT) and tightly integrate your manufacturing processes with business operations.
+Move beyond compliance to operate more sustainably and reliably by proactively identifying, analyzing, and mitigating risks.
+Benefit from a full digital representation of connected assets along their lifecycle.
+Digital twin technologies
+Find out how digital twins synchronize the virtual, physical, conditional, and commercial definitions of assets and products in real time to help you accelerate innovation, optimize operating performance conditions, and predict service requirements.
+Jump-start your SAP solutions and drive ROI by collaborating with industry experts, consultants, and support engineers to receive guidance, prescriptive best practices, and expertise – no matter where you are on your journey.
+Realize your business goals by simplifying and accelerating your digital transformation
+In an era focused on continuous innovation and anticipating customer needs, it can be hard to turn your vision into reality. This is where services and support from SAP can help. With over 40 years of experience, we can help you reach your business transformation goals.
+Transform your business with unparalleled service support enterprise-wide
+Services and support from SAP helps close the gap between the business and IT to advance your digital transformation strategy and execution. From designing and value discovery to accelerated innovation and productive usage, you can evolve your business by breaking new ground with a trusted adviser.
+Mike Lackey
+VP of Solution Management SAP
+Increasing visibility in manufacturing processes
+Find out how connected manufacturing processes can break down silos and enable visibility across the phases of design, planning, logistics, and operations.
+Learn how recent advancements in cloud technology delivery and capabilities offer new opportunities for cautious manufacturers to succeed in today’s market.
+SAP
+See how ensuring sustainable and ethical practices and processes, with visibility across the enterprise and business network, benefits companies and employees.

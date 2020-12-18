@@ -23,15 +23,15 @@ from selenium import webdriver
 class RecursiveScraper:
     ''' Scrape URLs in a recursive manner.
     '''
-    def __init__(self, url, maxWords):
+    def __init__(self, maxWords, maxNode):
         ''' Constructor to initialize domain name and main URL.
         '''
-        self.domain = urlsplit(url).netloc
-        self.mainurl = url
         self.urls = set()
         self.mainContents = ""
         self.maxWords = maxWords
         self.countWords = 0
+        self.urlQueue = []
+        self.maxNode = maxNode
 
     def preprocess_url(self, referrer, url):
         ''' Clean and filter URLs before scraping.
@@ -51,7 +51,8 @@ class RecursiveScraper:
             else:
                 httpsurl = cleanurl = fields.geturl()
                 httpurl = httpsurl.replace('https:', 'http:', 1)
-            if httpurl not in self.urls and httpsurl not in self.urls:
+            if httpurl not in self.urls and httpsurl not in self.urls and httpsurl!="http://"+self.domain+"/index.html" and httpsurl!="https://"+self.domain+"/index.html":
+                # index.html and mainurl are duplicate
                 # Return URL only if it's not already in list
                 return cleanurl
 
@@ -62,7 +63,7 @@ class RecursiveScraper:
             If URL argument is None, start from main page.
         '''
         if url is None:
-            url = self.mainurl
+            return
 
         if self.countWords>self.maxWords:
             return
@@ -70,22 +71,39 @@ class RecursiveScraper:
         print("Scraping {:s} ...".format(url))
         self.urls.add(url)
 
+    def scrapeBFS(self, mainurl):
+        self.domain = urlsplit(mainurl).netloc
+        print("self.domain "+self.domain)
         opts = webdriver.ChromeOptions()
         opts.headless = True
-        browser = webdriver.Chrome('./chromedriver',options=opts)
-        browser.get(url)
-        soup = BeautifulSoup(browser.page_source, 'lxml')
+        browser = webdriver.Chrome('C:\Rainmeter\Projects\HKU-CS-FYP-Intelligent-matching-of-business-needs-and-IT-solutions\WebScraping\WebScraping_test_v1\chromedriver_win_chrome_86.exe',options=opts)
 
-        self.countWords = self.getMainContent(browser.page_source)
-        print("size:", self.countWords)
+        visited = {}
+
+        self.urlQueue.append(mainurl)
+        visited[mainurl] = True
+
+        while self.urlQueue and self.maxNode and self.countWords<self.maxWords:
+            url = self.urlQueue.pop(0)
+            self.urls.add(url)
+            self.maxNode -= 1
+
+            browser.get(url)
+            soup = BeautifulSoup(browser.page_source, 'lxml')
+            self.mainContents += str("-------URL--------- "+url+" -------URL---------\n")
+            self.countWords = self.getMainContent(browser.page_source)
+            print("size:", self.countWords)
+
+            for link in soup.findAll("a"):
+                childurl = self.preprocess_url(url, link.get("href"))
+                print("childurl", childurl)
+                if childurl and childurl not in visited:
+                    self.urlQueue.append(childurl)
+                    visited[childurl] = True
+
+
         browser.close()
-        
-        # print("a", [ link.get("href") for link in soup.findAll("a")])
-        for link in soup.findAll("a"):
-            childurl = self.preprocess_url(url, link.get("href"))
-            if childurl:
-                self.scrape(childurl)
-
+        return None
     
     def getMainContent(self,html):
         if html is None:
@@ -113,8 +131,10 @@ class RecursiveScraper:
 
 if __name__ == '__main__':
     ITurl = 'http://www.sap.com'
-    rscraper = RecursiveScraper(url=ITurl, maxWords=2000)
-    rscraper.scrape()
-    with open("output.txt", "w") as f:
+    rscraper = RecursiveScraper(maxWords=20000, maxNode=1000)
+    rscraper.scrapeBFS(mainurl = ITurl)
+    with open("./output.txt", "w", encoding="utf-8") as f:
         f.write(rscraper.mainContents)
     print(rscraper.urls)
+    print(rscraper.maxNode)
+    print(rscraper.maxWords)
