@@ -36,6 +36,7 @@ class ITsolListGenerator:
 
     def generateITSolList(self, 
         busNeedCode,
+        itSolListSize = 300,
         itSolDfInputName="1.list_it_solutions_modelEmbedding.pkl", 
         busNeedDfInputName='2.list_business_needs_modelEmbedding.pkl', 
         itSolOutputName='ITSolList.csv' ):
@@ -58,7 +59,7 @@ class ITsolListGenerator:
         itSol_df = itSol_df.sort_values(by='Cosine Similarity', ascending=False)
 
         itSol_df = itSol_df.loc[:,["Reference Code","Solution Name (Eng)","Cosine Similarity"]]
-
+        itSol_df = itSol_df.iloc[:itSolListSize]
         # print(itSol_df)
         itSolOutputName = "ITSolList_"+busNeedCode+"_"+self._modelName +".csv"
         itSol_df.to_csv(itSolOutputName,index=False)
@@ -71,4 +72,4 @@ class ITsolListGenerator:
 itg = ITsolListGenerator(modelName="stsb-roberta-large")
 
 # itg.generateModelEmbedding()
-itg.generateITSolList('N-0025')
+itg.generateITSolList('N-0026')
