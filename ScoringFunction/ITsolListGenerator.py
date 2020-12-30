@@ -6,10 +6,10 @@ pd.set_option("display.max_rows", None, "display.max_columns", None)
 
 
 class ITsolListGenerator:
-    _model = SentenceTransformer('distilbert-base-nli-stsb-mean-tokens')
-
-    def __init__(self):
-      pass
+    
+    def __init__(self, modelName='distilbert-base-nli-stsb-mean-tokens'):
+        self._modelName = modelName
+        self._model = SentenceTransformer(modelName)
 
     def generateModelEmbedding(self,
         itSolDfInputName="1.list_it_solutions_modelInput.csv", 
@@ -59,15 +59,16 @@ class ITsolListGenerator:
 
         itSol_df = itSol_df.loc[:,["Reference Code","Solution Name (Eng)","Cosine Similarity"]]
 
-        print(itSol_df)
-        itSolOutputName = "ITSolList_"+busNeedCode+".csv"
+        # print(itSol_df)
+        itSolOutputName = "ITSolList_"+busNeedCode+"_"+self._modelName +".csv"
         itSol_df.to_csv(itSolOutputName,index=False)
+        print("Finished IT solutions list:", itSolOutputName)
         
 
 
 
     
-itg = ITsolListGenerator()
+itg = ITsolListGenerator(modelName="stsb-roberta-large")
 
 # itg.generateModelEmbedding()
-itg.generateITSolList('N-0001')
+itg.generateITSolList('N-0025')
