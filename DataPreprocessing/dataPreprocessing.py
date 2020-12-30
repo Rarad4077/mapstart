@@ -25,15 +25,18 @@ class CustomTranslator:
     pass
   
   def translateToEn(self,s):
+    if not s:
+      return s
     result = None
-    print("translate to en:",  s[:10], end=' ')
-    for _ in range(10):
+    print("translate to en:",  str(s)[:10], end=' ')
+    for _ in range(5):
       try:
         print(_,end=' ')
         result = self._translator.translate(s,dest="en")
         break
-      except:
+      except (AttributeError, TypeError):
         self._translator = Translator()
+
     print("")
     if result is None:
       return s
@@ -41,6 +44,7 @@ class CustomTranslator:
   
   def translateITSolToEn(self, inputName='1.list_it_solutions.xlsx', outputName='1.list_it_solutions_clean.csv'):
     itSol_df = pd.read_excel(inputName)
+    itSol_df.loc[:,"Solution Name (Eng)"] = itSol_df.loc[:,"Solution Name (Eng)"].apply(lambda x: self.translateToEn(x))
     itSol_df.loc[:,"Solution Description"] = itSol_df.loc[:,"Solution Description"].apply(lambda x: self.translateToEn(x))
     itSol_df.loc[:,'Use Case'] = itSol_df.loc[:,'Use Case'].apply(lambda x: ct.translateToEn(x))
     itSol_df.to_csv(outputName, index=False)
@@ -120,8 +124,7 @@ class CustomDataProprocessor:
 # ct = CustomTranslator()
 # ct.translateITSolToEn()
 
-# s = cl.lemmatize_sentence('I am a Dog. I love Hiking')
-# print(s)
+
 
 cdp = CustomDataProprocessor()
 cdp.generateITSolModelInput()
