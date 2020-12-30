@@ -16,6 +16,11 @@ class ITsolListGenerator:
         itSolDfOutputName="1.list_it_solutions_modelEmbedding.pkl",
         busNeedDfInputName='2.list_business_needs_modelInput.csv',
         busNeedDfOutputName='2.list_business_needs_modelEmbedding.pkl'):
+        '''To generate Model Embedding from String model input, 
+            The Model Embedding is saved in 
+            1.list_it_solutions_modelEmbedding.pkl and 2.list_business_needs_modelEmbedding.pkl
+        '''
+
         busNeed_df = pd.read_csv(busNeedDfInputName)
         busNeed_df = busNeed_df.dropna(subset=['Model Input'])
         busNeed_df['Model Embedding'] = busNeed_df.loc[:,"Model Input"].apply( lambda x: self._model.encode(x))
@@ -34,6 +39,8 @@ class ITsolListGenerator:
         itSolDfInputName="1.list_it_solutions_modelEmbedding.pkl", 
         busNeedDfInputName='2.list_business_needs_modelEmbedding.pkl', 
         itSolOutputName='ITSolList.csv' ):
+        '''To generate the ITSolList, print it and save it in "ITSolList-<busNeedCode>.csv"
+        '''
 
         # Extract the business need emnbedding by the busNeedCode
         busNeed_df = pd.read_pickle(busNeedDfInputName)
