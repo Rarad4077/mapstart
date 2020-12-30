@@ -41,7 +41,8 @@ class ITsolListGenerator:
         if len(busNeedModelInput) == 0:
             print('Business Need Ref Code Error')
             return []
-        busNeedEnCode = busNeedModelInput['Model Embedding'][0]
+        # print(busNeedModelInput['Model Embedding'].iloc[0])
+        busNeedEnCode = busNeedModelInput['Model Embedding'].iloc[0]
 
         #generate the cosine simlarity
         itSol_df = pd.read_pickle(itSolDfInputName)
