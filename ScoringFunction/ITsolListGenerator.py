@@ -7,6 +7,8 @@ pd.set_option("display.max_rows", None, "display.max_columns", None)
 
 
 class ITsolListGenerator_BiEncoder:
+    '''ITsolListGenerator BiEncoder 
+    '''
     
     def __init__(self, modelName='distilbert-base-nli-stsb-mean-tokens', sent_length = 100000):
         self._modelName = modelName
@@ -40,6 +42,12 @@ class ITsolListGenerator_BiEncoder:
     def generateITSolList(self, busNeedCode, itSolListSize = 300, sent_length = 0, itSolDfInputName="", 
         busNeedDfInputName="", itSolOutputName="" ):
         '''To generate the ITSolList, print it and save it in "ITSolList-<busNeedCode>.csv"
+        Args:
+        busNeedCode (str): eg. "N-0001"
+        itSolListSize (int): IT solution list size (default: 300)
+        sent_length (int): number of sentence length of modelEmbedding to use for generating ITSolList
+        itSolDfInputName (str)
+        busNeedDfInputName (str)
         '''
         if sent_length == 0:
             sent_length = self._sent_length
@@ -83,6 +91,11 @@ class ITsolListGenerator_CrossEncoder:
     def generateITSolList(self, busNeedCode, itSolListSize = 400, itSolDfInputName="1.list_it_solutions_modelInput.csv", 
         busNeedDfInputName='2.list_business_needs_modelInput.csv', itSolOutputName='ITSolList.csv' ):
         '''To generate the ITSolList, print it and save it in "ITSolList-<busNeedCode>.csv"
+        Args:
+        busNeedCode (str): eg. "N-0001"
+        itSolListSize (int): IT solution list size (default: 400)
+        itSolDfInputName (str)
+        busNeedDfInputName (str)
         '''
 
         busNeed_df = pd.read_csv(busNeedDfInputName)
