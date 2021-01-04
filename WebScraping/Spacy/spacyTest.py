@@ -11,9 +11,11 @@ from tqdm import tqdm
 from spacy.matcher import Matcher 
 from spacy.tokens import Span 
 from spacy import displacy 
+import pandas as pd
+data = pd.ExcelFile("*File Name*")
 
 nlp = spacy.load('en_core_web_sm')
-output = open("output.txt", encoding="utf-8").read()
+output = open("WebScraping\Spacy\output.txt", encoding="utf-8").read()
 outputDoc = nlp(output)
 # for num, sentence in enumerate(doc.sents):
 #     print(f'{num}: {sentence}')
@@ -21,10 +23,10 @@ outputDoc = nlp(output)
 #     print(f'{token.text}')
 # [token.text for token in doc]
 
-text = "SAP was founded in 1972 in Walldorf, Germany and now has offices around the world."
-sampledoc = nlp(text)
-for tok in sampledoc:
-    print(tok.text, "-->", tok.dep_, "-->", tok.pos_)
+# text = "SAP was founded in 1972 in Walldorf, Germany and now has offices around the world."
+# sampledoc = nlp(text)
+# for tok in sampledoc:
+#     print(tok.text, "-->", tok.dep_, "-->", tok.pos_)
 
 pattern = [{'POS': 'PROPN'},
            {'POS': 'AUX'},
@@ -70,4 +72,6 @@ def subtree_matcher(doc):
 
   return x,y
 
-print(subtree_matcher(sampledoc))
+# print(subtree_matcher(sampledoc))
+for ent in outputDoc.ents:
+    print(ent.text, ent.start_char, ent.end_char, ent.label_)
