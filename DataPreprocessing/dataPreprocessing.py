@@ -121,8 +121,8 @@ class CustomDataProprocessor:
     busNeed_df.to_csv(outputName, index=False)
 
 
-# ct = CustomTranslator()
-# ct.translateITSolToEn()
+ct = CustomTranslator()
+ct.translateITSolToEn()
 
 
 
