@@ -104,7 +104,7 @@ class ITsolListGenerator_BiEncoder:
         itSol_df = itSol_df.iloc[:itSolListSize]
         # print(itSol_df)
         if len(str(itSolOutputName)) == 0:
-            itSolOutputName = "ITSolList_"+busNeedCode+"_"+self._modelName +'_'+ str(sent_length) +"sl_BiEncoder.csv"
+            itSolOutputName = "ITSolList_"+busNeedCode+"_"+self._modelName.split('/')[-1] +'_'+ str(sent_length) +"sl_BiEncoder.csv"
         itSol_df.to_csv(itSolOutputName,index=False)
         print("Finished IT solutions list:", itSolOutputName)
         return itSol_df
