@@ -113,14 +113,14 @@ class ITsolListGenerator_CrossEncoder:
         It used sBert CrossEncoder Model for ITsolList Generation
     
     Args:
-            modelName (str, optional): sBERT model name used for generate the IT solution List. Defaults to 'cross-encoder/stsb-roberta-base'.
+        modelName (str, optional): sBERT model name used for generate the IT solution List. Defaults to 'cross-encoder/stsb-roberta-base'.
 
     """
-    def __init__(self, modelName='cross-encoder/stsb-roberta-base'):
+    def __init__(self, modelName='cross-encoder/stsb-roberta-large'):
         self._modelName = modelName
         self._model = CrossEncoder(modelName)
 
-    def generateITSolList(self, busNeedCode, itSolListSize = 400, itSolDfInputName="1.list_it_solutions_modelInput.csv", 
+    def generateITSolList(self, busNeedCode, itSolListSize = None, itSolDfInputName="1.list_it_solutions_modelInput.csv", 
         busNeedDfInputName='2.list_business_needs_modelInput.csv', itSolOutputName='ITSolList.csv' ):
         """To generate the ITSolList, save it in "ITSolList-<busNeedCode>.csv"
 
@@ -154,7 +154,8 @@ class ITsolListGenerator_CrossEncoder:
         itSol_df['Cosine Similarity'] = predictions
 
         itSol_df = itSol_df.loc[:,["Reference Code","Solution Name (Eng)","Cosine Similarity"]]
-        itSol_df = itSol_df.iloc[:itSolListSize]
+        if itSolListSize is not None:
+            itSol_df = itSol_df.iloc[:itSolListSize]
         itSol_df = itSol_df.sort_values(by='Cosine Similarity', ascending=False)
         # # print(itSol_df)
         itSolOutputName = "ITSolList_"+busNeedCode+"_model_"+ self._modelName.replace('/','-') +"_CrossEncoder.csv"
@@ -163,25 +164,26 @@ class ITsolListGenerator_CrossEncoder:
 
 
 
-t0 = time.time()
-    
-itg_be = ITsolListGenerator_BiEncoder(modelName="stsb-roberta-large")
-# itg_be = ITsolListGenerator_BiEncoder(modelName="allenai/longformer-base-4096")
 
-itg_be.generateModelEmbedding()
+if __name__ == '__main__':
+    # itg_be = ITsolListGenerator_BiEncoder(modelName="stsb-roberta-large")
+    # itg_be = ITsolListGenerator_BiEncoder(modelName="allenai/longformer-base-4096")
 
-itg_be.generateITSolList(busNeedCode='N-0001')
-itg_be.generateITSolList(busNeedCode='N-0002')
-itg_be.generateITSolList(busNeedCode='N-0003')
-itg_be.generateITSolList(busNeedCode='N-0004')
+    # itg_be.generateModelEmbedding()
 
-
-
-# itg_ce = ITsolListGenerator_CrossEncoder()
-# itg_ce.generateITSolList('N-0003')
+    # itg_be.generateITSolList(busNeedCode='N-0001')
+    # itg_be.generateITSolList(busNeedCode='N-0002')
+    # itg_be.generateITSolList(busNeedCode='N-0003')
+    # itg_be.generateITSolList(busNeedCode='N-0004')
 
 
-t1 = time.time()
-print("Time Used (s):",t1-t0)
 
-# print("max length:",itg_be._model.max_seq_length) #128
+    itg_ce = ITsolListGenerator_CrossEncoder(modelName='cross-encoder/stsb-roberta-large')
+
+    for i in range(1,10):
+        t0 = time.time()
+        itg_ce.generateITSolList(busNeedCode='N-000'+str(i))
+        t1 = time.time()
+        print("Time Used (s):",t1-t0)
+
+    # print("max length:",itg_be._model.max_seq_length) #128
