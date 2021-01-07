@@ -22,6 +22,8 @@ from selenium import webdriver
 import pandas as pd
 import re
 
+from sys import platform # check OS
+
 class RecursiveScraper:
     ''' Scrape URLs in a recursive manner.
     '''
@@ -91,8 +93,11 @@ class RecursiveScraper:
         options.add_argument("start-maximized")
         options.add_argument("disable-infobars")
         options.add_argument("--disable-extensions")
-        browser = webdriver.Chrome('WebScraping/WebScraping_test_v1/chromedriver_win_chrome_86.exe',options=options)
 
+        if platform == "win32": # if window
+            browser = webdriver.Chrome('WebScraping/WebScraping_test_v1/chromedriver_win_chrome_86.exe',options=options)
+        else: # Mac OS
+            browser = webdriver.Chrome('./chromedriver',options=options)
         visited = {}
         num_visited_node = 0
         num_words = 0
@@ -152,13 +157,13 @@ def formaturl(url):
     return url
 
 if __name__ == '__main__':
-    list_it_df = pd.read_excel("WebScraping/list_it_solutions.xls", sheet_name=0)
+    list_it_df = pd.read_excel("1.list_it_solutions.xlsx", sheet_name=0)
     website_df = list_it_df[['Reference Code','Website']]
     
     for index, row in website_df.iterrows():
         print("website",formaturl(row['Website']))
-        rscraper = RecursiveScraper(maxWords=20000, maxNode=5)
+        rscraper = RecursiveScraper(maxWords=200, maxNode=5)
         rscraper.scrapeBFS(mainurl = formaturl(row['Website']))
-        with open("WebScraping/scraping_data/"+row['Reference Code']+".txt", "w", encoding="utf-8") as f:
+        with open("scraping_data/"+row['Reference Code']+".txt", "w", encoding="utf-8") as f:
             f.write(rscraper.mainContents)
         print(rscraper.urls,'\n')

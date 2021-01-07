@@ -1,0 +1,54 @@
+-------URL--------- http://www.livelyimpact.com -------URL---------
+Tom Fishburne
+-------URL--------- http://www.livelyimpact.com/customers.html -------URL---------
+-------URL--------- http://www.livelyimpact.com/lively_dbiz.html -------URL---------
+*所有申請資格以政府最終公布為準, 請查閱此方案的秘書處資料: ​ https://www.hkpc.org/zh-HK/distance-business-programme
+D-BIZ 申請流程
+LIVELY IMPACT服務範圍
+為方便客戶理解LIVELY IMPACT提供的方案及服務類別, 以下圖示亦列出我們專營的D-BIZ類別​。
+程序化廣告購買 (Programmatic Advertising) 
+程序化廣告購買 (Programmatic Advertising)
+內容管理系統 (Content Management System)
+想知道你的方案和行業有否受資助，歡迎填妥右側表格，聯絡我們獲取最新詳情，讓我們助你搶先獲得資助批核。
+-------URL--------- http://www.livelyimpact.com/fingereach.html -------URL---------
+The leading Cross-channel Mobile Advertising Platform
+One-stop platform to reach mobile audience
+FINGEREACH is the most advanced buy side platform that buys in-web, in-app, and in-video mobile ads with competitive price (usually 70% of the market price) and matched with audience behavior you want, and provide you with proprietary insightful post-campaign reports.
+Easy Setup
+It only takes 3 simple steps to create a marketing campaign. What you need is to define the campaign criteria in step 1, then you have to describe your products in step 2, and finally you have to provide your ad creatives in step 3. The campaign is set and will be scheduled to run according to your requirements.
+One Platform
+Fingereach connects to a number of high volume ad exchanges seamlessly. You no longer need to login to multiple advertising platforms to track the performance of your campaign across multiple channels and all the tracking data is available at your fingertips.
+Rich Landing
+You can do more with mobile advertising now. You can continue to set a destination website as the landing when your customers click. Apart from that, you can also set a phone call, a map, and an app store as your landing. Your customers can reach you through a more native and direct means you want.
+Smart Algorithms
+You do not need to view and tune the campaign from time to time manually. The analytic services and algorithmic bidding services built in Fingereach will take care of the complexity for you behind the scene automatically.
+Real Time Bidding
+In the old days, we are buying impressions in bulk and optimization can hardly be done. Fingereach buys ads on RTB basis - buys only the needed impression - and evaluates the quality of every ad slot to see if a bid will be made and determines the best price.
+No Middlemen
+With a streamlined workflow, Fingereach offers you a simplified yet powerful interface that allows you to launch marketing campaigns without an expert. This can significantly shorten 80% of the preparation time.
+Filters
+Fingereach allows you to set a variety of filters to scope the audience that are of your interests. Location filter, device filter, language filter, category filter, placement filter are some of the examples that are useful for your campaign strategy.
+Rich Types
+Fingereach supports in-web, in-app and in-video ads. Major technical formats like HTML5, Flash and image file are supported. Ads can be static or animated and can be of different sizes. Different interaction types like filmstrip, pull, adhesion banner, full page index and slider are also supported.
+Built For Mobile
+Fingereach is built for mobiles. You can host marketing campaigns across different device makes, languages, sizes, resolutions and also across different activities that will be done by the mobile users - browsing web, using apps, and viewing videos.
+Huge Inventory
+With connectivity to major ad exchanges, we can access more than 10 billion of ad slots each day worldwide. The ad slots are coming from different locations, different devices, different pages, different apps and different videos.
+Contrast Targeting
+Our patent pending technology, PageRatio, evaluates different structural ratios of a web page and delivers an ad that will create high visual contrast that will draw the attention of the audience. Fingereach takes the ratios into considerations during the bidding process for in-web ads.
+Contextual Ranking
+Our patent pending technology, AppDience, ranks the millions of apps to determine apps that have audience that are most relevant to your products. Fingereach will take this ranking into considerations during the bidding process for in-app ads.
+Big Data Capability
+Fingereach makes use of Big Data technologies to cater for the growing need in processing huge amount of multi-dimensional impression data and click data in a timely fashion. The platform leverages multiple clusters to process billions of data points with hundreds of attributes to find actionable insights.
+International Standards
+Fingereach adopts the international standards like OpenRTB in talking with ad exchanges. It is easily expandable with an exchange that you want given the ad exchange is standard compliant, maximizing the reach to your customers.
+IAB Compliant
+Fingereach allows you to use all major IAB compliant formats of display ads in the marketing campaign. Advertisers can unleash their creativity in their different ad creatives, from micro bar to leaderboard, from static to dynamic, from in-web to in-app ad.
+Trading Locations
+Hong Kong
+This is the 1st algorithmic trading site for Asia-based traffic (ex China, Japan and Korea).
+Beijing
+This is the 2nd algorithmic trading site for China-based traffic.
+Tokyo
+This is the 3rd algorithmic trading site for Japan-based traffic.
+Learn more about Fingereach

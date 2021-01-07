@@ -120,12 +120,9 @@ class CustomDataProprocessor:
     busNeed_df['Model Input'] = busNeed_df.loc[:,"Title (Eng)"] + ". " + busNeed_df.loc[:,"Business Needs / Challenges (Eng)"] + ". " + busNeed_df.loc[:,"Expected Outcomes (Eng)"]
     busNeed_df.to_csv(outputName, index=False)
 
-
-ct = CustomTranslator()
-ct.translateITSolToEn()
-
-
-
-cdp = CustomDataProprocessor()
-cdp.generateITSolModelInput()
-cdp.generateBusNeedModelInput()
+if __name__ == '__main__':
+  ct = CustomTranslator()
+  ct.translateITSolToEn()
+  cdp = CustomDataProprocessor()
+  cdp.generateITSolModelInput()
+  cdp.generateBusNeedModelInput()
