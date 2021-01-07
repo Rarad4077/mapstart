@@ -18,11 +18,12 @@ import re
 from urllib.parse import urljoin, urlsplit, SplitResult
 import requests
 import nltk
-from selenium import webdriver
+from selenium import webdriver,common
 import pandas as pd
 import re
 
 from sys import platform # check OS
+import os       # file management
 
 class RecursiveScraper:
     ''' Scrape URLs in a recursive manner.
@@ -109,11 +110,15 @@ class RecursiveScraper:
             url = self.urlQueue.pop(0)
             self.urls.add(url)
             num_visited_node += 1
+            try:
+                browser.get(url)
+            except (common.exceptions.WebDriverException):
+                print("skip", url)
+                continue
 
-            browser.get(url)
             soup = BeautifulSoup(browser.page_source, 'lxml')
             self.mainContents += str("-------URL--------- "+url+" -------URL---------\n")
-            num_words += self.getMainContent(browser.page_source)
+            num_words += self.getTokenizedMainContents(browser.page_source)
             print("num_words:", num_words)
 
             for link in soup.findAll("a"):
@@ -128,7 +133,7 @@ class RecursiveScraper:
         browser.close()
         return None
     
-    def getMainContent(self,html):
+    def getTokenizedMainContents(self,html):
         if html is None:
             return self.tokenizeText(self.mainContents)
         try:
@@ -150,6 +155,13 @@ class RecursiveScraper:
             # tagged = nltk.pos_tag(tokenized_text)
             texts += [x for x in tokenized_text if len(x) > 1]
         return len(texts)
+    
+    def setMainContents(self, mainContents):
+        if mainContents is not None:
+            self.mainContents = mainContents
+        else:
+            self.mainContents = ''
+
 
 def formaturl(url):
     if not re.match('(?:http|ftp|https)://', url):
@@ -158,12 +170,22 @@ def formaturl(url):
 
 if __name__ == '__main__':
     list_it_df = pd.read_excel("1.list_it_solutions.xlsx", sheet_name=0)
+    list_it_df = list_it_df.dropna(subset=['Website'])
     website_df = list_it_df[['Reference Code','Website']]
     
     for index, row in website_df.iterrows():
-        print("website",formaturl(row['Website']))
-        rscraper = RecursiveScraper(maxWords=200, maxNode=5)
-        rscraper.scrapeBFS(mainurl = formaturl(row['Website']))
-        with open("scraping_data/"+row['Reference Code']+".txt", "w", encoding="utf-8") as f:
+        fileName = "scraping_data/"+row['Reference Code']+".txt"
+        
+        if os.path.isfile(fileName):
+            print(fileName, "exist.")
+            continue
+
+        url = formaturl(row['Website'])
+        print("website", url)
+        rscraper = RecursiveScraper(maxWords=500, maxNode=3)
+        rscraper.scrapeBFS(mainurl = url)
+        
+        with open(fileName, "w", encoding="utf-8") as f:
             f.write(rscraper.mainContents)
+        print(url,"written into:",fileName)
         print(rscraper.urls,'\n')

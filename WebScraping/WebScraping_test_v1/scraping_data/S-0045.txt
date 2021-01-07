@@ -1,0 +1,58 @@
+-------URL--------- http://www.sap.com -------URL---------
+Call Offline
+SAP can call you to discuss any questions you have.
+Chat Offline
+captions off, selected
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Take practical steps and explore solutions to help you run at your best.
+Together, we got this
+2020 was a year with many challenges, and through it all our customers kept the heart of our communities beating. We’re proud to support and stand with you.
+Why SAP?
+Analysts name SAP business software a leader across all categories. See how we can help you thrive in the digital era.
+Check out ground-breaking SAP TechEd announcements – including new process automation tools and enhancements to the SAP Business Technology Platform – designed for all developer skill levels and jobs.
+Celebrating great ideas
+SAP Innovation Awards 2021 will showcase the people and companies using SAP technologies to drive innovation – and improve people’s lives and livelihood.
+Agility, adaptability, speed
+SAP S/4HANA gives you the agility you need today, with smart automated processes and insight into every corner of your business, so you can move from crisis to opportunity.
+Never stop delivering
+Supply chain solutions from SAP give you visibility and flexibility, so you can always come through for your customers.
+-------URL--------- http://www.sap.com/products.html -------URL---------
+Call Offline
+SAP can call you to discuss any questions you have.
+Chat Offline
+Portfolio Categories
+Explore our comprehensive solutions for all business processes across all industries to find the solutions you need to run your business better, faster, and simpler enterprise-wide.
+ERP and Finance
+Featured Products
+Find the right products to enable digital transformation across your enterprise and run business-critical processes quickly and securely in the cloud – today and as your business needs evolve.
+SAP S/4HANA
+Improve decision making and increase productivity with a digital core that supports all your mission-critical business processes. Built on the SAP HANA platform, the SAP S/4HANA Enterprise Management solution is designed with the SAP Fiori user experience and delivered in the cloud and on premise.
+Build and deploy apps quickly with our cloud platform-as-a-service (PaaS). With SAP Cloud Platform, you can deliver secure business apps that integrate and optimize your IT landscape, drive agility, and accelerate digital transformation – in weeks, instead of years.
+Accelerate business processes, deliver more business intelligence, and simplify your IT environment with our in-memory data platform that provides the foundation for all your data needs.
+Integrate travel spend, ERP, accounting, and card data into a single, cloud-based and mobile system that manages the entire expense process – from spend requests to reconciliation.
+Manage sourcing and suppliers across all spend categories with a single closed-loop, source-to-contract suite of solutions that handles the advanced requirements of direct materials sourcing. 
+Increase responsiveness, reduce IT costs and workload, and drive better decision making by providing easy, self-service access to insights on a unified platform for data and analytics.
+Deliver exceptional, seamless customer experiences by integrating all digital and physical customer touchpoints – including online, mobile, call center, and social media – onto a single platform.
+SAP SuccessFactors Employee Central
+Transform the work experience with a cloud-based, multilingual solution that serves as a “system of record” for people- and HR-related data, as well as a platform for streamlining core HR processes.
+Technology and Innovation
+In the digital age, business leaders must stay on top of new, emerging, and future technologies or risk falling behind. But where do you start? Explore the latest digital trends to determine the best opportunities for your company.
+Digital Transformation
+Traditional business models are being radically disrupted in the digital economy. Discover what it means and takes to transform – explore strategies, best practices, and more.
+Artificial intelligence (AI), machine learning, and deep learning are powering a new breed of software innovation. See how the technology can harness an ocean of Big Data to create business opportunities.
+Blockchain has the potential to majorly disrupt every industry. This distributed ledger technology goes far beyond cryptocurrencies to include everything from land titles and intellectual property to votes. 
+Internet of Things
+The Internet of Things (IoT) is connecting machines to machines (M2M) and machines to people in nearly every industry. Explore this world of networks – including the IIoT and Internet of Everything (IoE).
+Cloud Computing
+From SaaS and PaaS to private and hybrid – learn more about cloud technology and its benefits. You can also investigate the latest cloud trends and hot topics, such as security and public cloud options.
+Big Data continues to explode in volume and variety, and companies must keep up. Learn about the latest Big Data tech trends, including real-time analytics and AI – and find out what they can do for business. 

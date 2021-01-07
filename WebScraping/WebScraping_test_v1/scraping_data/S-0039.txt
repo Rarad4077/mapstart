@@ -1,0 +1,47 @@
+-------URL--------- http://wildfaces.ai -------URL---------
+×
+×
+Name*
+Email*
+Phone*
+Company*
+-------URL--------- http://wildfaces.ai/wildai -------URL---------
+ABOUT WILDAI
+Deep Learning has been made very fashionable over the last few years and people have tended to use the term synonymously with Artificial Intelligence ever since “tech giants” like Google and Microsoft have embraced it. The technology is very powerful for categorizing objects within an image. One can provide it with a large dataset of any object e.g. 10,000 images of dogs, and the system can be trained to detect the next dog that comes along.
+Deep Learning requires large training data sets and is very computing heavy. It is difficult for the technology to be applied to practical use-cases. Wildfaces recently completed a project for the Hong Kong Prisons where they wanted to detect suicide attempts. There was no opportunity to collect a large dataset of relevant cases. For that requirement, Wildfaces applied its unique ReasoningAI technology that could better mimic human intelligence, ensuring a quick and successful deployment.
+The latest IoT camera devices are now mounted on moving carriers, for example, drones wearables or robots. Typical vision-based AI solutions can lose its context as both the foreground and the background move simultaneously. Wildfaces has overcome this challenge with a new type of AI that it has developed called WildAI. Both ReasoningAI and WildAI require very limited or even no datasets for training. This results in light computing, enabling systems to understand their environment in a way that Deep Learning never could. These are destined to ensure systems develop greater levels of comprehension than has been possible in the past.
+PATENTED TECHNOLOGY
+WildFaces.ai is the world’s ONLY “On-The-Move” vision-based Artificial Intelligence (AI) software system. This patented technology can recognize and track objects (with redaction capability) from moving cameras, utilizing many of today’s IoT devices, such as drones, walking robots, PTZ cameras, mobile phones, body-worn cameras & more.
+WildFaces developed its algorithms from scratch, so it is not dependent on any overused open source code, or overpriced GPU-based hardware solutions. Self-developed algorithms provide us with the flexibility to build unique us to meet customers’ specific needs including for wildly complex and congested scenarios..
+Our Differentiators
+Unlike other AI based analytics systems, Wildfaces’ technology can excel in very complex and congested environments even when the cameras or the background of the scene is moving.
+Making use
+Low Resolution
+It requires very low resolution cameras, enabling recognition at far distances.
+Patented
+Owns core proprietary technology, which is computing light requiring only a CPU.
+At Far Distances
+Able to recognize and track objects/people in extreme complex & congested scenes in real-time at significant distances.
+No Fixed Infrastructure
+On-The-Move
+Able to recognize rolling objects as well as non-cooperative individuals on the move.
+Protect Privacy
+It is already compliant with GDPR through its ability to anonymize all the faces seen to protect their privacy.
+On-The-Move
+Able to recognize and track objects/people in extreme complex & congested scenes in real-time at significant distances.
+WildFaces’ On-The-Move Recognition capability has overcome the constraints of Traditional Recognition Approach
+For Wildly Congested Scenes
+WildFaces has achieved many technological breakthroughs including the ability to recognize hundreds of faces anonymously in real-time in large uncontrolled crowds on low resolution cameras at far distances.
+EFFICIENT ALGORITHMIC APPROACHES
+Wildfaces has developed a hybrid Artificial Intelligence system combining different types of intelligence. This approach ensures high accuracy with light computing requiring no GPUs. It is highly cost effective saving implementation time as it requires minimal and often no deep learning availing of our unique and extensive ready-made AI modules.
+Furthermore, the company’s unique Smart Compression utilizes a ‘fog computing’ capability to make video analytics on the cloud possible even in limited bandwidth environments. It is an affordable solution with versatile applications in demanding and price-sensitive markets.
+WILDFACES.AI
+COMPREHENSIVE
+USE CASES
+WildFaces' proven core technologies have been deployed in 60 countries and 30+ industries.
+×
+×
+Name*
+Email*
+Phone*
+Company*

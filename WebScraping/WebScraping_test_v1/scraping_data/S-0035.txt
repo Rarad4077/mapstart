@@ -1,0 +1,14 @@
+-------URL--------- http://www.holacow.com -------URL---------
+-------URL--------- http://www.holacow.com/page5.html -------URL---------
+1
+-------URL--------- http://www.holacow.com/page6.html -------URL---------
+导航方式：3D雷达+视觉   
+电池容量：48V*24Ah
+自主乘坐电梯
+通过门禁/消防门
+载重30kg
+续航8h
+行走速度3-4km/h
+室内无人车
+室外无人车
+1

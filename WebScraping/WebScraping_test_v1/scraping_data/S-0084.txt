@@ -1,0 +1,82 @@
+-------URL--------- http://nfctouch.com.hk/nfcauthentication.html -------URL---------
+Object not found!
+The requested URL was not found on this server.          If you entered the URL manually please check your     spelling and try again.
+If you think this is a server error, please contact the webmaster .
+Error 404
+-------URL--------- http://nfctouch.com.hk -------URL---------
+Hong Kong companies are encouraged to upgrade their technological level and introduce innovative ideas to their businesses.
+Have you got an unique idea in mind?
+We understand that converting an idea into a reality is extremely difficult, we work hard to tailor our solution to client's business model and company goals. See who we had work with over the years!
+The Essential Guide to Digital Transformation
+It is not the biggest enterprise that survives but the most adoptable.
+Let's put a ding in our Universe, Together!
+What is now proved was once only imagined
+There’s a way to do it better, and we know you have an idea. Now, let us turn your idea into reality for you!
+How does NFC Technology work?
+The tech involved is deceptively simple. Evolved from radio frequency identification (RFID) tech, an NFC chip operates as one part of a wireless link. Once it's activated by another chip, small amounts of data between the two devices can be transferred when held a few centimetres from each other. No pairing code is necessary to link up and because it uses chips that run on very low amounts of power (or passively, using even less), it's much more power-efficient than other wireless communication types. At its core, NFC works to identify us by our enabled cards and devices (and by extension, our bank accounts and other personal info.)
+NFC, or near-field communication, is an easy and intuitive technology that allows you to use your mobile phone for special purposes. An NFC tag can share and link to information such as web pages, social media and all other sorts of other information generally. Other areas where NFC is starting to evolve into are making payments, opening doors secured with contactless locks, logging on to computers and many more. All of these actions have something in common, that is they invoke an action based on you placing your phone (or any other NFC device) near (the N in NFC) the thing you want to read or interact with.
+NFC Technology is bridging the gap between both the physical and virtual worlds. By bringing two devices near each other, there is a virtual reaction. Bluetooth and WiFi do not have this ease in set up. So the key feature of NFC is: It is automatic! There is no need to launch an application! ...it just works!
+NFC uses passive targets (with no batteries!) and random devices that are not powered (so called tags or stickers, sometimes aka transponders or labels) – all of which you can buy on this site as part of the Identiv offering. NFC Tags are essentially “targets” that “want” to be touched by NFC devices like mobile phones. These Tags can contain information per se or point (i.e. direct) you to information, applications or services.
+NFC chips stocked inside credit cards for contactless payments is nothing new. But a more recent and admittedly more enticing use case for NFC is with your smartphone, which can digitize your entire wallet. Virtually every mobile OS maker has their own apps that offer unique NFC functionality. Android users have the widest variety to choose from. First off, US users can nab Google Wallet, which accesses your funds for contactless payments. Samsung Pay, which operates similarly, is on the way for Samsung phone users in US and Korea this Summer.
+However, a feature that all Android owners have been able to enjoy is called Android Beam. It was implemented in Ice Cream Sandwich 4.0 as a nifty, simple process that allows for the transfer of photos, contacts and directions that works by holding two phones together.
+Whichever device you have, it's likely that a local supermarket, train station, taxi or coffee shop supports contactless payments via your phone's NFC chip. Go try it out! Simply hold it close to a contactless payment terminal and instantly, like swiping a credit card, the payment will complete.
+Looking toward the future, it's possible that NFC chips could be used to replace every card in your wallet. That means the unique info on your frequent shopper loyalty cards, library card, business cards and the like could be contained and transmitted simply via NFC.
+The potential for NFC stretches further than commerce. Passive NFC 'tags' are being built into posters and informational kiosks to transmit additional information similar to how scanning a QR code can trigger launching a web address, offering a discount coupon, or a map to download on your smartphone. A clever use of an NFC tag can be found integrated into Google's do-it-yourself VR kits, Cardboard. Mounting your NFC-capable smartphone into the headset triggers the nearby tag to automatically download or launch the app.
+Strangely enough, even video games and action figures are even seeing an injection of the wireless technology. Nintendo's Amiibo, Skylanders and Disney Infinity are collectible toys at heart, but under the hood, the NFC tech offers new functionality not previously seen in video games.
+Waving these figurines over gaming consoles or accessories enables players to "check-in" to the game brings them to life, so to speak, which activates some unique features.
+In Skylanders, these figurines can be linked up to the game to enrich the experience with these new characters to play with. Disney Infinity and Amiibo toys yield similar rewards to players and collectors. The NFC chips inside are capable enough to store user data such as experience points, progression and customized settings.
+Another practical use of NFC is with Bluetooth speakers and headphones. Many devices brandish the NFC logo, which means that by holding your smartphone to the NFC-enabled device, you'll be able to connect via Bluetooth much faster than pairing devices manually.
+Connecting the Digital with our Physical World
+Your source for making digital transformation with NFC & RFID technology
+🎥 Watch Episodes:
+【Tutorial - For Beginners】
+To understand what is NFC (Near Field Communication) what is NFC? What can you use NFC for? In this video, we will cover 1) The history of NFC, 2) How NFC technology works? 3) What is the difference between NFC and RFID, QR Code or Bluetooth?
+Smart Property Management
+Staff can 'check in' at every patrol point along pre-set routes with a smartphone. If they encounter anything unusual, staff can take photos or make recordings instantly, and upload the files to the system for reporting and handling purposes.
+【Tutorial - For dummies】
+You might have heard of NFC on your phone, but actually what is NFC? How can we use NFC in mobile? What feature NFC has? How can you turn NFC on with your phone?
+Smart Hospitality
+Bringing convenience and better experience to guests is the first priority of all hotels. Guests like more personalised design; if they can get exactly what they want the way that they like it, then they will feel more like at home.
+Smart Inspection Audit
+Imagine that your operation process can be simplified and yet improving accuracy, efficiency and data transparency at the same time. This is the core value of our NFC mobile workflow management solution.
+Document Authentication【 TrustDoc 】
+Fake or false documents feature in the majority of modern financial frauds and are the greatest menace facing in the international trading community.
+How to combat product counterfeiting?
+Product Authentication
+NFC Product authorization is so simple that most people can tap their phone onto the product. Having an effective product authentication solution can gain customer trust.
+Our NFC Solutions
+Making O2O user experiences truly possible to your unique product and service
+Have an unique idea in mind? No problem, we are optimists who love to work on your bespoke idea together!
+Let’s collaborate and make an impact with our cross-discipline approach to design and development.
+Provision of IOS, Android and HMS Mobile Application
+We will make sure the NFC chip on your product and your application will function with the mobile devices owned by your customers.
+End-To-End NFC Solution
+We understand that converting an idea into a reality is extremely difficult. We will take time to understand your idea and advice the dynamics associated with it.
+Cutting-edge technology for your NFC applications
+Hardware
+Design the best suited NFC hardware
+Everything from chip type, antenna size and materials do matters to your application
+Support
+From cloud infrastructure to computer server
+HK Government Funding Schemes For Your Innovation
+As our government aims to increase the added value, productivity and competitiveness of our economic activities. The Government hopes that Hong Kong companies could be encouraged and assisted to upgrade their technological level and introduce innovative ideas to their businesses. Hence, there a number of funding that may be applicable for your project with us.
+Type of Enterprise:
+Dedicated Fund on Branding, Upgrading and Domestic Sales (BUD Fund)
+MAX GRANT:HKD $4,000,000 Continue Reading
+Retail Technology Adoption Assistance Scheme for Manpower Demand Management (ReTAAS)
+MAX GRANT:HKD $50,000 Continue Reading
+Partnership Research Programme (PRP)
+Enterprise Support Scheme (ESS)
+Pilot Information Technology Development
+Innovation and Technology Fund for Application
+MAX GRANT:HKD $900,000 Continue Reading
+Innovation and Technology Fund for Better
+MAX GRANT:HKD $5,000,000 Continue Reading
+Public Sector Trial Scheme (PSTS)
+MAX GRANT:HKD $1,000,000 Continue Reading
+Distancing Business Scheme (D-Biz)
+Subscribe Now
+Get updates on the latest digital transformation stories, case studies and tips right in your mailbox. Subscribe now!
+AND RECEIVE FREE NFC CHIPS
+Subscribe me
+Innovative Projects
