@@ -1,0 +1,13 @@
+-------URL--------- http://www.lightphaser.hu/ziizau/ -------URL---------
+Ziizau
+Important notice! This project uses services of Google Cloud Platform. The free GCP trial is over and as unfortunately more budget cannot be allocated for the project in order to continue using these services, the functionality of Ziizau will be suspended for indefinite time! Thank you for understanding!
+Ziizau is a free mobile application that optimizes route design, finds the shortest travel route.
+The application provides the user an interactive interface for route planning by a detailed map view. Routes are defined by selecting locations on the map, they are called waypoints. The waypoints can be added manually or automatically by importing them from a data file. One of the waypoints is designated as the starting location for the route.
+Route optimization is based on finding the shortest path regarding the travel distance that connects all the waypoints. The optimization process is done in seconds or less and it takes into account natural obstacles (for example rivers or islands). The result is drawn on the map by connected waypoints as the shortest route. Besides the optimized route, more information is available like the route length, duration or the actual coordinates of the route waypoints.
+Features:
+- 3 supported languages
+Requirements: Android phone, Jelly Bean 4.2, API level 17
+For news and support join Lightphaser Facebook page
+-------URL--------- http://www.lightphaser.hu/ziizau/help.html -------URL---------
+The app lets you import waypoints easily using a JSON data file. The file can contain max. 25 waypoints and it must be accessible online via HTTP. The waypoint coordinates are latitude and longitude values.
+A sample JSON data file is provided for easier understanding of the data structure.

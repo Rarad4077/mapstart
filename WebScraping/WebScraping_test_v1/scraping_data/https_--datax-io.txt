@@ -1,0 +1,64 @@
+-------URL--------- https://datax.io -------URL---------
+-------URL--------- https://datax.io/zh -------URL---------
+-------URL--------- https://datax.io/requester.html -------URL---------
+From data labeling, AI model customization & validation, to business process automation, Datax provides complete platform services to effectively handle or offload the manual work & development needs.
+Service at a glance
+AI-assisted Labeling Tools
+Form data auto. recognition & extraction system
+Combining OCR & NLP models, required data is identified, structured and extracted from scanned docs or images. It supports tailoring to different domains or forms to improve accuracy, and pre-processing image tilt, scan noise and other issues.
+The system also includes interfaces & dashboards that are indispensable for manual verification in daily business processes.
+Auto. labeling tool for objects & actions
+By applying our body movement & object recognition models, with transfer & active learning, our auto-labeling tool can deliver customized action & object recognition with only a small amount of training data.
+This tool is suitable for any computer vision related annotation, such as worker activity monitoring. It can be deployed as a cloud solution, on-premise or run in offline devices to ensure data privacy & security.
+Data Crowdsourcing
+Datax lets you distribute data crowdsourcing or annotation tasks to selected public contributors. It is suitable for ground truth data collection involving images or recordings, that are abundant in contributors’ devices and closely associated with daily activities.
+You can imagine photos taken, voice recordings, or even Spotify song lists or listening habits, which can help develop AI app. that require local users' preference.
+Contact us for Demo
+Computer vision for recognizing objects & actions. Speech-text & NLP
+AI Solution Validation
+Corporations & Research institutions
+Process Automation
+Org. with extensive manual processes
+Start collecting or utilizing data to create value & save manpower by AI
+How AI-assisted Labeling Works
+Contact us for Demo
+1. Define & label needed objects or actions
+Let your labelers follow the instruction to label the needed objects or actions using our handy video labeling tool. The annotation can be exported at any time, while it is used to finetune the auto-labeling algorithm, to further improve the annotation accuracy.
+2. Auto-generate key frames & labels
+The finetuned auto labeling AI system automatically generate keyframes & annotations of your defined objects & actions.
+3. Validate & correct the generated labels
+Manually correct the auto-generated labels using the interface. The validated fresh data can be used for further training of the auto-labeling algorithm, to help label more videos & frames under the same scenario.
+4. Label more videos & export your data
+Congratulations. You can use the trained AI to annotate & export data at any time. Focus on your application development & research!
+How it works
+Specialized Task Types
+Let us know if you need any other data / task type.
+What makes Datax special?
+Instead of crowdsourcing data from scattered workers, Datax builds large, localised contributor          bases. Datax is the way to precise, demographic-based data.
+Quality Assured
+AI production demands accurate data. Datax allows you to easily set a consensus size among data contributors and reject poor responses to ensure data quality.
+Scalable
+Whether you need 5 or 5000 pieces of data labeled, Datax will find the perfectly-sized          workforce for your task.
+Time Saving
+Let your internal team work smarter, not harder: crowdsourcing data labeling work makes the process 80% faster.
+The Datax Channels
+We provide companies & researchers a channel to label data & deliver high-accuracy datasets             ready for AI/ML applications. Examples of data collection ＆ processing we currently specialise             in:
+All-in-one solution - Quality datasets for AI and applications
+SaaS - Data labeling, task management and review module empowering your internal labeling team
+Localized crowd intelligence, sentiment and public opinion
+Earn Rewards
+Contributors earn rewards on our app by completing simple tasks like labeling images,             translating text, completing surveys, etc.
+Contribute to Innovation
+The data you create on this app helps business to develop smarter AI, better marketing             campaigns, and more.
+This app is for everybody. All you need is your phone and a PayPal account, and             we're working on adding new rewards every day. Download now to check it out—it's totally free.
+Contributors' Distribution
+We strive to grow and team up our contributors around the world, to give back to the societies we serve for & to support local researches. As of October 18, 2019, the total number of contributors was 1033, growing by 19.4% monthly. Below is the contributor distribution of the users who have granted us the info.:
+Location
+Our contributors come from 35 countries & are proficient in 63 languages.
+United States
+Hong Kong
+From the general public to the completion of higher education.
+Doctoral or
+We'd Love to Hear from You
+Have a question about templates, trials, pricing, how to contribute, or anything else? Let us know - we respond quickly.
+Don't miss out, Stay updated

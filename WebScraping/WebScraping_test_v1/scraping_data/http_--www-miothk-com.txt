@@ -1,0 +1,28 @@
+-------URL--------- http://www.miothk.com -------URL---------
+MIoT
+The site was created with Mobirise website themes
+-------URL--------- http://www.miothk.com/aboutus.html -------URL---------
+eco-systems with disruptive innovations.
+MIoT focus on non-optical and privacy-aware people-sensing
+solutions, supporting  nation-wide smart city implementation, with
+our profile and expertise in fields of Millimetre-wave radar analysis, LIDAR
+measurement, Time-of-flight (ToF) sensing and social distancing systems.
+Project wins include Proof-Of-Concept installations at several venues
+managed by public utilities, property management companies and
+the EMSD department.  Our product and service proves valuable for
+any property owner, developer or management.
+Recently MIoT was engaged to deploy mmWave radar in a local museum
+for energy-saving air conditioning control systems, smart toilets with
+people counting and analysis, occupancy detection, and indoor air
+quality (IAQ) monitoring. Activities cover both infrastructure and
+applications design.
+Smart Energy Connect Partnership with CLP Hong Kong
+Member company of the Incu-Tech Programme of HKSTP
+ 
+ 
+No. 19 Science Park West Avenue,
+Hong Kong Science Park,
+Pak Shek Kok, N.T.
+-------URL--------- http://www.miothk.com/iot.html -------URL---------
+MU1001  IC Datasheet
+Capacitor Isolated Low Ripple AC Direct to DC  1.8~3.3v, up to 50mA

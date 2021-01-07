@@ -1,0 +1,56 @@
+-------URL--------- http://www.openlegacy.com -------URL---------
+We use cookies to provide you a relevant user experience, analyze our traffic, and provide social media features.  Read More
+If you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.
+Watch our on-demand webcast "How to use Compuware Topaz to build integrations to digital systems 10X faster".
+Stay healthy everyone! We can do pilots 100% offsite. Multiple options available.
+New Webcast Series! Get answers to common questions, see live demos and engage with experts.
+We're signing up new partners excited about OpenLegacy's legacy integration. Read the news!
+Watch our on-demand webcast "How to use Compuware Topaz to build integrations to digital systems 10X faster".
+Stay healthy everyone! We can do pilots 100% offsite. Multiple options available.
+New Webcast Series! Get answers to common questions, see live demos and engage with experts.
+We're signing up new partners excited about OpenLegacy's legacy integration. Read the news!
+Watch our on-demand webcast "How to use Compuware Topaz to build integrations to digital systems 10X faster".
+Composable Enterprise
+Deliver Digital Solutions 10X Faster.
+Don’t let monolithic mainframes and midrange systems slow the creation of new digital services. OpenLegacy’s patented technology generates microservices and serverless-ready API building blocks from legacy infrastructure 10X faster – and we can prove it.
+01
+02
+03
+Increase Productivity by 75%.
+In a resource-constrained world it is critical to do more with less. Using advanced API-generation techniques, OpenLegacy reduces the effort required to create new digital services by 75%.
+01
+02
+03
+Be Composable to the Core.
+According to Gartner, 63% of CEOs expect to change business models in the next two years. Make sure your enterprise is ready for the future with the ability to rapidly assemble components from your core legacy systems into new digital services – on demand.
+What is Digital-Driven Integration?
+Bypass complex, costly technology layers by integrating directly to core systems.
+Automatic Code
+Generation
+Generate digital-ready code in minutes, so you rapidly release new digital services while using just a fraction of the manpower.
+Flexible
+Deployment
+Deploy on premises and/or in the cloud as microservices or serverless functions.
+Previous
+"OpenLegacy helps us set the mainframe free, finally. Instead of being a prohibitive factor for new projects, it’s now the enabler - with OpenLegacy generated APIs that connect to any other system in our environment”
+"The growing need for privacy law compliance requires complete access to ALL data, including those in legacy systems. OpenLegacy and BigID made this possible.”
+“I was impressed with how fast we got everything deployed. In less than a month, Fern was able accomplish our objectives through a modern REST API”
+Jeff Mason, Director, Customer Technology Innovation
+“With a foundation of DevOps methodology, OpenLegacy helped us step into the new digital age and deliver the access and speed we need to meet today’s needs and head into tomorrow.”
+Eldad Omer, CTO
+“The Microsoft CRM implementation is part of a bigger project at Delek to combine legacy applications with new technologies, offering our users uniform and friendly interfaces. OpenLegacy made the integration between the AS/400 applications and the CRM fast and painless.”
+Ruth Hirsch, CIO
+“OpenLegacy liberated our legacy system from our middleware stack, resulting in a dramatically streamlined process and significant capital savings. From now on, when it comes to legacy integration, we’re using the OpenLegacy platform for all our digital initiatives.”
+“OpenLegacy helped us become truly responsive by letting us build APIs and microservices in a single sprint—five microservices in two weeks, instead of one in many months.”
+“I was blown away by how fast and easy it was to develop our new AS/400 tablet app with OpenLegacy. We didn’t need to learn how to code for tablets and we didn’t need to change anything in the AS/400. We get all the benefits of the tablet, with the security and reliability of the AS/400.”
+“OpenLegacy let us connect our iSeries applications to our insurance agent portal without changing our COBOL applications, which would have been a huge, expensive headache. We couldn’t believe OpenLegacy was able to conform to all of our security, performance, and design constraints - and do so within days.”
+ 
+A Journey and A Destination
+Thriving in an ever-changing digital world means more than solving today's challenges. To be truly adaptable, you need a solution that powers your ongoing digital-strategy. One that empowers your business to evolve beyond legacy, and to succeed no matter what the future holds. This is Digital-Driven Integration.
+Become Digital to the Core
+Previous
+White Paper
+eBook
+Accelerating the Digital Journey From Legacy Systems to Modern Microservices
+Next
+Product

@@ -1,0 +1,40 @@
+-------URL--------- http://www.datavaccinator.com -------URL---------
+Data Vaccination “vaccinates” your sensitive data and protects it against abuse. At the very moment when data is being generated, DataVaccinator splits that data and uses advanced pseudonymisation techniques to separate content from identity information. Managing these two categories via independent data services mitigates data privacy and security risks and ensures compliance with GDPR. DataVaccinator remembers the relationship between split data and can reverse the split upon demand. By industrializing these processes, DataVaccinator makes secure data management efficient and affordable. DataVaccinator is open source and gives programmers the power to use its modules in any application, thereby increasing security of data and lowering the costs of data management.
+Upon generation, data is split into separate databases, and is joined realtime in the local applications.
+Realtime applications ready
+Broad applicability & security
+Easy to integrate
+Open source
+Full transparency and future-proof investment with open source licensing; AGPL (server) and MIT (client).
+Industrialised pseudonymisation
+DataVaccinator pseudonymises data faster, at lower cost and higher quality.
+How do we industrialise pseudonymisation?
+Pseudonymisation is an established concept but traditionally it is applied too late in the process, as post-processing of sensitive data, and not upon data generation. This leaves the original data pool at risk.  In the online era, realtime requirements challenge this tradition as illustrated by daily leakages. In order to mitigate cyber risks of sensitive data such as medical records or bank statements, identifiable data of the person (PID/PII) must be managed separately from the content data, at any time. This is what DataVaccinator enabled applications do. As the same concept also applies to IoT and other digital objects, we use Vaccination ID (VID) instead of PID/PII. On application level, data can be merged in realtime and transparent to the end user. Encryption ensures that only eligible parties can access such sensitive data. For example, an X-ray image will not be stored with name and date of birth, but only with a VID. Name and date of birth (Vaccination Data) will be stored separately and linked to this VID. Thus, even in the case of a data loss, the potential damage is low as unauthorised parties cannot relate the content to a person/IoT object, or vice versa. Also, service providers operate at much lower risk because the available data are not assigned.
+DataVaccination industrialises these capabilities by providing programmers high-quality software for fast and cost-effective integration into applications of any kind.
+How can we support you?
+You can integrate DataVaccinator into your software and operate the solution yourself.               However, if you wish, we are ready to support you according to your needs.
+Basic Support
+Maximum 24 hours response time on business days.
+Up to 5 support cases per month.
+ 
+€ 520 / month
+Professional Support
+Product and developer support by email and by phone               during European business hours.
+Maximum 2 hours response time during business hours.
+Up to 12 support cases per month.
+€ 1,320 / month
+For an individual support plan offer, please get in touch:   info@vaccinator.net
+What are your hosting services?
+We offer individual hosting of the DataVaccinator service system,            a Linux server that runs the webserver, database and DataVaccinator application together with a firewall.            It provides web access using a SSL secured REST API (https).           The access is limited to dedicated IP addresses, thereby limiting access to eligible parties.
+Small
+Up to 10,000 entries.
+Hosted in Europe.
+€ 210 / month
+Up to 100,000 entries.
+Hosted in Germany.
+€ 620 / month
+Access by up to 20 dedicated IP addresses.
+Hosted in Germany.
+Always the most recent stable software version.
+€ 1,480 / month
+DataVaccinator SARL

@@ -1,0 +1,49 @@
+-------URL--------- https://www.v-key.com/products/v-os-cloud-solutions/ -------URL---------
+V-OS Cloud Solutions
+Enables rapid deployment of the same powerful V-Key solutions for remote access
+Secures remote access to corporate services or Microsoft Office 365
+Simple and quick to integrate
+ 
+User launches VPN software on laptop to access corporate network
+Authentication process starts with user’s inputs of Username & Password (1FA) on laptop,
+Upon successful verification of 1FA, V-Key App on user’s mobile device will be activate to request for 2FA
+User will further verify (either facial/fingerprint biometrics or passcode) their identity through the V-Key App
+ 
+V-OS Cloud | V-Key Explainer Video
+In this video – V-OS Cloud – we illustrate how our corporate cloud offering serves to provide secure access to VPN connections and Office365. In times where remote working is needed, corporate services can be easily activated and secured with V-OS Cloud.
+Click  here  to watch the other videos in this series and follow us on  LinkedIn  and  Facebook  for more updates.
+Want to know more?
+Contact us to find out more about our products, and how they can provide solutions to your specific needs.
+-------URL--------- https://www.v-key.com -------URL---------
+V-Key - Mobile Security
+V-Key is a global leader in software-based digital security, and is the inventor of V-OS, the world’s first virtual secure element. Common Criteria EAL3+ certified, FIPS 140-2 Validated and accredited by IMDA, V-Key’s Security, Authorization, and Verification solutions are used widely across banking and government mobile and digital platforms across the region.
+Securing 100 Million Mobile Digital Experiences Globally
+Absolute peace of mind and convenience for mobile banking customers
+Efficient | Effective | Effortless
+V-Key - Mobile Security
+V-Key is a global leader in software-based digital security, and is the inventor of V-OS, the world’s first virtual secure element. Common Criteria EAL3+ certified, FIPS 140-2 Validated and accredited by IMDA, V-Key’s Security, Authorization, and Verification solutions are used widely across banking and government mobile and digital platforms across the region.
+1
+2
+3
+4
+Enabling Asia’s First Fully Digital Bank
+Powered by V-Key’s revolutionary V-OS, DBS launched the award-winning digibank service, a fully digital banking experience in India. As a foundational element, V-OS brings security with unprecedented convenience to every mobile phone transaction on digibank.
+V-Key secures UOB Mighty
+Slightly over a year into our partnership with UOB, we checked in with Dennis Koh, First Vice President of UOB. He shares with us how V-Key has worked with UOB to secure UOB Mighty; as well as upcoming plans for further enhancing the mobile security experience for UOB’s customers.
+V-Key extends IDaaS offerings in APAC with Ingram Micro Cloud Agreement
+V-Key launches its V-OS Trusted Identity Services in world’s largest Cloud marketplace, offering Enterprise-grade security to everyone.
+V-Key announced an agreement with Ingram Micro Cloud, to roll out its internationally acclaimed V-OS Solution progressively in seven Ingram Micro Cloud Marketplace across Asia Pacific. V-OS Trusted Identity Services refer to the Cloud-based Identity as a Service (IDaaS) offerings for mobile security and Authentication technologies. Until recently, these solution have traditionally been offered as on-premise solutions for large enterprises, and this collaboration hopes to enable SMEs to seamlessly deploy Enterprise-grade security to protect Digital Identity.
+News
+World's First Virtual Secure Element V-OS obtains Common Criteria EAL3+ on iOS and Android.
+V-Key is proud to announce that our V-OS is the world’s first Virtual Secure Element to obtain Common Criteria EAL3+ certification on iOS and Android.​
+V-Key announced that V-OS, V-Key’s core patented technology, is the world’s first virtual secure element to receive a Common Criteria Evaluation Assurance Level (EAL) rating of 3+, derived from the U.S. Government’s Protection Profile for General Purpose Operating Systems.
+#TrustSimplified Explainer Video Series
+Welcome to our Series of Explainer Videos entitled #TrustSimplified where we aim to simplify our technology and business value into 5 bite-sized videos.
+Why Existing Mobile Software Protections are Insufficient
+Recognizing that existing mobile software protections are insufficient against today’s cyber threat landscape, we take a closer look at the main types of software protections in the market.
+V-OS Protection against CPU vulnerabilities
+Virtually every computing device in the world is made unsafe by the latest disclosures on Central Processing Unit (CPU) vulnerabilities. Find out how the virtual secure element technology is protecting millions of mobile application users against such vulnerabilities.
+V-Key partners Assurity to bring convenient security to Singaporeans
+Assurity operates the National Authentication Framework, a Singapore Government project to improve the security of online transactions. Find out how our partnership is helping to make government-grade security convenient and easy to use.
+00:0001:5700:00
+01:57

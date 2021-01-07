@@ -1,0 +1,93 @@
+-------URL--------- http://panga.fr -------URL---------
+L'architecture réseau des bâtiments
+et des villes connectés
+Des réseaux locaux pour transformer les bâtiments et les villes en plateforme de service, à destination de leurs usagers et leurs gestionnaires.
+Votre navigateur ne supporte pas les vidéos HTML5
+Panga : nouveau Tiers de Confiance du Numérique
+Nous sommes fiers de vous annoncer que Panga est officiellement adhérent à la Pépinière de la Confiance de la FNTC, une unité essentielle exerçant une activité en lien avec cette notion de confiance dans le numérique. Nous pouvons maintenant agir pour plus de confiance et de transparence dans le numérique, notamment avec notre solution PyGuard !
+Interview de Cyril Banos pour l'émission "Small is Smart" de BSMART
+Cyril Banos parle du développement de Panga, des conditions des startups en France et du secteur du bâtiment intelligent pour l'émission Small is Smart de BSMART du 19 juin 2020.
+Cyril Banos interviewé sur Radio Enghien
+Cyril Banos, CEO de Panga, présente son point de vue sur les Smart Buildings et Smart Cities pour l'émission Le Bar de l'Économie sur Radio Enghien idFM 98.0 , le 12 mars 2020.
+Edge vs Cloud Computing
+Si internet était un pays, il serait le 3ème plus gros consommateur d'électricité au monde... Les infrastructures réseaux supportent nos échanges massifs de données, mais comment vont-elles faire face à l'arrivée des objets connectés ?
+Patrick Simon intervient sur la sécurité des données personnelles au 20h de TF1
+M. Simon est intervenu en tant qu'expert au journal télévisé de 20h sur le thème : "Internet : pourquoi vos données personnelles sont si précieuses", dans le cadre de notre projet  Hosen qui vise à protéger les données personnelles issues des objets connectés.
+Gestionnaire
+Valorisez votre patrimoine via la gestion de tous vos bâtiments sur une même plateforme
+Conciliez votre confort de vie professionnel et personnel avec vos économies d'énergies
+Nous sommes ouvert du lundi au vendredi, de 9h à 17h.
+Nous écrire :
+-------URL--------- http://panga.fr/solution -------URL---------
+Les avantages de notre solution
+Un outil unique, ouvert et interopérable
+Fini les modèles en silos et les plateformes de services incompatibles ! Gérez l'intégralité de votre bâtiment sur un même outil.
+Ready to Services
+Conformes au modèle R2S de la SBA , nous proposons de multiples services, avec un store d'applications ouvert aux tiers.
+Rapide et écoresponsable,
+avec ou sans internet
+Notre infrastructure réseau réduit les distances de transport de données, pour plus de réactivité et moins d'émissions de CO2.
+Comment ça marche ?
+Notre architecture est construite sur le principe d' edge computing : traiter la donnée là où elle est produite. Elle repose sur un puit de données multiservices qui collecte les données issues des différents silos techniques du bâtiment (compteurs, IoT, GTB...), et s'adapte à tout type de bâtiment ou infrastructure de la ville.
+Spécifications de
+Locale, distribuée et résiliente
+Pensée pour être stable à n'importe quelle échelle et anticiper les volumes de données des Smart Cities
+Sécurisée et cloisonnée
+Chaque entité n'a accès qu'aux données pour lesquelles elle possède les droits.
+Ouverte et durable
+L'open technology garantie la perennité et l'interopérabilité de la solution, au-delà de Panga.
+Les éléments
+Architecture réseau
+Fédère les objets et équipements connectés pour assurer la transmission des données, grâce à un bus de communication IP local et sécurisé.
+SCM
+Concentre, collecte et traite localement toutes les données issues des capteurs et actionneurs d'un bâtiment, d'un quartier ou d'une ville.
+Architecture de sécurité
+Protège le système et les données contre les intrusions et garantit la stabilité de fonctionnement de la solution.
+NeHo
+NextHome : Délivre les services et informations en temps réel au sein du bâtiment sur un écran dédié, ou depuis l'extérieur sur smartphone et pc.
+NeMa
+NextManagement : Pilote et supervise le bâtiment à distance via une plateforme de services web à destination du gestionnaire.
+Installation
+1. Une conception sur‑mesure
+De la conception aux opérations de rénovation, nous intervenons en vous proposant une solution adaptée à la topologie et aux contraintes de votre bâtiment.
+2. Exemple d'installation
+Chaque espace est équipé d'un SCM, qui fédére les IoTs et traite les données en local. Ce réseau maillé est indépendant et accessible depuis l'extérieur via la box internet du bâtiment. Grâce au PoE, nous mutualisons les câblages d'alimentation et de réseau.
+ 
+3. Des services à la carte
+Suivant vos besoins, vous pouvez déployer nos services. Vous pouvez aussi développer de nouvelles applications grâce à notre architecture ouverte et nos API.
+4. Un pas vers les Smart Cities
+Créez un écosystème serviciel autour de votre bâtiment en le connectant aux autres structures du quartier et aux données de la collectivité.
+Plaquette commerciale
+Notre offre à destination des bailleurs et la présentation de notre projet.
+Brochure Smart Home
+Flyer
+La présentation de notre solution, son fonctionnement et nos services.
+Kit presse
+Pourquoi une architecture réseau locale ?
+Actuellement, la plupart des données sont envoyées et traitées dans le Cloud, avant d'être renvoyées et utilisées à leur point de départ : c'est ce qu'on appelle le Cloud Computing. Cependant, nous pensons que l'avenir de l'IoT passera par l'Edge Computing : traiter la donnée là où elle est produite.
+Cloud computing
+Edge computing
+L'edge computing, une nécessité technique
+Avec 30 milliards d'objets connectés à l'horizon 2020, les architectures réseaux "tout cloud" vont faire face à des problèmes de réactivité et de bande-passante, notamment sur les couches radios.
+L'edge computing, une empreinte carbone réduite
+Traiter la donnée là où elle est produite permet de réduire les infrastructures de transport et limiter les allers-retours des flux d'informations, ce qui réduit son empreinte carbone.
+Décentraliser les données diminue les risques
+L'Edge computing permet de conserver la souveraineté des données en les traitant localement. Il favorise la répartition des données et la résilience de la solution, ce qui diminue les risques en cas de cyberattaques.
+Les données en local facilitent les développements
+L'utilisation de protocoles standards, ouverts et des réseaux locaux au sein des bâtiments et des quartiers permet d’unifier les données, et ainsi simplifier le développement et l'interopérabilité des applications.
+SCM : Security
+Concentrator Module
+multi-interfaces & multi-protocoles
+Nous avons conçu le SCM pour collecter, concentrer et traiter les données issues des capteurs et équipements du bâtiment ou de la ville. Installés dans les gaines techniques des espaces ou parties communes, ils sont chaînés pour construire un réseau de systèmes intelligents répartis.
+Caractéristiques générales
+Intelligence artificielle embarquée
+Systèmes de sécurité
+DHCP
+LoRa
+enOcean
+Zwave
+6LowPan
+Thread
+Accueil
+Nous sommes ouvert du lundi au vendredi, de 9h à 17h.
+Nous écrire :

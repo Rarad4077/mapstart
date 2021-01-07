@@ -1,0 +1,29 @@
+-------URL--------- https://pixeleyenow.com/ -------URL---------
+We provide tailor-made A.I. computer vision solution for statistic collection and analytic purposes
+Facial Recognition
+Membership Management
+Technology Features
+Real time
+Able to detect objects in real time with low latency and high FPS.
+High accuracy
+Vehicle recognition accuracy is 95.6%. Facial recognition accuracy is 99.38%
+CCTV camera based
+Can connect to many popular CCTV cameras directly without any extra hardware installation
+Privacy protected
+Mask Personally identifiable information and will not store those information in database
+Multiple classes
+Able to detect different types of objects at once in the same image
+High Potential
+Our AI technology can be applied in different scenario, such as
+AI Check In
+Membership System
+Retail Heat Map
+Safety Alert
+Video Demo
+See more
+Award
+2018 Hong Kong Awards for Industries
+Pixeleye ltd. is honored to receive Technological Achievement Certificate of Merit from Hong Kong Science & Technology Parks Corporation (HKSTP) for achieving a high level of technological innovation, commercialisation and the fostering of technology culture in 2018.
+Contact Us
+Unit 313, 3/F, 16W Science Park West Avenue,  Hong Kong Science Park, Shatin, N.T
++852 3489 7999

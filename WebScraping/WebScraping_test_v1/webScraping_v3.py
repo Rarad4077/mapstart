@@ -109,6 +109,7 @@ class RecursiveScraper:
         while self.urlQueue and num_visited_node<self.maxNode and num_words<self.maxWords:
             url = self.urlQueue.pop(0)
             self.urls.add(url)
+
             num_visited_node += 1
             try:
                 browser.get(url)
@@ -174,13 +175,14 @@ if __name__ == '__main__':
     website_df = list_it_df[['Reference Code','Website']]
     
     for index, row in website_df.iterrows():
-        fileName = "scraping_data/"+row['Reference Code']+".txt"
-        
+        # fileName = "scraping_data/"+row['Reference Code']+".txt"
+        url = formaturl(row['Website'])
+        fileName = "scraping_data/" + str(url).replace('/','-').replace(":","_").replace('.','-') + ".txt"
         if os.path.isfile(fileName):
             print(fileName, "exist.")
             continue
 
-        url = formaturl(row['Website'])
+        
         print("website", url)
         rscraper = RecursiveScraper(maxWords=500, maxNode=3)
         rscraper.scrapeBFS(mainurl = url)

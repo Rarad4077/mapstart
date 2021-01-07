@@ -1,0 +1,53 @@
+-------URL--------- http://www.i-sprint.com/ -------URL---------
+Protect Your Mobile Apps
+and Users against various
+App icon of a legitimate
+app is clicked by a user.
+A malicious log-in page is displayed on
+the user’s screen instead of the legitimate app.
+Sensitive details are immediately sent
+to the attacker and the user is then
+directed to the legitimate app.
+has obtained
+Download now on
+Companies to Watch by Cybersecurity Ventures
+This website uses cookies to ensure you get the best experience on our website. By continuing to use the website, you will be agreeing to our Privacy Policy and Terms of Use .
+Continue
+ 
+Provide Flexibility and Ease of Use Without Vendor Lock-in
+Provide Flexibility and Ease of Use Without Vendor Lock-in
+Read More
+Bank-grade Cybersecurity IAM Solutions and IDoT for Brand Protection Solutions
+Identity and Access Management (IAM)
+Enterprises can implement strong authentication, single sign-on, access control, identity management and end-to-end encryption solutions to safeguard asset, data, and transaction.
+Mobile Security
+Empower the use of any smart mobile device as a trusted device to protect, store, retrieve and process data/ information as well as to authorize transactions.
+IAM as a Service
+Real time Second Factor Authentication (2FA) service on the Cloud to strengthen enterprise user login process; Unified Management platform which can support multiple authentication methods
+Brand Protection
+Enterprises can minimize counterfeiting, track and trace product, and provide business intelligence for better business planning and direct interaction with customers.
+Clone-Proof AccessReal Code (AR Code)
+Unique digital watermark and the respective product identification DNA are added to a normal QR code with serialization and encryption protection to create the AR code. The secured AR code provides the copy proof feature to eliminate replication
+Our Latest Blog
+
+
+Previous
+Next
+-------URL--------- http://www.i-sprint.com/clone-proof-qr-code -------URL---------
+This website uses cookies to ensure you get the best experience on our website. By continuing to use the website, you will be agreeing to our Privacy Policy and Terms of Use .
+Continue
+i-Sprint Introduces World Only Bank-Grade Clone-Proof AccesReal Code Solution  for Brand Protection
+i-Sprint Introduces World Only Bank-Grade Clone-Proof AccesReal Code Solution for Brand Protection
+Singapore, 4 July 2018 – i-Sprint Innovations Pte Ltd (i-Sprint) has developed a new clone-proof anti-counterfeiting QR code, known as AR Code, with bank-grade security process. This unique feature is being offered on its brand protection solution – AccessReal™.
+AccessReal™ is a new generation brand protection solution for anti-counterfeiting, track and trace, and consumer marketing. This solution provides brand and product owners the ability to empower their channels and customers to self-check the authenticity of the products purchased using smart mobile devices. Each product is given a unique identity, and this identity is assigned to the product using identification tags such as barcode, QR code, NFC and RFID. With its core business in providing security solutions to highly sensitive environment industries such as financial service institutions, i-Sprint is committed to ensuring similar security measures are in place to combat counterfeits. The development of the clone-proof QR code (AR Code) builds to on this commitment by providing a secure way to verify the originality of the products.
+The AR Code is designed, generated and issued using bank-grade processes. Unique digital watermark and product identification DNA are added to a normal QR code with serialization and encryption protection to create a AR Code. The AR Code provides the copy proof security feature to eliminate replication. This can be directly printed on existing product packaging, labels, and documents. Consumers do not need special knowledge or tool to authenticate the product. They perform product authenticity check easily using a standard mobile phone with a camera, by scanning the AR Code via the mobile app or web app.  All scanning activities are communicated with the AccessReal™ secured backend system to verify the information.
+According to Mr. Dutch Ng, Chief Executive Officer of i-Sprint, “The AR Code not only allows consumers to check the product authenticity but it also enables consumers to view full product information to aid purchase decision. Enterprises can also implement a second layer identification tag to collect more consumers’ buying behavior to better inform business planning.”
+One Singapore health drink company and a well-known Asia Pacific automotive parts manufacturer are rolling out AccessReal™ with AR Code tags in quarter three this year. The health drink company uses AccessReal™ as a solution to prevent counterfeit, build consumer confidence and marketing. On the other hand, the automotive parts manufacturer uses AR Code to prevent counterfeiting, to detect grey market issue and to provide warrant management.
+“My clients demand the best solution for their products. I am happy to have i-Sprint as our technology partner for working together in providing a very innovative brand protection solution for my clients. Upcoming, I have a client in lifestyle industry who will launch a product in Southeast Asia with annual volume over 100 million units using the AR Code.” said Mr. Ng Guankai, Business Development Director of Nabcore, a business management consulting firm based in Singapore.
+i-Sprint is also working with Singapore Manufacturing Federation (SMF) to support Singaporean Food Manufacturers to protect their brand in the overseas markets. SMF launched the SMF SMART Product Authentication Platform powered by AccessReal™ in April 2018, and the AR Code tag is one of the identification tag options for manufacturers.
+Currently, AccessReal™ solution is also applied in diverse industries such as wine, publishing, beauty, health supplement, food & beverage, and home appliance.
+For more information on AccessReal™, please visit  www.accessreal.com .
+Alex Chong 2021-01-04T08:12:43+00:00July 4th, 2018| i-Sprint News |
+Share This Post, Choose Your Platform!
+Previous
+Next

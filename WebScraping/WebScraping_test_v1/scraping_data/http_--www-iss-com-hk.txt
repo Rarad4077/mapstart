@@ -1,0 +1,24 @@
+-------URL--------- http://www.iss.com.hk -------URL---------
+About Us
+We have been a  software house in Hong Kong for more than two decades.  We believe leadership with insight, creativity fits customers’ need, good internal collaboration and accountability is the key of continuous success in any business.
+Over the years, we have developed our own software products:  ISS Accounting System and ISS Project Management System.  Both systems have their niche.
+ISS Accounting allows you to create your company chart of account tree which give you super-power in analyzing your data.   ISS Project Management is an all-in-one solution, you don't need to further integrate with other software.   All functions you need to monitor and participate in projects, the system provides.  ISS Project Management is on cloud now!  We are excited to have more people benefit from it!
+Since 2015, we have provided Data Analytics and Prediction Model Building Services.  We have launched a community version on Apriori.  Please feel free to use it and give us feedback.
+-------URL--------- http://www.iss.com.hk/serviceaccount -------URL---------
+Easy to use with huge analytics power
+Since all activities of a company will finally flow to accounting department, the good analytics power of an accounting system plays an important role in understanding the strength, the weakness, the potential and the threat of the company.  ISS Accounting System equipped with strong internal analysis power, management can easily gain insight of the company and develop good strategic planning.
+With IRA (Integrated Remote Access) function, you can choose to centralize your accounting data at head office as overseas staff do the accounting work for you.  You can also choose to integrate with our A.I. Platform to further understand any behavior pattern inside your data.
+Features Highlights
+Chart of Account (CA)
+User-defined CA empowers you to know anything you are interested in
+Multiple Profit Centers
+Multiple Currency
+Both original currencies and base currency are kept for analysis
+Unlimited Analysis Code
+Powerful internal analysis is always the key of every successful business.
+Salesmen Analysis
+Handle Partial Payment
+Multi Language
+You can choose your language interface as well as language entry.  Your business can be anywhere in the world
+Integrate with other ISS Softwares
+Optional to integrate with our Project Management Cloud and A.I. platform

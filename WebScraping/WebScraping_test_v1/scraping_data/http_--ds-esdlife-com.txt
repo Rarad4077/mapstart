@@ -1,0 +1,91 @@
+-------URL--------- http://ds.esdlife.com -------URL---------
+From concept creation to visual & technology development, ESDlife Digital Solutions offers one-stop solutions in delivering supreme digital experience. With Digital Solutions, stay hassle-free with any projects!
+Design
+UI/UX
+We combine leading technology with endless imagination to strive for excellence.
+DS, the digital solutions business of ESDlife, has been specializing in creative and technical development of web and mobile applications since 2010.
+We have more than 100 experienced technologists and creative talents serving clients across a wide range of industries, from banking to retail, from commercial to non-profit organizations. Through our expertise and advanced digital technologies, we provide custom-made solutions and help clients to drive transformative outcomes in delivering unique and outstanding digital experiences.
+900+
+Projects
+90+
+Talents
+0
+ 
+DS is an AWS Consulting Partner of the AWS Partner Network (APN) that help customers of all types and sizes to accelerate their journey to the AWS cloud.
+Our Portfolio
+With a solid foundation in digital projects development, our team understands clients’  business needs in ever-changing industry landscape. Therefore, we continue to deliver projects of high standard to support digital reinvention in respective industries.
+Tel: (852) 2128 9888    Fax: (852) 2189 7448
+Address: Unit 1209, 12/F, Two Harbourfront, 22 Tak Fung Street, Hunghom, Kowloon, Hong Kong
+Leave us a message
+Name *
+Email *
+Phone
+Message *
+Recaptcha
+-------URL--------- https://ds.esdlife.com/our-services -------URL---------
+(1) UI/UX
+User interface (UI) and user experience (UX) are vital for optimizing users’ experience through different strategies, including user experience research, scenario analysis, wireframe & prototype, and interaction design. To further improve the UI and UX design, our designers make use of A/B testing to replace bad design decisions with those that are more profitable
+(2) Industry research
+Similar to the traditional business, industry analysis is essential for your company to carry out a digital business plan. Industry research allows you to get notified of the growth, trends, key players and competitors in your industry. Having a deep knowledge of how your industry works, you can make the right business decisions and develop effective strategies for growth.
+(3) User-centric design approach
+User-cantered design (UCD) highlights the consideration of users’ needs in each phase of the design process. We emphasize users’ opinions during the web or app development.  Instead of passively adapting to the design, users are given an active role throughout the design process to attain high usability and accessibility of the product. As an experienced digital consultancy, we obtain users’ feedback and develop the best solution by focus groups and questionnaires.
+(4) Responsive design
+With the popularization of mobile devices, websites are required to display on various devices regardless of the screen size. Responsive web design enables a web page to respond to different devices, leading to the growth of the number of mobile users. As an experienced digital consultancy, we create a consistent, yet tailored, website for your company across every device.
+(5) Graphic design
+As our brain processes visuals 60,000 times faster than text, graphic design is effective to capture people’s attention and create stronger engagement. Graphic design does not only make a lasting impression on your audiences but also conveys brand messages to target clients and vendors. Our group of designers is experienced to tailor-make creative visual solutions for your website or app.
+Nowadays, e-commerce is a new trend in many industries. ESD life, as a pioneer digital consultancy, has accumulated a great deal of experience in the development and management of an e-commerce platform. As an experienced digital consultancy, we provide professional services in digital sales. They include:
+(1)    E-store
+E-stores have shaped a new way of doing business and become a new trend in the market. With the increasing amount of online business revenue, many companies have started to shift their business focus from brick-and-mortar stores to online stores. As an experienced e-store builder, we customize the best plan for your project and offer extensive solutions to your e-store.
+(2)    Apple Pay / Google Pay
+The payment method is always the biggest concern for online shopping customers. A convenient and trust-worthy mobile payment method is critical for boosting sales of your e-store. Our team of programmers makes Apple Pay/ Google Pay available on your website and mobile app. With the use of Apple Pay/ Google Pay, customers can buy with a single touch on their smartphone.
+(3)    Recurrent payment
+Similar to Apple Pay / Google pay, recurrent payment is another type of payment which makes things convenient for customers who purchase products regularly. Customers are charged automatically and regularly once they have subscribed to the billing plan and input the card information. You can set the billing interval, frequency, and deadline of the payment. It helps you to boost sales and predict the cash flow more easily.
+(4)    Live chat
+In the Internet age, customers expect efficient services and rapid responses from e-stores. One of the services to retain customers is the live chat. Live chat allows your company to communicate with customers in real-time and provide immediate feedback. It helps to build up a reputation and maintain a good relationship with customers.
+(5)    Tokenization
+Customers’ information security is top of mind for e-commerce businesses. To cope with this issue, your e-commerce site needs a token gateway to fight off threats from cyber-attacks. Payment tokenization is a data security strategy that replaces sensitive data with non-sensitive equivalents. Tokenization does not only reduce the risk for merchants, but it also minimizes the cost and enhances the consumer experience.
+Many companies are moving the focus of their marketing strategies from offline to online. Digital marketing enables your company to reach new customers while connecting with existing customers. We provide the whole solution in delivering a supreme digital experience to our clients. We are experienced in handling marketing campaigns in different sizes. The marketing strategies include but not limited to the following:
+(1)    Lucky draw
+Rewards and giveaway are the most prevalent marketing strategy to create awareness of your brand, to generate engagement among your target audience, and to gather leads that have a high chance of a conversion. We help to plan and develop custom-made lucky draw campaigns for your company to attain the maximum efficiency.
+(2)    E-coupon/ E-stamp
+Existing customers are valuable for digital businesses. To retain existing customers, every successful electronic payment will be awarded for an e-coupon / e-stamp. We build an online system for our clients to arrange e-coupons / e-stamps to a specific group of customers. It encourages return customers and builds brand loyalty.
+(3)    Geo-fencing
+Geo-fencing is a feature that works with the global positioning system (GPS) or radio frequency identification (RFID) to define geographical boundaries.  You, as an administrator, can establish a virtual boundary around a specified location. Users will receive a notification when they enter or exit the boundaries. This technology is commonly used in the retail and hospitality industries to promote sales and discounts in their stores.
+(4)    One-click MGM referral scheme
+Word-of-mouth marketing is a powerful tool to engage new customers. One promotion strategy to apply word-of-mouth publicity is the member-get-member (MGM) referral scheme. Moving the MGM scheme to digital platforms makes the referral process more efficient and convenient.  The one-click MGM referral scheme will help your company to boost the number of new members.
+(5)    Dynamic discount
+Dynamic discounting refers to the agreement between buyers and sellers in business-to-business (B2B) transactions on a discount available for early payment. As an experienced digital consultancy, we help our clients to develop a system for electronic invoicing and Purchase-to-Pay (P2P) automation to facilitate the procure-to-pay process and avoid repetitive, administrative tasks.
+A customer relationship management (CRM) system helps companies stay connected to customers, streamline processes, and improve profitability. There are five key elements of CRM:
+(1)    EKYC
+EKYC stands for electronic-Know Your Customer. It is an authentication process to verify the identity and address of customers electronically. As an experienced digital consultancy, we are experienced in applying EKYC as it is commonly used in our previous projects such as the MSIG mobile app and X Wallet mobile app for Zero Finance. EKYC does not only simplify identity validation processing time and improve user experience but also satisfy industry regulations and lower your company’s operation cost.
+(2)    Rule-based engine
+To mimic human intelligence, the rule-based engine is used to teach the system pre-defined rules, such as “if statements”. By making use of the human-made rules, the system can store, sort and manipulate data like a human. With the rule-based engine, users can instruct the system to execute an action.
+(3)    Loyalty scheme
+The loyalty scheme is a marketing strategy to retain existing customers and build brand loyalty. It can incentivize the purchasing behaviours of your customers. What made the loyalty scheme so successful is the level of personalization. For example, some online systems recognize customers by their name, phone number, and payment information.
+(4)    Customers survey
+The most straightforward way to understand customers’ thoughts and opinions is through customers’ survey. To customize a unique project plan for our clients, we conduct customer surveys to figure out users’ needs and expectations.  After we have gathered the data, we revise the initial ideas and generate the most suitable solution for our clients.
+(5)    App rating
+Ratings and reviews in the App Store and Google Play serve as an indicator of the app’s quality and a determining factor of the revenue generated from the mobile app. As a team of professional app developers, we help your mobile app to obtain positive feedback so as to keep your app’s ranking in a high position.
+The ESDlife Digital Solutions team try our utmost to apply the up-to-date technology in various projects to obtain the best result. Artificial intelligence (AI) is gaining popularity in recent years. It can change or update on its own, learn from mistakes, and determines the action to take itself. Here are some examples of how we made use of AI:
+(1)    Chatbot
+A chatbot is a computer program that conducts a conversation with users according to the specific set of words input. It helps your company to handle customers’ inquiries and finish simple tasks. A chatbot can handle a huge number of customers simultaneously, reducing the demand for manpower.
+(2)    OCR
+OCR stands for Optical Character Recognition. It converses images of typed, handwritten or printed text into machine-encoded text. We, as an experienced digital consultancy, develop OCR technology with high accuracy for our clients. The technology is important not only for data entry of business documents but also for information extraction.
+(3)    Biometric detection
+Biometric detection technologies are applied to various projects. For example, liveness detection and facial recognition are applied when we develop X Wallet mobile app for Zero Finance. They ensure the loan application is made by a real person and measure the similarity of two faces in different images.
+(4)    Facial recognition
+The use of facial recognition technology has flourished and become a part of daily. It can be applied to different industries, such as online payments and security checks. It is used extensively in many mobile apps to make it faster for users to get through some difficult processes.
+(5)    Machine learning
+Machine learning can be implemented in various applications too. In our previous projects, for example, we make use of machine learning to approve loan applications as fast as 15 seconds with no bias rejections. We truly believe that machine learning will be a trendy technology to be applied in digital solutions for different industries.
+Besides website and mobile app development, we provide a range of services to enhance the website and mobile app performance. Some examples include:
+(1)    Automation test
+An automation test simplifies the physical time and manual effort into a set of scripts that apply automated checks to a broad range of test cases, such as unit, regression, and API testing. Besides the reduction of time and effort, an automation test guarantees higher accuracy, better reporting capabilities, coverage, resource efficiency, bug detection, and reusability.
+(2)    Hosting
+To publish your website online, your website requires a web hosting service. As a web hosting service provider, we offer the technologies and services needed for the website to be viewed on the Internet. Your website will be stored on our servers and monitored by our in-house technicians to ensure that your website is up and running 24/7.
+(3)    Data visualization
+At the age of big data, data visualization enables us to interpret and make sense with the extremely large amount of information. It tells stories by curating data into a form easier to understand, highlighting the trends and outliers. We look into the data and leverage the information for your decision making.
+(4)    AppGuard for Mobile security
+AppGuard is a one-stop mobile apps security solution. It protects your app by applying OS level protection without modifying the source code. By employing appGuard, your mobile app is guaranteed with the fastest protection, highest security, and best compatibility. After appGuard has applied runtime-self-protection on OS level, the protected app will be submitted to stores.
+(5)    SEO
+Search engine optimization (SEO) is a process of boosting traffic from the organic search results on search engines. It is measured by using the analytics tools of your website, including Google Analytics, Bing and Google Webmaster tool. As an experienced digital consultancy, we study the website content, HTML, architecture, links and provide suggestions for improvements to enhance the overall website SEO performance.
+Copyright © 2000-2021 ESD Services Limited. All rights reserved.

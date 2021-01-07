@@ -1,0 +1,79 @@
+-------URL--------- http://apoidea.ai -------URL---------
+Request a Demo
+CLIENT USE CASES
+PDF Table Extraction
+Leveraging the novel techniques in document recognition and our domain understanding in accounting, we extract financial statements and store as structured data automatically.
+PDF Table Extraction
+Leveraging the novel techniques in document recognition and our domain understanding in accounting, we extract financial statements and store as structured data automatically.
+Annual Report Extraction
+We help investment analysts extract key insights in annual reports and research reports, so they could focus on the more advanced analytics.
+Market Summary Automation
+We help bankers and sales by providing automated market summary which could be customised to the clients' profiles and explains the drivers behind financial market movements.
+Market Summary Automation
+We help bankers and sales by providing automated market summary which could be customised to the clients' profiles and explains the drivers behind financial market movements.
+Media and Social Monitor
+By monitoring the news and social media discussion, we generate financial insights that could be useful for investment and product decisions within financial institutions.
+CORE MODULES & TECHNOLOGIES
+Natural Language Processing
+Semantic Embedding with pre-trained language models provides groundbreaking accuracy in understanding the semantic meaning of sentences. It helps provides better results in summarization, search, classification and etc.
+Knowledge Extraction
+We recognize language patterns and knowledge structure in texts to extract meaningful knowledge for further analysis.
+Knowledge Extraction
+We recognize language patterns and knowledge structure in texts to extract meaningful knowledge for further analysis.
+Document Recognition
+We analyze the structure of a document, especially the tables and charts to extract structured insights.
+FIND US ON
++852 2386 6925
+3007-3010, Kimberland Centre, 55 Wing Hong Street, Cheung Sha Wan, Hong Kong
+Transform your business with AI now.
+Speak with our specialist
+-------URL--------- http://apoidea.ai/terms-and-conditions -------URL---------
+TERMS & CONDITIONS
+These Terms and Conditions (“Terms and Conditions”) constitute an agreement between you and Apoidea website – Speechless Financial Technology Company Limited (“Apoidea website”, “ we”, “us” or “our”). We are a limited company incorporated under the Laws of Hong Kong.
+By using our website or our services, you are agreeing to be bound by all of these Terms and Conditions. We may change these terms at any time, but we will post a notice on this website of any material changes. Your continued use of Apoidea website means that you accept any new or modified terms.
+This website is directed to people residing in Hong Kong.
+You should note that there are other terms that may apply:
+Our Privacy Statement
+If you use or subscribe to any Apoidea website premium products and services we may provide, you will be subject to additional terms and conditions which we will inform you at the time you subscribe.
+Legal Information
+Our content is copyrighted
+Except as expressly provided in these Terms and Conditions, all of the content on this site is the property of Apoidea website and is protected by Hong Kong and international copyright laws. “Content” means any information, mode of expression, or other material and services found on Apoidea website. Our content is intended for individual, personal use only. Accordingly, you may make one copy of our content for your personal, non-commercial use, provided that any material copied remains intact and includes the following notice:
+“Copyright Apoidea website. Any other copying, distribution, storing or transmission of any kind, or any sort of commercial use of our content is strictly prohibited without our prior written permission.”
+Transfer of information
+We may from time to time transfer any information you enter on our website, and store it in or outside Hong Kong. Your Personal Data may also be processed by our suppliers or third-party service providers. By providing us with such information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with our Privacy Statement. For more information, please review our Privacy Statement.
+Your Conduct
+You agree to use Apoidea website for lawful and non-professional purposes only. You may not access or use our website to:
+Violate any applicable laws, rules or regulations, including those of the Securities and Futures Ordinance (Cap. 571) of Hong Kong and any subsidiary legislation made thereunder and the rules of Hong Kong or other securities exchanges;
+Transmit material which does or is likely to cause someone alarm, anxiety or distress or to encourage violence;
+Encourage or teach conduct that is a criminal offence, gives rise to civil liability, or is otherwise unlawful;
+Collect or store personal data about other users or act in breach of data protection legislation (such as the Personal Data (Privacy) Ordinance (Cap. 486) of Hong Kong);
+Transmit any file that contains viruses, corrupted files, “Trojan Horses,” or any other contaminating or destructive features that may damage someone else’s computer or our systems;
+Forge, mask or manipulate any headers, identifiers, domain names or other data in order to disguise the origin of any content transmitted through or on our site;
+Use any automated means, including without limitation, agents, robots, scripts, or spiders, to access, monitor, copy or harvest data from any part of our sites;
+Try to get around any protections, suspensions or terminations we put in place for the security and operation of our sites;
+Take any action that imposes an unreasonably or disproportionately large load on our infrastructure;
+Take any action that damages or disrupts the functioning of our systems or services.
+Unauthorised access of our sites is a breach of these Terms and Conditions and a violation of the law. You agree not to access our sites by any means other than the interfaces we provide for use in accessing them.
+Indemnification
+You agree to indemnify, defend, and hold harmless Apoidea website, and its parent, affiliates, directors, officers and employees from and against any claim, liability, cost, damage or loss we may incur (including, without limitation, legal fees) as a result any violation by you of your obligations under these Terms and Conditions.
+Links
+The website may, from time to time, include links to external sites. We are not responsible for the content of these sites or for anything provided by them and do not guarantee that they will be continuously available. The fact that we include links to such external sites does not imply any endorsement of, or association with their operators or promoters. We have neither control nor responsibility over the content of such external sites.
+Disclaimer of warranties and liability
+Apoidea website cannot and does not warrant, represent or guarantee the truth, completeness or accuracy of any news, information, or other content found on this website, or its usefulness, appropriateness, or suitability for any particular purpose. Apoidea website will not be liable for any loss caused by reliance on any opinion or statement made on this website.
+Apoidea website relies on various sources of information in producing its content which it believes to be accurate and reliable, but makes no claims or representations as to the truth, completeness or accuracy of any such material. Apoidea website has not conducted any independent verification of information or materials obtained from or generated by third parties. Although we make reasonable efforts to update the information on our website, we make no representations, warranties or guarantees, whether express or implied, that the content on our site is accurate, complete or up to date.
+We cannot guarantee the continuous, uninterrupted or error-free operations of the website. There may be times when certain features, parts or content of the website, or the entire website, become unavailable (whether on a scheduled or unscheduled basis) or are modified, suspended or withdrawn by us, in our sole discretion, without notice to you. You agree that we will not be liable to you or to any third party for any unavailability, modification, suspension or withdrawal of the website, or any features, parts or content of the website.
+You agree and acknowledge that you bear full responsibility for your own investment research and investment decisions. You also agree and acknowledge that Apoidea website will not be liable for any decision made or action taken by you or others in reliance upon news, information, or any material published on this website. You should carefully consider whether any investment views expressed on this website are appropriate in view of your investment experience, objectives, financial resources and relevant circumstances. The relevant product offering documents should be read for further details. Investments involve risks, including the loss of principal. If you wish to invest in or have any questions about any products, please consult your stockbroker and consider whether the product is suitable for you having regard to your financial situation, investment experience and investment objectives.
+You agree that under no circumstances shall Apoidea website be liable for any direct, indirect, incidental or any other type of loss or injury resulting from your use or downloading of any content on our site. This includes, but is not limited to, loss or injury caused in whole or in part by our negligence or by contingencies beyond our control in creating or delivering any portion of Apoidea website and the contents on this website.
+Nothing in these terms excludes or limits Apoidea website’s liability for (i) death or personal injury caused by its proven negligence or that of its employees and agents; (ii) fraud or fraudulent misrepresentation; or (iii) any other liability that, by law, may not be limited or excluded. Subject to the foregoing, Apoidea website, its employees, agents, parent and affiliates will not be liable for any economic loss including without limitation loss of profits or anticipated savings, or any special, indirect, consequential or exemplary losses you may incur.
+Trademark information
+Apoidea website, its parents and affiliates have a number of trademarks, which are detailed in our Legal Information. You agree not to use or display Apoidea website’s trademarks in any manner without our prior written consent.
+Complaint handling
+If you have a complaint about our products, services or any aspects of our business, please contact us at legal@apoidea.ai, including full details of your complaint. Apoidea website will attempt to resolve your complaint as quickly as possible and inform you of the outcome of our investigation. We will inform you at the earliest possible opportunity, but within eight weeks in any case.
+General information
+Except as otherwise expressly stated in these Terms and Conditions, no person who is not a party to these Terms and Conditions shall have any rights under the Contracts (Rights of Third Parties) Ordinance (Cap 623) of Hong Kong to enforce any term of these Terms and Conditions.
+If any provision of these Terms and Conditions shall be held to be illegal, void, invalid or unenforceable under the laws of any jurisdiction, the legality, validity and enforceability of the remainder of these Terms and Conditions in that jurisdiction shall not be affected, and the legality, validity and enforceability of the whole of these Terms and Conditions in any other jurisdiction shall not be affected.
+These Terms and Conditions shall be governed by and construed in accordance with the laws of Hong Kong. In relation to any legal action or proceedings arising out of or in connection with these Terms and Conditions (the “ Proceedings”), each of the parties irrevocably submits to the exclusive jurisdiction of the Hong Kong courts and waives any objection to Proceedings in such courts on the grounds of venue or on the grounds that Proceedings have been brought in an inappropriate forum, except that nothing shall prevent us from bringing proceedings to protect our intellectual property rights before any competent court.
+In the event of any inconsistencies between the English and Chinese versions of these Terms and Conditions, the English version will prevail.
+These Terms & Conditions were last updated on 12 September 2019.
+Transform your business with AI now.
+Speak with our specialist
