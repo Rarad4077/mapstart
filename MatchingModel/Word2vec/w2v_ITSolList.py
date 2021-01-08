@@ -23,7 +23,7 @@ def ITSolList(Bus_need_code):
         print('Business Need Ref Code Error')
         return []
     busNeedEnCode = busNeedModelInput['Model Input'].iloc[0]
-    print(busNeedEnCode)
+    #print(busNeedEnCode)
     s1_afv = avg_feature_vector(
         busNeedEnCode, model=model, num_features=300, index2word_set=set(model.wv.index2word))
     itSol_df = pd.read_csv(itSolDfInputName)
@@ -64,5 +64,5 @@ def similarity(s1, s2):
 
 
 if __name__ == "__main__":
-    #bus_need_code = str(input("Enter the Business need code"))
-    ITSolList('N-0001')
+    bus_need_code = str(input("Enter the Business need code: "))
+    ITSolList(bus_need_code)
