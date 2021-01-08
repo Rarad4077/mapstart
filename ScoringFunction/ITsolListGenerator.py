@@ -121,7 +121,7 @@ class ITsolListGenerator_CrossEncoder:
         self._model = CrossEncoder(modelName)
 
     def generateITSolList(self, busNeedCode, itSolListSize = None, itSolDfInputName="1.list_it_solutions_modelInput.csv", 
-        busNeedDfInputName='2.list_business_needs_modelInput.csv', itSolOutputName='ITSolList.csv' ):
+        busNeedDfInputName='2.list_business_needs_modelInput.csv', itSolOutputName='' ):
         """To generate the ITSolList, save it in "ITSolList-<busNeedCode>.csv"
 
         Args:
@@ -129,7 +129,7 @@ class ITsolListGenerator_CrossEncoder:
             itSolListSize (int, optional): The generate IT Solution List size. Defaults to 400.
             itSolDfInputName (str, optional): The input CSV File Name of the IT Solution List.  Defaults to "1.list_it_solutions_modelInput.csv".
             busNeedDfInputName (str, optional): The input CSV File Name of the Business Need List. Defaults to '2.list_business_needs_modelInput.csv'.
-            itSolOutputName (str, optional): The output csv file name of the generated ranked IT Solution List of the business need (specified by busNeedCode ) . Defaults to 'ITSolList.csv'.
+            itSolOutputName (str, optional): The output csv file name of the generated ranked IT Solution List of the business need (specified by busNeedCode ) . Defaults to ''.
 
         """
 
@@ -158,7 +158,8 @@ class ITsolListGenerator_CrossEncoder:
             itSol_df = itSol_df.iloc[:itSolListSize]
         itSol_df = itSol_df.sort_values(by='Cosine Similarity', ascending=False)
         # # print(itSol_df)
-        itSolOutputName = "ITSolList_"+busNeedCode+"_model_"+ self._modelName.replace('/','-') +"_CrossEncoder.csv"
+        if len(str(itSolOutputName)) == 0:
+            itSolOutputName = "ITSolList_"+busNeedCode+"_model_"+ self._modelName.replace('/','-') +"_CrossEncoder.csv"
         itSol_df.to_csv(itSolOutputName,index=False)
         print("Finished IT solutions list:", itSolOutputName)
 
@@ -166,7 +167,7 @@ class ITsolListGenerator_CrossEncoder:
 
 
 if __name__ == '__main__':
-    # itg_be = ITsolListGenerator_BiEncoder(modelName="stsb-roberta-large")
+    itg_be = ITsolListGenerator_BiEncoder(modelName="stsb-roberta-large")
 
     # itg_be.generateModelEmbedding(
     #     itSolDfInputName="1.list_it_solutions_modelInput_notLemmatize.csv", 
@@ -174,23 +175,25 @@ if __name__ == '__main__':
     #     busNeedDfOutputName="2.list_business_needs_modelEmbedding_model_stsb-roberta-large_numberOfWords_100000_notLemmatize.pkl",
     #     itSolDfOutputName="1.list_it_solutions_modelEmbedding_model_stsb-roberta-large_numberOfWords_100000_notLemmatize.pkl")
 
-    # for i in range(1,10):
-    #     t0 = time.time()
-    #     itg_be.generateITSolList(
-    #         busNeedCode='N-000'+str(i), 
-    #         itSolDfInputName="1.list_it_solutions_modelEmbedding_model_stsb-roberta-large_numberOfWords_100000_notLemmatize.pkl",
-    #         busNeedDfInputName="2.list_business_needs_modelEmbedding_model_stsb-roberta-large_numberOfWords_100000_notLemmatize.pkl",
-    #         itSolOutputName="notLemmatize_"+str(i)+".csv")
-    #     t1 = time.time()
-    #     print("Time Used (s):",t1-t0)
+    for i in range(10,21):
+        print("Start BiEncoder",i)
+        t0 = time.time()
+        itg_be.generateITSolList(
+            busNeedCode='N-00'+str(i), 
+            itSolDfInputName="1.list_it_solutions_modelEmbedding_model_stsb-roberta-large_numberOfWords_100000_notLemmatize.pkl",
+            busNeedDfInputName="2.list_business_needs_modelEmbedding_model_stsb-roberta-large_numberOfWords_100000_notLemmatize.pkl",
+            itSolOutputName="notLemmatize_"+str(i)+".csv")
+        t1 = time.time()
+        print("Time Used (s):",t1-t0)
 
 
 
     itg_ce = ITsolListGenerator_CrossEncoder(modelName='cross-encoder/stsb-roberta-large')
 
-    for i in range(1,10):
+    for i in range(10,21):
+        print("Start CrossEncoder",i)
         t0 = time.time()
-        itg_ce.generateITSolList( busNeedCode='N-000'+str(i),
+        itg_ce.generateITSolList( busNeedCode='N-00'+str(i),
             itSolDfInputName="1.list_it_solutions_modelInput_notLemmatize.csv", 
             busNeedDfInputName="2.list_business_needs_modelInput_notLemmatize.csv",
             itSolOutputName="CrossEn_notLemmatize_"+str(i)+".csv"
