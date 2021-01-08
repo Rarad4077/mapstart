@@ -1,0 +1,156 @@
+-------URL--------- http://www.shapesecurity.com -------URL---------
+Solutions
+Shape Security is Now Part of F5
+F5 and Shape have joined forces to defend every application against attacks, fraud, and abuse in a multi-cloud world.
+Defeating Application Fraud
+We protect more accounts from fraud than everyone else in the world combined.
+Shape Security is Now Part of F5
+F5 and Shape have joined forces to defend every application against attacks, fraud, and abuse in a multi-cloud world.
+AGILITY 2020 IS NOW AVAILABLE ON-DEMAND
+Thanks to this year’s virtual format, we’re able to share every keynote, breakout, and demo with you to watch anytime, anywhere.
+F5 to acquire Shape Security
+F5 and Shape come together to become a leader in end-to-end application protection.
+Defeating Application Fraud
+We Protect More Accounts from Fraud than Everyone Else in the World Combined.
+Comprehensive Application Security on One Integrated Platform
+Shape leverages AI and ML to accurately classify web and protect mobile application sessions in real time over a billion times per day
+Shape examines interactions between clients and servers
+Unique client telemetry is gathered via uniquely protected channels
+Real-time analysis and classification of all transactions, devices and user behaviors
+Device and account behavior is further analyzed, classified, and used to train ML
+Supports real-time, near-real-time, and offline insights and decision-making 
+Over 1 Billion
+150 Million
+82
+Join the Shape Network Today and See ROI in Weeks
+Customers report sustained reductions in fraud losses, including chargebacks, unauthorized fund transfers, and stolen loyalty points.
+Evaluate Shape’s solutions risk-free.
+Three Solutions that Leverage Shape’s AI System
+SHAPE ENTERPRISE DEFENSE
+Shape Enterprise Defense processes billions of web and mobile transactions per day. By separating real humans from unwanted bots, Enterprise Defense eliminates the threat surface for all kinds of online fraud, business logic abuse, and account takeover.
+BLACKFISH
+Blackfish is the only solution that alerts an enterprise when attackers actively use its compromised credentials, before they appear on the dark web. Even when the credentials are used for account takeover against a different target.
+Shape Connect gives small, but growing, online businesses an all-in-one security solution that eliminates bots and fraudsters. Shape Connect never adds user friction (no CAPTCHAs) and always preserves your site’s availability and low latency.
+ROI within Weeks
+Easy to Try
+Solutions
+-------URL--------- http://www.shapesecurity.com/app-security-and-fraud-summit -------URL---------
+Solutions
+All Webinar Sessions
+‍
+Shape Security Predictions 2020 Report: Emerging Threats to Application Security
+Mike Plante | VP Marketing, Shape Security
+Credential Stuffing 2020: Latest Attack Trends and Tools
+Jarrod Overson | Director of Engineering, Shape Security
+Compromised Credentials, Customer Satisfaction, and Your Bottom Line
+Smriti Jaggi | Threat Intelligence Analyst, Shape Security
+Manual Fraud Fueled by Genesis & Magecart: Beyond Automated Attacks
+Dan Woods | VP Shape Intelligence Center and Former FBI Agent
+Magecart & Other Application Code Attacks: Digital Skimming, Fraud & PII Theft
+Wesley Hales | Director, Partner Solutions, Shape Security
+Critical Infrastructure Attacks: Between Apocalypse and Reality
+Tara Seals | Senior Editor, Threatpost
+Attacker Economics:
+Access on-demand on your own time
+*
+Country:
+Country
+SUBMIT
+By submitting this form, you agree to our Terms of Use and acknowledge our Privacy Policy.
+ATTACKS
+Solutions
+-------URL--------- http://www.shapesecurity.com/attacks -------URL---------
+Solutions
+Attackers walk through the front door by acting like real users
+Criminals masquerade as customers by co-opting real behavior, devices and even identities
+Real Behavior: Attackers simulate entire populations of users with genuine human characteristics to conduct fraud at scale. For example, to test out thousands of stolen credit cards for validity, an attacker may record a genuine human session with the application, with real mouse-movements, key strokes, timing, etc., and then replay that interaction thousands of times.
+Real Devices: Attackers hijack devices via malware and pretend to be the device owners. For example, an attacker may use man-in-the-browser malware to divert funds after a victim has successfully logged into her own bank account via MFA.
+Real Identities: Attackers steal pieces of real people’s identities, to pass themselves off as those customers online. For example, an attacker may steal a username and password to hijack a user’s online account or use a social security number to commit identity fraud.
+Credential
+Stuffing
+Fake
+Accounts
+Bad actors use fake accounts to commit financially-motivated attacks such as reward abuse on retail sites and money laundering via online banking.
+Credit Application Fraud
+Attackers use stolen personally identifiable information (PII) to open an account in another person’s name.
+Gift Card
+Cracking
+Attackers check millions of gift card number variations on a gift card balance lookup application to identify card numbers that hold value.
+Scraping
+‍
+Attackers use automated tools to collect large amounts of data from a target application in order to reuse that data elsewhere.
+Application DDoS
+Application DDoS is used by attackers to cause login problems, search timeouts, or unexplained database failures.
+Aggregator Threat Surface
+Financial aggregators create unintended risks for the financial institutions from which they source consumer data.
+You used a Shape-protected Application 10 times This Week
+Shape protects over 4 Billion transactions per week from imitation attacks on behalf of the world’s largest companies. So when you search for flights online, check your bank balance on your phone, or order clothes via Alexa, chances are, Shape protected that experience.
+You used a Shape-protected application 10 times this week
+Shape protects over 4 Billion transactions per week from imitation attacks on behalf of the world’s largest companies. So when you search for flights online, check your bank balance on your phone, or order clothes via Alexa, chances are, Shape protected that experience.
+SHAPE ENTERPRISE DEFENSE
+Solutions
+-------URL--------- http://www.shapesecurity.com/attacks/credential-stuffing -------URL---------
+Solutions
+AKA Account Takeover, Brute Force Attack, Credential Testing, Account Hijacking, Password Checking, Password List Attack
+Credential stuffing occurs when a criminal tests large numbers of compromised credentials (i.e., usernames and passwords breached from another site) against your login application.
+Shape defeats credential stuffing at multiple levels
+Shape finds compromised credentials in real-time, identifies botnets, and blocks simulation software.
+Credential stuffing attacks made up 80% of all login traffic
+CDN-provider only able to prevent one-fifth of attacks
+Shape eliminated all attacks, reducing site latency from 250 ms to 100 ms
+1.4 BILLION
+SHAPE PROTECTS OVER 1.4 BILLION ONLINE ACCOUNTS FROM CREDENTIAL STUFFING ATTACKS.
+Credential Stuffing Requires Three Elements
+1. Breached Credentials
+On average, one million usernames and passwords are reported spilled or stolen every day. Attackers acquire credentials in many ways, from discovering misconfigured databases to infecting users’ devices with malware.
+According to Shape analysis, 0.5%-2% of any breached credential list will be valid on a targeted website or mobile app.
+2. Distributed Botnet
+Attackers route their login requests through proxy servers to avoid IP blacklists and other forms of detection. Criminals can purchase access to proxy services from bot herders on dark web forums for $2-$8 per hour.
+Across Shape’s customer network, an IP address is typically used just two times per credential stuffing attack.
+3. Simulation Software
+Finally, attackers use bots, or computer programs, to automatically test the list of breached credentials. Attackers often purchase toolkits on the dark web, such as CAPTCHA solvers or anti-fingerprinting scripts, to help counteract existing defenses.
+Credential Stuffing using Python & Selenium
+VP of Shape Intelligence demonstrates techniques attackers leverage to imitate users.
+Brief
+An original research brief on the attack tool Sentry MBA, a free click-and-point tool designed specifically for credential stuffing attacks.
+Blog
+Learn how attackers defeat Google’s Invisible CAPTCHA via an API.
+Video
+In this 13 minute video, learn how attackers use headless browsers like PhantomJS to bypass security and fraud detection.
+Fill out the form to start trying Shape.
+*
+A Shape expert will contact you as soon as possible.
+By submitting this form, you agree to our Terms of Use and acknowledge our Privacy Policy.
+ATTACKS
+Solutions
+-------URL--------- http://www.shapesecurity.com/attacks/fake-account-creation -------URL---------
+Solutions
+AKA Bot Accounts, Fraudulent Accounts, Account Registration Fraud, Fake Account Fraud, Synthetic Accounts
+Fake accounts lead to direct fraud losses
+Fake accounts have recently made headlines for maliciously influencing discourse on social media. However, bad actors also use fake accounts to commit financially-motivated attacks, including reward abuse on retail sites, money laundering via online banking, and even as a disguise for credential stuffing.
+Shape prevents attackers from creating fake accounts
+Shape Enterprise Defense sits in front of online account registration applications and can detect in real-time if an attacker tries to create fake accounts at scale using automated tools or via sophisticated manual techniques.
+Key Challenges of Fake Accounts:
+Loss of user trust
+3 SECONDS
+A SINGLE ATTACKER CREATED A FRAUDULENT ACCOUNT ON A RETAILER’S SITE EVERY 3 SECONDS FOR A WEEK.
+How Attackers Commit Fraud using Fake Accounts
+1. Assemble Attack Script
+If an attacker plans on making more than 20 or 30 accounts, he will typically want to leverage automation to quickly input data into each field of the registration application.
+This attack script might include API calls to appropriate services, such as CAPTCHA solvers or disposable email address services.
+2. Create Accounts
+The attacker runs the script, creating hundreds, or even thousands, of accounts in a short period of time. Depending on the purpose of the fake accounts, account creation successes and failures are recorded.
+3. Monetize
+The monetization scheme depends on the type of site being targeted. For example, criminals use fake accounts on retail sites to launder money by buying and selling gift cards, which becomes difficult for authorities to trace.
+Canary Accounts
+Learn why attackers create fraudulent online accounts on a target site before conducting a credential stuffing attack.
+Webinar
+VP of Shape Intelligence explains how criminals use accounts created online to traffic stolen physical goods.
+Many account registration forms use CAPTCHAs to prevent automated attacks. Unfortunately, they don’t stop bad actors.
+The Open Web Application Security Project (OWASP) Threat Handbook addresses the Top 20 most critical automated threats to web applications, including fake account creation (OAT-019).
+Fill out the form to start trying Shape.
+*
+A Shape expert will contact you as soon as possible.
+By submitting this form, you agree to our Terms of Use and acknowledge our Privacy Policy.
+ATTACKS
+Solutions

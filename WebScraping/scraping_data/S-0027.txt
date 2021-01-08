@@ -1,0 +1,95 @@
+-------URL--------- http://www.livelyimpact.com -------URL---------
+Tom Fishburne
+-------URL--------- http://www.livelyimpact.com/customers.html -------URL---------
+-------URL--------- http://www.livelyimpact.com/lively_dbiz.html -------URL---------
+*所有申請資格以政府最終公布為準, 請查閱此方案的秘書處資料: ​ https://www.hkpc.org/zh-HK/distance-business-programme
+D-BIZ 申請流程
+LIVELY IMPACT服務範圍
+為方便客戶理解LIVELY IMPACT提供的方案及服務類別, 以下圖示亦列出我們專營的D-BIZ類別​。
+程序化廣告購買 (Programmatic Advertising) 
+程序化廣告購買 (Programmatic Advertising)
+內容管理系統 (Content Management System)
+想知道你的方案和行業有否受資助，歡迎填妥右側表格，聯絡我們獲取最新詳情，讓我們助你搶先獲得資助批核。
+-------URL--------- http://www.livelyimpact.com/fingereach.html -------URL---------
+The leading Cross-channel Mobile Advertising Platform
+One-stop platform to reach mobile audience
+FINGEREACH is the most advanced buy side platform that buys in-web, in-app, and in-video mobile ads with competitive price (usually 70% of the market price) and matched with audience behavior you want, and provide you with proprietary insightful post-campaign reports.
+Easy Setup
+It only takes 3 simple steps to create a marketing campaign. What you need is to define the campaign criteria in step 1, then you have to describe your products in step 2, and finally you have to provide your ad creatives in step 3. The campaign is set and will be scheduled to run according to your requirements.
+One Platform
+Fingereach connects to a number of high volume ad exchanges seamlessly. You no longer need to login to multiple advertising platforms to track the performance of your campaign across multiple channels and all the tracking data is available at your fingertips.
+Rich Landing
+You can do more with mobile advertising now. You can continue to set a destination website as the landing when your customers click. Apart from that, you can also set a phone call, a map, and an app store as your landing. Your customers can reach you through a more native and direct means you want.
+Smart Algorithms
+You do not need to view and tune the campaign from time to time manually. The analytic services and algorithmic bidding services built in Fingereach will take care of the complexity for you behind the scene automatically.
+Real Time Bidding
+In the old days, we are buying impressions in bulk and optimization can hardly be done. Fingereach buys ads on RTB basis - buys only the needed impression - and evaluates the quality of every ad slot to see if a bid will be made and determines the best price.
+No Middlemen
+With a streamlined workflow, Fingereach offers you a simplified yet powerful interface that allows you to launch marketing campaigns without an expert. This can significantly shorten 80% of the preparation time.
+Filters
+Fingereach allows you to set a variety of filters to scope the audience that are of your interests. Location filter, device filter, language filter, category filter, placement filter are some of the examples that are useful for your campaign strategy.
+Rich Types
+Fingereach supports in-web, in-app and in-video ads. Major technical formats like HTML5, Flash and image file are supported. Ads can be static or animated and can be of different sizes. Different interaction types like filmstrip, pull, adhesion banner, full page index and slider are also supported.
+Built For Mobile
+Fingereach is built for mobiles. You can host marketing campaigns across different device makes, languages, sizes, resolutions and also across different activities that will be done by the mobile users - browsing web, using apps, and viewing videos.
+Huge Inventory
+With connectivity to major ad exchanges, we can access more than 10 billion of ad slots each day worldwide. The ad slots are coming from different locations, different devices, different pages, different apps and different videos.
+Contrast Targeting
+Our patent pending technology, PageRatio, evaluates different structural ratios of a web page and delivers an ad that will create high visual contrast that will draw the attention of the audience. Fingereach takes the ratios into considerations during the bidding process for in-web ads.
+Contextual Ranking
+Our patent pending technology, AppDience, ranks the millions of apps to determine apps that have audience that are most relevant to your products. Fingereach will take this ranking into considerations during the bidding process for in-app ads.
+Big Data Capability
+Fingereach makes use of Big Data technologies to cater for the growing need in processing huge amount of multi-dimensional impression data and click data in a timely fashion. The platform leverages multiple clusters to process billions of data points with hundreds of attributes to find actionable insights.
+International Standards
+Fingereach adopts the international standards like OpenRTB in talking with ad exchanges. It is easily expandable with an exchange that you want given the ad exchange is standard compliant, maximizing the reach to your customers.
+IAB Compliant
+Fingereach allows you to use all major IAB compliant formats of display ads in the marketing campaign. Advertisers can unleash their creativity in their different ad creatives, from micro bar to leaderboard, from static to dynamic, from in-web to in-app ad.
+Trading Locations
+Hong Kong
+This is the 1st algorithmic trading site for Asia-based traffic (ex China, Japan and Korea).
+Beijing
+This is the 2nd algorithmic trading site for China-based traffic.
+Tokyo
+This is the 3rd algorithmic trading site for Japan-based traffic.
+Learn more about Fingereach
+-------URL--------- http://www.livelyimpact.com/privacy-policy.html -------URL---------
+Last modified
+April 11, 2018
+Use of Data
+Fingereach collect our client's users' information when the client's users are visiting our clients' websites. The information includes, but is not limited to, all sales and marketing information provided by our clients' online advertising or other campaign information, and all individually identifiable information about users at clients' websites, including statistical, demographic, and behavioral information.
+Fingereach collect information solely on an "as-necessary" basis in order for us to provide services to our clients and our clients grant to Fingereach a limited license to use such information to perform our obligations.
+Fingereach will treat all information collected as confidential. Clients' limited license to us includes, but is not limited to, the right to collect all information of users visiting our clients' websites, either directly or through other means, such as the use of redirects and 1-by-1 pixels. Fingereach will not disclose any information collected from client to any third party unless such disclosure is (i) approved by client, who in turn has obtained the approval of their users, or who has not opted out of the right to distribute their information, or (ii) is made by us in response to an order by a competent court of law, and provided that we have given client reasonable notice of such order, and an opportunity to contest, or (iii) supported by a Non-Disclosure Agreement which enables us to co-operate with third party for data analytics purpose. 
+Fingereach may improve and promote our service offerings, aggregate the information collected from clients with other data so that it is non-personally identifiable with respect to both clients and users to clients' website(s).
+Our Commitment To Privacy
+Our clients' and their users' privacy are important to us. To better protect privacy of the users information, we provide this notice explaining our online information practices and how information is collected and used. To make this notice easy to find, Fingereach makes it available on this website and at every point where personally identifiable information may be requested.
+When Fingereach make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site that the policy has been updated and by changing the date on this page noting when the policy was last updated.
+Our Purpose of Data Collection
+Fingereach use the information collected to evaluate the effectiveness of customers' marketing campaigns in a statistical way and then come up with different strategies by human or a machine's self-learning capability for further campaign improvement. Finally, we never use or share the personally identifiable information provided to or collected by us online in ways unrelated to those described.
+Our Use of the Information
+This notice applies to all information collected or submitted on our seller service. Our seller service acts as SaaS (i.e. Software as a Service) for each of our clients to understand more about how the visitors react to their online marketing campaigns and eventually complete the campaign goals including online purchases, enquiries or membership registration, etc as defined by our clients. On top of collecting our clients' users' behavioral patterns in an anonymous way, we also collect certain technical information such as IP address, browser version and operating system. In addition to the above and in order to create statistical information, we may also, upon our client's request, and subject to their users consent, collect personally identifiable information like email address or member ID but they will not be disclosed, sold or transferred to any 3rd party.
+Our Commitment To Data Security and Disposal
+To prevent unauthorized access, maintence of data accuracy, and ensure the correct use of information, Fingereach have put in place appropriate physical, electronic, and administrative procedures to safeguard and secure the information collected online. As soon as reasonably practicable, once service to a client has been completed, all information identifiable to a user, collected by us, for that service, shall be properly and securely destroyed and permanently deleted from our systems.
+Information Relating to Children
+Our products and services are designed for those 13 years of age and older. Fingereach does not knowingly collect information from anyone under the age of 13. If Fingereach are made aware that we have received such information, or any information in violation of our policy, we will use reasonable efforts to locate and remove that information from our records.
+Our Obligations of Our Clients
+Our clients are under obligation to disclose to their users, that personal information they are submitting are being collected for analytic purposes and our clients are obliged to provide an opt out provision to their users whether or not they agree their personal information to be disclosed to us.
+About Cookies
+Our seller service use only 1st party cookie. The cookie information does not include personal data such as name, email, phone number or gender. If you would prefer, you can opt out your browser by rejecting cookies specifically or by our cookie opt-out page.
+Our Commitment to General Data Protection Regulation (GDPR)
+We take data protection and people's privacy very seriously and we are committed to continuing to comply with the GDPR.
+Right to be forgotten 
+Individuals  may request to delete all data on that individual without undue delay.
+Right to object
+Individuals  may request to prohibit certain data uses (e.g. Data Science purpose).
+Right to rectification
+Individuals may request that incomplete data be completed or that incorrect data be corrected.
+Right of access
+Individuals  may  request to view the data we have collected on the individual. 
+Right of portability
+Individuals may request that personal data held by one organization be transported to another. 
+Please contact us at info@livelyimpact.com for such a request.
+We set our cookies to expire within two years and the expiration date updates every time you encounter our server. We retain the web log data for ninety days and aggregations and reports for up to two years.
+If you have opted out and wish to opt back in you may use the cookie settings in your browser to clear the Fingereach optout cookie. If you have questions, please contact us at info@fingereach.com or info@livelyimpact.com.
+How To Contact Us
+Should you have other questions or concerns about these privacy policies, send us an email at privacy@livelyimpact.com.
+subscribe to our news

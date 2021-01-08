@@ -1,0 +1,71 @@
+-------URL--------- http://www.esrichina.hk -------URL---------
+Cancel
+header-inline-search-control
+header-shopping-cart
+0
+header-apps-control
+-------URL--------- http://www.esrichina.hk/content/distributor-sites/esrichina-hk/en-hk/home -------URL---------
+Cancel
+header-inline-search-control
+header-shopping-cart
+0
+header-apps-control
+-------URL--------- http://www.esrichina.hk/en-hk/service/overview -------URL---------
+Cancel
+header-inline-search-control
+header-shopping-cart
+0
+header-apps-control
+Understanding your requirements, technology challenges and business goals is the foundation of our customer-centric solutions. Solving your most challenging technology problems and enabling your success is our mission and our passion. Esri China (HK)'s Professional Services Team provides total solutions that integrate hardware, software, technology, expert consulting and ongoing support into our intimate knowledge and practical experience of Esri technology so as to deliver on-time and on-budget projects to our valuable customers.
+Services Team
+ 
+The Professional Services Division includes Project Managers, Consultants, GIS Specialists, System Analysts, Developers, Trainers and the customer support staff providing full project life-cycle services at competitive rates and rapid turnaround time to facilitate your project progress, resulting in achieving better business goals.
+opens in new window
+-------URL--------- http://www.esrichina.hk/en-hk/technical-support/support-services -------URL---------
+Cancel
+header-inline-search-control
+header-shopping-cart
+0
+header-apps-control
+Our Technical Support Team is committed to serving all-round assistance to our customers in Hong Kong and Macau.
+We will provide our users with all the information and guidance they need and help answering questions and resolve problems encountered while they are working with Esri GIS software.
+Our goal is to promote GIS for everyone and to help you build a successful GIS. Support Services are designed to make sure that you and your colleagues continue to get maximum value from your organization’s investment in Esri products.
+Please see below for further information on the individual services we offer, or contact our sales representatives at  sales@esrichina.hk  to discuss your specific requirements.
+Maintenance Program and Standard Support Services
+Complimentary for the first 12 months as part of your initial software purchase. Thereafter, Standard Support is provided to customers renewing their annual maintenance.
+Access to Technical Support analysts via MyEsri, Email, Phone, and Interactive Support
+Support available services 9:00 AM to 12:45 PM, 2:00 PM to 6:00 PM Monday to Friday, excluding Hong Kong Public Holidays
+Eligibility to the latest software versions and upgrades, including ArcGIS Online
+Free one-off onsite software standard installation service for New Software Purchase, Major Software Upgrades and Same-Platform License Transfer
+Access to Esri publications including ArcUser and ArcNews
+For details about our maintenance program, please click here [PDF]
+Premium Support
+Extends the Standard Support service, offering prioritized case management and assigned technical staff who focus on understanding your operational work-flows and business needs.
+Designation of a Technical Account Manager to work with your organization
+Prioritized Case Management and Response, with 24/7 analyst availability
+Regular on-site visits to discuss ongoing issues and future plans
+Developer Support
+Extends the Standard Support service to include troubleshooting of custom code, provision of best practice advice and workarounds for customers using Esri SDKs and APIs.
+Installation Support
+ArcGIS software installation services are offered to maximize investment in the ArcGIS Platform by helping to install and configure new Esri technology and provide best practice advice. The following installation services are offered:
+ArcGIS Standard Installation and Configuration Service
+ArcGIS Custom Installation and Configuration Service
+ArcGIS Express Installation Service
+Non-Office Hour Installation Service
+Training Services
+Training is vital to acquiring the GIS knowledge and skills to benefit you and your organization. An Esri China (HK) training course helps to show you new capabilities and efficient ways of working with Esri ArcGIS software.  Find out more...
+Not available
+-------URL--------- http://www.esrichina.hk/en-hk/training/overview -------URL---------
+Cancel
+header-inline-search-control
+header-shopping-cart
+0
+header-apps-control
+Overview
+As the premier GIS and mapping solutions provider in the region, Esri China (HK), has been equipping the best resources in technology, manpower and services including support and training to our customers.
+We value our training services to our GIS community as we believe education is vital to every successful users. Through the training courses, you will be guided how to use Esri software and applications to create ideal solutions for your business to engage and inspire your audience. To keep up with our diversification of training services, localized training courses covering various topics related to GIS and IT technology are also designed to cater for users' needs.
+Esri Authorized Learning Center
+It is our pleasure and honor to announce that we are designated and authorized by Esri Inc. as one of the 500 Esri Authorized Learning Centers nationwide.
+We have been offering a variety of instructor-led Esri GIS training classes by our Esri Authorized Instructors as well as GIS experts overseas since 1998. It is indeed great encouragement and endorsement from Esri Inc. in recognition of our efforts to meet the growing demand for quality training of Esri GIS technology.
+We will continue to refurbish the physical environment including equipment in our Authorized Learning Center and our accent on the qualification of instructors for training excellence.
+opens in new window
