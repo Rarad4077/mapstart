@@ -1,0 +1,83 @@
+-------URL--------- http://www.evmega.com -------URL---------
+evcharger solutions
+Company Mission
+evMega™ find that there are not many suppliers who can provide comprehensive EV charging solutions no matter of public organizations or private enterprises.
+In view of this, we would like to provide you with a complete smart EV infrastructure solution with OCPP1.6 and OSCP1.0 standard protocols in order to help accelerating or driving the development of charging facilities and facilitating users as well.
+Spotlight
+*About this website and company names are trademarks™ or registered® trademarks of their respective holders.
+Use of them does not imply any affiliation with or endorsement by them. 
+Come to visit !
+Get in Charge!
+Unit E, 12/F., Southeast Industrial Building, 611-619 Castle Peak Road, Tsuen Wan, N.T., H.K.
+-------URL--------- http://www.evmega.com/blog -------URL---------
+Come to visit !
+Get in Charge!
+Unit E, 12/F., Southeast Industrial Building, 611-619 Castle Peak Road, Tsuen Wan, N.T., H.K.
+-------URL--------- http://www.evmega.com/products -------URL---------
+IEC type 2 Socket Outlet.
+Support Load Management Control.
+Wifi, Ethernet Connection, OCPP1.6.
+Compliance with IEC61851-1/22 & IEC62196-2
+IEC type 2 Socket Outlet.
+Support Load Management Control.
+Wifi, Ethernet Connection, OCPP1.6.
+Compliance with IEC61851-1/22 & IEC62196-2
+7" Wall Mount Charger
+Innovative. Compact Sleek Design.
+IEC type 2 Socket Outlet.
+Support Load Management Control.
+Wifi, Ethernet Connection, OCPP1.6.
+7" Floor Standing Charger
+Innovative. Compact Sleek Design.
+IEC type 2 Socket Outlet.
+Support Load Management Control.
+Wifi, Ethernet Connection, OCPP1.6.
+Wall Mount
+Support OCPP 1.6.
+17” Touch LCD Monitor.
+80mm Thermal Printer with auto paper cut.
+Octopus Card Reader.
+Requirements. (Ref: TAT-18004).
+Support OCPP 1.6.
+17” Touch LCD Monitor.
+80mm Thermal Printer with auto paper cut.
+Octopus Card Reader.
+Requirements. (Ref: TAT-18004).
+Works as a standalone charger or as a power unit
+AC & DC charging connectors are included in the housing
+Can charge AC and DC simultaneously
+Has an AC / DC converter
+Includes AC and DC controllers
+Has independent AC and DC electrical protections
+This station must be connected to a Power Unit
+Includes a charging connector 
+Equipped with an HMI controller
+Equipped with a part of the pumping system for cooled cable (the other part of the pumping system is included in the cooling system)
+Equipped with a cooled cable
+Available with both CCS2 and CHAdeMO connectors
+Different Load Management Algorithm.
+Grade 0 (queue)
+Grade 1 (Even)
+Grade 2 (Dynamic)
+Max. numbers of connected chargers /cluster. 24 nos. 3 ph. or 72 nos. 1ph.
+Support Multiple cluster.
+OCPP 1.6 protocol.
+Fail-safe resilience design.
+Platform
+ Dashboard:
+EV charging station status
+Pricing Policies:
+Ability to set pricing policies           unique to different stations,           station groups, locations.
+Accessory
+Navigate to charge station
+Finish payment to start charging
+Charging
+Once charging has been initiated, the app will report the connected time and charging status.
+Charging Record
+Profile
+Choose billing method 
+*About this website and company names are trademarks™ or registered® trademarks of their respective holders.
+Use of them does not imply any affiliation with or endorsement by them. 
+Come to visit !
+Get in Charge!
+Unit E, 12/F., Southeast Industrial Building, 611-619 Castle Peak Road, Tsuen Wan, N.T., H.K.

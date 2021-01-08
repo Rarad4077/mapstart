@@ -1,0 +1,119 @@
+-------URL--------- http://chatbot.com.hk/ -------URL---------
+How about
+your brand?
+Apple has Siri.
+Amazon has Alexa.
+Chatbot.com.hk - A.I. Conversation Robot
+A Personal and Intelligent Assistant for Your Brand
+Chatbot
+Conversational User Experience
+Chatbots offer a new and flexible way for businesses to create a brand new experience for mobile users. Chatbot responses are conversational, it can give personalised suggestions, answer enquiries, process orders, show the effect of certain product or update the latest news stories etc.
+Natural Language Processing
+Understand Cantonese, Mandarin and More
+We can design bot that uses Natural Language Processing (NLP) to understand the meaning behind what you’re saying so it can respond appropriately. Modern NLP relies on machine learning, which means the bot is continually learning from the conversations it’s having and improving its own performance.
+Artificial Intelligence
+Provide Personal Recommendations via Machine Learning
+Do you know 35% of what consumers purchase on Amazon and 75% of what they watch on Netflix come from product recommendations? Our bot can be trained to learn what user likes or dislikes and make personalized recommendations about your products.
+Easy to manage
+Conversation Management System
+Training sample dialogs to understand user needs through machine learning.
+Teach the AI best practices to engage with the user, and integrate your business process with APIs, database, CRM, help desk software and more.
+Manage conversation with users and understand your audience pool.
+Analyse hot topics that users frequently discuss.
+Create marketing campaign with a few clicks to targeted users.
+Cross Platform Support:
+See it in Action
+eCommerce
+Promote your new line of product via conversations with each of your target customers.
+See it in Action
+More Details
+Full-service automated financial assistants that can make payments and keep track of your budget for you.
+See it in Action
+Banking
+Automated insurance agents who can sell policies, handle insurance claims and resolve customer inquiries.
+See it in Action
+Insurance
+Chatbots can help brokerage clients in discovery of investment ideas and curating financial information.
+See it in Action
+Brokerage
+Having read all the reviews and restaurant guides, our Chatbot can recommend the best place for your dinner depending on your occasions and preferences.
+See it in Action
+Enhance operation excellence by introducing smart agents into your business process to handle utility bills, payment options, special offers and more.
+See it in Action
+Utility
+Automated hotel concierge service - 24 X 7 personal service for each of your guests.
+More Details
+Hotel Management
+Message is the New Medium to Connect with Your Clients
+Contact Us
+     479-479A Castle Peak Road,
+/ +852 6688 0053
+479-479A Castle Peak Road,
+©2016.Set Sail Venture Ltd. All right reserved
+Why do you need a chatbot for your eCommerce website?
+Let customers search your catalog the way they want.
+Increase sales via additional channels on Facebook, WeChat, LINE and more.
+Notify users about product launches and promotions tailored for their interests.
+Goal: Increase sales through Facebook & WeChat messaging platforms and improve customer satisfaction
+Functionality: Intelligent Search, Personal Recommendation, Payment Integration, Campaign Management, VR/AR Integration
+Integration with: Payment Gateways, CRM Software, Product Database, Website Product Page
+Bring Online Conversations to Offline Stores
+Create a fun and natural brand experience for the millennial customers using the latest AI technology.
+Provide a personalized shopping experience.
+Discover new conversations with new customers who are not familiar with the brand.
+Manage relationship with each of your customers with 1-to-1 loyalty program and offerings.
+Goal: Build an intelligent and personal brand image for the new generations of customers
+Functionality: Brand Persona AI, Campaign Promotion, Store Locator, Product Recommendation, Conversational Marketing, Loyalty Program
+Integration with: POS System, AR/VR Services, Image Recognition, CRM Software, Product Database
+Conversational Advertising
+Starting today, advertisers can drive more earned media and brand influence with conversational ads.
+Target users before bringing them into a one-on-one conversation.
+Solve real problems for users rather than annoying banner ads.
+Allow customers to 'talk' to the brands while watching ads.
+Goal: Achieve higher conversion rate and advertisement effectiveness by solving problems for users using conversations.
+Functionality: Booking a Service Appointment, Table Reservations, Virtual Sales Agents, Service/ Product Recommenndation
+Conversational Banking
+We develop chatbots for retail banking that help you check your accounts, find the nearest ATMs, and apply for new services. A personal banker in your pocket, the chatbots can help you manage personal finance, set up spending alerts and get immediate notifications of important updates and payement schedules.
+Goal: Reduce support costs, provide instant services and improve user experiences
+Functionality: Account Balances, Personal Finance Analysis, ATM Locator, Intelligent Form Filling, Troubleshooting
+Integration with: Core Banking, Spending Analytics, ATM Directory, Wealth Management Products
+Proactively engage members, agents, and service providers, simplify the process with each of them, and be way more efficient.
+Insurance Sales bot helps consumer walk through the myriad policy choices based on their coverage needs and risk profile, and provide a direct sales channel to close deals and drive up efficiency.
+Claims Automation bot replaces all the form-fillings and troubleshooting phone calls.
+On-boarding Assistant provices an active channel for members to submit information, find in-network phtsicians, and better understand their insurance policies.
+Goal: Drive low-cost direct-to-consumer sales, automate labor-intensive process and improve members satisfaction
+Functionality: Product Recommendation, Payment Integration, Risk Assessment Survey, Form Automation, Document Submission, Link to Live Agent
+Integration with: CRM Software, Policy Database, Cost Estimator, Meeting Scheduling, Sales Guideline Knowledge Base
+×
+60% of the traders are now bots, how about wealth managers?
+Wealth management companies can make use of intelligent chatbots to,
+Provide goal-based investing recommendation to clients.
+Notify clients with important portfolio changes and time-sensitive market updates.
+Track portfolio performance, market prices and call for immediate action items via an active communication channel.
+Goal: Provide personalized wealth management services to clients who do not have a dedicated relationship manager before.
+Functionality: Real-time Notifications, Goal-based Portfolio Recommendation, Portfolio Optimization and Tracking
+Integration with: Portfolio Management System, Risk Assessment Questionnaire, Market Data Providers
+A foodie chatbot with good tastes
+Foodie-foodie is our Cantonese-speaking chatbot who knows every restaurant in Hong Kong, browses through every review and knows more than 1000 dishes and cuisines.
+Search for your favorite restaurants in Cantonese, just like chatting with a friend.
+Intelligent searching algorithm to look for the right places for your special occasion and favorite cuisine.
+Make small talks and keep you updated of the latest new restaurants.
+Goal: A next-generation AI to help you find the best restaurants.
+Functionality: Intelligent Search Engine, Restaurant Recommendation, Loyalty Program, Table Reservation
+Integration with: Restaurant Directory, Cuisine Database, Menu Database, POS System
+No More Phone Calls, Just Text.
+Our chatbots enable customers to engage with utility services via a self-service experience, that is efficient and awesome.
+Check for plan usage and purchase bonus service options on Facebook and WeChat.
+Buy prepaid plans and recharge data plan without the need of visiting a store.
+Troubleshoot for customers who need advices to install new equipments, modify service plans and connects with a live agent if needed.
+Goal: Drive revenue via various messaging channels and provide scalable services to customers with immediate response.
+Functionality: Mobile Usage Data, Consumption Controls, eCommerce Integration, Step-by-step Troubleshooting, Surveys
+Integration with: Product Database, CRM Software, Support Ticketing Software, Plan and Billing Database
+Hotel Management Made Easy
+Our Concierge chatbots can provide an active channel to deliver services and updates for your guests.
+Provide an unique, responsive and personalized customer service.
+Integrate with loyalty program to provide personal privileges to each of your guests.
+Automated service booking, housekeeping, meal ordering and concierge services.
+Goal: Power and renovate hotel experience with the latest A.I. technology.
+Functionality: Customer Service, Service Booking, Loyalty Program, Concierge Service
+Integration with: CRM Software, Facility Management System, Hotel Management System

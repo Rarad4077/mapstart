@@ -1,0 +1,78 @@
+-------URL--------- http://www.ncipher.com -------URL---------
+Cookie Notice
+This website uses necessary cookies to make our site work. We’d also like to set optional analytics cookies to help us improve our website by collecting and reporting information on how you use it. Using this tool will set a cookie on your device to remember your preferences.  To read more about how we use cookies, see our Cookie Policy.
+Close
+Toggle navigation
+DATA SECURITY STARTS HERE
+Our cryptographic solutions not only protect your data, but secure emerging technologies such as cloud, IoT, blockchain, and digital payments.
+nShield delivers the industry's most comprehensive and advanced hardware security modules
+Compliance
+Accelerate Digital Transformation
+Establish trust throughout the data landscape so you can confidently and safely embrace digital transformation
+What our customers are saying...
+Square
+Verifone
+Memjet
+Polycom
+Square
+We have a long history together and we’re extremely comfortable continuing to rely on nCipher solutions for the core of our business. We have used nCipher HSMs for five years and they have always been exceptionally reliable. We’ve layered a lot of code on top of the HSM; it delivers the performance we need and has proven to be a rock-solid foundation.
+Neal Harris, Security Engineering Manager, Square, Inc
+Verifone
+As a global payment solutions and commerce enablement leader, Verifone’s strategy is to develop and deploy “best in class” payment solutions and services that meet or exceed global security standards and help our clients securely accept electronic payments across all channels of commerce. We selected nCipher* HSMs to provide robust security, unmatched performance, and superior scalability across our payment security platforms…
+Joe Majka, Chief Security Officer, Verifone
+Memjet
+nCipher Security’s* nShield sales team provide excellent local and remote support during this evaluation period and was invaluable to the process. The excellent depth, breatdth, and quality of the product documentation gave us confidence that the solution was well though-out and supported.
+Robert Fairlie-Cuninghame, QAI Technical Lead/Architect, Memjet
+Polycom
+nCipher* provided the expertise needed to design and implement a tailored, secure VoIP solution.
+Contact Us
+Would you like us to contact you?
+Great! We look forward to talking with you.
+Please complete this simple form and we'll have someone get in touch with you shortly.
+No problem.
+If you’d like to explore HSMs on our website, here are some links to help:
+-------URL--------- http://www.ncipher.com/digital-security -------URL---------
+This website, like almost all websites, uses cookies to help improve your online experience. By continuing to browse this site, you consent to our use of cookies. Cookie Policy
+Previous
+nCipher Security’s nShield sales team provide excellent local and remote support during this evaluation period and was invaluable to the process. The excellent depth, breadth and quality of the product documentation gave us confidence that the solution was well thought-out and supported
+Robert Fairlie-Cuninghame,QAI technical lead/architect, Memjet
+We know the nShield Solo; it’s a foundational component of the system. The system is successful, and it’s been a positive experience working with the nCipher team and its nShield HSM, allowing us to achieve a short time to market and to recover our costs.
+Gianni Sandrucci, Chief Executive Officer, itAgile
+Compared to other suppliers nCipher’s implementation and support are better,nShield Solo is easier to use and back up, and we also like the nShield’s graphical user interface (GUI).
+Nadav Svirsky,Corporate IT Infrastructure Lead, Zerto
+As the eCurrency technology helps central banks transform from paper-based to digital currencies, nCipher is playing an essential role in ensuring our technology provides the necessary security at scale.
+Mitch Cohen, Chief Security Officer, eCurrency
+Our standardization on nCipher HSMs is a critical element of Nationwide’s overallsecurity strategy.
+Rob Broome, Senior Infrastructure Manager, Nationwide
+Integrating industrial-strength security into an embedded system is a real game-changer for the whole IoT marketplace
+Anand Rangarajan, Product Marketing Manager for Microchip Technology
+nCipher provided the expertise needed to design and implement a tailored, secure VoIP solution.
+Marek Dutkiewicz,Polycom
+As a global payment solutions and commerce enablement leader, Verifone’s strategy is to develop and deploy “best in class” payment solutions and services that meet or exceed global security standards and help our clients securely accept electronic payments across all channels of commerce. We selected nCipher HSMs to provide robust security, unmatched performance and superior scalability across our payment security platforms, protecting encryption keys from virtually any attack. This helps Verifone to continue reducing merchants’ growing exposure to data breaches and cyber criminals and more aggressively safeguard consumer information…
+Joe Majka,Chief Security Officer
+With our extended experience of relying on nCipher for HSM solutions, when it came to selecting the right component for PassBy[ME] Mobile ID we didn’t need to look at other vendors; nCipher HSMs always deliver the highest level of trust.
+Dr. Sándor Szöke, Deputy Director of eIDAS Trust Services, Microsec
+We have a long history together and we’re extremely comfortable continuing to rely on nCipher solutions for the core of our business. We have used nCipher HSMs for five years and they have always been exceptionally reliable. We’ve layered a lot of code on top of the HSM; it delivers the performance we need and has proven to be a rock-solid foundation.
+Neal Harris, Security Engineering Manager, Square, Inc
+nCipher Security has given us a beautiful solution around which we’ve developed our own software; equipping us with the abilityto offer our customers a truly compellingvalue proposition. We have found nCipher nShield Connectto be far more secure and friendly to usethan competing solutions. It perfectly meets our needs.
+Evgeny Vigovsky,COO and CTO, Saifu
+The unit cost and performance of nShield enable us to offer a commodity-priced device that is simple enough for even the most technically-adverse merchant to understand and operate. Trust, integrity and security are the foundations of our company, and nCipher helps us to achieve those goals.
+Julia Wolkerstorfer,Marketing Manager at A-Trust
+The nCipher Time Stamp Server provides the secure time stamping that enables our business and government customers to protect their processes from fraudand manipulation
+Leonardo Maldonado,Certicamara
+The PRC is very experienced in delivering online government services through PKI deployment and the issuing and use of digital certificates. In our opinion, nCipher HSMs are an excellent solution to protect private keys.
+Jan Partanen,Population Register Centre of Finland
+There’s nothing out there that comes close to the nCipher Time Stamp Server, in terms of being able to provide reliable and non-repudiable time stamps.
+Gavin Gregson,Technical Director of Veridocx
+Our nCipher HSMs protect our encryption keys, safeguarding customer data from breaches. Just as importantly, it helped make achieving PCI DSS compliance far easier and more cost-effective. With the nCipher HSMs, we can easily protect, manage, and rotate encryption keys, enabling PCI DSS compliance without the need for timeconsuming manual controls
+Terry Mainiero,Follett Higher Education Group
+The move from paper-based to electronic invoicing has proved a great success. There was tight cooperation between our system integrator SETCCE and nCipher and their combined knowledge and experience in this specialist area delivered an ideal solution. The service meets all legislative requirements, provides a better level of service and more flexibility for our subscribers. This gives us an important competitive edge.
+Bostjan Zaversek,Financial Manager for Si.mobil-Vodafone
+You expect security from HSMs. nCipherHSMs also provide the superior performance, scalability, and reliability needed to protectour global manufacturing processes.
+Jürgen Paulmichl,ZF Friedrichshafen AG
+Piracy is a problem generally associated with digital content and no less so in the film industry where it is an enormous concern for both studios and distributors who lose billions of dollars each year when films are illegally copied and distributed. The encryption and decryption of content is not a major challenge, however the handling and management of security keys by both the cinema and content owners is. nCipher is an expert in encryption key management and the protection of content and intellectual property, its products offer high levels of assurance and operational efficiency and have enabled Qube to develop an online digital…
+Rajesh Ramachandran,President and CTO
+Modernization of clinical trials is a key initiative for both the pharma industry and global regulatory agencies. In an industry with a 20-year patent cliff – SureClinical’s technology accelerates speed to market and saves companies hundreds of thousands of dollars in shipping costs, maximizing return on investment for new drug therapy investments. The adoption of this technology would be out of the question if it didn’t meet the trust and security requirements mandated by regulatory agencies and the industry. Thales was the only company that was able to provide the assurance and strong cryptographic technology that met both the needs of…
+Zack Schmidt,President at SureClinical
+Subscribe to our newsletter
+The social network you are looking for is not available.

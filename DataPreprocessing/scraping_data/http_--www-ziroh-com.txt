@@ -1,0 +1,27 @@
+-------URL--------- http://www.ziroh.com -------URL---------
+Three pillars have historically dominated our digital world - Storage,                 Computation, and Connectivity. A fourth                 pillar got added. The Pillar of Privacy and confidentiality.
+BUILT FOR PRIVACY ENGINEERING
+We envision a world where privacy and                   confidentiality are provable qualities by                   construction. Not by a notion of trust or by                   regulation alone. Confidently unlock                   insights and collaborate with sensitive data without compromising privacy.
+QUANTUM PROOF CRYPTOGRAPHY
+Quantum computer may decimate legacy encryption, but not Lattice-Based                   cryptography.The Shortest Vector Problem (SVP) is believed to be hard to solve, even with a quantum                   computer.
+ZERO - KNOWLEDGE STACK
+Safeguard privacy for structured and unstructured data in untrusted environments.
+Let the cloud provision storage and compute resources for your enterprise                 workloads without knowing what you are storing or computing.
+OStor
+With our Privacy Preserving Encryption libraries, radically improved for speed and multiple, distributed               computing IP's, we provide a robust Reference Architecture codenamed as “OStor” (pronounced - Zero Store),               One of the world’s most secure Cloud-Based File Storage Architecture. OStor is hardware and operating               system agnostic with multiple integration points.
+Plug it to include multiple different Identities and Key Management Protocols. Built-in support for almost any cloud storage services such as OpenStack, Rackspace,               Amazon, Microsoft Azure, Google Cloud Storage including end-user applications like Box, Dropbox, OneDrive,               Google Drive, etc. Experience uncompromising enterprise privacy and security.
+Read more
+The SecureString™ Library is a Homomorphic Encryption Library purpose built for String Data Types.               With the SecureStringTM library you can perform multiple operations on encrypted data without decrypting               it first like Grouping / Ordering using lexicographic properties of encrypted text. Relational operators               such as “<,<=,>,>= and ==” can be applied. Whole string search such as “JohnDoe” and Partial string search                 such as “Joh*”. You can also execute Regular Expression search such as Jo*[a-z]* and Boolean Operators                 such as John AND Jane or any Arbitrary Expression using AND, OR, NOT.
+Read more
+The SecureNumeric™ Library is a Homomorphic Encryption Library purpose built for Numeric Data Types.               It can handle Floating Point Numbers with overflow, underflow detection and exception. This performant               library allows arithmetic operations and include Addition, Subtraction, Multiplication, Grouping and               Ordering, Equality, Division.
+Read more
+Team
+The technical team includes award winning computer scientists and developers in               cryptography, high performance distributed computing, large scale file storage systems and algorithms. The               client success team and our advisors includes industry veterans from security, storage, research and high               growth startups.
+Hrishikesh Dewan
+Nitin Dubey
+Aninda Sen
+Surabhi Das
+Ajay Goel
+C.E.Veni Madhavan
+-------URL--------- http://www.ziroh.com/  https:/www.linkedin.com/in/dubeynitin -------URL---------
+Apache Server at www.ziroh.com Port 80

@@ -60,15 +60,15 @@ class CustomLemmatizer:
   def __init__(self):
       pass
 
-  def nltk_tag_to_wordnet_tag(self,nltk_tag):
-    if nltk_tag.startswith('J'):
-        return wordnet.ADJ
-    elif nltk_tag.startswith('V'):
-        return wordnet.VERB
-    elif nltk_tag.startswith('N'):
-        return wordnet.NOUN
+  def convertNltkTagToWordnetTag(self,nltk_tag):
+    if nltk_tag.startswith('V'):
+      return wordnet.VERB
     elif nltk_tag.startswith('R'):
-        return wordnet.ADV
+      return wordnet.ADV
+    elif nltk_tag.startswith('N'):
+      return wordnet.NOUN
+    elif nltk_tag.startswith('J'):
+      return wordnet.ADJ
     else:          
         return None
 
@@ -83,7 +83,7 @@ class CustomLemmatizer:
     nltk_tagged = nltk.pos_tag(nltk.word_tokenize(sentence))  
 
     #tuple of (token, wordnet_tag)
-    wordnet_tagged = map(lambda x: (x[0], self.nltk_tag_to_wordnet_tag(x[1])), nltk_tagged)
+    wordnet_tagged = map(lambda x: (x[0], self.convertNltkTagToWordnetTag(x[1])), nltk_tagged)
     lemmatized_sentence = []
     for word, tag in wordnet_tagged:
         if tag is None:
@@ -107,22 +107,22 @@ class CustomDataProprocessor:
     output: 1.list_it_solutions_modelInput.csv with "Model Input" columns
     '''
     itSol_df = pd.read_csv(inputName)
-    itSol_df.loc[:,"Solution Description"] = itSol_df.loc[:,"Solution Description"].apply(lambda x: self._cl.lemmatize_sentence(x))
-    itSol_df.loc[:,"Use Case"] = itSol_df.loc[:,"Use Case"].apply(lambda x: self._cl.lemmatize_sentence(x))
+    # itSol_df.loc[:,"Solution Description"] = itSol_df.loc[:,"Solution Description"].apply(lambda x: self._cl.lemmatize_sentence(x))
+    # itSol_df.loc[:,"Use Case"] = itSol_df.loc[:,"Use Case"].apply(lambda x: self._cl.lemmatize_sentence(x))
     itSol_df['Model Input'] = itSol_df.loc[:,"Solution Name (Eng)"] + ". " + itSol_df.loc[:,"Solution Description"] + ". " + itSol_df.loc[:,"Use Case"]
 
     itSol_df.to_csv(outputName, index=False)
   
   def generateBusNeedModelInput(self, inputName='2.list_business_needs.xlsx', outputName='2.list_business_needs_modelInput.csv'):
     busNeed_df = pd.read_excel(inputName)
-    busNeed_df.loc[:,'Business Needs / Challenges (Eng)'] = busNeed_df.loc[:,'Business Needs / Challenges (Eng)'].apply(lambda x: self._cl.lemmatize_sentence(x))
-    busNeed_df.loc[:,'Expected Outcomes (Eng)'] = busNeed_df.loc[:,'Expected Outcomes (Eng)'].apply(lambda x: self._cl.lemmatize_sentence(x))
+    # busNeed_df.loc[:,'Business Needs / Challenges (Eng)'] = busNeed_df.loc[:,'Business Needs / Challenges (Eng)'].apply(lambda x: self._cl.lemmatize_sentence(x))
+    # busNeed_df.loc[:,'Expected Outcomes (Eng)'] = busNeed_df.loc[:,'Expected Outcomes (Eng)'].apply(lambda x: self._cl.lemmatize_sentence(x))
     busNeed_df['Model Input'] = busNeed_df.loc[:,"Title (Eng)"] + ". " + busNeed_df.loc[:,"Business Needs / Challenges (Eng)"] + ". " + busNeed_df.loc[:,"Expected Outcomes (Eng)"]
     busNeed_df.to_csv(outputName, index=False)
 
 if __name__ == '__main__':
   ct = CustomTranslator()
-  ct.translateITSolToEn()
+  # ct.translateITSolToEn()
   cdp = CustomDataProprocessor()
   cdp.generateITSolModelInput()
   cdp.generateBusNeedModelInput()

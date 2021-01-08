@@ -1,0 +1,136 @@
+-------URL--------- http://www.creote.com -------URL---------
+We provide a wide range of creative services
+One Stop Solution
+We can help you to come up with intuitive ideas, design and develop the best experiences, test the effects, and deploy to the market
+Check Out Our Portfolio
+Partners and Clients
+We continue to work our very best to provide the best values to our partners and clients
+Global Recognitions and Awards
+News and Events
+Augmented Reality (AR) and Virtual Reality (VR) are technologies that are still relatively new to the general public. Creote Studio strives to promote AR and VR in the hopes to drive the industry forward. We have conducted several seminars, trainings and workshops in order to educate businesses, institutes, as well as the general public in how AR and VR can create new values for them.
+Check out our news and events sections for the our latest activities. Be sure to stay tuned and join us in the upcoming events!
+Click here to see all news and events
+© Copyright 2014 - 
+-------URL--------- https://www.creote.com/augmented-reality-ar -------URL---------
+iOS
+iOS
+We can help you design and create intuitive AR effects for iOS devices through hosting the effects on WedCam AR/VR Platform or help you to develop your custom iOS application
+Android
+Android
+We can help you design and create intuitive AR effects for Android devices through hosting the effects on WedCam AR/VR Platform or help you to develop your custom app
+WedCam
+WedCam
+WedCam is an AR platform for iOS and Android. Users are able to download the WedCam app for free on the App Store and Google Play to experience AR effects.
+WebAR
+WebAR
+We can now experience AR directly through modern web browsers on mobile devices. Marker / Markerless AR are seamlessly supported. No app downloads are required.
+What is Augmented Reality (AR)?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What can AR do?
+AR can help your brand create awareness through creating a wow effect that attracts your potential customers. It can also convey in-depth information about your products and services, giving them a chance to really learn about the benefits in what you provide. With the integration of interactivity, users can freely access information that are of interest to them. There are limitless application for AR, check out more AR extension below!
+Interactive Exhibition
+Interactive Exhibition
+Visitor can use their own mobile devices to help exhibitions and museums save costs on interactive installations. Location based systems such as beacons can also be integrated and provide interactions and information based on the visitor’s physical location within the exhibition or museum, so to enhance and improve the whole journey.
+Location Proximity
+Location Proximity
+GPS can track your users’ locations and trigger the appropriate AR effects when they are within a location that you have setup. We can also take advantage of the gyroscope and compass built into modern smart devices and use the data to determine the direction and orientation that the user is facing, making the AR effects blend into the users’ surroundings.
+Private Showroom
+Private Showroom
+Through AR, we can effectively turn the printed page into a private showroom dedicated to a specific product or service that you provide. Other interactive features can be implemented into the same AR effects to connect the users to your company such as buttons for calling or emailing customer service to inquire about a specific product or service.
+Business Reports
+Business Reports
+When readers point the cameras of their mobile devices onto designated sections of the company report, interactive contents such as videos, 3D models, and animations could appear on the pages that help you tell your messages in a much more interesting way.
+Product Visualisation
+Product Visualisation
+Being able to visualize the products can dramatically help consumers to understand, hence increasing the chances of converting into sales. Augmented Reality (AR) can help your customers to visualize your products in 3D as if they are looking at the physical product right off your brochure or leaflet.
+Game Technology
+Game Technology
+The hype with Pokemon Go has proven that the immersive experience created through AR can greatly enhance the users’ engagements and inclination of interests in a game. With game concepts and social elements integrated into AR effects, the whole experience can become much more dynamic, which greatly extends the life cycle of the effects.
+Tracking Systems
+Tracking Systems
+There are different AR recognition techniques that we can choose to deploy for your AR experience, including 2D image recognition, 3D object recognition, simultaneous localization and mapping (SLAM), location based tracking, word recognition, code recognition, smart terrain, and superimposition. Each AR method has it’s advantage and serves different purposes.
+Interior Design
+Interior Design
+AR lets you embed enriched information onto your promotion brochures that cannot possibly do with traditional printing. 3D models with 360 degrees view of your product can instantly appear on the brochures letting your customers visualise exactly what your products look like without physically getting their hands onto it.
+Invitation Card
+Invitation Card
+A 3D model can be displayed to give a sneak peek on the product you were about to show for a product launch event, or an animation or video of your company’s representative can also appear to greet and invite the guests in person. We can add in various dynamic elements such as an RSVP system, where guests can register to attend the event right inside the AR effects.
+Coloring Book
+Coloring Book
+After children have completed coloring in a page or an object, all they have to do is to point the AR camera onto the completed drawing and the objects will come to live in 3D right on top of the page. Children can interact with the object through the AR camera and learn about various features of the object.
+Product Extension
+Product Extension
+AR effects can be embedded into the packaging of your product, giving a sneak peek preview of the product in 3 dimensional format even when the customer has not opened the packaging. This can add dynamic factors to the overall effect letting the user experience something different everytime, and in turn extends the life cycle of the product.
+Maintenance and Training
+Maintenance and Training
+By using this maintenance and training method integrated with AR, users can point the AR camera to the machine and it will teach the user how to fix the machine step by step, they do not need to visit the physical shop whenever they come across with problems, all they will need to do is simply open the app and they can solve the problems by themselves.
+Cloud Infrastructure
+Cloud Infrastructure
+User data can be managed through a cloud server and details of each AR effect can be managed through a content management system (CMS) over the Internet, making the effect a lot more flexible and easy to control. The advantage of a cloud system is that all data is consolidated into one single database, letting you analyze important information for future development.
+Interactive Solution
+Interactive Solution
+AR is an effective tool to combine virtual elements into the Physical World, but we have to think beyond the tool functionality in order to create values for the experience. Users only need a single device and everything that they needed can be realized in a convenient and fun way. There is a lot of flexibility in integrating AR with interactions.
+Integrated E-Commerce
+Integrated E-Commerce
+An AR effect can serve as a visual display of your products through your printed marketing materials. Potential customers can learn about the appearance and functionalities of your product, they can also preview the products in a specific specification that fits their needs. Integration with appropriate web technologies, customers can order straight from the AR effect.
+Check out some of our work
+Wing Wah AR Mooncake coby 2020-05-12T08:45:26+08:00
+Be sure to check out our WedCam AR/VR Platform
+WedCam is an award winning AR/VR platform designed and developed by Creote Studio. It is a free app for iOS and Android that let’s you host your AR/VR contents and effects without the need to develop your own app. Just consider WedCam to be the YouTube for AR/VR, it could dramatically save you costs for developments but at the same time, allowing you and your customers to experience the amazing AR/VR experiences.
+Click here to check out the WedCam page. Be sure to check out the AR products that we are currently offering under the WedCam platform!
+Other thoughts?
+You maybe wondering whats the difference between VR and AR. Both of them shares the same objective of providing immersive experiences for users with virtual elements and interactions. The main difference is that with VR, users are isolated from the reality and immersed into a computed virtual world. While with AR, users are still in touch with the reality with virtual contents overlaid onto objects in the real world. Both technologies can actually accompany each other and combine into a Mixed Reality experience.
+AR applications do not limit to only the ones listed above, and possibilities are beyond your imaginations. Talk to us now and discuss some crazy ideas!
+Your Name (required)
+Your Phone (required)
+Your Email (required)
+×
+© Copyright 2014 - 

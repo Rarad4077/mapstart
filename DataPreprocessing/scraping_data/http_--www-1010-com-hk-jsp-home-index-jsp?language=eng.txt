@@ -1,0 +1,3 @@
+-------URL--------- http://www.1010.com.hk/jsp/home/index.jsp?language=eng -------URL---------
+-------URL--------- http://www.1010.com.hk/jsp/home/notice_en.html -------URL---------
+-------URL--------- http://www.1010.com.hk/jsp/home/tel:29881010 -------URL---------

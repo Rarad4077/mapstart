@@ -1,0 +1,46 @@
+-------URL--------- http://ibeacon.io -------URL---------
+The RTLS platform helps monitors the real-time {location}, interactions and status of   {people} and {things} in the physical world to make the most complex  processes visible and controllable.​
+High precision real-time location solution (RTLS) is fully sensor agnostic – integrating location-sensing technology including Ultra-Wide Band (UWB), Bluetooth Low-Energy (BLE), RFID and Zigbee Networks.
+The technologies offers 30 cm accuracy between three directional tracking (x, y, z) within 100 meters range
+Components
+The tags are mobile transceiver units.
+Due to their compact dimensions and various mounting options the tags can be easily attached to moving objects. 
+ 
+required following system rules. Installed in tracking environment the stations collect localization data to have exact information about objects of interest.
+The position of a device is computed by the device itself which simply analyzes the UWB synchronization and Zigbee signals used by the location network.
+Positioning Intelligence System
+ 
+process flow and analytics for industrial uses.
+One platform for all industries tracking needs – our solution bring IoT to life across a number of industries where manual process flows could be better controlled and optimized by using real-time location data.
+Logistics & Manufacturing
+Tunnel & Constructions
+Asset Tracking
+Server Room
+Have any query?
+Let’s Talk
+Whether you need a full product, consultation, tech investments or cost savings, our expert will help you find the best solutions.
+Feel free to whatsapp / call us :
++852 5266 4111
+Submit Now
+About Us
+iBeacon.io is the all-in-one plug & play solution tracking platform for high accuracy indoor location of things and people.
+Industries Uses
+Unit 405-414, Level 4, Core E, Cyberport 3, 100 Cyberport Road
+SHENZHEN
+深圳市龍岗区布澜路21号联创科技园一期13栋3楼
+© Copyrights 2020, Meehea Technology Limited. All rights reserved. | Privacy Policy
+iBeacon is a trademark of Apple Inc., Google, Bluetooth, UWB and other trademarks are the property of their respective trademark holders.
+Open chat
+-------URL--------- https://ibeacon.io/blog-page -------URL---------
+Blog
+Blog
+Blog
+About Us
+iBeacon.io is the all-in-one plug & play solution tracking platform for high accuracy indoor location of things and people.
+Industries Uses
+Unit 405-414, Level 4, Core E, Cyberport 3, 100 Cyberport Road
+SHENZHEN
+深圳市龍岗区布澜路21号联创科技园一期13栋3楼
+© Copyrights 2020, Meehea Technology Limited. All rights reserved. | Privacy Policy
+iBeacon is a trademark of Apple Inc., Google, Bluetooth, UWB and other trademarks are the property of their respective trademark holders.
+Open chat

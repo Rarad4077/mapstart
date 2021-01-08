@@ -1,0 +1,43 @@
+-------URL--------- http://parami.ai -------URL---------
+Build Your AI NLP Chatbot
+Create a flawless AI Chatbot without any need for technical expertise.
+Get Started Free
+What is Asanga？
+Asnaga is a web-based application that allows users to design chat robots with NLP natural language processing technology that allows computers to understand human languages through simple operations without programming knowledge, and publish them to different On social media and platforms. In the general customer service industry, since chat robots can provide services to users without sleep, it helps optimize sales and customer service query response efficiency, and cooperate with the customer relationship management system to greatly enhance the customer experience. Of course, users can freely decide to apply it to other industries or areas.
+Get Started
+Why Asanga?
+NLP enables understanding, interaction and communication between humans and machines. Asanga provides easy-to-use tools that allow users to freely adjust Asanga's built-in natural language processing technology for maintenance and optimization.
+SQuAD2.0 results is 88.6 F1* (human scores 89.45)  *SQuAD2.0 is a mechanical reading comprehension competition initiated by Stanford University. It is the most authoritative ranking list in the field of natural language processing reading comprehension.。
+Multilingual Answering
+You only need to set a language for the chat robot, and the built-in automatic translation function can be translated into the language used by the visitor. If you want to set the content in other languages ​​by yourself, you can also customize the answer in different languages ​​for the chat robot.
+Proficient in Chinese, English, and even Cantonese.
+Integrated Management Interface
+Manage all social platform conversations in one interface. Support manual intervention.
+Team Development and Management
+Asanga supports multiple people to manage accounts together, suitable for individuals and development teams of different sizes.
+Account-holders can set different permissions for team members.
+Visual Production Interface
+Simple and easy to use. Use Asanga's built-in blocks to create a unique chat robot process without writing code.
+Easy to use
+No installation, no charge#, you can log in using social media.  #Subject to conditions, please refer to "Pricing Plan" for details
+Comprehensive Support
+We provide complete teaching documents and video teaching courses to take you to design chat robots from scratch. Our professional customer service team will answer your questions quickly.
+Get Started!
+How to use:
+IIntention List (Intention List), here are some example sentences, you can also input other sentences, and then press "Try it out!".
+You can enter the relevant sentence next to the magnifying glass, and then press the magnifying glass, or directly press the example sentence above the magnifying glass, the system will search for the closest sentence in the Intention List you just entered. The closer the meaning, the higher the ranking.
+Asanga
+How to use:
+IIntention List (Intention List), here are some example sentences, you can also input other sentences, and then press "Try it out!".
+You can enter the relevant sentence next to the magnifying glass, and then press the magnifying glass, or directly press the example sentence above the magnifying glass, the system will search for the closest sentence in the Intention List you just entered. The closer the meaning, the higher the ranking.
+Media Exposure
+Start for free and upgrade when you need to.
+If you're ready to get started creating your own bots and workflows then sign-up today for free. As you grow, simply upgrade your account to a paid option.
+Free
+Connect Facebook
+Connect Facebook
+Unlimited blocks
+Connect social media, e-commerce platforms or internal messaging tools (E.G.. Facebook, WhatsApp, LINE, Wechat, eBay, Amazon, Lazada, Website, PBX and Others)
+Dedicated account manager
+Free consultation & quotation
+Social Platform

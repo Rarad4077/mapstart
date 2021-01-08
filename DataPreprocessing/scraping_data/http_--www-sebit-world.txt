@@ -1,0 +1,13 @@
+-------URL--------- http://www.sebit.world -------URL---------
+ai . computer vision . 3d visualization & more
+We are a Hong Kong tech company focusing on Artificial Intelligence, Computer Vision and 3D visualization.
+Sebit stands for See it, Experience it and Believe in it.
+Qlicky – A Touchless Elevator Journey
+Qlicky is a touchless lift button system. By presenting QR codes or visual pattern (e.g. logos), users can trigger the floor button without touching it!
+In this project, we use custom dataset to train a neural network (YOLOv3) to detect custom objects such as: baby stroller, wheelchair, suitcase and escalator entrance.
+Object Recognition
+Supper Moment – 最後晚餐 (acoustic version) Official MV:
+Hyper realistic VR
+This is a virtual bar rendered using our 3D/VR technology. Immerse into this hyper realistic virtual world to experience the true expression of the interior design.
+Not only could you switch between the day & night mode and walk in and out of the bar, but also you can customize the choice of carpet and furniture on-the-fly to showcase different designs.
+Copyright © 2019 Sebit Company Limited. All rights reserved.|  Terms of Use

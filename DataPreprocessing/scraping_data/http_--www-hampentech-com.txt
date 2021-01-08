@@ -1,0 +1,3 @@
+-------URL--------- http://www.hampentech.com -------URL---------
+Deep-learning based solution with high accuracy under harsh lighting conditions in mobile environment.
+Shopper traffic analytic tool with flow direction/count, heat map, live view features etc.

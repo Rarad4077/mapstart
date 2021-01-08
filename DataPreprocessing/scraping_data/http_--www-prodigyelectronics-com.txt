@@ -1,0 +1,86 @@
+-------URL--------- http://www.prodigyelectronics.com -------URL---------
+Prodigy’s domain expertise in functional safety ensures thorough analysis of the given requirement and identifying the cases of vulnerability.
+Indoor Positioning System
+Like a GPS for indoor environments, IPS refers to the technology that helps locate people and objects indoors.
+Blog
+Prodigy Electronics is an original design manufacturer of quality electronic components and products. Founded in 2001, Prodigy's in-house design innovation centers and sales offices are located in China, Hong Kong, India and USA.
+© Copyright 2020 Prodigy Electronics | All Rights Reserved.
+The cookies on this website are used to analyze traffic and customize content and adverts. We also share information about the way in which you use this website with our social media, advertising, and web analysis partners, who may combine it with other information that you have provided or which they have compiled based on the use you make of their services. Ok
+-------URL--------- https://www.prodigyelectronics.com/pcb -------URL---------
+Printed Circuit Board
+Prodigy’s component divisions supports global customer’s to manufacture custom Printed Circuit Boards (PCB) from its manufacturing centers in China and Taiwan.
+Certifications
+Rigid PCB
+Rigid PCBs are produced with a solid material which prevents them from twisting. Once manufactured they can no longer be modified or folded into shapes. Rigid PCBs are well-known for its high density, high reliability, designable, testability and maintainability. They are also relatively less-cost than other types of PCB, which is one of the reason rigid PCBs are widely considered when producing electronic products.
+Layer Count: 1 to 64 Layers
+Board Thickness: 0.25mm to 10mm
+Dimensions: 1092*660mm (max.)
+Line Width/ Space: 3mil/ 3mil (min.)
+Drilling Diameter:
+Flexible PCB
+Flexible PCBs offer more options and configurations when assembling electronic circuits. They are manufactured with flexible plastic material which enables the ability to fold over edges and wrap around corners, making them become one of the most important components in today’s most advanced electronic products.
+Layer Count: 6L
+Dimensions: 500*650mm (max.), 10*10mm (min.)
+Material: FCCL, stiffener, cover-lay
+Final Cu Thickness: 1/3-1oz (iner layer base Cu), 1/3-2oz (outer layer base Cu)
+Line Width/ Space: 0.075/ 0.075mm finished Cu 0.5oz inner layer, finished Cu 1oz outer layer
+Finished Drilling: CNC drill: min. Ø 0.15, laser drill: min. Ø 0.1mm
+Aspect Ratio: laser drill: max. 1.2:1, CNC drill: max. 15:1
+Rigid-Flex PCB
+Rigid-Flex PCB is the combination of rigid and flexible board technologies. This allows an application to have a more streamlined design and ability to reduce the overall board size and package weight.
+Layer Count: 1 to 64 Layers
+Board Thickness: 0.25mm to 10mm
+Dimensions: 1092*660mm (max.)
+Line Width/ Space: 3mil/ 3mil (min.)
+Drilling Diameter:
+HDI PCB
+HDI technology enables a PCB to have higher wiring density, which greatly enhances its electrical performance and optimizes overall package weight and dimension of an equipment.
+Layer Count: 48L (4+N+4)
+Board Thickness: 0.3mm to 8mm (min. to max.)
+Dimensions: 250*330mm (max.)
+Line Width/ Space: 3
+Heavy Copper PCB
+Heavy Copper circuit boards are the core components of household appliances, high-tech products, medical or military equipment, due to the fact of the high durability, good heat dissipating and transferring capabilities.
+Layer Count: 1 to 64 Layers
+Board Thickness: 0.25mm to 10mm
+Dimensions: 1092*660mm (max.)
+Line Width/ Space: 3mil/ 3mil (min.)
+Drilling Diameter:
+Metal Clad PCB
+Metal clad PCB is a type of circuit board that consists of metal laminate and electrically insulated layer. Therefore it adds up extra strength and endurance to the product, best for applications with high temperature and pressure involved.
+Layer Count: 1 to 64 Layers
+Board Thickness: 0.25mm to 10mm
+Dimensions: 1092*660mm (max.)
+Line Width/ Space: 3mil/ 3mil (min.)
+Drilling Diameter:
+Smart factories require smart technology Industry 4.0 thrives on flexible technology, demonstrated by the industrial sewing application featured above. Thread [...]
+Selecting the Right Resistor for High-Temperature Apps
+Until recently, the limiting factor in high-temperature electronics has been the degradation in semiconductor properties of the active components used. [...]
+FAQ
+IPC-RB-276 qualification and performance specs
+IPC-SM-840 qualification and performance of permanent polymer coatings
+PC-D-275 design standards for rigid printed boards (class 2)
+IPC-TM-650 test methods manual
+Aperture* List or list for all layers
+Drill file in Gerber or Excellon format
+Prints that show: (prints should be a hard copy, or in Gerber/ HPGL format)
+– Fab dimensions with tolerance
+– Datum
+– Hole size reference with the following info for each symbol
+– Plated vs Non Plated
+– Color and type of soldermask
+– Color of silkscreen
+– Notes for cross sectioning or serialization
+– Controlled impedance requirements and tolerance if any
+– Any other special requirements or instructions
+Can I leave isolated tracks on the surface of the board? Cyrus Kwok 2020-06-03T16:15:50+08:00
+This is a most unwise procedure. These isolated tracks will become over plated and will be difficult to cover with solder mask. If the design needs an isolated track then it is advisable to cross hatch the unpopulated area.
+Do via holes need pads on the outer layers? Cyrus Kwok 2020-06-03T16:15:41+08:00
+What is SMOBC? Cyrus Kwok 2020-06-03T16:09:57+08:00
+Simply stated, it stands for Solder Mask Over Bare Copper. Traditional solder mask coatings are done over a reflowed tin/lead finish. Although the tin/lead finish is desirable for the pads for better solderability, this tin/lead coating is not necessary for the rest of the circuitry if it is protected by solder mask. The real reason for developing this process was to prevent the wrinkling effect of the tin/lead trapped under the solder mask when it is again reflowed during the assembly operation when the components are soldered with a wave solder machine.
+Why was my quote so much higher or lower than it was last time? Cyrus Kwok 2020-06-03T16:10:07+08:00
+Two possible reasons are this would be that you either requested a different quantity or a different delivery. Allowing for nominal increases for the rising prices of material and labor, the price you are quoted should be consistent with previous quotes or orders as long as the quantities and deliveries remain the same. Circuit boards are custom manufactured and the price is very dependent on the quantity being manufactured and the time allowed. Since we have to perform as many steps in the manufacturing process for 1 board as we do for 1000 boards, efficiency dictates that the more product that we can run through the numerous processes required, the more time we save per board. That time saved results in better pricing for larger quantities.
+What types of bare board fabrication are you best suited for? Cyrus Kwok 2020-06-02T13:46:52+08:00
+Prodigy Electronics is an original design manufacturer of quality electronic components and products. Founded in 2001, Prodigy's in-house design innovation centers and sales offices are located in China, Hong Kong, India and USA.
+© Copyright 2020 Prodigy Electronics | All Rights Reserved.
+The cookies on this website are used to analyze traffic and customize content and adverts. We also share information about the way in which you use this website with our social media, advertising, and web analysis partners, who may combine it with other information that you have provided or which they have compiled based on the use you make of their services. Ok

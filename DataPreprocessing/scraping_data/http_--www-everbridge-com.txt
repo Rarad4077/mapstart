@@ -1,0 +1,61 @@
+-------URL--------- http://www.everbridge.com -------URL---------
+Get up-to-the-minute information on the threat of the Coronavirus for your organization.
+manage critical events
+View Now: the Second Everbridge Coronavirus Virtual Symposium
+COVID19 R2R: The Road to Recovery Autumn 2020 featured over 25 sessions and 50 premier speakers focused on navigating the new landscape for a safe return to work in the new normal of the pandemic.
+The Everbridge Public Warning platform delivers the most proven, comprehensive, flexible and easy-to-use solutions to alert residents and visitors during crises and major incidents, to keep them safe.
+Critical events happen every day: severe weather, workplace violence, active shooters, terrorism, IT and power outages, environmental discharges, critical equipment failures, medical emergencies, social media attacks… They threaten safety and brand reputation, interrupt supply chains, and disrupt operations.
+break down silos
+A unified platform
+Use one common platform enterprise-wide to aggregate risk data, locate people and assets under threat, initiate action and manage incidents, and analyze after-action performance.
+An Integrated, Unsiloed Approach Helps Companies Improve Operational Resilience
+This kit contains industry best practices and system recommendations to optimize your infections disease response.
+Customer Perspective: Lowes
+Lowe’s Companies, Inc explains how their IT Service Desk effectively reduced the overall duration of “downed store” incidents by over 32%.
+-------URL--------- https://www.everbridge.com/platform/critical-event-management -------URL---------
+ 
+Sure, you have detailed emergency preparedness programs and your business continuity planning is up-to-date, but with an increasingly complex and unpredictable threat environment, it has never been more imperative to act faster. With more complete intelligence, you’ll be able to increase your speed and decisiveness in order to assess risks and prevent them from harming your people or disrupting your operations.
+A Critical Event Management platform uses technology to take manual processes and automate them. Amplifying ad hoc data feeds to provide richer intelligence and correlating threats with locations of assets and people, ensures more rapid and comprehensive incident assessment and remediation.
+Additional benefits include:
+The ability to automate the initiation of incident response activities
+Faster recovery of operations
+More complete assessment of your risk profile to move from a reactive crisis response approach to a proactive crisis prevention approach
+Accelerated analysis of your performance
+Quick Links
+Customer Stories
+Customer Perspective: The Dow Chemical Company
+Scott Whelchel discusses Dow's approach to global security and resilience, and breaking down organizational siloes.
+ 
+A critical event is a disruptive incident which poses serious risk or threat to assets or people. An effective Critical Event Management program and strategy is an integrated, end-to-end process that enables organizations to significantly speed up responses to critical events and improve outcomes by mitigating or eliminating the impact of a threat. Imagine your business continuity, disaster recovery, active assailant, emergency response, natural disaster, IT incident risk management, and mass notification all rolled up into an easy-to-execute, strategic plan with long-term benefits.
+The four components of CEM include:
+INTELLIGENCE
+Proactively assess potential threats before they become critical events.  With the right built-in risk intelligence and data feeds, supported by 24/7 analysts, your organization can leverage thousands of sources of data across weather, protest, social media, dark web, and hyper-local safety feeds to curate, filter and categorize risk events. This ensures a faster response to threats in order to avoid false positives and make better decisions.
+CORRELATION
+Align risk events to assets using a dynamic correlation engine that combines static location, expected location and last known location of people and assets. CEM can take this a step further by considering time elements to determine who or what is impacted by threats, in order to reach them faster and more decisively.
+ORCHESTRATION
+Automated workflows ensure that even when you and your team are not watching for threats, the system is doing it for you. SOPs, communications, and action plans can be automated and orchestrated during a crisis in order to speed up response and ensure that the appropriate action is taken for a particular threat.
+ ANALYTICS
+With CEM, metrics are built-in throughout the process to ensure the right action is taken by the right people, at the right time, and to understand how effective actions were and how you can do better in the future.
+Critical Event Management in Action
+Experience how Critical Event Management improves organizational resilience by combining real-time monitoring, automatically correlating threats to your most important assets, anticipating risks, automating response activities, and enabling team collaboration globally.
+How does your organization measure up?
+Take our Resiliency Maturity Assessment to find out.
+ 
+To execute a CEM strategy, the following steps must be addressed:
+ BUILD PARTNERSHIPS WITH LEADERSHIP
+Critical events can impact different areas of the business, and often impact more than one. Build alliances across the chief security officer (CSO), chief information security officer (CISO), and chief information officer (CIO) at the very least. Combining the experience, insights, and intelligence from across the organization makes it possible to quickly understand the root cause of an event and ensure a rapid response and operational continuity.
+ASSESS YOUR SOURCES OF INFORMATION
+It’s time to pull all of your risk information together into one place to streamline your threat assessment process. Align sources, information, and evaluate the risks and the impact to your organization across five key asset types: People, Buildings, IT Systems, Supply Chain and Brand/Reputation. Your data sources should be vetted and verified, involving geo-targeted intelligence related to weather, terrorism and other potential disruptions. Verified sources and analysis eliminate the noise and enable you to generate the most impactful information while eliminating false positives.
+IDENTIFY AND LOCATE CRITICAL ASSETS
+During every event, a resilient organization will know where employees, travelers, visitors, offices, manufacturing facilities, and other critical assets are located. It’s also critical to know how they are interconnected and the dependencies between them. Beyond knowing the location and interdependencies, organizations also need an idea of how much it will cost if these assets are impacted by an event. For instance, perhaps a critical business application goes down resulting in a thousands of dollars in losses every minute. It’s important to calculate losses based on the overall use case, such as how many employees are going to be impacted.
+QUANTIFY AND ANALYZE RISK
+It is critical to determine what is critical and what isn’t. Answer the big question: What is the impact and exposure? An effective approach is to differentiate between threats and risks across the board and to then quantify risk based on the threat, the threat’s nature, the organization’s overall vulnerability or exposure, the overall impact, which may go beyond the immediate assets, people and consider the overall timeline, which is often dynamic. For instance, it’s not sufficient to ask, “How many employees are in HQ right now?” since employees are constantly on the move. Or perhaps a geopolitical issue or event is going to cause a disruption to the supply chain, but the organization won’t feel the impact for two months.
+Best Practices / Research
+9 Steps to Critical Event Management
+ 
+Forrester Report: Take a Unified Approach to Critical Event Management
+Resilience Blog: Be an Advocate for Critical Event Management to Improve Business Resilience
+Take our Survey: How are you Elevating the Value of Your Program and Progressing with CEM?
+Customer Testimonial Videos
+Customer Perspective: Finastra
+Customer Perspective: Aon
