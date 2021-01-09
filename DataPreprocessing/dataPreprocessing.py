@@ -109,7 +109,7 @@ class CustomDataProprocessor:
     itSol_df = pd.read_csv(inputName)
     # itSol_df.loc[:,"Solution Description"] = itSol_df.loc[:,"Solution Description"].apply(lambda x: self._cl.lemmatize_sentence(x))
     # itSol_df.loc[:,"Use Case"] = itSol_df.loc[:,"Use Case"].apply(lambda x: self._cl.lemmatize_sentence(x))
-    itSol_df['Model Input'] = itSol_df.loc[:,"Solution Name (Eng)"] + ". " + itSol_df.loc[:,"Solution Description"] + ". " + itSol_df.loc[:,"Use Case"]
+    itSol_df['Model Input'] = itSol_df.loc[:,"Solution Name (Eng)"].fillna('') + ". " + itSol_df.loc[:,"Solution Description"].fillna('') + ". " + itSol_df.loc[:,"Use Case"].fillna('')
 
     itSol_df.to_csv(outputName, index=False)
   
@@ -121,8 +121,11 @@ class CustomDataProprocessor:
     busNeed_df.to_csv(outputName, index=False)
 
 if __name__ == '__main__':
-  ct = CustomTranslator()
+  # do translation
+  # ct = CustomTranslator()
   # ct.translateITSolToEn()
+
+  # get model input
   cdp = CustomDataProprocessor()
   cdp.generateITSolModelInput()
   cdp.generateBusNeedModelInput()
