@@ -31,7 +31,7 @@ if not os.path.exists(sts_dataset_path):
 
 
 # Read the dataset
-model_name = 'xlnet-large-cased-snli_mnli_fever_anli_R1_R2_R3-nli'
+model_name = 'ynie/xlnet-large-cased-snli_mnli_fever_anli_R1_R2_R3-nli'
 train_batch_size = 16
 num_epochs = 4
 model_save_path = 'output/training_stsbenchmark_continue_training-'+model_name+'-'+datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
