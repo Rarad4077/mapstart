@@ -1,0 +1,101 @@
+Reference Code,Solution Name (Eng),Cosine-Similarity
+S-0154,Cisco Stealthwatch Encrypted Traffic Analytics,0.8401808142662048
+S-0003,GeoSpatial Cloud,0.8360465168952942
+S-0031,PowerArena - Smart City Operations Platform,0.8271471858024597
+S-0231,AI Information push service management system,0.8194288611412048
+S-0188,Data Vaccinator,0.8191754817962646
+S-0181,Artificial Intelligence Camera Solutions,0.8175061941146851
+S-0144,ZIroh Labs - Advanced Data Privacy and Encryption Technology,0.8144901394844055
+S-0137,Splunk,0.8131148219108582
+S-0027,Big Data Enabler Service (project based),0.8129115700721741
+S-0118,Alteryx,0.8086097240447998
+S-0002,DataCube Data Intelligent Automation Solution,0.8063190579414368
+S-0195,SuperAcc Document Intelligence,0.8063156604766846
+S-0140,Drivelock,0.8055750727653503
+S-0239,InterOps Accelerator,0.804688572883606
+S-0013,Public Event Tracking and Early Warning Analysis System,0.8046656847000122
+S-0138,Radware DefensePro and AppWall,0.8043850660324097
+S-0139,imVision,0.8037419319152832
+S-0123,Complete Encryption with HSM,0.801629364490509
+S-0263,SafeGuard Series,0.800911009311676
+S-0046,SAP Digital Boardroom,0.7990484237670898
+S-0199,V-Key Mobile App Protection,0.797421932220459
+S-0093,DataOS System,0.7968229651451111
+S-0271,Server Data Analysis Service (User & Data),0.7945619821548462
+S-0166,IXIA BREAKINGPOINT,0.794215738773346
+S-0113,Video Analytics Solution,0.7934722900390625
+S-0045,SAP Big Data Solution,0.7896854877471924
+S-0254,FormExtractor,0.7878289818763733
+S-0157,NLP-powered Chatbot by Xiaomi,0.7875089645385742
+S-0105,Blockchain solution,0.7863293886184692
+S-0148,Zscaler,0.7861419916152954
+S-0220,3D Spatial Intelligence Platform for flow and traffic managements,0.783820629119873
+S-0203,Government payment scheme online application and data processing,0.7814167737960815
+S-0128,Iris by HKT - From Surveillance to Intelligence,0.7804111838340759
+S-0168,IXIA Vision ONE (Network Packet Broker),0.7798004746437073
+S-0021,ReportNOW,0.7768233418464661
+S-0167,IXIA ThreatARMOR,0.7759532928466797
+S-0288,Mixed language Chatbot system with AI and voice functions,0.7756795287132263
+S-0080,OceanX Cloud-based Enterprise Content Management (ECM),0.7754879593849182
+S-0065,Smart Mobility,0.7753669619560242
+S-0051,Insight Driven Organization (IDO),0.7726402878761292
+S-0243,LiDAR Road Monitoring Solutions based on Deep Learning Technology,0.7722874879837036
+S-0057,Artificial Intelligence Security Surveillance Protection  (AISSP),0.7712485790252686
+S-0152,Datax,0.7701471447944641
+S-0096,Clare.AI Asian Language Chatbot Solutions,0.7693905234336853
+S-0058,IoT Cybersecurity Testing and Certification Program,0.7693800330162048
+S-0001,PixelEye Object Detection,0.7693708539009094
+S-0008,Shape Security - Shape Enterprise Defense,0.7688404321670532
+S-0252,Critical Event Management,0.7686627507209778
+S-0216,BMC Helix Service & Operations Management,0.7674648761749268
+S-0255,Authgear,0.7670490741729736
+S-0146,Promon Shield - Application Protection and Security for IoT & Connected Devices,0.7667408585548401
+S-0133,PANGA - Data Infrastructure Edge Computing for Smart Cities,0.7663817405700684
+S-0234,Pixel Eye Vision-Based Fall Detection,0.7640540599822998
+S-0186,Technology of independent intellectual property identity authentication and tracking of close contacts of patients to assist in epidemic prevention and control and return to work,0.762051522731781
+S-0066,Smart Water Management,0.7617214918136597
+S-0122,"Smart City Solution - IoT, AI, Data Analytics Platform, Control",0.7614690661430359
+S-0182,AppProtect+ (RASP) / YESsafe Zero Login (OTP) / AccessMatrix Universal Sign-On (SSO),0.7602361440658569
+S-0134,Smart Building - Energy Management and Optimization Solutions,0.7595878839492798
+S-0197,WCL Robotic Process Automation Solution,0.7595549821853638
+S-0126,Self Service Business Intelligence,0.7589635848999023
+S-0259,Software Robotic Solution - iBot,0.7584707140922546
+S-0230,STEMHUB Education Platform,0.7581872940063477
+S-0296,BLOK Pass App for Travel Bubble,0.7577514052391052
+S-0041,A.I. and speech solutions by Nexify and iFLYTEK,0.7577162384986877
+S-0183,An Intelligent Solution for Automatic Processing and Chasing of Documents,0.7575492262840271
+S-0209,Control-M (BMC Software),0.7569916248321533
+S-0247,Seclore Digital Rights Management,0.7569515109062195
+S-0076,NEC InfoCage FileShell,0.7559388279914856
+S-0275,SMore-OCR,0.7555805444717407
+S-0049,Blockchain Solution,0.7554271221160889
+S-0100,Super Massive 3D Model Data Expert,0.7535796165466309
+S-0283,All-in-one Mobile Productivity Platform,0.7531831860542297
+S-0212,AI Solution for Outdoor People Counting without invading privacy,0.7529658079147339
+S-0125,"BIM, BMS and IoT Integration",0.7523953914642334
+S-0153,Dynatrace,0.7523101568222046
+S-0043,fieldConnect,0.7518442273139954
+S-0135,ISS Analytics Services,0.7516798377037048
+S-0038,Hybrid Reality Platform,0.7499332427978516
+S-0078,Finger Vein PBI (Public Biometric Infrastructure) Platform for Smart City ID Authentication,0.7499293088912964
+S-0143,Cyberbit,0.7495217323303223
+S-0129,Automatic ID/Travel Document Recognition and Validation - OCR Solution,0.748772144317627
+S-0082,A.I. Contact Center and User Engagement Solution,0.7487567663192749
+S-0145,Arcserve® Appliance Series,0.7479914426803589
+S-0121,Chatbot Solution and NLP applications from ZhuiYi Technology,0.7477497458457947
+S-0249,Robotic Process Automation with A.I. Data Capturing Capability,0.7475332617759705
+S-0087,Smart Citizen and Employee Self-Services,0.7473556399345398
+S-0179,"""TeleVoice""  AI Robot Solution for DHS (Demographic and Health Surveys)",0.7463340163230896
+S-0103,SP-RFID Smart Asset Management System,0.7456233501434326
+S-0194,UWB Beacon RTLS Solution,0.7447568774223328
+S-0225,DocAnalyzer - Document Review Solution,0.7443789839744568
+S-0089,Smart Infrastructure Projects Planning and Execution,0.7433066964149475
+S-0163,Ai-Knowie,0.7419022917747498
+S-0241,Intelligent Data Platform,0.7416442036628723
+S-0085,SAP Geospatial Asset Management,0.7410721778869629
+S-0060,FROM Network Audit Programs,0.7399935722351074
+S-0124,Enterprise Intelligent Assistant,0.7399433851242065
+S-0256,AIOps (Artificial Intelligence for IT Operations) Solution,0.7395508885383606
+S-0083,Smart Pharma Packaging,0.7382203936576843
+S-0223,OceanX Share,0.7376027703285217
+S-0228,eClass Corporate Learning Management System (LMS),0.7372263073921204

@@ -1,0 +1,101 @@
+Reference Code,Solution Name (Eng),Cosine-Similarity
+S-0022,A smart lamp pole system with AI-enabled security system,0.8928918242454529
+S-0234,Pixel Eye Vision-Based Fall Detection,0.8902413845062256
+S-0286,IoT Sensors and Automatic Monitoring System (AMS),0.8855799436569214
+S-0220,3D Spatial Intelligence Platform for flow and traffic managements,0.8843594789505005
+S-0036,Intelligent Traffic Monitoring,0.8758755922317505
+S-0112,Pyxis - The Internet of Things(IoT) Solution for Construction 2.0 and Beyond,0.8757458925247192
+S-0061,A.I. and Mixed Reality Solution,0.8740860819816589
+S-0153,Dynatrace,0.8693933486938477
+S-0044,AI Escalator Safety Monitoring System,0.8680477738380432
+S-0264,Smart Parking with Video Analytics,0.8604649901390076
+S-0213,Radar-based smart motion and position tracking system,0.8598518967628479
+S-0100,Super Massive 3D Model Data Expert,0.8575132489204407
+S-0196,Personnel and Asset positioning management system,0.8564304709434509
+S-0181,Artificial Intelligence Camera Solutions,0.855906069278717
+S-0288,Mixed language Chatbot system with AI and voice functions,0.8557635545730591
+S-0031,PowerArena - Smart City Operations Platform,0.8536311388015747
+S-0299,Office Delivery Robot,0.8530486226081848
+S-0243,LiDAR Road Monitoring Solutions based on Deep Learning Technology,0.8525927066802979
+S-0232,"""Smart"" Car Park Management System",0.8520766496658325
+S-0267,Smart Fever Screening System,0.8517387509346008
+S-0233,Area monitoring solution using 3D camera with privacy-preserving,0.8514772057533264
+S-0006,Centimeter level precision GNSS positioning Android tablet/smartphone,0.8513866662979126
+S-0177,MAD Gaze Smart Glass,0.8486591577529907
+S-0081,iQ-Road and Traffic Management,0.8480238318443298
+S-0038,Hybrid Reality Platform,0.8472264409065247
+S-0165,Health Monitoring System,0.8471028208732605
+S-0079,"1/ AccuID, 2/ Pedestrian Analytics, 3/ Vehicle Analytics",0.8452582359313965
+S-0204,DOLPHIN Indoor Positioning Service (IPS),0.8435671925544739
+S-0102,Miovision's Portable Solution for Traffic Data Collection,0.8434430360794067
+S-0072,Digital Twin of the City (or Town),0.8433454632759094
+S-0170,Nixplay Signage,0.8425029516220093
+S-0132,Mobility Mesh Wi-Fi Application for Smart City,0.8422942757606506
+S-0219,"VR Virtual Store, Training & Education System",0.8419511318206787
+S-0201,Non image base access control,0.8405891060829163
+S-0067,AR Smart Glass Assisted for equipment training and O&M,0.8400459289550781
+S-0235,Pixel Eye Safety Helmets Detection,0.8397237658500671
+S-0043,fieldConnect,0.8390038013458252
+S-0055,Smart City Electric Vehicle (EV) Charging Infrastructure Solution,0.8389003276824951
+S-0253,Intelligent Face Mask,0.8356794118881226
+S-0174,VR Training & Education System,0.8354254364967346
+S-0113,Video Analytics Solution,0.8352422118186951
+S-0191,NoQ E Form registration and quota distribution for massive traffic,0.8348662257194519
+S-0266,Site Audit and Inspection Recording System,0.8347601890563965
+S-0162,Automate the verification of electronic documents,0.8334973454475403
+S-0159,Integrated Smart Film Solutions,0.8332865238189697
+S-0292,Telepresence and Video Conferencing Solution,0.8329983353614807
+S-0186,Technology of independent intellectual property identity authentication and tracking of close contacts of patients to assist in epidemic prevention and control and return to work,0.8328174352645874
+S-0001,PixelEye Object Detection,0.8326022624969482
+S-0296,BLOK Pass App for Travel Bubble,0.832132875919342
+S-0176,Epidemic prevention and control management system,0.83174729347229
+S-0017,Falling Alert System for Elderly Care-- Optical Monitoring System (OMS),0.8313212990760803
+S-0053,Real-Time Origin-Destination Analysis Tool (RODAT）,0.8308743834495544
+S-0071,All-in-one Data Center - iDCmini System,0.8306032419204712
+S-0039,iQ-Dwell Time Management System,0.830169677734375
+S-0035,Document Delivery By Unmanned Vehicle,0.8292915225028992
+S-0212,AI Solution for Outdoor People Counting without invading privacy,0.8290959000587463
+S-0322,NB-IoT / LoRa Dual-detection Smart Parking Sensing Technology,0.8286528587341309
+S-0134,Smart Building - Energy Management and Optimization Solutions,0.8286391496658325
+S-0016,Cyclops -- Smart City & unmanned store solution,0.8284686803817749
+S-0057,Artificial Intelligence Security Surveillance Protection  (AISSP),0.828370213508606
+S-0179,"""TeleVoice""  AI Robot Solution for DHS (Demographic and Health Surveys)",0.8283495306968689
+S-0183,An Intelligent Solution for Automatic Processing and Chasing of Documents,0.8279018402099609
+S-0021,ReportNOW,0.8268963694572449
+S-0099,NB IoT Sensor Solution,0.8263407945632935
+S-0203,Government payment scheme online application and data processing,0.8258121609687805
+S-0252,Critical Event Management,0.8255926370620728
+S-0098,ECOPLANT Solar Tracking Solar Panel System,0.824428141117096
+S-0103,SP-RFID Smart Asset Management System,0.8242462277412415
+S-0263,SafeGuard Series,0.8241985440254211
+S-0095,Create Efficient and Simplify Business Processes Using NFC,0.823983907699585
+S-0287,Siemens Mobility (e-)bike sharing powered by AI,0.8238430619239807
+S-0118,Alteryx,0.8236596584320068
+S-0120,Raspect-ACE,0.8219760656356812
+S-0111,Smart car park solution,0.8218206167221069
+S-0167,IXIA ThreatARMOR,0.8217522501945496
+S-0282,Chatbot Solution - ccRobot,0.8216112852096558
+S-0260,Mobile platform with handheld devices for on-site inspection and remote work duties,0.8214730024337769
+S-0189,COVID19 Community Prevention Software System,0.8214235305786133
+S-0092,Enable the wireless connectivity for IoT devices,0.8210002779960632
+S-0152,Datax,0.8197426795959473
+S-0256,AIOps (Artificial Intelligence for IT Operations) Solution,0.818154513835907
+S-0065,Smart Mobility,0.8179576992988586
+S-0171,Augmented Reality (AR) model,0.8178545236587524
+S-0261,DragOnce Platform,0.8169304132461548
+S-0273,Talos,0.8163968920707703
+S-0105,Blockchain solution,0.8153867125511169
+S-0129,Automatic ID/Travel Document Recognition and Validation - OCR Solution,0.8153156042098999
+S-0279,RoomQ virtual waiting room for massive traffic,0.8149999976158142
+S-0240,Multilingual Voice Assistant,0.8148198127746582
+S-0119,Ziizau - Optimization of route design,0.8144843578338623
+S-0083,Smart Pharma Packaging,0.814342737197876
+S-0003,GeoSpatial Cloud,0.8141828179359436
+S-0015,3D Face Re-identification,0.8139973878860474
+S-0058,IoT Cybersecurity Testing and Certification Program,0.8138557076454163
+S-0091,Next Generation Growable Optical Networks,0.813844621181488
+S-0275,SMore-OCR,0.8137013912200928
+S-0239,InterOps Accelerator,0.813652753829956
+S-0195,SuperAcc Document Intelligence,0.8132684230804443
+S-0251,Self Service Bike Rental Solution,0.8131051063537598
+S-0154,Cisco Stealthwatch Encrypted Traffic Analytics,0.8111423254013062
