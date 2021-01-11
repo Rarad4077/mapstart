@@ -93,10 +93,10 @@ class ITsolListGenerator_BiEncoder:
         modelNameString = "_model_" +self._modelName.replace('/','-')
 
         if len(str(busNeedDfInputName)) == 0: 
-            busNeedDfInputName = '2.list_business_needs_modelEmbedding' +modelNameString+ numberOfWordsString + '.pkl'
+            busNeedDfInputName = '2.list_business_needs_modelEmbedding'+modelNameString+numberOfWordsString+islemmatizeString+'.pkl'
 
         if len(str(itSolDfInputName)) == 0: 
-            itSolDfInputName = '1.list_it_solutions_modelEmbedding' +modelNameString+ numberOfWordsString + '.pkl'
+            itSolDfInputName = '1.list_it_solutions_modelEmbedding'+modelNameString+numberOfWordsString +islemmatizeString+'.pkl'
 
         # Extract the business need emnbedding by the busNeedCode
         busNeed_df = pd.read_pickle(busNeedDfInputName)
@@ -134,7 +134,7 @@ class ITsolListGenerator_CrossEncoder:
         self._modelName = modelName
         self._model = CrossEncoder(modelName)
 
-    def generateITSolList(self, busNeedCode, islemmatize = False, itSolListSize = None, itSolDfInputName="1.list_it_solutions_modelInput.csv", 
+    def generateITSolList(self, busNeedCode, islemmatize = False, itSolListSize = None, itSolDfInputName="", 
         busNeedDfInputName="", itSolOutputName='' ):
         """To generate the ITSolList, save it in "ITSolList-<busNeedCode>.csv"
 
@@ -149,6 +149,7 @@ class ITsolListGenerator_CrossEncoder:
         """
         #for naming of files
         islemmatizeString = "_lemmatize" if islemmatize else "_notLemmatize"
+        modelNameString = "_model_" +self._modelName.replace('/','-')
 
         if len(busNeedDfInputName) == 0:
             busNeedDfInputName = "2.list_business_needs_modelInput"+islemmatizeString+".csv"
@@ -180,7 +181,7 @@ class ITsolListGenerator_CrossEncoder:
         itSol_df = itSol_df.sort_values(by='Cosine Similarity', ascending=False)
         # # print(itSol_df)
         if len(str(itSolOutputName)) == 0:
-            itSolOutputName = "ITSolList_"+busNeedCode+"_model_"+ self._modelName.replace('/','-') +"_CrossEncoder.csv"
+            itSolOutputName = "ITSolList_"+busNeedCode+modelNameString+islemmatizeString+"_CrossEncoder.csv"
         itSol_df.to_csv(itSolOutputName,index=False)
         print("Finished IT solutions list:", itSolOutputName)
 
@@ -191,27 +192,16 @@ if __name__ == '__main__':
     t0 = time.time()
     itg_be = ITsolListGenerator_BiEncoder(modelName="stsb-roberta-large")
 
-    # itg_be.generateModelEmbedding()
+    itg_be.generateModelEmbedding()
 
     list_of_matching_file_name = "3.list_of_matching.xlsx"
     listOfMatching_df = pd.read_excel(list_of_matching_file_name)
 
-    # listOfMatching_df['Needs Ref'].apply(lambda x: itg_be.generateITSolList( busNeedCode=x, ))
+    listOfMatching_df['Needs Ref'].apply(lambda x: itg_be.generateITSolList( busNeedCode=x, islemmatize=False))
     
     
-    itg_ce = ITsolListGenerator_CrossEncoder(modelName='cross-encoder/stsb-roberta-large')
-    listOfMatching_df['Needs Ref'].apply(lambda x: itg_ce.generateITSolList( busNeedCode=x, islemmatize=False))
-
-    # for i in range(10,21):
-    #     print("Start CrossEncoder",i)
-    #     t0 = time.time()
-    #     itg_ce.generateITSolList( busNeedCode='N-00'+str(i),
-    #         itSolDfInputName="1.list_it_solutions_modelInput_notLemmatize.csv", 
-    #         busNeedDfInputName="2.list_business_needs_modelInput_notLemmatize.csv",
-    #         itSolOutputName="CrossEn_notLemmatize_"+str(i)+".csv"
-    #         )
-    #     t1 = time.time()
-    #     print("Time Used (s):",t1-t0)
+    # itg_ce = ITsolListGenerator_CrossEncoder(modelName='cross-encoder/stsb-roberta-large')
+    # listOfMatching_df['Needs Ref'].apply(lambda x: itg_ce.generateITSolList( busNeedCode=x, islemmatize=False))
 
     # print("max length:",itg_be._model.max_seq_length) #128
 

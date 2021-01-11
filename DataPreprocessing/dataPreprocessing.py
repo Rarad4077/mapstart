@@ -47,6 +47,7 @@ class CustomTranslator:
     itSol_df.loc[:,"Solution Name (Eng)"] = itSol_df.loc[:,"Solution Name (Eng)"].apply(lambda x: self.translateToEn(x))
     itSol_df.loc[:,"Solution Description"] = itSol_df.loc[:,"Solution Description"].apply(lambda x: self.translateToEn(x))
     itSol_df.loc[:,'Use Case'] = itSol_df.loc[:,'Use Case'].apply(lambda x: ct.translateToEn(x))
+
     itSol_df.to_csv(outputName, index=False)
   
   def translateBusNeedToEn(self,inputName='2.list_business_needs.xlsx', outputName='2.list_business_needs_clean.csv'):
@@ -99,6 +100,7 @@ class CustomDataProprocessor:
   ''' This part is for general data preprocessing part
   '''
   _cl = CustomLemmatizer()
+  _ct = CustomTranslator()
   def __init__(self):
       pass
   
@@ -129,13 +131,20 @@ class CustomDataProprocessor:
     if len(str(outputName)) == 0:
       outputName = "2.list_business_needs_modelInput"+islemmatizeString+".csv"
     busNeed_df.to_csv(outputName, index=False)
+  
+  def fillNullITSol(self, inputName='1.list_it_solutions_clean.csv',outputName='1.list_it_solutions_clean.csv'):
+    itSol_df = pd.read_csv(inputName)
+    #if Solution Name (Eng) is null, use translated Solution Name (TC)
+    itSol_df.loc[pd.isnull(itSol_df["Solution Name (Eng)"]),"Solution Name (Eng)"] = itSol_df[pd.isnull(itSol_df["Solution Name (Eng)"])].apply(lambda row: self._ct.translateToEn(row['Solution Name (TC)']),axis=1)
+    itSol_df.to_csv(outputName, index=False)
 
 if __name__ == '__main__':
   # do translation
-  # ct = CustomTranslator()
+  ct = CustomTranslator()
   # ct.translateITSolToEn()
 
   # get model input
   cdp = CustomDataProprocessor()
+  cdp.fillNullITSol()
   cdp.generateITSolModelInput()
-  cdp.generateBusNeedModelInput()
+  # cdp.generateBusNeedModelInput()

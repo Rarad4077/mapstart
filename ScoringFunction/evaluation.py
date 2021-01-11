@@ -13,7 +13,7 @@ class Evaluator:
         self.modelNameColumn = modelName.replace('/','-')
         self.modelNameString = "_model_" +modelName.replace('/','-')
         self.numberOfWords = numberOfWords
-        self.numberOfWordsString = "_numberOfWords_"+ str(numberOfWords)
+        self.numberOfWordsString = "_numberOfWords_"+ str(numberOfWords) if encoder == 'BiEncoder' else ""
         self.encoder = encoder
         self.encoderString = "_" + encoder
         self.islemmatizeString = "_lemmatize" if islemmatize else "_notLemmatize"
@@ -57,7 +57,7 @@ class Evaluator:
 
 if __name__ == '__main__':
     t0 = time.time()
-    ev = Evaluator(directory='')
+    ev = Evaluator(directory='', encoder='BiEncoder', modelName='stsb-roberta-large')
     ev.evaluate()
     t1 = time.time()
     print("Time Used (s):",t1-t0)

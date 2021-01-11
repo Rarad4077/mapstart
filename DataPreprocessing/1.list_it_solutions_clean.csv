@@ -1646,7 +1646,7 @@ For employees:
 - Flexibility to deploy the government workforce in response to current events, including working from home
 - Time and resources saved by replacing multiple manual systems with online services
 - Complex manual calculations automated and integrated across departments, resulting in greater efficiency and accuracy",www.sap.com
-S-0088,NaN,公共車輛實時到站預報系統及實時座位偵測系統,SOCIF LIMITED,,"SOCIF has developed a comprehensive intelligent travel IoT system for vehicles.By installing a GPS touch screen device on the vehicle, through our cloud computing algorithm, big data analysis and predictive analysis, we can obtain real-time arrival forecasts of any vehicles traveling on regular routes.By deploying our customized camera on the vehicle, through artificial intelligence, machine learning, deep learning and image analysis technology, it will detect human movement, flow, seat occupation, etc. in the vehicle (and even obtain its identity through facial recognition technology), So as to obtain the actual seat occupancy rate accordingly.
+S-0088,Public vehicle real-time arrival forecast system and real-time seat detection system,公共車輛實時到站預報系統及實時座位偵測系統,SOCIF LIMITED,,"SOCIF has developed a comprehensive intelligent travel IoT system for vehicles.By installing a GPS touch screen device on the vehicle, through our cloud computing algorithm, big data analysis and predictive analysis, we can obtain real-time arrival forecasts of any vehicles traveling on regular routes.By deploying our customized camera on the vehicle, through artificial intelligence, machine learning, deep learning and image analysis technology, it will detect human movement, flow, seat occupation, etc. in the vehicle (and even obtain its identity through facial recognition technology), So as to obtain the actual seat occupancy rate accordingly.
 
 This system can promote real-time monitoring of public transportation or other departmental fleets, personnel deployment management, traffic analysis and city management.","City Management
 Commerce and Industry
@@ -4128,7 +4128,7 @@ Transport
 •        Drastically reduce disk storage capacity requirement. 
 •        Tremendously speed up information retrieval. 
 •        Efficiency improvement by ~70%.",
-S-0185,NaN,人體溫度識別實時測量聯動系統,DataExpert Technology Ltd ,順安達科技有限公司,"Through the human body temperature recognition real-time measurement linkage system, the body temperature of each employee can be detected effectively and in real time.
+S-0185,Human body temperature recognition real-time measurement linkage system,人體溫度識別實時測量聯動系統,DataExpert Technology Ltd ,順安達科技有限公司,"Through the human body temperature recognition real-time measurement linkage system, the body temperature of each employee can be detected effectively and in real time.
 It can make every employee feel at ease to go to work and reduce the risk of virus spread.","Broadcasting
 City Management
 Climate and Weather
