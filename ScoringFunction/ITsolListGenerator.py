@@ -196,26 +196,11 @@ if __name__ == '__main__':
     list_of_matching_file_name = "3.list_of_matching.xlsx"
     listOfMatching_df = pd.read_excel(list_of_matching_file_name)
 
-    listOfMatching_df['Needs Ref'].apply(lambda x: itg_be.generateITSolList( busNeedCode=x, itSolDfInputName="1.list_it_solutions_modelEmbedding_model_stsb-roberta-large_numberOfWords_100000_notLemmatize.pkl", busNeedDfInputName="2.list_business_needs_modelEmbedding_model_stsb-roberta-large_numberOfWords_100000_notLemmatize.pkl"))
-
+    # listOfMatching_df['Needs Ref'].apply(lambda x: itg_be.generateITSolList( busNeedCode=x, ))
     
-    # for i in range(24,25):
-    #     if i < 10:
-    #         busNeedCode = 'N-000'+str(i)
-    #     else:
-    #         busNeedCode = 'N-00'+str(i)
-    #     print("Start BiEncoder",busNeedCode)
-    #     t0 = time.time()
-    #     itg_be.generateITSolList(
-    #         busNeedCode=busNeedCode, 
-    #         itSolDfInputName="1.list_it_solutions_modelEmbedding_model_stsb-roberta-large_numberOfWords_100000_notLemmatize.pkl",
-    #         busNeedDfInputName="2.list_business_needs_modelEmbedding_model_stsb-roberta-large_numberOfWords_100000_notLemmatize.pkl")
-    #     t1 = time.time()
-    #     print("Time Used (s):",t1-t0)
-
-
-
-    # itg_ce = ITsolListGenerator_CrossEncoder(modelName='cross-encoder/stsb-roberta-large')
+    
+    itg_ce = ITsolListGenerator_CrossEncoder(modelName='cross-encoder/stsb-roberta-large')
+    listOfMatching_df['Needs Ref'].apply(lambda x: itg_ce.generateITSolList( busNeedCode=x, islemmatize=False)
 
     # for i in range(10,21):
     #     print("Start CrossEncoder",i)
