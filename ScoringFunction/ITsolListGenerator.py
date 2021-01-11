@@ -200,7 +200,7 @@ if __name__ == '__main__':
     
     
     itg_ce = ITsolListGenerator_CrossEncoder(modelName='cross-encoder/stsb-roberta-large')
-    listOfMatching_df['Needs Ref'].apply(lambda x: itg_ce.generateITSolList( busNeedCode=x, islemmatize=False)
+    listOfMatching_df['Needs Ref'].apply(lambda x: itg_ce.generateITSolList( busNeedCode=x, islemmatize=False))
 
     # for i in range(10,21):
     #     print("Start CrossEncoder",i)
