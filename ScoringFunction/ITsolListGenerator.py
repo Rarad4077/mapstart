@@ -192,12 +192,12 @@ if __name__ == '__main__':
     t0 = time.time()
     itg_be = ITsolListGenerator_BiEncoder(modelName="stsb-roberta-large")
 
-    itg_be.generateModelEmbedding()
+    itg_be.generateModelEmbedding(islemmatize=True)
 
     list_of_matching_file_name = "3.list_of_matching.xlsx"
     listOfMatching_df = pd.read_excel(list_of_matching_file_name)
 
-    listOfMatching_df['Needs Ref'].apply(lambda x: itg_be.generateITSolList( busNeedCode=x, islemmatize=False))
+    listOfMatching_df['Needs Ref'].apply(lambda x: itg_be.generateITSolList( busNeedCode=x, islemmatize=True))
     
     
     # itg_ce = ITsolListGenerator_CrossEncoder(modelName='cross-encoder/stsb-roberta-large')

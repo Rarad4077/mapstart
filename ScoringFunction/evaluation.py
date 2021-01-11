@@ -26,7 +26,7 @@ class Evaluator:
         listOfMatching_eval_df[self.modelNameColumn] = listOfMatching_eval_df.apply( lambda row: self.generateRankingSum(row['Needs Ref'], row['Solution Ref (1)'], row['Solution Ref (2)'], row['Solution Ref (3)'], row['Solution Ref (4)']), axis=1 )
         
         if len(evalResultOutputName) == 0:
-            evalResultOutputName = 'Eval' + self.modelNameString + ".csv"
+            evalResultOutputName = 'Eval' + self.modelNameString + self.numberOfWordsString+self.islemmatizeString +self.encoderString + ".csv"
         listOfMatching_eval_df.to_csv(evalResultOutputName,index=False)
     
 
@@ -57,7 +57,7 @@ class Evaluator:
 
 if __name__ == '__main__':
     t0 = time.time()
-    ev = Evaluator(directory='../MatchingModel/Word2vec/Output/', encoder='Word2Vec', modelName='word2vec-google-news-300',islemmatize=False)
+    ev = Evaluator(directory='', encoder='BiEncoder', modelName="stsb-roberta-large",islemmatize=True)
     ev.evaluate()
     t1 = time.time()
     print("Time Used (s):",t1-t0)

@@ -108,9 +108,6 @@ class CustomDataProprocessor:
     '''generate model input column in IT solution which can be used as NLP model input. 
     output: 1.list_it_solutions_modelInput.csv with "Model Input" columns
     '''
-    #for naming of the files
-    islemmatizeString = "_lemmatize" if islemmatize else "_notLemmatize"
-
     itSol_df = pd.read_csv(inputName)
     if islemmatize:
       itSol_df.loc[:,"Solution Description"] = itSol_df.loc[:,"Solution Description"].apply(lambda x: self._cl.lemmatize_sentence(x))
@@ -118,6 +115,8 @@ class CustomDataProprocessor:
     itSol_df['Model Input'] = itSol_df.loc[:,"Solution Name (Eng)"].fillna('') + ". " + itSol_df.loc[:,"Solution Description"].fillna('') + ". " + itSol_df.loc[:,"Use Case"].fillna('')
 
     if len(str(outputName)) == 0:
+      #for naming of the files
+      islemmatizeString = "_lemmatize" if islemmatize else "_notLemmatize"
       outputName = "1.list_it_solutions_modelInput"+islemmatizeString+".csv"
     itSol_df.to_csv(outputName, index=False)
   
@@ -129,13 +128,16 @@ class CustomDataProprocessor:
     busNeed_df['Model Input'] = busNeed_df.loc[:,"Title (Eng)"].fillna('') + ". " + busNeed_df.loc[:,"Business Needs / Challenges (Eng)"].fillna('') + ". " + busNeed_df.loc[:,"Expected Outcomes (Eng)"].fillna('')
     
     if len(str(outputName)) == 0:
+      #for naming of the files
+      islemmatizeString = "_lemmatize" if islemmatize else "_notLemmatize"
       outputName = "2.list_business_needs_modelInput"+islemmatizeString+".csv"
     busNeed_df.to_csv(outputName, index=False)
   
   def fillNullITSol(self, inputName='1.list_it_solutions_clean.csv',outputName='1.list_it_solutions_clean.csv'):
     itSol_df = pd.read_csv(inputName)
     #if Solution Name (Eng) is null, use translated Solution Name (TC)
-    itSol_df.loc[pd.isnull(itSol_df["Solution Name (Eng)"]),"Solution Name (Eng)"] = itSol_df[pd.isnull(itSol_df["Solution Name (Eng)"])].apply(lambda row: self._ct.translateToEn(row['Solution Name (TC)']),axis=1)
+    if len(itSol_df.loc[pd.isnull(itSol_df["Solution Name (Eng)"]),"Solution Name (Eng)"]) >0:
+      itSol_df.loc[pd.isnull(itSol_df["Solution Name (Eng)"]),"Solution Name (Eng)"] = itSol_df[pd.isnull(itSol_df["Solution Name (Eng)"])].apply(lambda row: self._ct.translateToEn(row['Solution Name (TC)']),axis=1)
     itSol_df.to_csv(outputName, index=False)
 
 if __name__ == '__main__':
@@ -146,5 +148,5 @@ if __name__ == '__main__':
   # get model input
   cdp = CustomDataProprocessor()
   cdp.fillNullITSol()
-  cdp.generateITSolModelInput()
-  # cdp.generateBusNeedModelInput()
+  cdp.generateITSolModelInput(islemmatize=True)
+  cdp.generateBusNeedModelInput(islemmatize=True)
