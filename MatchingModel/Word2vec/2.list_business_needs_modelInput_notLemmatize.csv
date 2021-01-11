@@ -1,0 +1,870 @@
+Reference Code,Title (Eng),Title (TC),Business Needs / Challenges (Eng),Business Needs / Challenges (TC),Expected Outcomes (Eng),Expected Outcomes (TC),Application Areas,Technologies to be Used,Model Input
+N-0001,CCTV Video Analytic,閉路電視攝影機視頻分析,"Traditional Closed Circuit Television (CCTV) cameras are installed at strategic locations in Hong Kong to allow the Transport Department Emergency Transport Coordination Centre (ETCC) to monitor traffic condition and take remedial actions in case of emergency. There are around 1,000 fixed or pan-tilt-zoom cameras with different years of installation. At present, monitoring of camera images are performed manually by ETCC operators.  Proof of concept exercise would like to be conducted to study how Artificial Intelligence technologies could automatically monitor CCTV video and alert ETCC operators on any abnormal traffic condition.",傳統閉路電視（CCTV）攝影機安裝在香港各個策略性地點，以便運輸署緊急事故交通協調中心（ETCC）監察交通情況，並在緊急事故情況下採取補救措施。本港大約有一千個安裝於不同年期的固定或平移 - 傾斜 - 變焦攝影機。目前，ETCC當值人員手動執行攝影機圖像的監視。希望進行概念驗證試驗，以研究人工智能技術如何自動監控CCTV視頻並在任何異常交通狀況下提醒ETCC當值人員。,"1) What type of abnormal traffic conditions can be discovered?
+2) Can images from all existing cameras be adopted for automatic AI detection?
+3) Any difficulties/requirements/arrangement on capturing the video images for Video Analytic purpose?
+4) Estimate on the cost and schedule for full implementation.","1）可以發現什麼類型的異常交通狀況？
+2）是否可以採用所有現有攝影機的圖像進行自動人工智能技術檢測？
+3）為視頻圖像分析目的而需考慮任何困難/要求/安排？
+4）估算全面實施的成本和時間表。","Transport
+","Artificial Intelligence (AI)
+Deep Learning
+Internet of Things (IoT)
+Machine Learning
+Video Analytics
+","CCTV Video Analytic. Traditional Closed Circuit Television (CCTV) cameras are installed at strategic locations in Hong Kong to allow the Transport Department Emergency Transport Coordination Centre (ETCC) to monitor traffic condition and take remedial actions in case of emergency. There are around 1,000 fixed or pan-tilt-zoom cameras with different years of installation. At present, monitoring of camera images are performed manually by ETCC operators.  Proof of concept exercise would like to be conducted to study how Artificial Intelligence technologies could automatically monitor CCTV video and alert ETCC operators on any abnormal traffic condition.. 1) What type of abnormal traffic conditions can be discovered?
+2) Can images from all existing cameras be adopted for automatic AI detection?
+3) Any difficulties/requirements/arrangement on capturing the video images for Video Analytic purpose?
+4) Estimate on the cost and schedule for full implementation."
+N-0002,Management of Valuable Audio-Visual (AV) Equipment ,昂貴視聽設備的管理,Valuable AV equipment and tools were acquired to support daily operation of the department.   Users in division concerned have to carry AV equipment for performing outdoor filming and photographic work.   Automated solution is required for better inventory management of such valuable equipment.,部門添置了昂貴的視聽設備和工具，以支援日常運作。各別組別的同事需要攜帶這些設備進行戶外拍攝和攝影工作。部門需要自動化解決方案去更好地管理這些有價值的設備。,"The system will allow the department to identify the user/borrower of an equipment and to keep track of all equipment movement.  Sensors will be installed to alert the officer-in-charge if there is any unauthorised/improper movement of an equipment.  Besides, staff concerned will be able to perform fast stocktaking by using a portable RFID reader to locate all AV equipment resided in the offices.  ",該系統能夠讓部門識別設備的使用者/借用者並追踪所有設備的去向。當感測器發現任何設備在未經授權下被攜走，系統就會發出通知提醒負責設備管理的同事。此外，同事能夠使用便攜式無線射頻識別閱讀器去盤點部門辦公室中的所有視聽設備。,"Asset Management
+","Radio Frequency Identification (RFID)
+","Management of Valuable Audio-Visual (AV) Equipment . Valuable AV equipment and tools were acquired to support daily operation of the department.   Users in division concerned have to carry AV equipment for performing outdoor filming and photographic work.   Automated solution is required for better inventory management of such valuable equipment.. The system will allow the department to identify the user/borrower of an equipment and to keep track of all equipment movement.  Sensors will be installed to alert the officer-in-charge if there is any unauthorised/improper movement of an equipment.  Besides, staff concerned will be able to perform fast stocktaking by using a portable RFID reader to locate all AV equipment resided in the offices.  "
+N-0003,Project Collaboration System,項目協作系统,"The department is carrying out a feasibility study on a Project Collaboration System (PCS).  In brief, the PCS aims to support administration of public works contracts in an effective manner by means of:
+(i) provision of a collaboration platform among external contractors and consultants and internal staff of the department; and
+(ii) better management of site documents through the establishment of a unified electronic Document Management System (eDMS).
+
+During the study, we would like to explore if any innovative solutions can cope with the project requirements. The system will have decentralised servers and local network scattered at temporary site offices of construction sites. It is expected severe physical environment will be faced by the IT equipment, e.g. potential expose conditions similar to outdoor and limited/unstable wide area network or Internet connection. We would like to explore for solutions that the equipment can cope with the situation and can perform effectively and securely. ","部門正進行項目協作系統的可行性研究。簡略而言，項目協作系統的目的是支援公務工程合約的行政工作,藉著完成以下項目,以使行政工作得以有效進行:-
+(一) 提供一個協作平台供承建商,顧問公司以及部門員工共同使用; 及
+(二) 建立一個統一的電子文檔管理系統以便更佳管理工地文件。
+
+在這個研究過程中，我們想要探索任何能處理這項目需求的創新解決方案。這系統的伺服器及區域網路將會分散在各個建築工地的臨時工地辦公室，我們預期有關電腦設施會面對一些嚴峻的外在環境，例如相似於戶外的環境,和有限或不穩定的廣域網路或互聯網連接，我們想探索一些解決方案, 以使有關電腦設施能夠應付此情況而可有效及安全地運作。","Technical solutions with the following information:
+1. Product type with brand name
+2. Cost estimate
+3. Name and contact of companies providing the product with support services
+4. Proof of concept or verified test result ","包括以下資訊的技術方案:
+1. 產品的品牌名稱及種類
+2. 估計價格
+3. 提供有關產品及其支援服務的公司的聯絡人資料
+4. 概念驗証及試驗結果","Development
+Infrastructure
+","Mobile Technologies
+Robotic Process Automation
+Advanced Environmental Technology
+","Project Collaboration System. The department is carrying out a feasibility study on a Project Collaboration System (PCS).  In brief, the PCS aims to support administration of public works contracts in an effective manner by means of:
+(i) provision of a collaboration platform among external contractors and consultants and internal staff of the department; and
+(ii) better management of site documents through the establishment of a unified electronic Document Management System (eDMS).
+
+During the study, we would like to explore if any innovative solutions can cope with the project requirements. The system will have decentralised servers and local network scattered at temporary site offices of construction sites. It is expected severe physical environment will be faced by the IT equipment, e.g. potential expose conditions similar to outdoor and limited/unstable wide area network or Internet connection. We would like to explore for solutions that the equipment can cope with the situation and can perform effectively and securely. . Technical solutions with the following information:
+1. Product type with brand name
+2. Cost estimate
+3. Name and contact of companies providing the product with support services
+4. Proof of concept or verified test result "
+N-0004,Automated Cyber Security Information Analysis,自動化網絡安全資訊分析,"The Office of the Government Chief Information Officer launched a cross-sector cyber security information sharing and collaborative platform (the Platform) in Hong Kong in September 2018 to enhance the exchange of cyber security information with various sectors to jointly defend against cyber attacks.  In view of the volume and variety of cyber security information, it is considered that artificial intelligence (AI) and big data analytics technologies would enhance the effectiveness of sharing and turn information into actionable intelligence.",政府資訊科技總監辦公室於2018年9月推出跨行業的網絡安全資訊共享協作平台（下稱「平台」），加強與各界交流網絡安全資訊，攜手防禦網絡攻擊。由於平台上的網絡安全資訊數量和種類繁多，因此我們需要利用人工智能和大數據分析技術，以促進資訊共享的效率，並將資訊轉化為可採取行動的情報。,"To adopt AI, big data analytics and related technologies to transform cyber security information into actionable intelligence by:
+a. finding out correlation of similar cyber security information;
+b. summarisation for easier digestion of the cyber security information and understanding the impact; and
+c. adoption of any other textual analytics techniques to unleash the value of the cyber security information.","採用人工智能，大數據分析和相關技術，通過以下的方式將網絡安全資訊轉化為可操作的情報：
+- 找出相似網絡安全資訊的關係;
+- 總結網絡安全資訊，以便更容易明白並了解其影響; 及
+- 採用任何其他文本分析技術以釋放網絡安全資訊的價值。","Law and Security
+","Artificial Intelligence (AI)
+Data Analytics
+Deep Learning
+Machine Learning
+Natural Language Processing
+Predictive Analytics
+","Automated Cyber Security Information Analysis. The Office of the Government Chief Information Officer launched a cross-sector cyber security information sharing and collaborative platform (the Platform) in Hong Kong in September 2018 to enhance the exchange of cyber security information with various sectors to jointly defend against cyber attacks.  In view of the volume and variety of cyber security information, it is considered that artificial intelligence (AI) and big data analytics technologies would enhance the effectiveness of sharing and turn information into actionable intelligence.. To adopt AI, big data analytics and related technologies to transform cyber security information into actionable intelligence by:
+a. finding out correlation of similar cyber security information;
+b. summarisation for easier digestion of the cyber security information and understanding the impact; and
+c. adoption of any other textual analytics techniques to unleash the value of the cyber security information."
+N-0005,Improvement of Telecommunication Network Service in Rural Areas,改善鄉郊地區的電訊網絡服務,"The telecommunication network services of the offices residing in the rural areas are not very cost-effective.  Due to the lack of economy of business scale, most service providers are not incented to install / enhance their network coverage to these areas.  As a result, the cost of the existing network service is unreasonably high due to monopolization of the existing service provider.  We have been exploring different solutions, including mobile network, to help address the problem.  But the performance is not satisfactory. We hope to find viable technology options which can provide robust and economical telecommunication network services at rural areas.",位處鄉郊地區的辦公室的電訊網絡服務經濟效益十分低。由於缺乏商業效益，大部分電訊服務供應商未有誘因去開拓或拓展其網絡覆蓋範圍至鄉郊地區。因此，在現有電訊服務供應商的壟斷下，現時鄉郊地區辦公室的網絡服務費用處於極不合理的水平。本署一直尋求不同的解決方案，包括流動網絡，但效果未能令人滿意。本署期望可找到可行技術，為鄉郊地區提供穩妥及高經濟效益的電訊網絡服務。,A robust and more economical telecommunication network services for the offices residing in the rural areas.,位處鄉郊地區的辦公室可使用穩妥及高經濟效益的電訊網絡服務。,"Infrastructure
+","Mobile Technologies
+Telecommunications
+","Improvement of Telecommunication Network Service in Rural Areas. The telecommunication network services of the offices residing in the rural areas are not very cost-effective.  Due to the lack of economy of business scale, most service providers are not incented to install / enhance their network coverage to these areas.  As a result, the cost of the existing network service is unreasonably high due to monopolization of the existing service provider.  We have been exploring different solutions, including mobile network, to help address the problem.  But the performance is not satisfactory. We hope to find viable technology options which can provide robust and economical telecommunication network services at rural areas.. A robust and more economical telecommunication network services for the offices residing in the rural areas."
+N-0006,Image Matching for Insect Knowledge Base,昆蟲知識庫的圖像配對技術,"The department has been keeping a database repository of insect and specimens for decades.  The department intends to establish a structured knowledge base (KB) about different species of insects.  According to the expert of the subject area, one of the challenges to establish the KB is matching the newly found specimen against the image database which was created via highly sophisticated microscopic devices.  As the industry players keep discovering new species (such as:https://hk.news.appledaily.com/local/daily/article/20190402/20646945), the image matching challenge could be a hurdle for the KB.  We hope to find viable technology which can improve the image matching accuracy for insects.",本署經多年累積，儲有一昆蟲和標本資料的數據庫，並正計劃建立一個關於不同昆蟲品種的結構化知識庫以保存相關資料。根據這範疇的專家意見，建立該知識庫的其中一項挑戰，是將新發現的品種樣本與透過高度先進精密的顯微鏡所建立的圖像數據庫作配對。隨著業界不斷發現新品種(例如https://hk.news.appledaily.com/local/daily/article/20190402/20646945)，圖像配對的挑戰或有礙該知識庫的建立。本署期望找到可行技術，提高昆蟲圖像配對的準確度。,Image matching accuracy for inserts could be improved so that the KB could be established.,提高昆蟲圖像配對的準確度，以助建立有關知識庫。,"Environment
+Health
+","Artificial Intelligence (AI)
+Data Analytics
+Deep Learning
+Machine Learning
+Image Recognition
+","Image Matching for Insect Knowledge Base. The department has been keeping a database repository of insect and specimens for decades.  The department intends to establish a structured knowledge base (KB) about different species of insects.  According to the expert of the subject area, one of the challenges to establish the KB is matching the newly found specimen against the image database which was created via highly sophisticated microscopic devices.  As the industry players keep discovering new species (such as:https://hk.news.appledaily.com/local/daily/article/20190402/20646945), the image matching challenge could be a hurdle for the KB.  We hope to find viable technology which can improve the image matching accuracy for insects.. Image matching accuracy for inserts could be improved so that the KB could be established."
+N-0007,Building an innovative data bank of construction project costs,建立一個建設項目成本的創新數據庫,"Cost information of construction projects are generally in various forms of different details generated at different stages of projects. There exists a need to consolidate those cost information (e.g. project cost analysis, BQ rates, interim payments, final account data, etc.) at one-stop shop that facilitates application in future estimates, analysis of cost trends, cash flow forecast, vetting of tender prices, valuation of variations, etc. by Big Data Analysis, Artificial Intelligence or other innovative algorithms.",建築項目於不同階段會衍生各種形式及不同細節的成本資料 (例如項目成本分析、合同單價、中期付款、最終結算數據等）。在一站式平台整合這些成本資料有助於應用大數據分析、人工智能或其他創新系統進行估算、成本趨勢分析、現金流量預測、投標價格審查及合同變更估值等。,"Recommendation on building an innovative data bank that fits our needs, including the required methodology, roadmap for development, the associated budget, etc. for forward planning.",建立符合我們需求的創新數據庫的建議，包括所需的方法，發展路線圖，相關預算等，以便進行前瞻性規劃。,"Infrastructure
+Construction industry
+","Artificial Intelligence (AI)
+Data Analytics
+Predictive Analytics
+","Building an innovative data bank of construction project costs. Cost information of construction projects are generally in various forms of different details generated at different stages of projects. There exists a need to consolidate those cost information (e.g. project cost analysis, BQ rates, interim payments, final account data, etc.) at one-stop shop that facilitates application in future estimates, analysis of cost trends, cash flow forecast, vetting of tender prices, valuation of variations, etc. by Big Data Analysis, Artificial Intelligence or other innovative algorithms.. Recommendation on building an innovative data bank that fits our needs, including the required methodology, roadmap for development, the associated budget, etc. for forward planning."
+N-0008,Enhancement of estimating process for construction projects,優化建築項目的估算方法,"An accurate cost estimate is an essential element for a successful construction project. Under-estimation would result in insufficient funding being set aside for a project, while over-estimation would lock up unnecessary funding which would otherwise be available for other deserving projects. Cost estimation involves selection and analysis of suitable cost information from a data bank professionally. Cost estimation is challenging. How Artificial Intelligence and Big Data Analysis can enhance / optimise the estimating process?",準確的成本預算是建築項目的成功要素。過低的預算，會導致為項目預留的撥款不足 ; 而過高的預算則會鎖定不必要的資金，而這些資金或可用於其他值得發展的項目。成本預算涉及以專業知識從數據庫中選擇和分析合適的成本資料，是一項有挑戰性的工作。 如何運用人工智能和大數據分析才能提升或優化估算方法？,Big Data Analysis and Artificial Intelligence can take up the work of analyzing cost information and compiling an accurate cost estimate.,運用大數據分析和人工智能，以便進行成本資料分析及編制準確成本預算的工作。,"Infrastructure
+Construction industry
+","Artificial Intelligence (AI)
+Data Analytics
+Predictive Analytics
+","Enhancement of estimating process for construction projects. An accurate cost estimate is an essential element for a successful construction project. Under-estimation would result in insufficient funding being set aside for a project, while over-estimation would lock up unnecessary funding which would otherwise be available for other deserving projects. Cost estimation involves selection and analysis of suitable cost information from a data bank professionally. Cost estimation is challenging. How Artificial Intelligence and Big Data Analysis can enhance / optimise the estimating process?. Big Data Analysis and Artificial Intelligence can take up the work of analyzing cost information and compiling an accurate cost estimate."
+N-0009,Tree Stability Monitoring System,樹木穩定監察系統,"Tree safety is an important aspect of tree management in the urban areas of Hong Kong.  There is a need to develop a monitoring system which can detect changes in tree stability so as to alert tree owners of unusual tree movements so that they can take timely preventive measures, such as seeking professional advice on tree health in good time.",樹木安全是香港市區樹木管理的重要一環。我們需要開發檢測樹木穩定性變化的監測系統，以通知樹木主人任何不尋常的樹木移動，讓他們能夠及時採取預防措施，例如尋求關於樹木健康的專業意見。,"A monitoring system that comprises tilt sensors for detecting tree movements and a wireless network for transmitting and receiving data.  The system would make use of the monitoring data to analyse tree stability through the application of big data and artificial intelligence algorithms.
+","預期成果為一套使用傾斜傳感器和無線數據收發的樹木移動監察系統。該系統能夠利用所收集的數據，通過大數據和人工智計算法進行樹木穩定性分析。
+","City Management
+Environment
+Tree Management
+","Artificial Intelligence (AI)
+Data Analytics
+Deep Learning
+Internet of Things (IoT)
+Machine Learning
+Predictive Analytics
+","Tree Stability Monitoring System. Tree safety is an important aspect of tree management in the urban areas of Hong Kong.  There is a need to develop a monitoring system which can detect changes in tree stability so as to alert tree owners of unusual tree movements so that they can take timely preventive measures, such as seeking professional advice on tree health in good time.. A monitoring system that comprises tilt sensors for detecting tree movements and a wireless network for transmitting and receiving data.  The system would make use of the monitoring data to analyse tree stability through the application of big data and artificial intelligence algorithms.
+"
+N-0010,AI-powered Learning Platform,智能學習平台,"1. Consolidate learning content and activities into a single platform
+2. Create, organize, track and distribute learning content
+3. Suggest learning paths/content according to business objectives or after studying learners' habits   
+4. Integrate with Massive Open Online Courses (MOOCs), e.g. edX, coursera and other external sources
+5. Automatically mine relevant learning content from internal and external sources and keep it up to date
+6. Analyse figures and generate reports
+7. Promote a collaborative learning environment where learners discuss and resolve issues arising from the learning content ","1. 整合所有不同的學習資源及活動到單一平台上
+2. 建立、管理、追踪和發佈學習資源
+3. 依據業務目標或使用者的學習習慣向他們建議學習資源及方向
+4. 兼容主流的大規模開放線上課堂 (MOOCs)，例如edX, coursera 等
+5. 智能探勘組織內部或網上公開的相關學習資源及更新內容
+6. 分析學習數據並生成詳細報告
+7. 透過使用者間討論及互相幫忙解決學習上的疑問，推動協作學習風氣",AI-powered learning platform for all staff,開放智能學習平台供全體人員使用,"Education
+","Artificial Intelligence (AI)
+Data Analytics
+","AI-powered Learning Platform. 1. Consolidate learning content and activities into a single platform
+2. Create, organize, track and distribute learning content
+3. Suggest learning paths/content according to business objectives or after studying learners' habits   
+4. Integrate with Massive Open Online Courses (MOOCs), e.g. edX, coursera and other external sources
+5. Automatically mine relevant learning content from internal and external sources and keep it up to date
+6. Analyse figures and generate reports
+7. Promote a collaborative learning environment where learners discuss and resolve issues arising from the learning content . AI-powered learning platform for all staff"
+N-0011,Complaint and Enquiry Case Information System,投訴及查詢個案資訊系統,"The department receives and handles thousands of complaints/enquiries from members of the public every month.  At present, there is no centralized case information system for searching recorded complaints, actions, reply to members of the public and reference materials issued by the department.  Officers can only access his/her cases and time is devoted to search for reference cases and materials.",部門每月收到並處理數以千計的市民投訴/查詢。目前，部門並無中央個案資訊系統，可搜尋記錄在案的投訴/查詢、解決方案、部門的回覆，以及內部參考資料。職員只能查閱他曾處理的案例，並花去時間尋找類似個案和參考資料。,"Proof of case will be conducted to study: 
+- whether AI can understand the case, identify what the issues are and automatically search internal databases to find the answers they are looking for, eliminating the need to dig through disparate sources. so that the officers can focus on the more complex tasks. And prepare monthly report on the overall trends of the cases received by the department.
+- estimate on the cost and schedule for full implementation.","希望進行概念驗證試驗，以研究
+- 人工智能技術是否能夠瞭解個案，確定問題是什麼，並自動搜索不同來源的內部資料庫以助到職員處理個案，這樣職員就可以專注更複雜的工作。並每月編訂關於部門接獲個案趨勢報告。
+- 估算全面實施的成本和時間表。","Transport
+","Artificial Intelligence (AI)
+Deep Learning
+Machine Learning
+Predictive Analytics
+","Complaint and Enquiry Case Information System. The department receives and handles thousands of complaints/enquiries from members of the public every month.  At present, there is no centralized case information system for searching recorded complaints, actions, reply to members of the public and reference materials issued by the department.  Officers can only access his/her cases and time is devoted to search for reference cases and materials.. Proof of case will be conducted to study: 
+- whether AI can understand the case, identify what the issues are and automatically search internal databases to find the answers they are looking for, eliminating the need to dig through disparate sources. so that the officers can focus on the more complex tasks. And prepare monthly report on the overall trends of the cases received by the department.
+- estimate on the cost and schedule for full implementation."
+N-0012,Automatic Traffic Survey for Pedestrian and Vehicular Traffic,行人與車輛的自動交通調查,"Currently, traffic count surveys of vehicles and pedestrians at road junctions and pedestrian crossings are mainly performed by manual counting and recording on site.  Processing of the collected data entail massive manual efforts and are prone to human error.   Automatic video analytic technologies for pedestrian/vehicle counting and classification are considered suitable to improve the efficiency and accuracy of the traffic surveys.  Proof of concept at roads junctions in Hong Kong including roundabout, signalized road junction with pedestrian crossings, to verify the feasibility and accuracy of the proposed solution under Hong Kong conditions is considered necessary.",現時，在道路交界處和行人過路處的車輛與行人交通量點算工作主要由人手點算和記錄進行。處理收集的數據需要大量的人手工作及容易產生人為錯誤。以自動視像分析技術點算及分類行人/車輛被認為是適合於改善交通調查的效率與準確度。在香港道路交界處，包括迴旋處，有行人過路設施的燈號控制道路交界處進行概念驗證以校驗擬議解決方案的可行性及準確性被認為是必要的。,"1) there will be no insurmountable problems in mounting and powering the equipment at road junctions.
+2) adverse lighting and weather conditions can be mitigated.
+3) accuracy in pedestrian and vehicle counting is better than 90%.
+4) classification of vehicles into ten classes according to Annual Traffic Census.
+5) privacy impact assessment will be carried out and this can confirm that the Personal Data (Privacy) Ordinance is complied with.
+6) estimated cost and programme of full implementation will be recommended. ","1) 在道路交界處設備的安裝及供電沒有不可解決的問題。
+2) 不利的光線和天氣狀況可以緩解。
+3) 點算行人和車輛的準確度高於90%。
+4) 車輛分類可根據交通統計年報分成10類。
+5) 將進行的私隱影響評估以確保符合《個人資料 ( 私隱 ) 條例》。
+6) 會建議完全實施計劃的費用及時間估算。","Transport
+","Artificial Intelligence (AI)
+Deep Learning
+Machine Learning
+Video Analytics
+","Automatic Traffic Survey for Pedestrian and Vehicular Traffic. Currently, traffic count surveys of vehicles and pedestrians at road junctions and pedestrian crossings are mainly performed by manual counting and recording on site.  Processing of the collected data entail massive manual efforts and are prone to human error.   Automatic video analytic technologies for pedestrian/vehicle counting and classification are considered suitable to improve the efficiency and accuracy of the traffic surveys.  Proof of concept at roads junctions in Hong Kong including roundabout, signalized road junction with pedestrian crossings, to verify the feasibility and accuracy of the proposed solution under Hong Kong conditions is considered necessary.. 1) there will be no insurmountable problems in mounting and powering the equipment at road junctions.
+2) adverse lighting and weather conditions can be mitigated.
+3) accuracy in pedestrian and vehicle counting is better than 90%.
+4) classification of vehicles into ten classes according to Annual Traffic Census.
+5) privacy impact assessment will be carried out and this can confirm that the Personal Data (Privacy) Ordinance is complied with.
+6) estimated cost and programme of full implementation will be recommended. "
+N-0013,Mobile access to internal information for staff,以流動設備查閱職員內部資訊,"There are staff who perform field/outdoor duties frequently and may not be able to read circulars/notices in a timely manner.  Besides, there are occasions where the staff would need to refer to relevant guidelines/notices when performing field/outdoor duties.  As a start, we would like to explore the possibility of facilitating their access to internal circulars/guidelines/notices using their own private mobile devices in a secure manner while they are away from office. 
+As a long-term goal, we are contemplating the feasibility of extending such application for handling personnel matters of individual staff, such as checking their own leave balance and applying for leave using their own mobile devices.",有些職員經常要進行外勤／戶外工作，以致他們未能按時閱讀通告／告示。此外，有部份職員在進行戶外工作期間需要參考相關指引／告示以便執行職務。我們首要希望探討如何讓職員在戶外執勤時，能夠利用私人流動設備安全地查閱內部通告／指引／告示。長遠而言，我們會考慮將此應用程式的功能擴展至處理個別職員的人事事務，例如利用私人流動設備查閱假期結餘及申請假期。,Staff would be provided with the option of mobile access to assist in their work when they are away from office.,職員在辦公室以外地方工作時，能夠利用私人流動設備以協助他們執行職務。,"Administration
+","Mobile Technologies
+","Mobile access to internal information for staff. There are staff who perform field/outdoor duties frequently and may not be able to read circulars/notices in a timely manner.  Besides, there are occasions where the staff would need to refer to relevant guidelines/notices when performing field/outdoor duties.  As a start, we would like to explore the possibility of facilitating their access to internal circulars/guidelines/notices using their own private mobile devices in a secure manner while they are away from office. 
+As a long-term goal, we are contemplating the feasibility of extending such application for handling personnel matters of individual staff, such as checking their own leave balance and applying for leave using their own mobile devices.. Staff would be provided with the option of mobile access to assist in their work when they are away from office."
+N-0014,Use of Innovative Virtual Reality and Biofeedback in Clinical Psychological Treatment,利用創新虛擬現實和生物反饋進行臨床心理治療,"A service unit frequently works with clients from the general public who suffer from trauma.  However, for clients with immense emotional problems, they have difficulties with imagery and visualisation as needed in the treatment process. As such, the effectiveness of psychological treatment and clients' recovery progress can be significantly affected. ",一個服務課經常向公眾提供創傷治療。然而，對於患有嚴重情緒問題的受助人，他們在治療過程中未能充分運用圖像和想像力。因此，心理治療的有效性和受助人的康復進程可能會受到顯著影響。,"The expected outcomes are four-folded: 
+(1) The techological design and use of immersive virtual environment can help clients visualise scenarios from selected templates and/ or customised audio and 3D visual stimulation during the treatment sessions and aid clinical psychologists' instant assessment.
+(2) By means of a Mobile App, clients can retrieve their VR experience whenever needed.  
+(3) A biofeedback device will be used to measure the clients' physiological data (e.g. brain waves, heart rate or breathing pattern) during treatment and the collected data will be feedback to the system.  
+(4) These data will be collected and analysed with artificial intelligence (AI) to facilitate the generation of more systematic psychological treatment information database and to fine-tune system suggestion.","預期結果如下：
+（1）虛擬環境的技術設計和使用可以幫助受助人在治療期間從預設格式和/或定制音頻和三維視覺刺激中到達可視化場景，並幫助臨床心理學家進行即時評估。
+（2）通過移動應用程式，受助人可以在需要時檢索其虛擬環境體驗。
+（3）生物反饋裝置將用於在治療期間測量受助人的生理數據（例如腦電波，心率或呼吸模式），並將收集的數據反饋給系統。
+（4）利用人工智能收集和分析這些數據，以便建立系統化的心理治療信息數據庫，並對系統建議進行微調。","Social Welfare
+","Artificial Intelligence (AI)
+Mobile Technologies
+Virtual Reality
+","Use of Innovative Virtual Reality and Biofeedback in Clinical Psychological Treatment. A service unit frequently works with clients from the general public who suffer from trauma.  However, for clients with immense emotional problems, they have difficulties with imagery and visualisation as needed in the treatment process. As such, the effectiveness of psychological treatment and clients' recovery progress can be significantly affected. . The expected outcomes are four-folded: 
+(1) The techological design and use of immersive virtual environment can help clients visualise scenarios from selected templates and/ or customised audio and 3D visual stimulation during the treatment sessions and aid clinical psychologists' instant assessment.
+(2) By means of a Mobile App, clients can retrieve their VR experience whenever needed.  
+(3) A biofeedback device will be used to measure the clients' physiological data (e.g. brain waves, heart rate or breathing pattern) during treatment and the collected data will be feedback to the system.  
+(4) These data will be collected and analysed with artificial intelligence (AI) to facilitate the generation of more systematic psychological treatment information database and to fine-tune system suggestion."
+N-0015,Optimization of delivery route design in Hong Kong,優化全港派遞路線,"At present, about every three years, or more frequently if required, a full revision of all delivery beats for mail delivery in the district would be undertaken in order to bring all beats up to standard and to tie up any changes in mail traffic and geographical situations, etc.
+In order to shorten the beat revision cycle, IT solutions are sought.  It is aimed at reducing the lead time of beat design process which is mainly performed manually at the moment.","目前大約每三年(如有需要或更頻密)，部門會對所有派遞段範圍進行全面檢討及因應郵件量及地區環境變化而作出適當修訂，使各派遞段的工作達到部門訂立的標準。
+為了縮短派遞段檢討的週期，我們希望尋求IT解決方案，以減少目前主要由人手規劃派遞段的工作。","To optimize the design of delivery routes for delivery works by using possible IT solutions taking into account (a) the mail volume, preparation time, transportation time and delivery time required for the beat concerned and (b) application of GPS data captured from PDA of the delivery postmen. ","利用IT解決方案來優化郵差派遞段的規劃工作。在規劃的過程中，考慮以下因素：
+（a）根據各派遞段的郵件量，分揀信件時間，交通時間和所需派遞時間及
+（b）從應用派遞郵差電子手帳紀錄所得的GPS數據。","Commerce and Industry
+Transport
+","Data Analytics
+Machine Learning
+Mobile Technologies
+Predictive Analytics
+","Optimization of delivery route design in Hong Kong. At present, about every three years, or more frequently if required, a full revision of all delivery beats for mail delivery in the district would be undertaken in order to bring all beats up to standard and to tie up any changes in mail traffic and geographical situations, etc.
+In order to shorten the beat revision cycle, IT solutions are sought.  It is aimed at reducing the lead time of beat design process which is mainly performed manually at the moment.. To optimize the design of delivery routes for delivery works by using possible IT solutions taking into account (a) the mail volume, preparation time, transportation time and delivery time required for the beat concerned and (b) application of GPS data captured from PDA of the delivery postmen. "
+N-0016,Integration of Chatbot with Service Call System,整合聊天機器人與服務熱線系統,"IT Hotline service availability hit limits when number and complexity of systems are climbing.    Integrate chatbot services with service call system to automate certain repetitive IT queries and tasks (e.g. password reset, consumable replacement requests) to enhance IT support service and improve work efficiency.",當熱線服務量和複雜性攀升時，令服務的可用性達到極限。 將聊天機器人服務與服務熱線系統整合，以自動執行某些重覆的IT查詢和任務（例如重置密碼，更換消耗品要求），以增強IT支持服務並提高工作效率。,"(1) Allow users to communicate with Chatbot such that it can understand users’ service requests and submit into the existing service request system. 
+(2) Allow users to retrieve the status of their service requests, the availability of systems and scheduled maintenance via the Chatbot.","（1）允許用戶與聊天機器人聯絡，以便能夠理解用戶的服務要求並提交到現有的服務要求系統中。
+（2）允許用戶通過聊天機器人檢索其服務要求的進度、系統的可用性和已計劃的維修工程。","Infrastructure
+","Artificial Intelligence (AI)
+Data Analytics
+Machine Learning
+Natural Language Processing
+","Integration of Chatbot with Service Call System. IT Hotline service availability hit limits when number and complexity of systems are climbing.    Integrate chatbot services with service call system to automate certain repetitive IT queries and tasks (e.g. password reset, consumable replacement requests) to enhance IT support service and improve work efficiency.. (1) Allow users to communicate with Chatbot such that it can understand users’ service requests and submit into the existing service request system. 
+(2) Allow users to retrieve the status of their service requests, the availability of systems and scheduled maintenance via the Chatbot."
+N-0017,Development of a Mobile Platform for Site Audit and Inspection Recording System,開發工地審核檢查及監察記錄系統流動平台,"The repeating manual process of site photo taking, photo download, photo tagging, photo indexing, photo storing and preparing reports by inserting photos in word processing software in desktop computers is considered not efficient and a structured information system can assist and streamline the workflow. Moreover, the existing manual practices in register and de-centralized data storage cannot facilitate efficient retrieval and review of site activities information and record.
+The department wants to make use of Information Technology by digitizing site operation process records for (i) improvement of office and site operational efficiency in site audit and (ii) centralizing the site inspection records/photos/reports to facilitate record retrieval and review. This will also promote paperless operation and utilize the big data management to improve efficiency of the works.","重複的照片拍攝、下載、標記、檢索、存儲和通過電腦的文字處理軟件插入照片來準備報告，這過程是低效率的，因為資訊系統可以輔助及簡化工作流程。還有，現有的人手操作註冊和分散資料存儲器不能促進有效檢索和審查網站活動的資料和記錄。
+部門希望利用資訊科技，將地盤作業過程紀錄數字化，以（i）提高地盤審核的辦公室及地盤運作效率；及（ii）集中地盤檢查紀錄/照片/報告，以便檢索和審查記錄。這也將促進無紙化操作，並利用大數據管理來提高工作效率。",Enhance the site audit inspection system and site inspection processes in new works development and facilities maintenance including the statutory checking of the works with respect to the accepted structural and building plans.,加強對新工程開發和設施維護的現場審核檢查系統及流程，包括對已接受的結構和建築計劃的工程進行法定檢查。,"City Management
+Development
+","Data Analytics
+Mobile Technologies
+Robotic Process Automation
+","Development of a Mobile Platform for Site Audit and Inspection Recording System. The repeating manual process of site photo taking, photo download, photo tagging, photo indexing, photo storing and preparing reports by inserting photos in word processing software in desktop computers is considered not efficient and a structured information system can assist and streamline the workflow. Moreover, the existing manual practices in register and de-centralized data storage cannot facilitate efficient retrieval and review of site activities information and record.
+The department wants to make use of Information Technology by digitizing site operation process records for (i) improvement of office and site operational efficiency in site audit and (ii) centralizing the site inspection records/photos/reports to facilitate record retrieval and review. This will also promote paperless operation and utilize the big data management to improve efficiency of the works.. Enhance the site audit inspection system and site inspection processes in new works development and facilities maintenance including the statutory checking of the works with respect to the accepted structural and building plans."
+N-0018,Revamp of Site Tracking Information System,改善用地進度資訊系統,"It is always necessary for the relevant departments to produce and report land supply information on an on-going basis and, as required, for management information and decision-making by the Government within very tight deadlines.  A holistic approach is required to achieve effective management and to catch up on land supply to address the imminent housing need of the society. The existing system has a genuine and pressing need to be enhanced by offering a map to display and search all potential housing sites.",有關的部門需要持續製作和報告土地供應資料，並視乎需要，在非常緊迫的期限內，提供政府的管理資料以供決策。部門需要採取整體方法來實現有效管理並跟上土地供應，以滿足社會迫在眉睫的房屋需求。現時的系統有迫切的升級需求，通過提供地圖來顯示和搜索系統中所有潛在的住宅用地。,"A series of enhancement is proposed to provide a more user-friendly interface and facilitate users to update/track the site information, including but not limited to: -
+
+(a) integrate the existing functionality of the SITIS with internal GIS portal or a separate GIS web environment in order to provide a holistic view of the distribution of identified sites; 
+(b) leverage the readily available map services to provide the most up-to-date land information;
+(c) support spatial search, filtering and visualization with web map services; and
+(d) support users, including problem diagnosis and enhancement of existing functions (e.g. to perform more basic query/analysis and optimise the report function and presentation).","一系列增強功能以提供更加友善的界面，方便用戶更新/跟踪網站信息，包括但不限於： - 
+（a）將SITIS的現有功能與內部GIS門戶或單獨的GIS網絡環境相結合，以便全面了解已識別站點的分佈情況; 
+（b）利用現有的地圖服務，提供最新的土地信息;
+（c）支持使用網絡地圖服務進行空間搜索、過濾和可視化;以及
+（d）支持用戶，包括問題診斷和現有功能的增強（例如，執行更基本的查詢/分析並優化報告和演示功能）。","City Management
+Development
+Environment
+Housing
+","Data Analytics
+GIS
+","Revamp of Site Tracking Information System. It is always necessary for the relevant departments to produce and report land supply information on an on-going basis and, as required, for management information and decision-making by the Government within very tight deadlines.  A holistic approach is required to achieve effective management and to catch up on land supply to address the imminent housing need of the society. The existing system has a genuine and pressing need to be enhanced by offering a map to display and search all potential housing sites.. A series of enhancement is proposed to provide a more user-friendly interface and facilitate users to update/track the site information, including but not limited to: -
+
+(a) integrate the existing functionality of the SITIS with internal GIS portal or a separate GIS web environment in order to provide a holistic view of the distribution of identified sites; 
+(b) leverage the readily available map services to provide the most up-to-date land information;
+(c) support spatial search, filtering and visualization with web map services; and
+(d) support users, including problem diagnosis and enhancement of existing functions (e.g. to perform more basic query/analysis and optimise the report function and presentation)."
+N-0019,Implementation of Food Coding System ,推行食物編碼系統,"To develop an online computer system to facilitate food traders to enquire the food codes of import food items in anticipation of the requirement for traders to provide food codes upon implementation of Trade Single Window (TSW).
+There is no food classification or coding system for use by food importers to classify food systematically for the purpose of data collection for food safety control.  Without a coding system to facilitate classification of the food by back-end system, it would be difficult to use data collected for food safety analysis and risk profiling.","開發一個線上電腦系統，方便食品貿易商查詢進口食品的食品編碼，以期貿易商在實施貿易單一窗口時提供食物編碼。
+沒有食品分類或編碼系統供食品進口商用於系統地對食品進行分類，以便進行食品安全控制的數據收集。如果沒有編碼系統來促進後台系統對食品的分類，就很難使用收集的數據進行食品安全分析和風險測試。","The following functions are expected:
+i. Form a centralized electronic database to store the food classification and coding for import food control and for shared use of data among the relevant IT systems;
+ii. Build an on-line application to maintain the food classification and coding; and
+iii. Build an on-line tool and search engine with pre-defined rules to facilitate the food importers and users to select the appropriate food codes.","預期將提供以下功能：
+i. 形成一個統一電子數據庫，用於存儲進口食品控制的食品分類和編碼，以及相關資訊系統共享數據；
+ii.建立聯線應用程序以維護食品分類和編碼；及
+iii.使用預定的規則構建連線工具和搜索引擎，以方便食品進口商和用戶選擇適當的食品編碼。","Food
+","Data Analytics
+Robotic Process Automation
+","Implementation of Food Coding System . To develop an online computer system to facilitate food traders to enquire the food codes of import food items in anticipation of the requirement for traders to provide food codes upon implementation of Trade Single Window (TSW).
+There is no food classification or coding system for use by food importers to classify food systematically for the purpose of data collection for food safety control.  Without a coding system to facilitate classification of the food by back-end system, it would be difficult to use data collected for food safety analysis and risk profiling.. The following functions are expected:
+i. Form a centralized electronic database to store the food classification and coding for import food control and for shared use of data among the relevant IT systems;
+ii. Build an on-line application to maintain the food classification and coding; and
+iii. Build an on-line tool and search engine with pre-defined rules to facilitate the food importers and users to select the appropriate food codes."
+N-0020,Proof of concept of Computerized Training System for Incident Command System,概念驗證事故現場指揮訓練系統,To enhance training efficiency for different levels of Incident Commanders in the department by using computer system together with the Virtual Reality training software (XVR) for incidents and ground management of large-scale incidents.,通過結合電腦系統與虛擬現實培訓軟件，用於大型事故的事故和地面管理，提高部門不同級別的事故指揮官的培訓效率。,The proposed computerized training module should be able to simulate different incident scenarios with flexibility by configuration within a reasonable time frame as well as to have better control to ensure users are able to get things done more quickly to get familiarize with the proposed system.  The proposed system should also be able to facilitate in monitoring and evaluation of the training results.,建議的訓練系統應該能夠在合理的時間範圍內通過配置靈活地模擬不同的事故場景，並且能夠更好地控制以確保用戶能夠更快地完成工作以熟悉系統。建議的訓練系統還必須能夠便於監測和評估培訓結果。,"Education
+Law and Security
+","Data Analytics
+Virtual Reality
+",Proof of concept of Computerized Training System for Incident Command System. To enhance training efficiency for different levels of Incident Commanders in the department by using computer system together with the Virtual Reality training software (XVR) for incidents and ground management of large-scale incidents.. The proposed computerized training module should be able to simulate different incident scenarios with flexibility by configuration within a reasonable time frame as well as to have better control to ensure users are able to get things done more quickly to get familiarize with the proposed system.  The proposed system should also be able to facilitate in monitoring and evaluation of the training results.
+N-0021,Proof-of-Concept (PoC) for anti-bot solution,防止自動電腦程式概念驗證,"Some departments are currently providing services to the general public through on-line systems. As the services are in great demand, we are facing a challenge of guarding against automated access to these online systems through bot programs. We are therefore looking for an innovative and effective anti-bot solution for our on-line systems. The solution provider shall provide a proof-of-concept (PoC) of its solution in the departments' environments to demonstrate its capability of identifying and preventing bot accesses from the internet. The solution and the testing of PoC must fulfill the government IT security policy and guidelines. Considering sensitive information might be involved, on-premises solutions are preferred.",目前有些部門向市民提供在線系統服務。由於市民對這些服務需求很大，部門在防止電腦程式自動登入系統面臨著挑戰。 因此，我們正在尋求創新和有效的反電腦程式解決方案。解決方案供應商必需在部門環境中提供其解決方案的概念驗證（PoC），以展示其識別和防止來自互聯網的電腦程式的能力。PoC的解決方案和測試必須符合政府資訊保安政策和指引。考慮到可能涉及敏感信息，解決方案以部門內部安裝為首選。,"The PoC should comprise two parts.  The first part of the PoC should be conducted on testing environment for demonstration of its capabilities on anti-bot and no implication on the normal operations.  The second part of the PoC should be conducted on the production environment of the system to show the effectiveness on blocking the real bots being used for on-line system.  It is expected that the bots would evolve in response to the anti-bot solution.  Thus, this part of PoC should be conducted on the production environment for at least 4 consecutive weeks to demonstrate its capabilities on blocking evolving bots.",PoC應包括兩部分。PoC的第一部分在測試環境中進行，以展示其在防止自動電腦程式方面的能力，而不會影響正常的操作。PoC的第二部分應該在系統的生產環境中進行，以顯示其防止自動電腦程式方面的的有效性。預計自動電腦程式會隨解決方案而發展，因此，PoC的這一部分應該在生產環境中至少進行連續4週，以展示其阻止不斷發展的自動電腦程式之能力。,"Commerce and Industry
+Development
+Education
+Infrastructure
+Law and Security
+Recreation and Culture
+Social Welfare
+Transport
+","Artificial Intelligence (AI)
+Machine Learning
+Anti-bot technology
+","Proof-of-Concept (PoC) for anti-bot solution. Some departments are currently providing services to the general public through on-line systems. As the services are in great demand, we are facing a challenge of guarding against automated access to these online systems through bot programs. We are therefore looking for an innovative and effective anti-bot solution for our on-line systems. The solution provider shall provide a proof-of-concept (PoC) of its solution in the departments' environments to demonstrate its capability of identifying and preventing bot accesses from the internet. The solution and the testing of PoC must fulfill the government IT security policy and guidelines. Considering sensitive information might be involved, on-premises solutions are preferred.. The PoC should comprise two parts.  The first part of the PoC should be conducted on testing environment for demonstration of its capabilities on anti-bot and no implication on the normal operations.  The second part of the PoC should be conducted on the production environment of the system to show the effectiveness on blocking the real bots being used for on-line system.  It is expected that the bots would evolve in response to the anti-bot solution.  Thus, this part of PoC should be conducted on the production environment for at least 4 consecutive weeks to demonstrate its capabilities on blocking evolving bots."
+N-0022,Transfer of Trademark Ownership,商標註冊的轉讓,"With the immutability feature of blockchain technology, the government is considering the adoption of the technology to store the  recordal of the transfer of trademark ownership onto the distributed ledger to facilitate relevant parties (such as the assignor and assignee) and their agents to receive and access the relevant information.",政府嘗試利用區塊鏈技術，透過其不可被篡改的特性，將商標註冊轉讓的紀錄及相關資料載於區塊鏈上，以方便有關人士（如商標原擁有人和新擁有人）及其代理人接收及查閱相關資料。,The Proof-of-Concept trial would facilitate the department in understanding better the strengths and weaknesses of blockchain technology in order for us to consider applying it suitably to different business areas of the department.,我們預期有關試點項目將有助相關部門更有效地了解區塊鏈技術的優點和缺點，讓我們能考慮將有關技術運用於部門不同的業務領域。,"Commerce and Industry
+","Blockchain
+","Transfer of Trademark Ownership. With the immutability feature of blockchain technology, the government is considering the adoption of the technology to store the  recordal of the transfer of trademark ownership onto the distributed ledger to facilitate relevant parties (such as the assignor and assignee) and their agents to receive and access the relevant information.. The Proof-of-Concept trial would facilitate the department in understanding better the strengths and weaknesses of blockchain technology in order for us to consider applying it suitably to different business areas of the department."
+N-0023,Online operational status monitoring for water dispensers installed in government venues,政府場地飲水機線上運作狀態監測系統,"A department plans in developing a centralized system for collection of operational data of new water dispensers to be installed in government venues (including both indoor and outdoor venues).  Aligning with Government's pro-innovation policy, the operational data should be collected automatically and transmitted to the centralized system through WiFi or mobile network connection.  To facilitate the public to use the new water dispensers, the location and operational status of such water devices should be displayed on an online platform (e.g. mobile app or webpage) for browsing by the public.",部門計劃開發一個中央系統，以收集在政府場地(包括室內及室外場地)的新型飲水機運作數據。為配合政府有利創新的政策，新的中央系統應可以透過Wifi或流動網絡收集自動記錄在各飲水機的運作數據，而飲水機的位置及其運作狀態應上載到在線上平台(例如手機應用程式或網頁)供公眾瀏覽，以方便公眾使用新的飲水機。,"The public would be able to browse the operational status of new water dispensers to be installed at government venues through an online platform.  The operational data of water dispensers would be used to facilitate scheduling of maintenance services (regular replacement of filters/UV light or ad-hoc on-site servicing, etc.).",公眾將可以透過線上平台瀏覽安裝在政府場地的新型飲水機的運作狀態。這些運作數據亦可幫助安排維修服務(如定期更換濾芯/紫外光燈，或緊急上門維修等。),"City Management
+Health
+","Data Analytics
+Internet of Things (IoT)
+Mobile Technologies
+Predictive Analytics
+","Online operational status monitoring for water dispensers installed in government venues. A department plans in developing a centralized system for collection of operational data of new water dispensers to be installed in government venues (including both indoor and outdoor venues).  Aligning with Government's pro-innovation policy, the operational data should be collected automatically and transmitted to the centralized system through WiFi or mobile network connection.  To facilitate the public to use the new water dispensers, the location and operational status of such water devices should be displayed on an online platform (e.g. mobile app or webpage) for browsing by the public.. The public would be able to browse the operational status of new water dispensers to be installed at government venues through an online platform.  The operational data of water dispensers would be used to facilitate scheduling of maintenance services (regular replacement of filters/UV light or ad-hoc on-site servicing, etc.)."
+N-0024,IoT outdoor sensors for detecting real-time parking occupancy,應用物聯網的戶外感應器以偵測實時泊車位的佔用情況,"The sensors in need shall be easy-to-install, cost-effective, suitable for use in remote outdoor areas, of high accuracy in detecting small vehicles such as motorcycles and require minimal maintenance.",項目所需的感應器有下列要求: 安裝簡單、具成本效率、適合於戶外偏遠地區使用、能準確偵測小型車輛包括電單車、並只需要基本維修。,,,"Transport
+","Internet of Things (IoT)
+","IoT outdoor sensors for detecting real-time parking occupancy. The sensors in need shall be easy-to-install, cost-effective, suitable for use in remote outdoor areas, of high accuracy in detecting small vehicles such as motorcycles and require minimal maintenance.. "
+N-0025,Air-conditioner Water Dripping Detection System in High-rise Buildings,高層建築物冷氣機滴水檢測系統,"This project aims to assist the department in identifying the locations of dripping air-conditioners in high-rise buildings when handling complaints of nuisance or environmental hygiene caused by water dripping from air-conditioners.
+The detection system should also have the capacity to take photos and inform the department if needed.","項目旨在檢測和識別高層建築物冷氣機滴水的位置，協助部門處理冷氣機滴水引致的滋擾投訴和環境衞生問題。
+有需要時，檢測系統須拍照及通知相關部門。",Development of a detection system for dripping air-conditioners in high-rise buildings.,研發針對高樓大廈冷氣機滴水的檢測系統,"Environment
+Health
+",,"Air-conditioner Water Dripping Detection System in High-rise Buildings. This project aims to assist the department in identifying the locations of dripping air-conditioners in high-rise buildings when handling complaints of nuisance or environmental hygiene caused by water dripping from air-conditioners.
+The detection system should also have the capacity to take photos and inform the department if needed.. Development of a detection system for dripping air-conditioners in high-rise buildings."
+N-0026,Alerting Notification Service,警示通知服務,"At present, the public (individuals or companies) can subscribe alerting notifications from the Government on various areas, e.g. food safety, outbound travel, and change of registered records.  As blockchain is one of the emerging technologies in today's world, we aim at exploring the applicability of providing another means of notifications via the blockchain technology that also enables system automation for processing the notifications without manual interactions.",目前，公眾（個人或公司）可以訂用政府的各種警示通知，例如：外遊警示、食品安全警示和註冊記錄變更警示。由於區塊鏈技術是現今新興科技之一，我們嘗試利用區塊鏈技術，試行透過有關技術提供另一電子通知渠道，以期研究區塊鏈技術的可用性。同時，還提供自動化的方法，無需人手處理警示通知。,"We envisage that the Proof-of-Concept trial would enhance the knowledge and understanding on the applicability, benefits, limitations of blockchain technology and would foster the identification of more relevant use cases that can adopt blockchain technology more suitably in order to provide better e-government services in future.",我們預期有關試點項目能加強對採用區塊鏈技術的適用性、效益和局限性的認識和了解，以便在未來日子能識別更適合的用例，以提供更優質的電子政府服務。,"Commerce and Industry
+","Blockchain
+","Alerting Notification Service. At present, the public (individuals or companies) can subscribe alerting notifications from the Government on various areas, e.g. food safety, outbound travel, and change of registered records.  As blockchain is one of the emerging technologies in today's world, we aim at exploring the applicability of providing another means of notifications via the blockchain technology that also enables system automation for processing the notifications without manual interactions.. We envisage that the Proof-of-Concept trial would enhance the knowledge and understanding on the applicability, benefits, limitations of blockchain technology and would foster the identification of more relevant use cases that can adopt blockchain technology more suitably in order to provide better e-government services in future."
+N-0028,Advanced Technology in Detection of Leakage in Embedded Drainage Pipe,隱藏式排水渠滲漏檢測技術,This project aims to assist a department in identifying leakage in embedded drainage pipe when handling complaints of seepage nuisance and environmental hygiene problem other than using colour water test.,項目旨在使用新技術檢測水的位置，有別於現時所使用的色水測試，以協助部門處理滲水滋擾投訴和環境衞生問題。,Development of advanced technology in detection of leakage in embedded drainage pipe to ascertain seepage source.,研發隱藏式排水渠滲漏檢測技術以確定滲水源頭,"Environment
+Health
+",,Advanced Technology in Detection of Leakage in Embedded Drainage Pipe. This project aims to assist a department in identifying leakage in embedded drainage pipe when handling complaints of seepage nuisance and environmental hygiene problem other than using colour water test.. Development of advanced technology in detection of leakage in embedded drainage pipe to ascertain seepage source.
+N-0029,Mobile Version of Geospatial Information Hub (mGIH),流動版地理空間信息樞紐,"By adopting advanced geospatial data processing techniques and new technologies to develop a web-based dissemination and application system for effective use of advanced geospatial data models/datasets on various aspects in the government, including land administration, land and engineering surveying, construction management, rescue, transportation, heritage conservation, consultation and other decision makings.",通過採用先進的地理空間數據處理技術和創新科技，開發基於網絡的傳播和應用系統，有效利用政府的先進地理空間數據模型/數據集，包括土地管理、土地和工程測量、施工管理、救援、交通、文物保護、諮詢和其他決策。,"The proposed system should provide following functions:
+I. To implement web-based geo-visualization tools/viewers for view and discovery of various types of advanced geospatial data, including:
+(a) meshed models from geo-referenced imagery;
+(b) 3D point-cloud data from geo-referenced imagery and 3D laser scanners;
+(c) complex geometric networks composed of discrete nodes and arcs; and
+(d) structural data from geo-referenced imagery.
+II. To implement geoprocessing engine for data format conversion, including commonly used open and commercial data formats; and
+III. To interface with 2D/3D map interfaces for better visualization effects.","系統應提供以下功能：
+I. 實現基於互聯網的地理可視化工具/查看器，以查看和發現各種類型的地理空間數據，包括：
+(a) 來自地理參考圖像的網格模型;
+(b) 來自地理參考圖像和三維激光掃描儀的三維點雲數據;
+(c) 由離散節點和弧組成的複雜幾何網絡; 和
+(d) 來自地理參考圖像的結構數據。
+II. 實現地理處理引擎進行數據格式轉換，包括常用的開放和商業數據格式; 及
+III. 與二維/三維地圖界面連接以獲得更好的可視化效果。","City Management
+Development
+Infrastructure
+","Mobile Technologies
+Virtual Reality
+GIS
+","Mobile Version of Geospatial Information Hub (mGIH). By adopting advanced geospatial data processing techniques and new technologies to develop a web-based dissemination and application system for effective use of advanced geospatial data models/datasets on various aspects in the government, including land administration, land and engineering surveying, construction management, rescue, transportation, heritage conservation, consultation and other decision makings.. The proposed system should provide following functions:
+I. To implement web-based geo-visualization tools/viewers for view and discovery of various types of advanced geospatial data, including:
+(a) meshed models from geo-referenced imagery;
+(b) 3D point-cloud data from geo-referenced imagery and 3D laser scanners;
+(c) complex geometric networks composed of discrete nodes and arcs; and
+(d) structural data from geo-referenced imagery.
+II. To implement geoprocessing engine for data format conversion, including commonly used open and commercial data formats; and
+III. To interface with 2D/3D map interfaces for better visualization effects."
+N-0030,Process meteorological data to provide urban-scale weather forecasting products,處理氣象數據提供城市規模的天氣預報,To develop a meteorological data processing system (MetDPS) for processing the meteorological data collected from the weather sensors installed at around 80 lampposts to make real-time weather measurements. ,開發一個氣象數據處理系統（MetDPS），以處理從安裝在大約80個燈柱上的氣象傳感器收集的氣象數據，以進行實時天氣測量。,"The new infrastructures will bring benefits to areas including: (a) in-house development of new data processing modules that can accommodate and process more observational data from the Pilot Multi-functional Smart Lampposts Scheme and forecast data from computer weather forecasting models, and (b) the development of more sophisticated post-processing methods to enhance the local site-specific weather information and forecast services with more forecast locations.",新的基礎設施將為以下領域帶來好處：（a）內部開發新的數據處理模塊，可以容納和處理來自多功能智慧燈柱試驗計劃的更多觀測數據，並預測計算機天氣預報模型的數據，以及（b）開發更複雜的後續處理方法，以增加當地特定場地的天氣資訊和預報服務，並提供更多預測位置。,"City Management
+Climate and Weather
+Environment
+","Data Analytics
+Predictive Analytics
+","Process meteorological data to provide urban-scale weather forecasting products. To develop a meteorological data processing system (MetDPS) for processing the meteorological data collected from the weather sensors installed at around 80 lampposts to make real-time weather measurements. . The new infrastructures will bring benefits to areas including: (a) in-house development of new data processing modules that can accommodate and process more observational data from the Pilot Multi-functional Smart Lampposts Scheme and forecast data from computer weather forecasting models, and (b) the development of more sophisticated post-processing methods to enhance the local site-specific weather information and forecast services with more forecast locations."
+N-0031,Enhancement of Operational Efficiency at the Government Data Centre Complex,加強政府數據中心大樓的業務效率,"There are many data from daily operations of data centres including environment data, weather data, thermal and air flow data, energy usage data, visitors access log data, facilities status data, IT equipment specification data, workload data, etc.  With suitable sensor devices to capture data and through the data analytics of the data collected and the correlations among data, data modelling can be formulated for better energy efficiency modelling and projection, physical security monitoring and data centre facilities management.",數據中心日常運營的數據很多，包括環境數據、天氣數據、溫濕度和空氣流量數據、能源使用數據、訪客訪問日誌數據、設施狀態數據、資訊科技設備規格數據和工作量數據等。利用感應器收集數據並通過數據和數據相關性分析，從而建立數據模型，以實現更好的能源效益模型和估算、實體保安監察以及數據中心設施管理。,"To develop data modelling for better energy efficiency, physical security monitoring and data centre facilities management of the Complex through the data analytics of the daily operations data of data centres.",通過數據中心日常運營數據的數據分析並建立數據模型，以提高能源效益、實體保安監察和數據中心設施管理。,"Infrastructure
+","Artificial Intelligence (AI)
+Data Analytics
+Deep Learning
+Machine Learning
+Predictive Analytics
+","Enhancement of Operational Efficiency at the Government Data Centre Complex. There are many data from daily operations of data centres including environment data, weather data, thermal and air flow data, energy usage data, visitors access log data, facilities status data, IT equipment specification data, workload data, etc.  With suitable sensor devices to capture data and through the data analytics of the data collected and the correlations among data, data modelling can be formulated for better energy efficiency modelling and projection, physical security monitoring and data centre facilities management.. To develop data modelling for better energy efficiency, physical security monitoring and data centre facilities management of the Complex through the data analytics of the daily operations data of data centres."
+N-0032,Protection of Internet-facing eServices against Distributed Denial of Service Attacks,為互聯網電子服務提供分布式拒絕服務攻擊,"Government departments will have more and more public facing websites / web applications for serving the public with some of them being critical services requiring high availability and would have great impact to the government and/or public should there be outage of their services.  Distributed Denial of Services (DDOS) is a category of attack which can bring down services by techniques as simple as bandwidth flooding to more sophisticated attack at the application layer level.  We want to source anti-DDOS solutions to protect government websites / web applications against various types of DDOS attack.   Since some web applications carry sensitive information, the anti-DDOS solutions required should not rely on transmission, processing or storage of any transaction data (unencrypted or encrypted) on public clouds.",政府部門將提供更多面向公眾的網上服務，部份重要服務需要有高可用性，因為這些服務的停運將帶來公眾的不便。分布式拒絕服務攻擊是一種導致網上服務停運的攻擊，方法包括簡單的利用高流量導致網絡擠塞或者針對應用程式的弱點。我們希望引入保護這類攻擊的解決方案。因為政府的服務可能涉及敏感資料，這些解決方案不可以依賴公共雲傳輸，處理或儲存受加密或未受加密的資料。,"We expect the solutions can protect public facing websites and web applications of government departments against DDOS attack in short response time to prevent interruption or outage of services.  Moreover, the proposed solution is expected to ensure protection of sensitive data and prevent data leakage to parties other than the senders and the application owners. ",我們預期這些解決方案可保障政府的網上服務在被攻擊時於短時間恢復。而且可避免服務涉及的敏感資料不會外泄。,"Infrastructure
+","Artificial Intelligence (AI)
+Cloud Computing
+Mobile Technologies
+","Protection of Internet-facing eServices against Distributed Denial of Service Attacks. Government departments will have more and more public facing websites / web applications for serving the public with some of them being critical services requiring high availability and would have great impact to the government and/or public should there be outage of their services.  Distributed Denial of Services (DDOS) is a category of attack which can bring down services by techniques as simple as bandwidth flooding to more sophisticated attack at the application layer level.  We want to source anti-DDOS solutions to protect government websites / web applications against various types of DDOS attack.   Since some web applications carry sensitive information, the anti-DDOS solutions required should not rely on transmission, processing or storage of any transaction data (unencrypted or encrypted) on public clouds.. We expect the solutions can protect public facing websites and web applications of government departments against DDOS attack in short response time to prevent interruption or outage of services.  Moreover, the proposed solution is expected to ensure protection of sensitive data and prevent data leakage to parties other than the senders and the application owners. "
+N-0033,Real Time Analytics for Government Websites and e-Services,政府網站及電子服務的實時流量分析,"Provide real time and insightful web analytic metrics of websites and e-Services for the service owners to make data-driven, continuous improvements to their services, and to make timely responses to the public.
+
+Websites and e-Services owners need metrics of their services to measure the performance, popularity and also insights for further service improvement.
+
+Currently the web analytic metrics are aggregated and calculated from server side web access log. The lead time for web access log aggregation and calculation processes is typically 5-7 days as it takes time to collect all access log from Content Delivery Network (CDN) service providers around the globe and the on-premise facility to analyze the web access log to deliver the web analytic metrics.
+
+Despite that the current web analytic calculation facility can provide basic metrics in dimensions (like time, content, demographic & user agent), it does not have the ability to correlate these dimensions and cannot depict typical user browsing behaviour and flow. Websites and e-Services owners need these metrics to tell a complete story so as to grasp the major pain points and prioritize the necessary improvements.","政府網站及電子服務所屬單位需要實時及多角度的流量分析，例如網站的受歡迎程度、效能等指標，用以持續提升服務水平及更快速地回應市民服務要求。
+
+目前政府網站的流量數據來自服務器日誌。由於政府網站現在經由分布於全球的內容分發網絡(Content Delivery Network) 發布給公眾，我們一般需要五至七天時間以聚合及分析所有服務器日誌。
+
+現時政府的流量分析工具只提供基本的分析，例如登入網站的時間分布、用戶使用的瀏覽器等，並未備有多角度分析流量的能力，如用戶登入網站後在各網頁的流向等。我們需要多角度分析的數據以找出用戶的主要痛點，繼而更針對性地改善該電子服務。","The new web analytic platform shall facilitate websites and e-Services owners to visualize the real time performance of their websites and e-Services, and also to identify the users' top tasks through insightful and fully correlated metrics in multiple dimensions.
+
+This platform shall be scalable and be able to analyse 900+ websites and e-Services owned by the Government.","新流量分析系統須幫助政府網站及電子服務所屬單位視像化其實時效能及流量數據，以多角度分析並找出用戶在該網站或電子服務的主要需求。
+
+此系統須分析900個以上的政府網站及電子服務，並可隨時擴展分析容量。","Broadcasting
+Infrastructure
+","Cloud Computing
+Data Analytics
+","Real Time Analytics for Government Websites and e-Services. Provide real time and insightful web analytic metrics of websites and e-Services for the service owners to make data-driven, continuous improvements to their services, and to make timely responses to the public.
+
+Websites and e-Services owners need metrics of their services to measure the performance, popularity and also insights for further service improvement.
+
+Currently the web analytic metrics are aggregated and calculated from server side web access log. The lead time for web access log aggregation and calculation processes is typically 5-7 days as it takes time to collect all access log from Content Delivery Network (CDN) service providers around the globe and the on-premise facility to analyze the web access log to deliver the web analytic metrics.
+
+Despite that the current web analytic calculation facility can provide basic metrics in dimensions (like time, content, demographic & user agent), it does not have the ability to correlate these dimensions and cannot depict typical user browsing behaviour and flow. Websites and e-Services owners need these metrics to tell a complete story so as to grasp the major pain points and prioritize the necessary improvements.. The new web analytic platform shall facilitate websites and e-Services owners to visualize the real time performance of their websites and e-Services, and also to identify the users' top tasks through insightful and fully correlated metrics in multiple dimensions.
+
+This platform shall be scalable and be able to analyse 900+ websites and e-Services owned by the Government."
+N-0034,Enhancement of Security Management at the Data Centre,加強數據中心的保安管理,"To enhance the physical security management of a data centre (""DC"") with the aid of smart technology instead of totally relying on human escorting resource to prevent physical access control risk which may jeopardise information security, serviceability and reliability of the data centre and, with integration with the access control system and CCTV system of the DC, meet the following expected outcomes:",使用數碼科技以盡量減少人手需求，監察訪客未經授權而進入數據中心特定區域的事件，來加強數據中心的實體保安管理，以防止危及數據中心的安全性，可用性和可靠性，配合門禁和攝錄鏡頭系統的監控並達到以下預期成果。,"1.	To prevent plant room visitors from entering into unauthorised sub-areas. If attempt to enter an unauthorised sub-area is detected, an alert message will be sent to the monitoring system for triggering necessary alert/alarm to the operator and, by integration with other relevant systems, to assist the operator to take actions, such as bringing up the videos of the relevant surveillance cameras and the details of the visitors in the plant room. Tailgating should also be detected. 
+(Note:	A plant room includes sub-areas A, B and C for different E&M facilities without physical separation.) 
+
+2.	To prevent data hall visitors from entering into unauthorised cold/hot aisles. If attempt to enter an unauthorized cold/hot aisle is detected, an alert message will be sent to the monitoring system for triggering necessary alert/alarm to the operator and, by integration with other relevant systems, to assist the operator to take actions, such as bringing up the videos of the relevant surveillance cameras and the details of the visitors in the data hall.  Tailgating should also be detected.
+
+3.	To have real time people counting solution for people working in the DC, down to aisle or room level of data halls, sub-areas or room level of plant rooms and specific rooms. It can also reconcile the people counting with the card reader access control system.","1.	防止和發現未經授權訪客而進入機電房分區設施，並置有反尾隨監察功能。當偵查到訪客嘗試進入和接觸未授權設施，監控系統會配合其他相關系統，如顯示相關的攝錄鏡頭和機電房訪客的登記資料，即時通知控制中心以助採取相應行動。
+(備注 - 機電房分A區、B區、C區，裝置各種機電設施，而沒有實物分隔A/B/C 區)
+
+2.	防止和發現未經授權訪客而進入數據中心區域冷/熱巷通道，並置有反尾隨監察功能。當偵查到訪客嘗試進入未經授權的冷/熱巷通道，監控系統會配合其他相關系統，如顯示相關的攝錄鏡頭和數據中心區域訪客的登記資料，即時通知控制中心以助採取相應行動。
+
+3.	實時統計訪客進出數據中心區域或特定設施房間，對比門禁系統的實時讀數，從而分析在數據中心區域或特定設施房間的實時訪客人數。","Infrastructure
+Law and Security
+","Radio Frequency Identification (RFID)
+Video Analytics
+People counting technologies; Motion detection; Laser/Infrared/RF based Intrusion Detection; Virtual door
+","Enhancement of Security Management at the Data Centre. To enhance the physical security management of a data centre (""DC"") with the aid of smart technology instead of totally relying on human escorting resource to prevent physical access control risk which may jeopardise information security, serviceability and reliability of the data centre and, with integration with the access control system and CCTV system of the DC, meet the following expected outcomes:. 1.	To prevent plant room visitors from entering into unauthorised sub-areas. If attempt to enter an unauthorised sub-area is detected, an alert message will be sent to the monitoring system for triggering necessary alert/alarm to the operator and, by integration with other relevant systems, to assist the operator to take actions, such as bringing up the videos of the relevant surveillance cameras and the details of the visitors in the plant room. Tailgating should also be detected. 
+(Note:	A plant room includes sub-areas A, B and C for different E&M facilities without physical separation.) 
+
+2.	To prevent data hall visitors from entering into unauthorised cold/hot aisles. If attempt to enter an unauthorized cold/hot aisle is detected, an alert message will be sent to the monitoring system for triggering necessary alert/alarm to the operator and, by integration with other relevant systems, to assist the operator to take actions, such as bringing up the videos of the relevant surveillance cameras and the details of the visitors in the data hall.  Tailgating should also be detected.
+
+3.	To have real time people counting solution for people working in the DC, down to aisle or room level of data halls, sub-areas or room level of plant rooms and specific rooms. It can also reconcile the people counting with the card reader access control system."
+N-0035,“Smart” Car Park Management System,"""智能""停車場管理系統","To promote the initiative “Smart Mobility” of the Smart City Blueprint announced in December 2017 and meet the increasing demand for the car parking spaces, the ""Smart"" Car Park Management System is required to be installed at the public car parks  to facilitate the public in finding/using car parking spaces efficiently and conveniently.  The system should also assist in identifying car parking service improvement opportunities in a cost-effective manner.",為配合2017年12月推出的智慧城市藍圖的「智能出行」計劃，以及滿足日益增加的停車位需求，以「智能」停車場管理系統管理公眾停車場，幫助公眾有效和方便地尋找/使用停車位，該系統還應以具經濟效益的方式改善停車場服務及運作。,"We expect the “Smart” Car Park Management System able to deliver the following functions:
+- allow the drivers to make pre-booking through mobile APP/website
+- check the real-time vacant parking spaces through mobile APP/website
+- facilitate the public to find parking spaces
+- navigate the driver to locate his/her own vehicle in the car park
+- adopt new payment means such as QR code payment, NFC payment, etc.
+
+Apart from the above advantages to the public, we would also like to use the data available for analysis to understand the public demand for and behavior in using car parking spaces in different districts so as to better plan and improve operations.","我們期望""智能""停車場管理系統能夠提供以下功能：
+ - 通過流動應用程式/網站進行預訂
+ - 通過流動應用程式/網站查看實時空置停車位
+ - 幫助公眾尋找空置停車位
+ - 為駕駛者領航以在停車場中找到他/她自己的車輛
+ - 採用新的支付方式，如二維碼支付，NFC支付等。
+
+除了上述優點外，我們亦希望利用可供分析的數據，以了解市民在不同地區使用停車位的需求和行為，以便更有效地規劃和改善運作。","City Management
+Transport
+","Data Analytics
+Internet of Things (IoT)
+Mobile Technologies
+Predictive Analytics
+","“Smart” Car Park Management System. To promote the initiative “Smart Mobility” of the Smart City Blueprint announced in December 2017 and meet the increasing demand for the car parking spaces, the ""Smart"" Car Park Management System is required to be installed at the public car parks  to facilitate the public in finding/using car parking spaces efficiently and conveniently.  The system should also assist in identifying car parking service improvement opportunities in a cost-effective manner.. We expect the “Smart” Car Park Management System able to deliver the following functions:
+- allow the drivers to make pre-booking through mobile APP/website
+- check the real-time vacant parking spaces through mobile APP/website
+- facilitate the public to find parking spaces
+- navigate the driver to locate his/her own vehicle in the car park
+- adopt new payment means such as QR code payment, NFC payment, etc.
+
+Apart from the above advantages to the public, we would also like to use the data available for analysis to understand the public demand for and behavior in using car parking spaces in different districts so as to better plan and improve operations."
+N-0036,Chatbot and internet communication service,聊天機器人和互聯網通訊服務,"The department is exploring solutions to integrate chatbot in website, mobile app and/or hotline system to handle enquiries and collect information for follow-up actions.  The chatbot can also support multimedia attachments and instant messaging;  Secondly, to provide internet communication such as internet calls in addition to telephone line in the hotline system.",部門正在探索將聊天機器人整合到網站、流動應用程式及/或熱線服務系統中，以處理查詢，並收集資訊以作跟進。聊天機器人亦須支援多媒體附件及即時通訊; 此外，亦須在熱線服務系統中的電話通訊加入互聯網通訊如通話功能。,"Allow communication via text-based chatbot, voice-based Chatbot, instant messaging and/or internet calls.",以支援文字或語音的聊天機器人、即時通訊及/或互聯網通話進行對話。,"Commerce and Industry
+Public service
+","Artificial Intelligence (AI)
+Machine Learning
+Natural Language Processing
+","Chatbot and internet communication service. The department is exploring solutions to integrate chatbot in website, mobile app and/or hotline system to handle enquiries and collect information for follow-up actions.  The chatbot can also support multimedia attachments and instant messaging;  Secondly, to provide internet communication such as internet calls in addition to telephone line in the hotline system.. Allow communication via text-based chatbot, voice-based Chatbot, instant messaging and/or internet calls."
+N-0037,Information push service,資訊發佈服務,We are studying the feasibility to provide an electronic service to push property information to public.  The department would like to explore any latest technology which can help delivering appropriate types of information to individuals.,我們正研究提供電子服務向市民發放和物業有關資訊的可行性。部門希望得知一些最新資訊科技技術能幫助提供適合的資訊給每位市民。,,,"Broadcasting
+Development
+","Artificial Intelligence (AI)
+Data Analytics
+Machine Learning
+",Information push service. We are studying the feasibility to provide an electronic service to push property information to public.  The department would like to explore any latest technology which can help delivering appropriate types of information to individuals.. 
+N-0038,Approved Signboards Identification System - ASIS,批准招牌識別系統 - ASIS,"We are seeking solutions to identify and record approved signboards from more than 2,000,000 approved building plans, to extract essential information of the approved signboards from the approved building plan images, and to establish a system which systematically stores the information of approved signboards, with the application of Optical Character Recognition (OCR) and artificial intelligence (AI) technologies.","我們正在尋求可以通過光學字元辨識(OCR)和人工智能(AI)技術，從超過2,000,000張批准圖則中識別和記錄招牌, 抽取有關招牌的主要資訊並系統性地儲存這些資訊的解決方案。",The ASIS will enable both internal and public users to conveniently check up the relevant information of the approved signboards of a particular location.,批准招牌識別系統將可以讓部門和公衆方便查閲特定處所批准招牌的相關資訊。,"City Management
+Commerce and Industry
+Development
+Building Information Management
+","Artificial Intelligence (AI)
+Machine Learning
+Optical Character Recognition
+","Approved Signboards Identification System - ASIS. We are seeking solutions to identify and record approved signboards from more than 2,000,000 approved building plans, to extract essential information of the approved signboards from the approved building plan images, and to establish a system which systematically stores the information of approved signboards, with the application of Optical Character Recognition (OCR) and artificial intelligence (AI) technologies.. The ASIS will enable both internal and public users to conveniently check up the relevant information of the approved signboards of a particular location."
+N-0039,Defective Signboards Diagnostic System (DSDS),破損招牌診斷系統,"Currently all inspection of signboards are undertaken by departmental officers manually. There have been initiatives to develop a system, which is able to perform unmanned on-site survey and automatically detect any defective signboards with the application of artificial intelligence (AI) technology. The system shall include a database to record and store the findings in the street surveys. The system shall be interconnected with other internal systems of the department, in order to enhance the workflow of processing defective signboards.",當前所有針對招牌的視察均由部門人員親自執行。部門一直希望建立一個可以運用人工智能技術進行全自動街道巡查，並能夠偵測任何破損招牌的系統。該系統包含一個記錄和儲存所有破損招牌資訊的資料庫，並銜接部門内其它系統，從而改善部門針對破損招牌的處理流程。,"Through AI and machine learning, the system is able to identify defective signboard in street survey.",透過人工智能和機器學習，該系統能夠在街道巡查中識別破損招牌。,"City Management
+Commerce and Industry
+Development
+Environment
+Law and Security
+","Artificial Intelligence (AI)
+Data Analytics
+Machine Learning
+Mobile Technologies
+Video Analytics
+","Defective Signboards Diagnostic System (DSDS). Currently all inspection of signboards are undertaken by departmental officers manually. There have been initiatives to develop a system, which is able to perform unmanned on-site survey and automatically detect any defective signboards with the application of artificial intelligence (AI) technology. The system shall include a database to record and store the findings in the street surveys. The system shall be interconnected with other internal systems of the department, in order to enhance the workflow of processing defective signboards.. Through AI and machine learning, the system is able to identify defective signboard in street survey."
+N-0040,Signboard Inspection and Database Operation Hub (SIDOH),招牌綜合數據樞紐,"There exist hundreds of thousands of signboard structures in Hong Kong. Numerous signboard erection, alteration and removal works take place every day as business activities prospers. In this connection, we intend to set up a comprehensive electronic data hub for the signboards and signboard activities. The electronic data hub shall be supported by geographic information system (GIS) to operate through 3-dimensional (3D) images. It is also expected to predict potential signboard activities by analysis and sorting of data from internet or other governmental departments, and assist in issuance of statutory and administrative documents.",香港有數以十萬計的招牌構築物。繁榮的商業活動帶來每日大量招牌的竪設、更換與拆除工程。我們計劃建立一個有關招牌及招牌活動的綜合數據樞紐，能夠利用地理資訊系統技術於模擬三維映像進行日常運作，並可以透過連接互聯網或銜接其它部門的系統，進行資料分類及分析從而辨識潛在竪設新招牌的活動，並協助發出法定及行政文件。,"Users can carry out navigation in the simulated 3D environment as if they are performing street petrol, conveniently read information of signboards as well as relevant information from other departments, and operation administrative duties.",用戶可以在模擬三維映像中進行瀏覽，猶如正在進行街道巡查，亦可以便捷地瀏覽系統内有關招牌的資訊及整理其他系統包含的有關資料，同時進行行政工作。,"City Management
+Commerce and Industry
+Development
+Environment
+Building Information Management
+","Cloud Computing
+Data Analytics
+Internet of Things (IoT)
+Machine Learning
+Mobile Technologies
+Predictive Analytics
+Building Information Modelling
+","Signboard Inspection and Database Operation Hub (SIDOH). There exist hundreds of thousands of signboard structures in Hong Kong. Numerous signboard erection, alteration and removal works take place every day as business activities prospers. In this connection, we intend to set up a comprehensive electronic data hub for the signboards and signboard activities. The electronic data hub shall be supported by geographic information system (GIS) to operate through 3-dimensional (3D) images. It is also expected to predict potential signboard activities by analysis and sorting of data from internet or other governmental departments, and assist in issuance of statutory and administrative documents.. Users can carry out navigation in the simulated 3D environment as if they are performing street petrol, conveniently read information of signboards as well as relevant information from other departments, and operation administrative duties."
+N-0042,Implementation of Intelligent Analytical Solution of Passenger Flow,推行旅客流量智能分析方案,"Automate the counting of incoming passengers in public waiting areas and estimation of queueing time for services, using technologies, such as video analytics, artificial intelligence, in order to timely alert the service provider with suggestion on optimised manpower deployment.
+
+Currently, this process is highly reliant on manual efforts which is time and manual resource consuming and may introduce human errors.
+","使用視頻分析及人工智能等技術，自動估算進入公眾等侯區中的旅客數量及其排隊等候服務所需的時間，以便適時向服務提供者作出調整人力資源的建議。
+目前，該過程主要依賴人手操作，容易出錯和消耗人力和時間資源。","The system implemented will comprise of supporting hardware, software and implementation services for formulating the solution according to business need described above.",相關系統需根據上述業務需求制定解決方案，並包括所需硬件、軟件和服務。,"Law and Security
+","Artificial Intelligence (AI)
+Deep Learning
+Video Analytics
+","Implementation of Intelligent Analytical Solution of Passenger Flow. Automate the counting of incoming passengers in public waiting areas and estimation of queueing time for services, using technologies, such as video analytics, artificial intelligence, in order to timely alert the service provider with suggestion on optimised manpower deployment.
+
+Currently, this process is highly reliant on manual efforts which is time and manual resource consuming and may introduce human errors.
+. The system implemented will comprise of supporting hardware, software and implementation services for formulating the solution according to business need described above."
+N-0043,Automate the verification of electronic documents,自動化核對電子文件,"Around 70,000 to 80,000 electronic documents were received through the system every day and about 2,000-3,000 of them were suspected to have inaccurate information included or selected for manual check.  For those suspected with inaccurate information document, officers concerned need to follow up by contacting the submitter through telephone or query through the system for clarification and correction.  For those documents suspected to involve deceptive information, the case would be referred to law enforcement agencies for investigation.  The project aims to enhance the existing system using artificial intelligence, machine learning and other technologies to identify and process the incoming electronic documents with suspected inaccurate information.",現有的電腦系統每日處理大概七萬至八萬份電子文件，當中約有二千至三千份文件懷疑涉及不正確資料，因此需要進行人手核對。若懷疑電子文件內有不正確資料，有關人員便須致電或發出電子查詢予電子文件提交者，以作出澄清及更正。若電子文件上懷疑涉及虛假資料，該個案會轉介至執法機關進行調查。此項目是希望優化現有的電腦系統，利用人工智能，機器學習和其他技術，找出及處理懷疑有不正確資料的電子文件。,"With the application of artificial intelligence, machine learning, robotic process automation and other technologies, the enhanced system should be able to minimise human effort for manual checking by improving the accuracy of the received documents (such as through automatic confirmation and clarification of dubious information with the submitters during submission), identifying documents with suspected inaccurate information in a more targeted and precise manner, and improving the efficiency in the manual checking process (such as through use of automatic or machine-assisted checking and correction).",經人工智能、機器學習、機械人流程自動化和其他技術優化的電腦系統應能提高所收到電子文件的準確性（如在提交時自動要求提交者確認和澄清可疑的資料）、更精確地找出懷疑有不正確資料的文件、以及改善人手核對工作的效率（如使用自動或機器輔助的檢查和更正），從而減省人手核對的工作量。,"Commerce and Industry
+","Artificial Intelligence (AI)
+Robotic Process Automation
+","Automate the verification of electronic documents. Around 70,000 to 80,000 electronic documents were received through the system every day and about 2,000-3,000 of them were suspected to have inaccurate information included or selected for manual check.  For those suspected with inaccurate information document, officers concerned need to follow up by contacting the submitter through telephone or query through the system for clarification and correction.  For those documents suspected to involve deceptive information, the case would be referred to law enforcement agencies for investigation.  The project aims to enhance the existing system using artificial intelligence, machine learning and other technologies to identify and process the incoming electronic documents with suspected inaccurate information.. With the application of artificial intelligence, machine learning, robotic process automation and other technologies, the enhanced system should be able to minimise human effort for manual checking by improving the accuracy of the received documents (such as through automatic confirmation and clarification of dubious information with the submitters during submission), identifying documents with suspected inaccurate information in a more targeted and precise manner, and improving the efficiency in the manual checking process (such as through use of automatic or machine-assisted checking and correction)."
+N-0045,Virtual Reality Tools for Environmental Incident / Operation Support and Training ,環境事件的VR訓練系統,To enhance training efficiency for frontline colleagues by visualizing the work procedures and practice using VR system. Enforcement team in the department could also use VR training system for drill and practice of large-scale incidents.,希望通過使用VR系統把工作流程影像化，令同事可於遊戲中實踐，從而提高同事的培訓效率。部門的執法團隊還可以使用VR培訓系統進行緊急情況的演練。,The computerized training module would simulate different incident scenarios with flexibility on configuration by user. Dashboard is also expected which could facilitate in monitoring and evaluation of the effectiveness of the training.,,"Environment
+Law and Security
+","Data Analytics
+Mixed Reality
+Virtual Reality
+",Virtual Reality Tools for Environmental Incident / Operation Support and Training . To enhance training efficiency for frontline colleagues by visualizing the work procedures and practice using VR system. Enforcement team in the department could also use VR training system for drill and practice of large-scale incidents.. The computerized training module would simulate different incident scenarios with flexibility on configuration by user. Dashboard is also expected which could facilitate in monitoring and evaluation of the effectiveness of the training.
+N-0046,4D Visualisation of Spatial Data,集成並以四維形式顯示空間數據,"Various spatial data from different sources are gathered in different format, some of them has been digitalised while others are in paper format. It is difficult for department to analyse and provide preliminary assessment results quickly. The department is seeking professional services to install a new system which could integrate various spatial data sets and display in virtual reality and 4-dimension form. ",收集來自不同來源、不同格式的空間數據，包括一些已數字化或紙質格式的數據。由於部門很難快速分析並提供初步評估結果，現正尋求專業服務開發新系統，該系統可以集成各種空間數據集並以虛擬實境及四維形式顯示。 ,The department is exploring a new system which could present various spatial data sets from different sources. The collected data sets shall be converted into a format applicable to the new system to facilitate the work of assessment and city planning. The system can also demonstrate the existing site condition in 4-dimension to various stakeholders including the public so as to facilitate better understanding of the environment. ,該部門正在探索一種新系統，該系統可以顯示來自不同來源的各種空間數據集。所收集的數據集將被轉換成適用於新系統的格式，以方便評估和城市規劃的工作。該系統還可以向包括公眾在內的各持份者以四維方式展示現有的場地狀況，有助更好地了解相關環境。 ,"Environment
+","Augmented Reality
+Internet of Things (IoT)
+Mixed Reality
+Robotic Process Automation
+Virtual Reality
+","4D Visualisation of Spatial Data. Various spatial data from different sources are gathered in different format, some of them has been digitalised while others are in paper format. It is difficult for department to analyse and provide preliminary assessment results quickly. The department is seeking professional services to install a new system which could integrate various spatial data sets and display in virtual reality and 4-dimension form. . The department is exploring a new system which could present various spatial data sets from different sources. The collected data sets shall be converted into a format applicable to the new system to facilitate the work of assessment and city planning. The system can also demonstrate the existing site condition in 4-dimension to various stakeholders including the public so as to facilitate better understanding of the environment. "
+N-0047,Smart Digital Film,智慧電膜,"Traditional window curtains are used to enhance privacy for meeting areas while maintaining the visibility and lighting when no meeting is going on.  However, traditional window curtains lack of the ability of adjusting the visibility degree, require manual control and additional installation space.",傳統的窗簾用於增強會議區域的私密性，同時在沒有會議進行時保持可見性和照明。然而，傳統的窗簾缺乏調節可見度的能力，需要手動控制和額外的安裝空間。,"With the application of ""Smart Film"" technology, to enhance the opacity control of meeting areas and reduce the need of much manual adjustment.",使用“智慧電膜”技術，以改善會議區域玻璃的透光度控制，減省人手調節的需要。,"Commerce and Industry
+Law and Security
+","Internet of Things (IoT)
+Smart Film
+","Smart Digital Film. Traditional window curtains are used to enhance privacy for meeting areas while maintaining the visibility and lighting when no meeting is going on.  However, traditional window curtains lack of the ability of adjusting the visibility degree, require manual control and additional installation space.. With the application of ""Smart Film"" technology, to enhance the opacity control of meeting areas and reduce the need of much manual adjustment."
+N-0048,Smart Film to Display Real-time Data,智慧電膜以顯示實時數據,"Traditional gadgets for displaying real-time data, e.g. date, time and weather information need compatible with the interior design to locate and acquired the space of a room.",用作顯示資訊的傳統小工具，如日期、時間和天氣資料，需要配合室內設計擺放和佔據室內空間。,"To better utilize the space of the glass and enhancing privacy of meeting room, the smart film can apply to the glass enclosure.  With different applications, the smart film can enhance the privacy of a meeting room as well as enhance users’ experience with switching transparency level of glass and displaying date, time and weather information.",善用玻璃的空間和加強會議室的私隱度，智慧電膜可以應用於玻璃牆上。智慧電膜可以切換透明度及顯示日期、時間和天氣資料，利用不同的應用程式，不但可增加私隱度亦可令用家有更好的體驗。,"Environment
+Recreation and Culture
+","Internet of Things (IoT)
+","Smart Film to Display Real-time Data. Traditional gadgets for displaying real-time data, e.g. date, time and weather information need compatible with the interior design to locate and acquired the space of a room.. To better utilize the space of the glass and enhancing privacy of meeting room, the smart film can apply to the glass enclosure.  With different applications, the smart film can enhance the privacy of a meeting room as well as enhance users’ experience with switching transparency level of glass and displaying date, time and weather information."
+N-0049,Improve the auto-matching of two types of electronic documents originated from independent information source,優化兩類不同來源的電子文件的自動配對工作,"Two different types of electronic documents will undergo a matching process by a computer program to identify outstanding submission every day.  Contents of the common input fields in these two document types will be compared character by character for matching.  For those unmatched document records, officers have to refine the matching criteria, sometimes based on typo correction, to perform manual on-line matching again.  For records remained outstanding after going through the auto- and manual matching, officers will issue notice, either electronically or in paper format, to the party concerned for follow-up.  The project aims to enhance the existing system by using artificial intelligence, machine learning or other technology to identify the outstanding submission.",現時兩類電子文件每日會利用電腦程式進行配對，藉以找出漏報的文件。配對方式是將兩類文件內相同資料項目的內容作逐字比對。未能成功配對的文件，有關人員會修訂配對的準則，例如改正錯字，再以手動形式透過電腦進行配對。經自動及手動形式仍未能成功配對的文件，有關人員會向相關人士發出電子或紙本通知書以作出跟進。此項目是希望優化現有的電腦系統，利用人工智能、機器學習或其他技術找出漏報的文件。,"The enhancement should be able to minimize the human effort in the manual matching process.  With the enhanced system, the whole process can be shortened to boost efficiency and increase the matching rate.",經優化的電腦系統應能減省以人手進行文件配對的工作程序，並能加快配對流程，從而提升效率及提高配對成功率。,"Commerce and Industry
+","Artificial Intelligence (AI)
+Deep Learning
+Machine Learning
+Natural Language Processing
+","Improve the auto-matching of two types of electronic documents originated from independent information source. Two different types of electronic documents will undergo a matching process by a computer program to identify outstanding submission every day.  Contents of the common input fields in these two document types will be compared character by character for matching.  For those unmatched document records, officers have to refine the matching criteria, sometimes based on typo correction, to perform manual on-line matching again.  For records remained outstanding after going through the auto- and manual matching, officers will issue notice, either electronically or in paper format, to the party concerned for follow-up.  The project aims to enhance the existing system by using artificial intelligence, machine learning or other technology to identify the outstanding submission.. The enhancement should be able to minimize the human effort in the manual matching process.  With the enhanced system, the whole process can be shortened to boost efficiency and increase the matching rate."
+N-0050,Virtual environment without headmount wearable device to visualise 3D models,免穿戴的虛擬實境裝置以顯示3D模型,"Virtual Reality (VR) is a popular technology to interpret spatial data and to visualize 3D models for better analysis. However, head mounted displays are adopted in many VR products, which bring up an issue of discomfort and disorientation of wearing a headset.",現在非常流行用虛擬現實（VR）技術來解釋空間數據以及可視化3D模型以進行更好的分析。但是，很多VR產品使用的頭戴式顯示設備，會帶來佩戴頭戴式的不適感和迷失方向感等問題。,"The Cave Automatic Virtual Environment (CAVE) provides a room-sized immersive 3D virtual reality environment for processing and presenting of building information modelling technology and 3D models. Besides, the CAVE allows multiple people to collaborate and experience simultaneously from the first person perspective, and people will not be isolated from the real-world surroundings.",洞穴式自動虛擬環境提供一個房間大小的沉浸式三維虛擬現實環境，用於處理和呈現建築信息模擬技術和三維模型。此外，洞穴式自動虛擬環境能可同時容納多人在有第一身視覺體驗的環境下進行討論，不會將人與現實世界隔離開來。,"City Management
+Commerce and Industry
+Development
+Education
+Environment
+","Internet of Things (IoT)
+Virtual Reality
+","Virtual environment without headmount wearable device to visualise 3D models. Virtual Reality (VR) is a popular technology to interpret spatial data and to visualize 3D models for better analysis. However, head mounted displays are adopted in many VR products, which bring up an issue of discomfort and disorientation of wearing a headset.. The Cave Automatic Virtual Environment (CAVE) provides a room-sized immersive 3D virtual reality environment for processing and presenting of building information modelling technology and 3D models. Besides, the CAVE allows multiple people to collaborate and experience simultaneously from the first person perspective, and people will not be isolated from the real-world surroundings."
+N-0052,Guiding Robot for a Showroom,展示廳導賞機器人,"Human resources are always needed for the guiding service at some public museums and service centres of government departments. A guiding robot can provide pleasant reception and touring services to visitors with less manpower overheads, and also provide visitors with a new and innovative experience.",一些公共博物館和服務中心始終需要人力資源來提供導賞服務。導賞機器人可以以更少的人力為訪客提供愉悅的接待和導賞服務，還可以為訪客帶來創新的體驗。,"A guiding robot will serve as a smart receptionist to greet visitors on entry, guide visitors to access and tour around showcases and act like a real customer service agent to serve visitors. The guiding robot can chat with the visitors and respond to questions from visitors. With the integration of machine learning technology, it will also be able to continuously improve its chatting and responding skills and give more close-fitting replies to visitors’ queries. It is expected that the guiding robot will bring the visitors a pleasant, contemporary and innovative visiting experience. ",導賞機器人將充當智能接待員，在接待處問候訪客，引導訪客進入和遊覽展品，像真正的客戶服務工作者一樣為訪客提供服務。導賞機器人能與訪客聊天並回答訪客的問題。在與機器學習技術整合之後，它還能夠不斷提高聊天和回應的能力，對訪問者的查詢做出更貼切的答覆。希望導賞機器人可以為參觀者帶來愉悅，現代和新穎的參觀體驗。,"Education
+Recreation and Culture
+","Artificial Intelligence (AI)
+Internet of Things (IoT)
+Machine Learning
+Robotic Process Automation
+","Guiding Robot for a Showroom. Human resources are always needed for the guiding service at some public museums and service centres of government departments. A guiding robot can provide pleasant reception and touring services to visitors with less manpower overheads, and also provide visitors with a new and innovative experience.. A guiding robot will serve as a smart receptionist to greet visitors on entry, guide visitors to access and tour around showcases and act like a real customer service agent to serve visitors. The guiding robot can chat with the visitors and respond to questions from visitors. With the integration of machine learning technology, it will also be able to continuously improve its chatting and responding skills and give more close-fitting replies to visitors’ queries. It is expected that the guiding robot will bring the visitors a pleasant, contemporary and innovative visiting experience. "
+N-0053,Flow Management System,人流管理系統,Traditional surveillance cameras for people counting may lead to privacy concerns and may be affected by sight blocking and lighting condition. The department is exploring alternative technologies with artificial intelligence and data analytics to serve the operational needs and enhance public services.,傳統監察攝影機進行人數點算時可能會產生私隱問題，效果也可能會被視線受阻和光線所影響。部門正在探索使用替代技術加以人工智能及數據分析等技術，以滿足營運需求並提升公共服務。,"Alternative solution to replace traditional surveillance cameras in difference scenarios for people counting and behavior monitoring with privacy preserved. It includes counting the number and duration of people staying in a designated location such as toilet and store, and detect any abnormalities therein such as overcrowding and prolonged stay. The system will automatically alert staff if any of such abnormalities is detected, thereby enhancing the institutional security.",替代傳統監視攝影機的技術於保護個人私隱的不同場景下，可以進行人數點算和行為監察，包括統計在指定地點（如洗手間及儲物室）停留的人數和持續停留的時間，並藉此偵測指定地點內的異常情況，例如長時間逗留和擁擠的情況。如系統偵測到有關的異常情況便會隨即發出警報，讓人員即時跟進，從而提升有關設施的保安水平。,"City Management
+Environment
+Law and Security
+Population
+","Artificial Intelligence (AI)
+Data Analytics
+Machine Learning
+Video Analytics
+","Flow Management System. Traditional surveillance cameras for people counting may lead to privacy concerns and may be affected by sight blocking and lighting condition. The department is exploring alternative technologies with artificial intelligence and data analytics to serve the operational needs and enhance public services.. Alternative solution to replace traditional surveillance cameras in difference scenarios for people counting and behavior monitoring with privacy preserved. It includes counting the number and duration of people staying in a designated location such as toilet and store, and detect any abnormalities therein such as overcrowding and prolonged stay. The system will automatically alert staff if any of such abnormalities is detected, thereby enhancing the institutional security."
+N-0055,Automation of the validation and assessment process of electronic applications,自動化電子服務申請的校對及評核流程,"The existing workflow of handling electronic applications of a public service involves a number of manual processes, such as validating the received data against specific sources of the Internet, searching for relevant market information from various websites to support application assessments, and inputting the collected information into the system in a pre-defined format.  Those manual processes are repetitive, time consuming and prone to error.  The department wants to make use of Information Technology to automate the manual processes for improvement of process accuracy and operational efficiency.",現時處理一項公共服務的電子申請的流程涉及多個人手工序，當中包括將收到的資料與網上特定的網頁校對、在不同網頁搜尋市場資訊以協助申請評核及將收集回來的網上資料以特定的格式輸入系統。該些人手工序重覆、費時及容易出錯。部門希望透過資訊科技，自動化相關的人手工序，以改善準確度及業務效率。,"With the application of artificial intelligence, machine learning, robotic process automation and other technologies, the IT solution should be able to automate the processes of validation and assessment of electronic applications accurately and efficiently and minimise the human effort required.",透過應用人工智能、機器學習、機械人流程自動化及其他技術，選用的創新及科技解決方案應能自動化電子服務申請的校對及評核流程，改善準確度及業務效率，並減省以人手。,"Commerce and Industry
+Law and Security
+","Artificial Intelligence (AI)
+Machine Learning
+Natural Language Processing
+Robotic Process Automation
+","Automation of the validation and assessment process of electronic applications. The existing workflow of handling electronic applications of a public service involves a number of manual processes, such as validating the received data against specific sources of the Internet, searching for relevant market information from various websites to support application assessments, and inputting the collected information into the system in a pre-defined format.  Those manual processes are repetitive, time consuming and prone to error.  The department wants to make use of Information Technology to automate the manual processes for improvement of process accuracy and operational efficiency.. With the application of artificial intelligence, machine learning, robotic process automation and other technologies, the IT solution should be able to automate the processes of validation and assessment of electronic applications accurately and efficiently and minimise the human effort required."
+N-0057,Automatic Pedestrian Counting,自動行人點算技術,"Pedestrian planning requires detailed pedestrian flow data, with such data commonly obtained through manual survey methods. However, methods such as manual pedestrian counting can be expensive and provide only limited data, as it might not be possible to collect data over an extensive area and period. The department is exploring appropriate and reliable automatic pedestrian counting technologies suitable for surveying streets, especially with high pedestrian flow. The technology shall be free from privacy issues.",進行城市行人規劃需要詳細的行人流量數據通常是透過人力調查方法從而獲得。 但是人力調查方法如手動行人點算不但昂貴，而且不適合長時間和大範圍收集數據，以至只能收集有限的數據。部門正在探索使用適當且可靠的自動行人點算技術為高行人流量的街道進行人數點算。該技術並不可以產生私隱問題。,"An alternative solution to replace manual pedestrian counting under an outdoor environment, especially with high pedestrian flow density, without privacy issues. The solution shall be able to count the number of pedestrians passing by a certain location on a street with a high degree of accuracy and log the pedestrian flow data for analytical purpose. The hardware should be able to mount on existing lampposts, can be easily installed and weatherproof.",替代手動行人人數點算方法的自動行人點算技術應有能力在保護個人私隱的前題下，為高行人流量的戶外地點進行人數點算。該技術應能夠準確地點算經過街道上某位置的行人流量，並記錄有關數據以進行分析。而該技術的硬件應能夠安裝在現有的燈柱上，並且能夠抵擋風雨。,"Development
+Infrastructure
+Transport
+","Artificial Intelligence (AI)
+Data Analytics
+","Automatic Pedestrian Counting. Pedestrian planning requires detailed pedestrian flow data, with such data commonly obtained through manual survey methods. However, methods such as manual pedestrian counting can be expensive and provide only limited data, as it might not be possible to collect data over an extensive area and period. The department is exploring appropriate and reliable automatic pedestrian counting technologies suitable for surveying streets, especially with high pedestrian flow. The technology shall be free from privacy issues.. An alternative solution to replace manual pedestrian counting under an outdoor environment, especially with high pedestrian flow density, without privacy issues. The solution shall be able to count the number of pedestrians passing by a certain location on a street with a high degree of accuracy and log the pedestrian flow data for analytical purpose. The hardware should be able to mount on existing lampposts, can be easily installed and weatherproof."
+N-0059,Traffic Snapshot Images on Smart Lampposts,智慧燈柱上的交通情況快拍圖像,There are public concerns on using cameras as it may touch on personal privacy.  Therefore technologies alternative to cameras will be explored which are privacy-friendly to provide ‘Traffic Snapshot Images’.,公眾關注使用攝影機有可能引起個人私隱問題。因此，需要探索其他可替代攝影機而保障私隱的技術，以提供“交通情況快拍圖像”的功能。,"-	Provide real-time snapshot images of traffic on the road for the general public to visualize the latest traffic conditions at a specific road section regularly (e.g. every 2 minutes).
+-	Explore alternative technologies other than cameras to capture low resolution images of 320 x 240 pixels with logo of TD, device ID, capture date, time and location.
+-	Disseminate to the public every two minutes via open data portal and TD’s website / app.
+-	Alternative technologies other than cameras which are privacy-friendly (i.e. no excessive data collection principle under the Personal Data (Privacy) Ordinance and the practice of collecting minimum information for the purpose of data collection) should be considered only.","-       為公眾提供即時的交通情況快拍圖像，以了解在特定路口的最新定時（例如每2分鐘）交通狀況。 
+-       探索攝影機以外的其他技術，以拍攝低解像度圖像（320 x 240像素），同時要加入運輸處徽號，裝置編碼，拍攝日期，時間和地點。 
+-       每兩分鐘通過政府開放數據入門網站和運輸處的網站/應用程式向公眾發放。 
+-       除攝影機外，只考慮保障私隱的替代技術（即根據《個人資料（私隱）條例》中不應過度收集數據的原則，以及因應收集數據的目的，應該考慮收集最少資料的做法）。","City Management
+Transport
+","Artificial Intelligence (AI)
+Cloud Computing
+Internet of Things (IoT)
+Machine Learning
+","Traffic Snapshot Images on Smart Lampposts. There are public concerns on using cameras as it may touch on personal privacy.  Therefore technologies alternative to cameras will be explored which are privacy-friendly to provide ‘Traffic Snapshot Images’.. -	Provide real-time snapshot images of traffic on the road for the general public to visualize the latest traffic conditions at a specific road section regularly (e.g. every 2 minutes).
+-	Explore alternative technologies other than cameras to capture low resolution images of 320 x 240 pixels with logo of TD, device ID, capture date, time and location.
+-	Disseminate to the public every two minutes via open data portal and TD’s website / app.
+-	Alternative technologies other than cameras which are privacy-friendly (i.e. no excessive data collection principle under the Personal Data (Privacy) Ordinance and the practice of collecting minimum information for the purpose of data collection) should be considered only."
+N-0060,Estimate Sectional Travel Speed and Time on Smart Lampposts,從智慧燈柱上估算分段行駛速度和時間,"There are public concerns on using Bluetooth detector as it may touch on personal privacy.  Therefore technologies alternative to Bluetooth detectors and cameras will be explored which are privacy-friendly to provide ‘Estimate Sectional Travel Speed and Time’.
+
+",公眾關注使用藍牙交通探測器有可能引起個人私隱問題。因此，需要探索可替代藍牙交通探測器和攝影機的技術，這些能夠保障私隱的替代技術提供“估算分段行駛速度和時間”。,"-	Estimate average vehicular travel time and speed for bypassing vehicles over defined road section.
+-	Area of interest (at least 2 traffic lanes) including hardshoulder, marginal strip and in the middle of two traffic lanes.
+-	Design for high speed free flow environments and capable of handling not less than 2,000 vehicles per hour in each traffic lane.
+-	Delay over junction or varying traffic condition shall be taken into consideration.
+-	Alternative technologies other than cameras which are privacy-friendly (i.e. no excessive data collection principle under the Personal Data (Privacy) Ordinance and the practice of collecting minimum information for the purpose of data collection) should be considered only.
+","-       估算在特定路段上車輛的平均行駛速度和時間。
+-       適用範圍包括路肩，邊帶和兩條行車道中間地帶。
+-       專為高速車輛自由流動環境而設計，每條行車道每小時可處理不少於2,000輛汽車。 
+-       應考慮路口的延誤或交通狀況的變化。 
+-       除攝影機外，只考慮保障私隱的替代技術（即根據《個人資料（私隱）條例》中不應過度收集數據的原則，以及因應收集數據的目的，應該考慮收集最少資料的做法）。","City Management
+Transport
+","Artificial Intelligence (AI)
+Cloud Computing
+Internet of Things (IoT)
+Machine Learning
+","Estimate Sectional Travel Speed and Time on Smart Lampposts. There are public concerns on using Bluetooth detector as it may touch on personal privacy.  Therefore technologies alternative to Bluetooth detectors and cameras will be explored which are privacy-friendly to provide ‘Estimate Sectional Travel Speed and Time’.
+
+. -	Estimate average vehicular travel time and speed for bypassing vehicles over defined road section.
+-	Area of interest (at least 2 traffic lanes) including hardshoulder, marginal strip and in the middle of two traffic lanes.
+-	Design for high speed free flow environments and capable of handling not less than 2,000 vehicles per hour in each traffic lane.
+-	Delay over junction or varying traffic condition shall be taken into consideration.
+-	Alternative technologies other than cameras which are privacy-friendly (i.e. no excessive data collection principle under the Personal Data (Privacy) Ordinance and the practice of collecting minimum information for the purpose of data collection) should be considered only.
+"
+N-0061,Vehicles Type Identification on Smart Lampposts,智慧燈柱上車輛類型識別,There are public concerns on using cameras as it may touch on personal privacy.  Therefore technologies alternative to cameras will be explored which are privacy-friendly to provide ‘Vehicles Type Identification’.,公眾關注使用攝影機有可能引起個人私隱問題。因此，需要探索可替代攝影機的技術，這些能夠保障私隱的替代技術提供“車輛類型識別”。,"-	Collect number of vehicles by types for annual traffic census and transport planning purposes.
+-	Automatically classify and count the passing vehicles by types in selected area of interest.
+-	Area of interest (at least 2 traffic lanes) can be covered, including hard shoulder, marginal strip and in the middle of two traffic lanes.
+-	Design for high speed free flow environments and capable of handling not less than 2,000 vehicles per hour in each traffic lane.
+-	Summary of vehicle classification:
+(01)	Motor Cycle 電單⾞
+(02)	Private Car 私家⾞
+(03)	Taxi 的⼠
+(04)	Private Light Bus 私家⼩型巴⼠
+(05)	Public Light Bus 公共⼩型巴⼠
+(06)	Light Goods Vehicle 輕型貨⾞(非客貨⾞類)
+(07)	Medium / Heavy Goods Vehicle 中型 / 重型貨⾞
+(08)	Non-franchised Bus 非專營巴⼠
+(09)	Franchised Bus 專營巴⼠(S.D.)單層
+(10)	Franchised Bus 專營巴⼠(D.D.)雙層
+-	Alternative technologies other than cameras which are privacy-friendly (i.e. no excessive data collection principle under the Personal Data (Privacy) Ordinance and the practice of collecting minimum information for the purpose of data collection) should be considered only.
+","-       按類型收集車輛數量，以進行年度交通普查和運輸計劃。
+-       在特定地區自動分類及統計通過的車輛。
+-       適用範圍包括路肩，邊帶和兩條行車道中間地帶。
+-       專為高速車輛自由流動環境而設計，每條行車道每小時可處理不少於2,000輛汽車。
+-       車輛分類摘要:
+(01) Motor Cycle 電單⾞ 
+(02) Private Car 私家⾞ 
+(03) Taxi 的⼠ 
+(04) Private Light Bus 私家⼩型巴⼠ 
+(05) Public Light Bus 公共⼩型巴⼠ 
+(06) Light Goods Vehicle 輕型貨⾞(非客貨⾞類) 
+(07) Medium / Heavy Goods Vehicle 中型 / 重型貨⾞ 
+(08) Non-franchised Bus 非專營巴⼠ 
+(09) Franchised Bus 專營巴⼠(S.D.)單層 
+(10) Franchised Bus 專營巴⼠(D.D.)雙層 
+-       除攝影機外，只考慮保障私隱的替代技術（即根據《個人資料（私隱）條例》中不應過度收集數據的原則，以及因應收集數據的目的，應該考慮收集最少資料的做法）。
+","City Management
+Transport
+","Artificial Intelligence (AI)
+Cloud Computing
+Internet of Things (IoT)
+Machine Learning
+","Vehicles Type Identification on Smart Lampposts. There are public concerns on using cameras as it may touch on personal privacy.  Therefore technologies alternative to cameras will be explored which are privacy-friendly to provide ‘Vehicles Type Identification’.. -	Collect number of vehicles by types for annual traffic census and transport planning purposes.
+-	Automatically classify and count the passing vehicles by types in selected area of interest.
+-	Area of interest (at least 2 traffic lanes) can be covered, including hard shoulder, marginal strip and in the middle of two traffic lanes.
+-	Design for high speed free flow environments and capable of handling not less than 2,000 vehicles per hour in each traffic lane.
+-	Summary of vehicle classification:
+(01)	Motor Cycle 電單⾞
+(02)	Private Car 私家⾞
+(03)	Taxi 的⼠
+(04)	Private Light Bus 私家⼩型巴⼠
+(05)	Public Light Bus 公共⼩型巴⼠
+(06)	Light Goods Vehicle 輕型貨⾞(非客貨⾞類)
+(07)	Medium / Heavy Goods Vehicle 中型 / 重型貨⾞
+(08)	Non-franchised Bus 非專營巴⼠
+(09)	Franchised Bus 專營巴⼠(S.D.)單層
+(10)	Franchised Bus 專營巴⼠(D.D.)雙層
+-	Alternative technologies other than cameras which are privacy-friendly (i.e. no excessive data collection principle under the Personal Data (Privacy) Ordinance and the practice of collecting minimum information for the purpose of data collection) should be considered only.
+"
+N-0062,Traffic Condition Video on Smart Lampposts,智慧燈柱上的交通狀況視頻,There are public concerns on using cameras as it may touch on personal privacy.  Therefore technologies alternative to cameras will be explored which are privacy-friendly to provide ‘Traffic Condition Video’.,公眾關注使用攝影機有可能引起個人私隱問題。因此，需要探索可替代攝影機的技術，這些能夠保障私隱的替代技術提供“交通狀況視頻”。,"-	Live traffic video (non-camera) stream to facilitate traffic condition monitoring.
+-	Pan-tilt-zoom capacity to enhance coverage and flexibility of monitoring.
+-	Privacy zone function as one of the privacy protection provision by automatically masking defined area of coverage if necessary.
+-	No recording, no personal data collection.
+-	Alternative technologies other than cameras which are privacy-friendly (i.e. no excessive data collection principle under the Personal Data (Privacy) Ordinance and the practice of collecting minimum information for the purpose of data collection) should be considered only.
+","-       實時交通視頻（非攝影機）以配合交通狀況監察。
+-       具備全景搖攝和變焦功能（PTZ）以增強監測的覆蓋面和靈活性。
+-       私隱區域功能可作為保障私隱措施之一，在需要時自動屏蔽本來覆蓋的區域。
+-       沒有個人資料收集及記錄。
+-       除攝影機外，只考慮保障私隱的替代技術（即根據《個人資料（私隱）條例》中不應過度收集數據的原則，以及因應收集數據的目的，應該考慮收集最少資料的做法）。","City Management
+Transport
+","Artificial Intelligence (AI)
+Cloud Computing
+Internet of Things (IoT)
+Machine Learning
+","Traffic Condition Video on Smart Lampposts. There are public concerns on using cameras as it may touch on personal privacy.  Therefore technologies alternative to cameras will be explored which are privacy-friendly to provide ‘Traffic Condition Video’.. -	Live traffic video (non-camera) stream to facilitate traffic condition monitoring.
+-	Pan-tilt-zoom capacity to enhance coverage and flexibility of monitoring.
+-	Privacy zone function as one of the privacy protection provision by automatically masking defined area of coverage if necessary.
+-	No recording, no personal data collection.
+-	Alternative technologies other than cameras which are privacy-friendly (i.e. no excessive data collection principle under the Personal Data (Privacy) Ordinance and the practice of collecting minimum information for the purpose of data collection) should be considered only.
+"
+N-0063,Real-time incident detection system on shared-use pavement for pedestrians and cyclists,行人及單車共融通道實時事故偵測系統 ,"We are exploring the adoption of a real-time incident detection system with application of artificial intelligence technology on shared-use pavement for pedestrians and cyclists.  The system should be capable of spotting automatically and instantly incidents such as collision between pedestrian and cyclist, and immediately informing the on-site staff for attending to the incidents.  The system should also be capable of conducting real-time pedestrian and cycle flow counts on the shared-pavement to facilitate safety and crowd management.  The possible adoption of alternative technology in lieu of video analytic, such as LIDAR and thermal detection, should be explored to address potential concern on privacy issue. ",我們正研究在行人及單車共融通道上以人工智能技術設置一個實時事故偵測系統。該系統需要自動及實時偵測在共融通道上發生的事故，例如行人及單車發生碰撞，並即時發出警報提醒在場工作人員處理有關事故。該系統還需要收集行人及單車流量的實時數據，以方便安全和人群管理。此外，有關方案應探討採用其他技術，例如光學雷達和熱能探測，以取代使用影像攝錄的可行性，從而處理可能對私隱問題的關注。,"The system should be capable of enhancing the safety and crowd management of the shared-pavement, and minimising the manpower resources required.",該系統須優化共融通道的安全和人群管理，以及減少有關的人手。,"City Management
+Transport
+","Artificial Intelligence (AI)
+Data Analytics
+Deep Learning
+Video Analytics
+","Real-time incident detection system on shared-use pavement for pedestrians and cyclists. We are exploring the adoption of a real-time incident detection system with application of artificial intelligence technology on shared-use pavement for pedestrians and cyclists.  The system should be capable of spotting automatically and instantly incidents such as collision between pedestrian and cyclist, and immediately informing the on-site staff for attending to the incidents.  The system should also be capable of conducting real-time pedestrian and cycle flow counts on the shared-pavement to facilitate safety and crowd management.  The possible adoption of alternative technology in lieu of video analytic, such as LIDAR and thermal detection, should be explored to address potential concern on privacy issue. . The system should be capable of enhancing the safety and crowd management of the shared-pavement, and minimising the manpower resources required."
+N-0064,Mobile Phone Applications on Way Finding Services with Augmented Reality ,利用手機應用程式提供擴增實境引路服務,"We are exploring the provision of a way finding services in new development area (NDA) through mobile phone application with augmented reality technology.  The mobile phone application aims at providing convenience to the public for locating the major scenic spots, leisure and other facilities as well as at the same time disseminating the relevant information, thereby enhancing their experience in visiting the NDA.",我們正研究利用手機應用程式在新發展區提供擴增實境引路服務。該手機應用程式希望能夠方便市民尋找區內的主要景點、康樂及其他設施和於同一時間發佈相關的資訊，從而給他們一個更好的遊覽體驗。,The way finding services help the public to find the different destinations within the NDA and obtain the relevant information.,引路服務須方便市民尋找區內不同的目的地及獲取相關資訊。,"Broadcasting
+City Management
+Recreation and Culture
+","Augmented Reality
+Mobile Technologies
+","Mobile Phone Applications on Way Finding Services with Augmented Reality . We are exploring the provision of a way finding services in new development area (NDA) through mobile phone application with augmented reality technology.  The mobile phone application aims at providing convenience to the public for locating the major scenic spots, leisure and other facilities as well as at the same time disseminating the relevant information, thereby enhancing their experience in visiting the NDA.. The way finding services help the public to find the different destinations within the NDA and obtain the relevant information."
+N-0065,Automatic Bicycle Rental System (including Booking and Payment System) ,自動租借單車系統(包括預訂及付款系統) ,"We are exploring the adoption of an automatic bicycle rental system in new development area (NDA) for leisure and recreation use by the public.  Such system should, without extensive manpower resources input for the operation, allow the public to rent and return bicycles at different locations inside the NDA conveniently for visiting the scenic spots and open spaces therein.  The system should be accompanied with bicycle booking and payment function, providing users with one-stop services via mobile phone and / or internet.  Besides, the possible use of geo-fencing technology should be explored for regulating bicycle parking to prevent parking problem.  Such technology should be capable of regulating bicycle parking and monitoring cyclists entering or exiting a geo-fence, facilitating bicycle management more effectively.",我們正研究在新發展區設置一套自動單車租賃系統給市民作休閒娛樂之用。該系統應在不需要大量人手操作的情況下讓市民能夠方便地於新發展區內不同的地方租借或歸還單車，以便遊覽區內的景點和休憩用地。該系統應透過手機應用程式和 / 或互聯網以一站式服務提供單車預訂及付款功能給用家。此外，有關方案應探討採用電子圍欄技術(geo-fencing)管理單車泊位以防止單車胡亂停泊的問題。該系統需要監控單車泊位及監測騎單車人士出入電子圍欄，從而更有效地管理單車。,The system should provide convenience to the public for using bicycle rental facilities at different locations inside the NDA for leisure and recreation use.,該系統須讓市民能夠方便地於新發展區內不同的地方租借到單車作休閒娛樂之用。,"City Management
+Recreation and Culture
+Transport
+","Artificial Intelligence (AI)
+Data Analytics
+Mobile Technologies
+","Automatic Bicycle Rental System (including Booking and Payment System) . We are exploring the adoption of an automatic bicycle rental system in new development area (NDA) for leisure and recreation use by the public.  Such system should, without extensive manpower resources input for the operation, allow the public to rent and return bicycles at different locations inside the NDA conveniently for visiting the scenic spots and open spaces therein.  The system should be accompanied with bicycle booking and payment function, providing users with one-stop services via mobile phone and / or internet.  Besides, the possible use of geo-fencing technology should be explored for regulating bicycle parking to prevent parking problem.  Such technology should be capable of regulating bicycle parking and monitoring cyclists entering or exiting a geo-fence, facilitating bicycle management more effectively.. The system should provide convenience to the public for using bicycle rental facilities at different locations inside the NDA for leisure and recreation use."
+N-0066,Monitoring of Illegal Dumping on Smart Lampposts,智慧燈柱上監察非法棄置廢物活動,There are public concerns on using cameras as it may touch on personal privacy.  Therefore technologies alternative to cameras will be explored which are privacy-friendly to monitoring illegal dumping activities.,公眾關注使用攝影機有可能引起個人私隱問題。因此，需要探索其他可替代攝影機而保障私隱的技術，以提供“監察非法棄置廢物活動”的功能。,"Illegal Dumping Monitoring
+-	Collect information for planning and operation against illegal dumping activities
+-	Record and identify illegal waste dumping activities in the street and track street obstructions such as recyclers shops and waste collection vehicles obstacles in selected area of interest
+-	Identify dumping type (e.g. by hand, with vehicle, with trolley)
+-	Automatically measure the volume and type of waste captured if illegal waste dumping is suspected
+-	Recognise the vehicle licence plate number
+-	Automatically track and analyse vehicles and the corresponding vehicle type:
+> Motor Cycle
+> Private Car
+> Taxi
+> Private Light Bus
+> Public Light Bus
+> Light Goods Vehicle
+> Medium / Heavy Goods Vehicle
+> Non-franchised Bus
+> Franchised Bus (single decker)
+> Franchised Bus (double decker)
+-	Types of Trash (for reference):
+> Earth Filling, building debris (packed and not packed in bags)
+> Household waste
+> Waste Tyre
+> Air conditioner
+> Refrigerator
+> Washing machine
+> Television
+> Computer
+> Printer
+> Scanner
+> Monitor
+> Bamboo
+> Cardboard, carton box
+> Gas Cylinder (Fire Extinguishers, Air conditioner compressor, refrigerants)
+> Wardrobes, drawers
+> Bed, mattress, cabinets
+> Basin, toilet bowl
+> Wooden frame
+> Big Trash Bag
+-	Alert and Reporting
+> Trigger an email alert on the event time and venue in Backend instantly if illegal waste dumping is suspected
+> Trigger alert should have information for user preview and verify the suspected activities
+> Log the illegal dumping event in the backend system and provide both web and mobile client to access report system
+-	Provide a live view at the scene
+-	Alternative technologies other than cameras which are privacy-friendly (i.e. no excessive data collection principle under the Personal Data (Privacy) Ordinance and the practice of collecting minimum information for the purpose of data collection) should be considered only.
+","監察非法棄置廢物活動
+-	收集非法棄置廢物活動資訊以作跟進
+-	記錄非法棄置廢物活動，並追蹤選定目標區域中的街道障礙物，例如廢物回收商和垃圾收集車障礙物
+-	識別非法棄置廢物類別（例如徒手，以車輛，或以手推車）
+-	當有懷疑非法棄置廢物活動，自動量度廢物的體積和類別
+-	識別車牌號碼
+-	自動追踪和分析車輛及相應的車輛類型：
+	電單⾞
+	私家⾞
+	的⼠
+	私家⼩型巴⼠
+	公共⼩型巴⼠
+	輕型貨⾞(非客貨⾞類)
+	中型 / 重型貨⾞
+	非專營巴⼠
+	單層專營巴⼠
+	雙層專營巴⼠
+-	垃圾類型（僅供參考）：
+	泥頭，建築廢料（包裝好及未包裝好）
+	家居垃圾
+	廢車胎
+	冷氣機
+	雪櫃
+	洗衣機
+	電視機
+	電腦
+	打印機
+	掃描器
+	電腦顯示屏
+	竹枝
+	紙板，紙箱
+	氣樽（滅火筒，空調壓縮機，雪種）
+	衣櫃，抽屜
+	床，床褥，櫃
+	面盆，馬桶
+	木架
+	大型垃圾袋
+-	警示和報告
+	當有懷疑非法棄置廢物活動，後台系統應立即發出警示電子郵件說明事件的發生時間和地點
+	提供觸發警示可疑活動的信息給用戶預覽和驗證
+	在後台系統記錄非法棄置廢物活動及提供網頁和流動客戶界面讀取報告
+-	提供現場即時影像
+-	只考慮（非攝影機）保障私隱的替代技術（即根據《個人資料（私隱）條例》中不應過度收集數據的原則，以及因應收集數據的目的，應該考慮收集最少資料的做法）
+","City Management
+Environment
+","Artificial Intelligence (AI)
+Cloud Computing
+Internet of Things (IoT)
+Machine Learning
+","Monitoring of Illegal Dumping on Smart Lampposts. There are public concerns on using cameras as it may touch on personal privacy.  Therefore technologies alternative to cameras will be explored which are privacy-friendly to monitoring illegal dumping activities.. Illegal Dumping Monitoring
+-	Collect information for planning and operation against illegal dumping activities
+-	Record and identify illegal waste dumping activities in the street and track street obstructions such as recyclers shops and waste collection vehicles obstacles in selected area of interest
+-	Identify dumping type (e.g. by hand, with vehicle, with trolley)
+-	Automatically measure the volume and type of waste captured if illegal waste dumping is suspected
+-	Recognise the vehicle licence plate number
+-	Automatically track and analyse vehicles and the corresponding vehicle type:
+> Motor Cycle
+> Private Car
+> Taxi
+> Private Light Bus
+> Public Light Bus
+> Light Goods Vehicle
+> Medium / Heavy Goods Vehicle
+> Non-franchised Bus
+> Franchised Bus (single decker)
+> Franchised Bus (double decker)
+-	Types of Trash (for reference):
+> Earth Filling, building debris (packed and not packed in bags)
+> Household waste
+> Waste Tyre
+> Air conditioner
+> Refrigerator
+> Washing machine
+> Television
+> Computer
+> Printer
+> Scanner
+> Monitor
+> Bamboo
+> Cardboard, carton box
+> Gas Cylinder (Fire Extinguishers, Air conditioner compressor, refrigerants)
+> Wardrobes, drawers
+> Bed, mattress, cabinets
+> Basin, toilet bowl
+> Wooden frame
+> Big Trash Bag
+-	Alert and Reporting
+> Trigger an email alert on the event time and venue in Backend instantly if illegal waste dumping is suspected
+> Trigger alert should have information for user preview and verify the suspected activities
+> Log the illegal dumping event in the backend system and provide both web and mobile client to access report system
+-	Provide a live view at the scene
+-	Alternative technologies other than cameras which are privacy-friendly (i.e. no excessive data collection principle under the Personal Data (Privacy) Ordinance and the practice of collecting minimum information for the purpose of data collection) should be considered only.
+"
+N-0067,Multipurpose System for Case Management ,多功能個案管理系統,"In managing our cases, there are different areas of work.  The major areas include funding application processing, and the follow-up work arising from approval of applications (such as monitoring of resources allocation and use, as well as provision of administrative support). The whole management is a matter of years, involving strenuous procedures and document processing.  At present, we are relying on an enormous amount of human resources to ensure all cases are being managed in a prudent manner. ",我們的個案管理工作涵蓋不同範疇，主要包括處理資助申請及申請獲批後的跟進工作(例如監察資源分配和運用以及提供行政支援)。整個管理工作需時以年計算，當中涉及繁複的程序和文件處理。目前，我們需要依賴大量的人力資源配合才可確保所有個案可妥善處理。,"In order to save manual efforts, we expect that the system will help to streamline the application and follow-up procedures, and to execute document processing.  We also expect that the system will allow room and flexibility to develop further functions in the future to support, for example, other ancillary procedures and data analytics.",為了減省手動工序，我們期望該系統可有助優化申請和跟進工作的程序以及執行文件處理。該系統亦需預留空間和靈活性，以便將來開發更多功能，例如支援其他輔助程序和數據分析。,"Development
+","Artificial Intelligence (AI)
+Data Analytics
+Robotic Process Automation
+","Multipurpose System for Case Management . In managing our cases, there are different areas of work.  The major areas include funding application processing, and the follow-up work arising from approval of applications (such as monitoring of resources allocation and use, as well as provision of administrative support). The whole management is a matter of years, involving strenuous procedures and document processing.  At present, we are relying on an enormous amount of human resources to ensure all cases are being managed in a prudent manner. . In order to save manual efforts, we expect that the system will help to streamline the application and follow-up procedures, and to execute document processing.  We also expect that the system will allow room and flexibility to develop further functions in the future to support, for example, other ancillary procedures and data analytics."
+N-0068,Intelligent Searching Tools,智能搜索工具,"We have generated many information in both hard copy and electronic copy in our daily operation. For easy storage, hard copy information is transformed into electronic copy and stored in different systems in the department's intranet. Those information may be structured or non-structured information storing in different file formats (jpg, doc, xls, ppt, dwg, pdf {with or without OCR}, etc.). In this connection, it is very difficult to search a document from the huge number of documents in the intranet. ",在日常營運中，我們產生了許多印刷版和電子版的文件。為了便於存儲，文件的印本會轉換為電子副本，並存儲在部門內部網絡的不同系統中。而文件亦有不同的格式如:（jpg，doc，xls，ppt，dwg，pdf（帶有或不帶有OCR）等）。因此，從內聯網中搜索文件非常困難。,"An intelligence searching tool, better incorporated with Chatbot & Artificial Intelligence (A.I.), to facilitate our searching of information in our intranet for work effectiveness and efficiency.",運用一種智能搜索工具，可以與Chatbot和A.I.結合使用，方便我們在內聯網中搜索文件以提高工作效能和效率。,"Development
+","Artificial Intelligence (AI)
+Chatbot 聊天機械人
+","Intelligent Searching Tools. We have generated many information in both hard copy and electronic copy in our daily operation. For easy storage, hard copy information is transformed into electronic copy and stored in different systems in the department's intranet. Those information may be structured or non-structured information storing in different file formats (jpg, doc, xls, ppt, dwg, pdf {with or without OCR}, etc.). In this connection, it is very difficult to search a document from the huge number of documents in the intranet. . An intelligence searching tool, better incorporated with Chatbot & Artificial Intelligence (A.I.), to facilitate our searching of information in our intranet for work effectiveness and efficiency."
+N-0070,Automation of data verification,資料核對自動化,"The existing workflow of handling applications of a public service involves a number of manual processes, such as verifying the information stated in application forms against those contained in supporting documents, which include English, Traditional Chinese and Simplified Chinese handwritten documents, through visual inspection.  The process is time-consuming and prone to error.  The department intends to make use of technologies to automate the verification processes for improvement of process accuracy and operational efficiency.",現有的公共服務申請工作流程涉及許多人手工序，例如，通過目視將申請表中的資料與證明文件（包括英文，繁體中文和簡體中文手寫文件）中的資料進行核對。該過程耗時並且容易出錯。 部門打算利用技術來使核對過程自動化，以提高過程準確性和運營效率。,"With the application of artificial intelligence, machine learning, robotic process automation and other technologies, the technology solutions should be able to automate the processes of verifying the data contained in the applications accurately and efficiently and minimise the human effort required.",隨著應用人工智能，機器學習，機器人過程自動化和其他技術，有關的技術解決方案應該能夠把核對申請表格內的資料過程自動化，並且準確而有高效率，以及可以最大程度地減少所需的人力資源。,"Education
+","Artificial Intelligence (AI)
+Machine Learning
+Natural Language Processing
+Robotic Process Automation
+","Automation of data verification. The existing workflow of handling applications of a public service involves a number of manual processes, such as verifying the information stated in application forms against those contained in supporting documents, which include English, Traditional Chinese and Simplified Chinese handwritten documents, through visual inspection.  The process is time-consuming and prone to error.  The department intends to make use of technologies to automate the verification processes for improvement of process accuracy and operational efficiency.. With the application of artificial intelligence, machine learning, robotic process automation and other technologies, the technology solutions should be able to automate the processes of verifying the data contained in the applications accurately and efficiently and minimise the human effort required."
+N-0071,"Automatic identification, notification and processing of missing documents",自動識別，通知和處理補交的文件,"The existing workflow of handling electronic applications of a public service involves a number of manual processes, such as bringing up outstanding cases, checking missing supporting documents, issuing letters to remind applicants to submit documents, and distributing submitted documents to case officers for processing.  The department intends to make use of technologies to automate the processing of applications, including identifying the missing documents, notifying applicants and processing submitted documents.",現時處理公共服務電子申請的工作流程涉及許多人手流程，例如提醒工作人員未完成的個案件，檢查缺少的證明文件，發出信件提醒申請人補交證明文件以及將補交的文件分發給個案工作人員進行處理。部門打算利用技術來自動處理申請，包括識別缺少的文件，通知申請人和處理已提交的文件。,"With the application of robotic process automation and other technologies, the technology solutions should be able to automate the processes of identifying the type of missing documents, notifying the applicants, and updating the record after receiving the document from the applicant and alerting case officers to process the submitted documents to minimise the human effort required.",因應使用機器人流程自動化和其他技術，技術解決方案應該能夠把以下過工作流程自動化：識別申請人未提交的文件種類、通知申請人，以及當收到申請人提交文件時更新記錄和提醒個案的工作人員，從而以最大程度地減少所需的人力資源。,"Education
+","Robotic Process Automation
+","Automatic identification, notification and processing of missing documents. The existing workflow of handling electronic applications of a public service involves a number of manual processes, such as bringing up outstanding cases, checking missing supporting documents, issuing letters to remind applicants to submit documents, and distributing submitted documents to case officers for processing.  The department intends to make use of technologies to automate the processing of applications, including identifying the missing documents, notifying applicants and processing submitted documents.. With the application of robotic process automation and other technologies, the technology solutions should be able to automate the processes of identifying the type of missing documents, notifying the applicants, and updating the record after receiving the document from the applicant and alerting case officers to process the submitted documents to minimise the human effort required."
+N-0072,"Mobile platform with handheld devices for on-site inspection, home visits and interviews",手提式的設備可用於現場視察，家庭訪問和面談,"The existing workflow of handling applications of a public service involves monitoring and authentication processes and staff are required to conduct inspection, home visits and interviews frequently.  At present, the information / copies of the documents collected / photos taken during the process are brought back to office, and images are uploaded to the systems manually by staff for processing and record.  The department intends to make use of technologies to digitalise the processing of records for inspection / home visits / interviews and to facilitate case officers’ access to the systems using handheld devices in a secure manner while they are away from office.  Moreover, the use of handheld devices for on-site data screening and transmission will also promote paperless operation and improve work efficiency.",現時處理公共服務申請的工作流程涉及監察和審核過程，部門會要求員工進行現場視察，家庭訪問和與申請人面談。 目前，在此過程中，所收集的資料/文件副本/拍攝的照片會被帶回辦公室，並且由工作人員以手動方式將圖片上傳到系統中進行處理和記錄。部門打算利用技術對現場視察/家庭訪問/面談記錄的處理進行電子化，同時方便個案工作人員不在辦公室時亦可使用手提式的設備以安全的方式登入系統。 此外，使用手提式的設備進行現場數據篩檢和傳輸亦可促進無紙化的操作以及提高工作效率。,"With the development of the mobile platform, staff would be provided with handheld devices to assist in performing inspection, home visits or interviews.",隨著移動平台的開發，員工將會獲提供手提式的設備，以協助進行現場視察，家庭訪問或面談。,"Education
+","Mobile Technologies
+Robotic Process Automation
+","Mobile platform with handheld devices for on-site inspection, home visits and interviews. The existing workflow of handling applications of a public service involves monitoring and authentication processes and staff are required to conduct inspection, home visits and interviews frequently.  At present, the information / copies of the documents collected / photos taken during the process are brought back to office, and images are uploaded to the systems manually by staff for processing and record.  The department intends to make use of technologies to digitalise the processing of records for inspection / home visits / interviews and to facilitate case officers’ access to the systems using handheld devices in a secure manner while they are away from office.  Moreover, the use of handheld devices for on-site data screening and transmission will also promote paperless operation and improve work efficiency.. With the development of the mobile platform, staff would be provided with handheld devices to assist in performing inspection, home visits or interviews."
+N-0073,Application data analysis for risk based authentication,應用數據分析於帶有風險評估的審核,"The department is adopting risk-profiling of applications submitted to detect provision of inaccurate information and omission of information.  However, the parameters of the risk factors are mainly determined by human judgment.  The department intends to make use of big data analytics technology to identify the risk factors and evaluate their effectiveness so as to strengthen the monitoring and authentication mechanism.  ",部門會為提交的申請進行風險分析，以識別出提供失實資料或漏報資料的情況。 但是，現時的風險因素的參數主要由人為判斷決定。 部門打算利用大數據分析技術來識別風險因素的參數並評估其有效性，以加強監控和審核的機制。,"With the adoption of the big data analytics technology, the department could be able to evaluate the effectiveness of the existing risk factors and to identify new risk factors which should be included into the risk-profiling. ",通過採用大數據分析技術，部門可以評估現有風險因素的參數的有效性，並識別新的風險因素的參數，以納入風險評估之內。,"Education
+","Artificial Intelligence (AI)
+Data Analytics
+Predictive Analytics
+","Application data analysis for risk based authentication. The department is adopting risk-profiling of applications submitted to detect provision of inaccurate information and omission of information.  However, the parameters of the risk factors are mainly determined by human judgment.  The department intends to make use of big data analytics technology to identify the risk factors and evaluate their effectiveness so as to strengthen the monitoring and authentication mechanism.  . With the adoption of the big data analytics technology, the department could be able to evaluate the effectiveness of the existing risk factors and to identify new risk factors which should be included into the risk-profiling. "
+N-0074,Chatbot for enquiry service.,使用「聊天機器人」提供查詢服務。,"The department is engaging 1823 hotline service and Interactive Voice Response System (IVRS) to answer public enquiry.  The department is exploring solutions to integrate chatbot in website, IVRS and/or hotline system to handle enquiries to enhance operational efficiency. ",部門現正透過1823熱線服務和「互動語音系統」來解答市民的查詢。 部門正在探討可行的方案，將「聊天機器人」配合網站，「互動語音系統」和/或熱線系統來以處理查詢，以提高運營效率。,The general enquiries from members of the public could be answered by a text-based chatbot.,部門可透過聊天機器人以文字的方式回覆公眾的查詢。,"Education
+","Artificial Intelligence (AI)
+Machine Learning
+Natural Language Processing
+","Chatbot for enquiry service.. The department is engaging 1823 hotline service and Interactive Voice Response System (IVRS) to answer public enquiry.  The department is exploring solutions to integrate chatbot in website, IVRS and/or hotline system to handle enquiries to enhance operational efficiency. . The general enquiries from members of the public could be answered by a text-based chatbot."
+N-0075,Form filling guiding robot at service counters,服務櫃檯的指導填表機器人,"Human resources are always needed for providing form-filling advice at service counters.  The department would like to make use of a robot to provide advice on form filling, and answer application-related enquiry with less manpower overheads at service counters.  ",在服務櫃檯提供如何填寫表格的服務需要人力資源。部門希望利用機器人為申請人提供填寫表格的建議，並可以在服務櫃檯內以較少的人力資源回答與申請程序相關的查詢。,"A robot will provide advice on form filling, and answer application-related enquiries.  With the integration of machine learning technology, it will also be able to continuously improve its chatting and responding skills and give more close-fitting replies to visitors’ other enquiries.  ",機器人將提供有關填寫表格的資訊，並回答與申請有關的查詢。結合機器學習的技術，機器人還能夠不斷提升其聊天和回應技巧，對訪問者的其他查詢作出更適切的回覆。,"Education
+","Artificial Intelligence (AI)
+Machine Learning
+Robotic Process Automation
+","Form filling guiding robot at service counters. Human resources are always needed for providing form-filling advice at service counters.  The department would like to make use of a robot to provide advice on form filling, and answer application-related enquiry with less manpower overheads at service counters.  . A robot will provide advice on form filling, and answer application-related enquiries.  With the integration of machine learning technology, it will also be able to continuously improve its chatting and responding skills and give more close-fitting replies to visitors’ other enquiries.  "
+N-0077,Smart license processing virtual robot,牌照處理虛擬機械人,"The department needs to process over 40 different types (around 11,000 applications annually) of license / permit application. Despite the department is using an e-workflow system to handle the license applications, considerable manual efforts are spending on applications through paper forms. The manual verifications on information completeness and accurateness resulted in prolong processing time. This pilot initiative is aiming to introduce OCR and RPA to minimize the needs of manual intervention throughout the license application handling process.","部門需要每天處理40多種不同類型的牌照的申請（每年需處理約11,000個許可申請）。儘管已經使用電子工作流程系統來處理牌照申請，但仍需要人手來核實及檢查申請表格，確保資料的完整性和準確性，因而延誤處理申請。是次試點計劃旨在引入OCR和RPA以取締處理牌照申請過程中的人手部份。","The department has provided various channels for public to submit their applications e.g. electronic submission through a secured electronic transaction platform, by hand to department's service counter in regional offices or by post. Applicants are required to submit different types of supporting documents (e.g. BRC copy, water bills, technical assessment on the environmental impact, block plan, drawings, etc.) along with the application forms. With the help of OCR and RPA, some pre-screening tasks could be performed to shorten the turnaround time in providing supplementary information. Also, to assist on the license processing as well and resulted in speeding up processing time of license application.",部門提供了多種渠道供公眾提交申請，例如通過安全的電子交易平台提交申請表格，親身前往地區辦事處的服務櫃檯或郵寄提交。申請人在提交申請表格時，需要一併提交不同類型的證明文件（例如BRC副本，水費單，對環境影響的技術評估，總體規劃及圖紙）。借助OCR和RPA技術，可以由系統執行一些預設的文件檢查工作，從而盡快通知申請人補充所需要的證明文件。另外，還可以幫助內部的審批流程 ，從而加快了牌照申請的處理時間 。,"Environment
+","Artificial Intelligence (AI)
+Machine Learning
+Robotic Process Automation
+Optical Character Recognition
+","Smart license processing virtual robot. The department needs to process over 40 different types (around 11,000 applications annually) of license / permit application. Despite the department is using an e-workflow system to handle the license applications, considerable manual efforts are spending on applications through paper forms. The manual verifications on information completeness and accurateness resulted in prolong processing time. This pilot initiative is aiming to introduce OCR and RPA to minimize the needs of manual intervention throughout the license application handling process.. The department has provided various channels for public to submit their applications e.g. electronic submission through a secured electronic transaction platform, by hand to department's service counter in regional offices or by post. Applicants are required to submit different types of supporting documents (e.g. BRC copy, water bills, technical assessment on the environmental impact, block plan, drawings, etc.) along with the application forms. With the help of OCR and RPA, some pre-screening tasks could be performed to shorten the turnaround time in providing supplementary information. Also, to assist on the license processing as well and resulted in speeding up processing time of license application."
+N-0078,Integrate and analyse GIS and BIM data and visualise environmental impacts at CAVE,整合及分析地理資訊系統和建築信息模擬數據並透過沉浸式模擬實境系統將環境影響視像化,"To enhance screening and scoping of environmental issues and facilitate better public engagement in coordinating environmental planning and assessment for large scale landuse proposals and development projects, the department is considering to perform analysis of environmental information and data embedded in geographic information system (GIS) and Building Information Modelling (BIM) software, and visualise the potential environmental impacts (i.e. air quality, noise, water quality, hazard to life, etc.) using an installed Cave Automatic Virtual Environment (CAVE) system.",為提升對環境影響的篩選和界定及促進公眾參與以協調大型土地利用和發展項目的環境規劃和評估，部門正考慮利用已安裝的沉浸式模擬實境系統，對環境信息和已存於地理信息系統和建築信息模擬的數據進行分析，並視像化各類潛在的環境影響（包括空氣質素，噪音，水質，生命危害等）。,"Utilising the immersive function of CAVE system and integrating with GIS and/or BIM software to present technical environmental data and visualise the potential environmental impacts (i.e. air quality, noise, water quality, hazard to life, etc.) of large scale landuse proposals and development projects.",利用沉浸式模擬實境系統和與地理信息系統／建築信息模擬的整合，展示技術環境數據和視像化大型土地利用和發展項目的潛在環境影響（包括空氣質素，噪音，水質，生命危害等）。,"Environment
+","Data Analytics
+Virtual Reality
+","Integrate and analyse GIS and BIM data and visualise environmental impacts at CAVE. To enhance screening and scoping of environmental issues and facilitate better public engagement in coordinating environmental planning and assessment for large scale landuse proposals and development projects, the department is considering to perform analysis of environmental information and data embedded in geographic information system (GIS) and Building Information Modelling (BIM) software, and visualise the potential environmental impacts (i.e. air quality, noise, water quality, hazard to life, etc.) using an installed Cave Automatic Virtual Environment (CAVE) system.. Utilising the immersive function of CAVE system and integrating with GIS and/or BIM software to present technical environmental data and visualise the potential environmental impacts (i.e. air quality, noise, water quality, hazard to life, etc.) of large scale landuse proposals and development projects."
+N-0079,Automatic processing and chasing of documents,自動處理和追收文件,"The existing business workflow involves handling of large amount of documents of various type that are required to be submitted by government departments or contractors via email by the deadline.  Relevant information is then captured manually from the submitted documents into spreadsheet which will be uploaded to computer system.  The processing officers are required to identify missing information, verify the correctness of the information specified on the documents against pre-defined rules, and follow up with the document submitters verbally or through email.  The processing officer is also required to send reminders to chase for outstanding submission, of which certain types of document also have stringent chasing procedures, and the operations are being managed through the use of spreadsheet logged the date of issued reminders etc.  The process is repetitive and inefficient, and deemed incapable of handling the foreseeable growth in the number of submitted documents.",現有業務工作流程涉及處理大量各類型文件，而政府部門或承辦商須在限期或之前通過電郵提交這些文件。處理人員接着需以人手把提交文件中的相關資料收納至試算表，然後上載至電腦系統。處理人員須找出欠缺的資料，根據預先訂定的規則核實文件中的資料是否正確，並通過口頭或電郵方式與文件提交者跟進。處理人員亦須發出催辦通知書追收逾期未交的文件，當中某些類型的文件也有嚴格的追收程序，同時通過使用試算表記錄催辦通知書的發出日期等管理有關運作。這些程序既重複且欠缺效率，無法應付提交文件數目可預見的增長。,"With the business process re-engineering and the application of robotic process automation, workflow automation, machine learning and other innovative technologies, the solution should be able to automate chasing of outstanding documents, largely reduce human effort in document processing, and provide real-time statistics and alerts for better monitoring purposes.",隨着業務程序的重組，以及機械人流程自動化、工作流程自動化、機器學習及其他創新技術的應用，有關解決方案應可自動追收逾期未交的文件，大大減少處理文件所需的人手，並提供實時統計資料及提示，以更有效監察相關工作。,"Contract Management合約管理
+","Artificial Intelligence (AI)
+Machine Learning
+Robotic Process Automation
+Workflow automation工作流程自動化
+","Automatic processing and chasing of documents. The existing business workflow involves handling of large amount of documents of various type that are required to be submitted by government departments or contractors via email by the deadline.  Relevant information is then captured manually from the submitted documents into spreadsheet which will be uploaded to computer system.  The processing officers are required to identify missing information, verify the correctness of the information specified on the documents against pre-defined rules, and follow up with the document submitters verbally or through email.  The processing officer is also required to send reminders to chase for outstanding submission, of which certain types of document also have stringent chasing procedures, and the operations are being managed through the use of spreadsheet logged the date of issued reminders etc.  The process is repetitive and inefficient, and deemed incapable of handling the foreseeable growth in the number of submitted documents.. With the business process re-engineering and the application of robotic process automation, workflow automation, machine learning and other innovative technologies, the solution should be able to automate chasing of outstanding documents, largely reduce human effort in document processing, and provide real-time statistics and alerts for better monitoring purposes."
+N-0082,Office Delivery Robot,辦公室運送機械人,"There are lots of promotion meetings or events held in the 7 conference rooms of the head office everyday. The effort of Workman for delivering the drinks to these conference rooms is high and frequent. 
+To help improve office efficiency and productivity in the daily operation, new technologies including artificial intelligence and robotic technologies are needed to develop a mobile service robot that can help to deliver goods and items to the desired destinations.","位於總部的七個會議室每天都有很多相關的會議或活動舉行，因此工人需要將飲料運送到這些會議室的工作量及頻密度都很高。
+為了幫助提高日常辦公室的工作效率和生產力，需要以新科技包括人工智能和機械人技術來開發運送服務機械人，該機械人可以幫助運送貨物和物品到所需目的地。",This robot can save Workman’s effort on delivering drinks to conference room and dispatching paper files and other items to staff seat in order to improve the office efficiency and productivity.,這個機械人能夠節省工人在運送飲料到會議室及將檔案文件和其他物品發送至職員座位的工作量，從而提高辦公室工作效率及生產力。,"Government
+","Artificial Intelligence (AI)
+Robotic Process Automation
+","Office Delivery Robot. There are lots of promotion meetings or events held in the 7 conference rooms of the head office everyday. The effort of Workman for delivering the drinks to these conference rooms is high and frequent. 
+To help improve office efficiency and productivity in the daily operation, new technologies including artificial intelligence and robotic technologies are needed to develop a mobile service robot that can help to deliver goods and items to the desired destinations.. This robot can save Workman’s effort on delivering drinks to conference room and dispatching paper files and other items to staff seat in order to improve the office efficiency and productivity."
