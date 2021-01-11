@@ -10,19 +10,25 @@ import nltk
 import re
 from nltk.corpus import stopwords
 from progress.bar import ChargingBar
+import time
+import gensim.downloader as api
 
 import pandas as pd
 pd.set_option("display.max_rows", None, "display.max_columns", None)
 itSolDfInputName = "1.list_it_solutions_modelInput_notLemmatize.csv"
 # load word2vec model, here GoogleNews is used
 busNeedDfInputName = '2.list_business_needs_modelInput_notLemmatize.csv'
-model = gensim.models.KeyedVectors.load_word2vec_format(
-    './GoogleNews-vectors-negative300.bin', binary=True)
+
+modelName = 'word2vec-google-news-300'
+# model = gensim.models.KeyedVectors.load_word2vec_format(
+#     'GoogleNews-vectors-negative300.bin', binary=True)
+
+model = api.load('word2vec-google-news-300')
 
 stop_words_l = stopwords.words('english')
 
-nltk.download('stopwords')
-stop_words_l = stopwords.words('english')
+# nltk.download('stopwords')
+# stop_words_l = stopwords.words('english')
 
 
 def ITSolList(Bus_need_code):
@@ -32,7 +38,7 @@ def ITSolList(Bus_need_code):
     if len(busNeedModelInput) == 0:
         print('Business Need Ref Code Error')
         return []
-    nltk.download('stopwords')
+    # nltk.download('stopwords')
     stop_words_l = stopwords.words('english')
     busNeedEnCode = busNeedModelInput['Model Input'].iloc[0]
     busNeedEnCode = " ".join(re.sub(
@@ -52,8 +58,14 @@ def ITSolList(Bus_need_code):
     itSol_df = itSol_df.sort_values('Cosine-Similarity', ascending=False)
     itSol_df = itSol_df.loc[
         :, ["Reference Code", "Solution Name (Eng)", "Cosine-Similarity"]]
-    itSol_df = itSol_df.iloc[:100]
-    itSolOutputName = "ITSolList_" + Bus_need_code + "_" + "w2v" + ".csv"
+    # itSol_df = itSol_df.iloc[:100]
+
+    #For naming of the files
+    islemmatize = False
+    islemmatizeString = "_lemmatize" if islemmatize else "_notLemmatize"
+    modelNameString = "_model_" +modelName.replace('/','-').replace(".","-")
+    econder = "_"
+    itSolOutputName = "ITSolList_" + Bus_need_code + modelNameString +islemmatizeString+ "_Word2Vec.csv"
     itSol_df.to_csv(itSolOutputName, index=False)
     # print('similarity = %.3f' % (distance))
     print("Finished IT solutions list:", itSolOutputName)
@@ -87,7 +99,13 @@ if __name__ == "__main__":
     #bar = ChargingBar('Processing', max=20)
     # for x in range(20):
     # Do some work
-    for i in range(1, 6):
-        ITSolList(Ref + str(i))
+    for i in range(1,2):
+        if i < 10:
+            ref = "N-000" + str(i)
+        else:
+            ref = "N-00" + str(i)
+        t0 = time.time()
+        ITSolList(ref)
+        print('Time Used(s)', time.time()-t0)
         # bar.next()
    # bar.finish()
