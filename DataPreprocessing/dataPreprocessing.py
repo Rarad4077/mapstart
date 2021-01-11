@@ -102,22 +102,32 @@ class CustomDataProprocessor:
   def __init__(self):
       pass
   
-  def generateITSolModelInput(self, inputName='1.list_it_solutions_clean.csv', outputName='1.list_it_solutions_modelInput.csv'):
+  def generateITSolModelInput(self, islemmatize=False, inputName='1.list_it_solutions_clean.csv', outputName=''):
     '''generate model input column in IT solution which can be used as NLP model input. 
     output: 1.list_it_solutions_modelInput.csv with "Model Input" columns
     '''
+    #for naming of the files
+    islemmatizeString = "_lemmatize" if islemmatize else "_notLemmatize"
+
     itSol_df = pd.read_csv(inputName)
-    # itSol_df.loc[:,"Solution Description"] = itSol_df.loc[:,"Solution Description"].apply(lambda x: self._cl.lemmatize_sentence(x))
-    # itSol_df.loc[:,"Use Case"] = itSol_df.loc[:,"Use Case"].apply(lambda x: self._cl.lemmatize_sentence(x))
+    if islemmatize:
+      itSol_df.loc[:,"Solution Description"] = itSol_df.loc[:,"Solution Description"].apply(lambda x: self._cl.lemmatize_sentence(x))
+      itSol_df.loc[:,"Use Case"] = itSol_df.loc[:,"Use Case"].apply(lambda x: self._cl.lemmatize_sentence(x))
     itSol_df['Model Input'] = itSol_df.loc[:,"Solution Name (Eng)"].fillna('') + ". " + itSol_df.loc[:,"Solution Description"].fillna('') + ". " + itSol_df.loc[:,"Use Case"].fillna('')
 
+    if len(str(outputName)) == 0:
+      outputName = "1.list_it_solutions_modelInput"+islemmatizeString+".csv"
     itSol_df.to_csv(outputName, index=False)
   
-  def generateBusNeedModelInput(self, inputName='2.list_business_needs.xlsx', outputName='2.list_business_needs_modelInput.csv'):
+  def generateBusNeedModelInput(self, islemmatize=False,inputName='2.list_business_needs.xlsx', outputName=""):
     busNeed_df = pd.read_excel(inputName)
-    # busNeed_df.loc[:,'Business Needs / Challenges (Eng)'] = busNeed_df.loc[:,'Business Needs / Challenges (Eng)'].apply(lambda x: self._cl.lemmatize_sentence(x))
-    # busNeed_df.loc[:,'Expected Outcomes (Eng)'] = busNeed_df.loc[:,'Expected Outcomes (Eng)'].apply(lambda x: self._cl.lemmatize_sentence(x))
-    busNeed_df['Model Input'] = busNeed_df.loc[:,"Title (Eng)"] + ". " + busNeed_df.loc[:,"Business Needs / Challenges (Eng)"] + ". " + busNeed_df.loc[:,"Expected Outcomes (Eng)"]
+    if islemmatize:
+      busNeed_df.loc[:,'Business Needs / Challenges (Eng)'] = busNeed_df.loc[:,'Business Needs / Challenges (Eng)'].apply(lambda x: self._cl.lemmatize_sentence(x))
+      busNeed_df.loc[:,'Expected Outcomes (Eng)'] = busNeed_df.loc[:,'Expected Outcomes (Eng)'].apply(lambda x: self._cl.lemmatize_sentence(x))
+    busNeed_df['Model Input'] = busNeed_df.loc[:,"Title (Eng)"].fillna('') + ". " + busNeed_df.loc[:,"Business Needs / Challenges (Eng)"].fillna('') + ". " + busNeed_df.loc[:,"Expected Outcomes (Eng)"].fillna('')
+    
+    if len(str(outputName)) == 0:
+      outputName = "2.list_business_needs_modelInput"+islemmatizeString+".csv"
     busNeed_df.to_csv(outputName, index=False)
 
 if __name__ == '__main__':

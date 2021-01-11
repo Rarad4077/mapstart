@@ -275,7 +275,7 @@ Predictive Analytics
 ","Online operational status monitoring for water dispensers installed in government venues. A department plans in developing a centralized system for collection of operational data of new water dispensers to be installed in government venues (including both indoor and outdoor venues).  Aligning with Government's pro-innovation policy, the operational data should be collected automatically and transmitted to the centralized system through WiFi or mobile network connection.  To facilitate the public to use the new water dispensers, the location and operational status of such water devices should be displayed on an online platform (e.g. mobile app or webpage) for browsing by the public.. The public would be able to browse the operational status of new water dispensers to be installed at government venues through an online platform.  The operational data of water dispensers would be used to facilitate scheduling of maintenance services (regular replacement of filters/UV light or ad-hoc on-site servicing, etc.)."
 N-0024,IoT outdoor sensors for detecting real-time parking occupancy,應用物聯網的戶外感應器以偵測實時泊車位的佔用情況,"The sensors in need shall be easy-to-install, cost-effective, suitable for use in remote outdoor areas, of high accuracy in detecting small vehicles such as motorcycles and require minimal maintenance.",項目所需的感應器有下列要求: 安裝簡單、具成本效率、適合於戶外偏遠地區使用、能準確偵測小型車輛包括電單車、並只需要基本維修。,,,"Transport
 ","Internet of Things (IoT)
-",
+","IoT outdoor sensors for detecting real-time parking occupancy. The sensors in need shall be easy-to-install, cost-effective, suitable for use in remote outdoor areas, of high accuracy in detecting small vehicles such as motorcycles and require minimal maintenance.. "
 N-0025,Air-conditioner Water Dripping Detection System in High-rise Buildings,高層建築物冷氣機滴水檢測系統,"This project aims to assist the department in identifying the locations of dripping air-conditioners in high-rise buildings when handling complaints of nuisance or environmental hygiene caused by water dripping from air-conditioners.
 The detection system should also have the capacity to take photos and inform the department if needed.","項目旨在檢測和識別高層建築物冷氣機滴水的位置，協助部門處理冷氣機滴水引致的滋擾投訴和環境衞生問題。
 有需要時，檢測系統須拍照及通知相關部門。",Development of a detection system for dripping air-conditioners in high-rise buildings.,研發針對高樓大廈冷氣機滴水的檢測系統,"Environment
@@ -421,7 +421,7 @@ Development
 ","Artificial Intelligence (AI)
 Data Analytics
 Machine Learning
-",
+",Information push service. We are studying the feasibility to provide an electronic service to push property information to public.  The department would like to explore any latest technology which can help delivering appropriate types of information to individuals.. 
 N-0038,Approved Signboards Identification System - ASIS,批准招牌識別系統 - ASIS,"We are seeking solutions to identify and record approved signboards from more than 2,000,000 approved building plans, to extract essential information of the approved signboards from the approved building plan images, and to establish a system which systematically stores the information of approved signboards, with the application of Optical Character Recognition (OCR) and artificial intelligence (AI) technologies.","我們正在尋求可以通過光學字元辨識(OCR)和人工智能(AI)技術，從超過2,000,000張批准圖則中識別和記錄招牌, 抽取有關招牌的主要資訊並系統性地儲存這些資訊的解決方案。",The ASIS will enable both internal and public users to conveniently check up the relevant information of the approved signboards of a particular location.,批准招牌識別系統將可以讓部門和公衆方便查閲特定處所批准招牌的相關資訊。,"City Management
 Commerce and Industry
 Development
