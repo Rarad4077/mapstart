@@ -15,9 +15,9 @@ import gensim.downloader as api
 
 import pandas as pd
 pd.set_option("display.max_rows", None, "display.max_columns", None)
-itSolDfInputName = "1.list_it_solutions_modelInput_notLemmatize.csv"
+itSolDfInputName = "1.list_it_solutions_modelInput_lemmatize.csv"
 # load word2vec model, here GoogleNews is used
-busNeedDfInputName = '2.list_business_needs_modelInput_notLemmatize.csv'
+busNeedDfInputName = '2.list_business_needs_modelInput_lemmatize.csv'
 
 modelName = 'word2vec-google-news-300'
 # model = gensim.models.KeyedVectors.load_word2vec_format(
@@ -61,7 +61,7 @@ def ITSolList(Bus_need_code):
     # itSol_df = itSol_df.iloc[:100]
 
     #For naming of the files
-    islemmatize = False
+    islemmatize = True
     islemmatizeString = "_lemmatize" if islemmatize else "_notLemmatize"
     modelNameString = "_model_" +modelName.replace('/','-').replace(".","-")
     econder = "_"
@@ -94,18 +94,24 @@ def similarity(s1, s2):
 
 if __name__ == "__main__":
     #bus_need_code = str(input("Enter the Business need code"))
-    Ref = "N-000"
+    # Ref = "N-000"
 
     #bar = ChargingBar('Processing', max=20)
     # for x in range(20):
     # Do some work
-    for i in range(1,2):
-        if i < 10:
-            ref = "N-000" + str(i)
-        else:
-            ref = "N-00" + str(i)
-        t0 = time.time()
-        ITSolList(ref)
-        print('Time Used(s)', time.time()-t0)
+    # for i in range(2,100):
+    #     if i < 10:
+    #         ref = "N-000" + str(i)
+    #     else:
+    #         ref = "N-00" + str(i)
+    #     t0 = time.time()
+    #     ITSolList(ref)
+    #     print('Time Used(s)', time.time()-t0)
         # bar.next()
    # bar.finish()
+
+    t0 = time.time()
+    list_of_matching_file_name = "3.list_of_matching.xlsx"
+    listOfMatching_df = pd.read_excel(list_of_matching_file_name)
+    listOfMatching_df['Needs Ref'].apply(lambda x: ITSolList(x))
+    print('Time Used(s)', time.time()-t0)

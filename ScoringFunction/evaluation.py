@@ -57,7 +57,7 @@ class Evaluator:
 
 if __name__ == '__main__':
     t0 = time.time()
-    ev = Evaluator(directory='', encoder='BiEncoder', modelName="stsb-roberta-large",islemmatize=True)
+    ev = Evaluator(directory='../MatchingModel/Word2Vec/', encoder='Word2Vec', modelName='word2vec-google-news-300',islemmatize=True)
     ev.evaluate()
     t1 = time.time()
     print("Time Used (s):",t1-t0)
