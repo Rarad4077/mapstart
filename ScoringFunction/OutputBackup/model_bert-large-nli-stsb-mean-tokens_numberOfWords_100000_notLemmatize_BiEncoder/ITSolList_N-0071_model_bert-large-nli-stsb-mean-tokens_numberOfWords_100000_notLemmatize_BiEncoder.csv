@@ -1,0 +1,275 @@
+Reference Code,Solution Name (Eng),Cosine Similarity
+S-0236,Workflow automation solution,0.7112855315208435
+S-0259,Software Robotic Solution - iBot,0.7054282426834106
+S-0169,Robotic Assistant,0.6988996267318726
+S-0162,Automate the verification of electronic documents,0.6958426833152771
+S-0249,Robotic Process Automation with A.I. Data Capturing Capability,0.6803253889083862
+S-0197,WCL Robotic Process Automation Solution,0.6601988077163696
+S-0254,FormExtractor,0.640595555305481
+S-0179,"""TeleVoice""  AI Robot Solution for DHS (Demographic and Health Surveys)",0.6298620700836182
+S-0282,Chatbot Solution - ccRobot,0.6257067322731018
+S-0050,Deloitte ASSIST,0.621171236038208
+S-0163,Ai-Knowie,0.6197100281715393
+S-0056,Advanced Contextual Analytic Solution for public enquiries,0.6090981364250183
+S-0129,Automatic ID/Travel Document Recognition and Validation - OCR Solution,0.6090143918991089
+S-0260,Mobile platform with handheld devices for on-site inspection and remote work duties,0.6070855259895325
+S-0224,OceanX Workflow,0.6057816743850708
+S-0250,UiPath Automation Platform,0.6051170825958252
+S-0225,DocAnalyzer - Document Review Solution,0.5928853154182434
+S-0265,Business Process Management Platform,0.5865576267242432
+S-0090,Smart Employee Learning Management,0.5851877331733704
+S-0030,IoT Building Access Control System,0.5838212966918945
+S-0029,"Field Services Management System using IoT, GIS and Mobile Technologies",0.5827897787094116
+S-0275,SMore-OCR,0.5823023915290833
+S-0051,Insight Driven Organization (IDO),0.581784725189209
+S-0266,Site Audit and Inspection Recording System,0.580190896987915
+S-0058,IoT Cybersecurity Testing and Certification Program,0.579362154006958
+S-0048,AI-based Application,0.578018069267273
+S-0230,STEMHUB Education Platform,0.5767259001731873
+S-0087,Smart Citizen and Employee Self-Services,0.5762732625007629
+S-0127,Event Management technology,0.573803186416626
+S-0082,A.I. Contact Center and User Engagement Solution,0.569770872592926
+S-0247,Seclore Digital Rights Management,0.5684601068496704
+S-0252,Critical Event Management,0.567202627658844
+S-0186,Technology of independent intellectual property identity authentication and tracking of close contacts of patients to assist in epidemic prevention and control and return to work,0.5666385889053345
+S-0107,POARD Your Presentation Stage,0.5656951069831848
+S-0242,Queue-it -  Virtual Waiting Room,0.562686026096344
+S-0273,Talos,0.5618059039115906
+S-0183,An Intelligent Solution for Automatic Processing and Chasing of Documents,0.5603188276290894
+S-0300,Smart Guiding Robot,0.5596713423728943
+S-0019,Personalized Education System,0.5595848560333252
+S-0222,Agorize Innovation Sourcing Platform,0.5591080784797668
+S-0027,Big Data Enabler Service (project based),0.5580461025238037
+S-0020,Machines Predictive Maintenance,0.5568290948867798
+S-0256,AIOps (Artificial Intelligence for IT Operations) Solution,0.5551459789276123
+S-0221,AI and IT enhanced learning platform,0.5526791214942932
+S-0094,Digital Transformation with Low code development platform,0.5516483187675476
+S-0060,FROM Network Audit Programs,0.5506904125213623
+S-0240,Multilingual Voice Assistant,0.5499705076217651
+S-0076,NEC InfoCage FileShell,0.549131453037262
+S-0035,Document Delivery By Unmanned Vehicle,0.5487440824508667
+S-0211,Customised Mobile Application solution,0.5468372106552124
+S-0239,InterOps Accelerator,0.5466147065162659
+S-0135,ISS Analytics Services,0.5425189733505249
+S-0261,DragOnce Platform,0.5415194630622864
+S-0049,Blockchain Solution,0.5370947122573853
+S-0218,Chief,0.5351526737213135
+S-0228,eClass Corporate Learning Management System (LMS),0.5335401892662048
+S-0047,Smart Taxpayer Services with Machine Learning,0.5320906639099121
+S-0044,AI Escalator Safety Monitoring System,0.5294720530509949
+S-0081,iQ-Road and Traffic Management,0.5242809057235718
+S-0155,Stella Enterprise Chatbot Builder,0.5232086777687073
+S-0287,Siemens Mobility (e-)bike sharing powered by AI,0.5194310545921326
+S-0024,Automated Refuse Collection System with 1 chute for multi fractions,0.5192413330078125
+S-0079,"1/ AccuID, 2/ Pedestrian Analytics, 3/ Vehicle Analytics",0.5179641246795654
+S-0001,PixelEye Object Detection,0.5172778367996216
+S-0103,SP-RFID Smart Asset Management System,0.5172301530838013
+S-0152,Datax,0.5167176127433777
+S-0093,DataOS System,0.5150666236877441
+S-0248,OFS Website Tracking System,0.5148659944534302
+S-0074,AI Chiller Plant – Smart Chiller Plant Optimization using Artificial Intelligence,0.5146543383598328
+S-0231,AI Information push service management system,0.5086556673049927
+S-0299,Office Delivery Robot,0.5085275173187256
+S-0288,Mixed language Chatbot system with AI and voice functions,0.508216142654419
+S-0251,Self Service Bike Rental Solution,0.5074330568313599
+S-0279,RoomQ virtual waiting room for massive traffic,0.5069342851638794
+S-0280,Digital parking solutions for enterprise (Include online pre booking and payment settle),0.5060277581214905
+S-0005,Smart Lamp Pole and Robotic,0.5056609511375427
+S-0174,VR Training & Education System,0.5056406855583191
+S-0043,fieldConnect,0.5025342106819153
+S-0322,NB-IoT / LoRa Dual-detection Smart Parking Sensing Technology,0.502149224281311
+S-0116,Smart Parking Solution,0.5016971230506897
+S-0134,Smart Building - Energy Management and Optimization Solutions,0.5014420747756958
+S-0207,Pandemic Management System,0.501083254814148
+S-0111,Smart car park solution,0.5009917616844177
+S-0214,ACX Visitor Management System,0.5001348257064819
+S-0112,Pyxis - The Internet of Things(IoT) Solution for Construction 2.0 and Beyond,0.499412477016449
+S-0032,AI+IAQ Proptech: Zonal object counting by skeleton & form recognition integrated with indoor environmental control and room utilization management,0.4984942078590393
+S-0286,IoT Sensors and Automatic Monitoring System (AMS),0.498263955116272
+S-0040,RVM One Stop Recycling Solution,0.4973917603492737
+S-0007,Smart Life,0.4960215091705322
+S-0120,Raspect-ACE,0.49563953280448914
+S-0008,Shape Security - Shape Enterprise Defense,0.4942382574081421
+S-0292,Telepresence and Video Conferencing Solution,0.49296116828918457
+S-0241,Intelligent Data Platform,0.4921114444732666
+S-0137,Splunk,0.4918590188026428
+S-0126,Self Service Business Intelligence,0.49108099937438965
+S-0123,Complete Encryption with HSM,0.4908483922481537
+S-0069,Citizen Cloud,0.49045470356941223
+S-0002,DataCube Data Intelligent Automation Solution,0.4896770119667053
+S-0036,Intelligent Traffic Monitoring,0.4886517822742462
+S-0009,Precise And Responsive Indoor Location Tracking,0.48794829845428467
+S-0028,ShipAny - First Smart Logistics Gateway for HK Domestic Logistics Service,0.48710376024246216
+S-0234,Pixel Eye Vision-Based Fall Detection,0.48686468601226807
+S-0096,Clare.AI Asian Language Chatbot Solutions,0.48518967628479004
+S-0054,TicketME Blockchain Ticketing Platform,0.48256465792655945
+S-0244,ServiceNow - ITSM solution,0.48194822669029236
+S-0209,Control-M (BMC Software),0.4814712703227997
+S-0101,​LANDRAY Office Automation (OA) system solutions,0.48032039403915405
+S-0013,Public Event Tracking and Early Warning Analysis System,0.47948962450027466
+S-0175,Thermal Imaging Body Temperature Measurement Solution,0.4790727496147156
+S-0185,Human body temperature recognition real-time measurement linkage system,0.4787476360797882
+S-0095,Create Efficient and Simplify Business Processes Using NFC,0.47871366143226624
+S-0210,AI Cloud for Smart Construction,0.4779875874519348
+S-0041,A.I. and speech solutions by Nexify and iFLYTEK,0.4779270887374878
+S-0113,Video Analytics Solution,0.47710737586021423
+S-0031,PowerArena - Smart City Operations Platform,0.47619298100471497
+S-0115,All-in-one event management software,0.4756065607070923
+S-0191,NoQ E Form registration and quota distribution for massive traffic,0.4748019576072693
+S-0171,Augmented Reality (AR) model,0.473366379737854
+S-0121,Chatbot Solution and NLP applications from ZhuiYi Technology,0.4729367196559906
+S-0133,PANGA - Data Infrastructure Edge Computing for Smart Cities,0.4716784656047821
+S-0085,SAP Geospatial Asset Management,0.47039827704429626
+S-0283,All-in-one Mobile Productivity Platform,0.4697643518447876
+S-0196,Personnel and Asset positioning management system,0.46891385316848755
+S-0010,Precise Facility Crowd Analysis,0.4681851863861084
+S-0208,Indoor Map and Positioning for Smart City,0.46619150042533875
+S-0182,AppProtect+ (RASP) / YESsafe Zero Login (OTP) / AccessMatrix Universal Sign-On (SSO),0.4647882878780365
+S-0165,Health Monitoring System,0.464756578207016
+S-0255,Authgear,0.46380239725112915
+S-0213,Radar-based smart motion and position tracking system,0.46359747648239136
+S-0201,Non image base access control,0.46243441104888916
+S-0232,"""Smart"" Car Park Management System",0.4622679352760315
+S-0064,Smart Education(Class VR),0.4617410898208618
+S-0202,One card e-payment solution for GBA(Guangdong-hong kong-Macao Greater Bay area),0.46074923872947693
+S-0143,Cyberbit,0.46074777841567993
+S-0153,Dynatrace,0.4601958096027374
+S-0289,Life Planning & Blockchain,0.4596059024333954
+S-0004,Euclideon Vault - Smart City IOT 3D visualization,0.45909619331359863
+S-0226,"Sky Drone - Autonomous Drone Solution (""Drone-in-a-Box"")",0.45888787508010864
+S-0245,Locobike：Automatic Bicycle Rental System,0.4573979675769806
+S-0246,Remo Video Conferencing,0.4567136764526367
+S-0194,UWB Beacon RTLS Solution,0.45657363533973694
+S-0072,Digital Twin of the City (or Town),0.4560690224170685
+S-0015,3D Face Re-identification,0.45483773946762085
+S-0164,Relate App,0.45404839515686035
+S-0110,People Counting System (PCS),0.4534078538417816
+S-0205,Centrak Quarantine Management Solution,0.4529472887516022
+S-0089,Smart Infrastructure Projects Planning and Execution,0.45280197262763977
+S-0034,Cloud Energy Management Platform,0.45253631472587585
+S-0216,BMC Helix Service & Operations Management,0.452472060918808
+S-0016,Cyclops -- Smart City & unmanned store solution,0.45104363560676575
+S-0235,Pixel Eye Safety Helmets Detection,0.4508726894855499
+S-0108,SparkXIO Smart Car Park Management System,0.4482502341270447
+S-0022,A smart lamp pole system with AI-enabled security system,0.44779282808303833
+S-0119,Ziizau - Optimization of route design,0.44771578907966614
+S-0017,Falling Alert System for Elderly Care-- Optical Monitoring System (OMS),0.4469998776912689
+S-0102,Miovision's Portable Solution for Traffic Data Collection,0.44671890139579773
+S-0067,AR Smart Glass Assisted for equipment training and O&M,0.4467163383960724
+S-0167,IXIA ThreatARMOR,0.44666603207588196
+S-0118,Alteryx,0.44568586349487305
+S-0220,3D Spatial Intelligence Platform for flow and traffic managements,0.4447883367538452
+S-0262,Mobile application development,0.4441750645637512
+S-0083,Smart Pharma Packaging,0.4436710476875305
+S-0038,Hybrid Reality Platform,0.4419814646244049
+S-0131,ISS Project Management System,0.4412285089492798
+S-0147,Privacy-aware people counting system using Smart Radar sensor,0.44105151295661926
+S-0046,SAP Digital Boardroom,0.440609872341156
+S-0078,Finger Vein PBI (Public Biometric Infrastructure) Platform for Smart City ID Authentication,0.44002461433410645
+S-0190,Una Interactive Training Platform,0.4398377537727356
+S-0026,Knowledge Management Solution (KM Power),0.43962985277175903
+S-0172,Earthy,0.4394381642341614
+S-0238,Rice Robotics,0.439253032207489
+S-0263,SafeGuard Series,0.4390302896499634
+S-0271,Server Data Analysis Service (User & Data),0.43793752789497375
+S-0059,EMF Workplaces Evaluation Program,0.43626630306243896
+S-0161,LiDAR and Optical Sensing applications for Smart City,0.43622028827667236
+S-0045,SAP Big Data Solution,0.4343392848968506
+S-0267,Smart Fever Screening System,0.43378061056137085
+S-0088,Public vehicle real-time arrival forecast system and real-time seat detection system,0.4332399368286133
+S-0125,"BIM, BMS and IoT Integration",0.4325197637081146
+S-0156,Neo,0.43180757761001587
+S-0037,4D Immersive CAVE,0.430902898311615
+S-0114,Worker Insights,0.43026238679885864
+S-0053,Real-Time Origin-Destination Analysis Tool (RODAT）,0.4296598434448242
+S-0012,"Monitoring and Early Warning System for Holding Concentration, Insider Trading, Short-selling and Stock Price Manipulation",0.4290837049484253
+S-0170,Nixplay Signage,0.42748820781707764
+S-0217,nCloud Fault-Tolerant Geo-distributed Hyperconverged Infrastructure (HCI),0.4271013140678406
+S-0071,All-in-one Data Center - iDCmini System,0.42616409063339233
+S-0139,imVision,0.4254518151283264
+S-0154,Cisco Stealthwatch Encrypted Traffic Analytics,0.42392081022262573
+S-0140,Drivelock,0.4229232668876648
+S-0130,OpenLegacy API factory,0.422838032245636
+S-0188,Data Vaccinator,0.42121514678001404
+S-0180,AR/ VR/ Interactive Design & Development,0.42037639021873474
+S-0080,OceanX Cloud-based Enterprise Content Management (ECM),0.41894853115081787
+S-0104,Litbulb Technologies,0.4183548092842102
+S-0203,Government payment scheme online application and data processing,0.4167943298816681
+S-0138,Radware DefensePro and AppWall,0.41526979207992554
+S-0100,Super Massive 3D Model Data Expert,0.4151327610015869
+S-0124,Enterprise Intelligent Assistant,0.41493743658065796
+S-0141,HubSecurity,0.414273738861084
+S-0052,OpenCloud CMP,0.41383111476898193
+S-0061,A.I. and Mixed Reality Solution,0.41286277770996094
+S-0229,SonoWatermark,0.4125574827194214
+S-0021,ReportNOW,0.4123491048812866
+S-0014,2D Face Re-identification,0.41105663776397705
+S-0073,Enlighted Multi-Features Micro IoT Sensors Solution,0.41081440448760986
+S-0294,Live Webinar Streaming service,0.41042232513427734
+S-0157,NLP-powered Chatbot by Xiaomi,0.41031336784362793
+S-0039,iQ-Dwell Time Management System,0.41029566526412964
+S-0219,"VR Virtual Store, Training & Education System",0.4101605713367462
+S-0144,ZIroh Labs - Advanced Data Privacy and Encryption Technology,0.4100741744041443
+S-0057,Artificial Intelligence Security Surveillance Protection  (AISSP),0.40354758501052856
+S-0023,Payment Solution for Housing Authority and Leisure and Cultural Department,0.4031273126602173
+S-0243,LiDAR Road Monitoring Solutions based on Deep Learning Technology,0.40191978216171265
+S-0168,IXIA Vision ONE (Network Packet Broker),0.40137186646461487
+S-0128,Iris by HKT - From Surveillance to Intelligence,0.4010658860206604
+S-0158,Switchable Glass / Film,0.39869266748428345
+S-0109,Face Recognition Door Access System,0.3969106376171112
+S-0146,Promon Shield - Application Protection and Security for IoT & Connected Devices,0.3968724012374878
+S-0003,GeoSpatial Cloud,0.39682814478874207
+S-0212,AI Solution for Outdoor People Counting without invading privacy,0.39612430334091187
+S-0264,Smart Parking with Video Analytics,0.3960621953010559
+S-0296,BLOK Pass App for Travel Bubble,0.39565908908843994
+S-0181,Artificial Intelligence Camera Solutions,0.3943606913089752
+S-0105,Blockchain solution,0.39327549934387207
+S-0099,NB IoT Sensor Solution,0.3929671049118042
+S-0106,"Smart bin trash collection solution, especially remote area",0.38741785287857056
+S-0066,Smart Water Management,0.38593006134033203
+S-0097,Smart Home e-Health Monitoring and Care System,0.3843975365161896
+S-0237,V-K V-OS Cloud Solutions,0.38408419489860535
+S-0006,Centimeter level precision GNSS positioning Android tablet/smartphone,0.3819309175014496
+S-0011,Precise Outdoor Crowd Analysis,0.38009870052337646
+S-0166,IXIA BREAKINGPOINT,0.3796916604042053
+S-0132,Mobility Mesh Wi-Fi Application for Smart City,0.37764424085617065
+S-0150,A.I. Facial Recognition Application for Event Photo Delivery,0.37562939524650574
+S-0195,SuperAcc Document Intelligence,0.3732784390449524
+S-0177,MAD Gaze Smart Glass,0.37219932675361633
+S-0204,DOLPHIN Indoor Positioning Service (IPS),0.37172752618789673
+S-0122,"Smart City Solution - IoT, AI, Data Analytics Platform, Control",0.3689514994621277
+S-0199,V-Key Mobile App Protection,0.36430418491363525
+S-0178,Motor Insurance DLT Authentication System - MIDAS,0.3637363016605377
+S-0062,Parkingbnb,0.3626662492752075
+S-0070,Well井 Smart Water Station,0.3574115037918091
+S-0084,NFC Product Authentication,0.3560905456542969
+S-0159,Integrated Smart Film Solutions,0.3548334240913391
+S-0145,Arcserve® Appliance Series,0.35317063331604004
+S-0065,Smart Mobility,0.34583133459091187
+S-0033,ATAL’s Cloud-based Chiller Plant Energy Management Platform (EM-Platform),0.33708155155181885
+S-0173,Go VR Immersive - Hololens 2 Mixed Reality Solution,0.3365100622177124
+S-0068,Reliability Centered Asset Management - Dynamic (RCAM-dyn),0.3361445665359497
+S-0077,Anywhere Networks,0.3360292315483093
+S-0092,Enable the wireless connectivity for IoT devices,0.33368080854415894
+S-0136,Document Authentication,0.3310287892818451
+S-0223,OceanX Share,0.3289912939071655
+S-0215,Self Check-in system for self-quarantined personal,0.327586829662323
+S-0227,Intelligent liquid crystal dimming film,0.325358510017395
+S-0042,Smart Water Duct Valve for shared Housing,0.32274383306503296
+S-0055,Smart City Electric Vehicle (EV) Charging Infrastructure Solution,0.3209676742553711
+S-0142,NetMotion Mobility,0.32046183943748474
+S-0160,Smart glass,0.31116342544555664
+S-0075,Altai SuperWiFi Solution,0.30984482169151306
+S-0193,Dahua Body Temp Measurement Solution,0.3015962243080139
+S-0253,Intelligent Face Mask,0.2986149191856384
+S-0281,"Smart 5G Integrated Multi-Operator Active Distributed Antenna Solution for Malls, Venues and Stadiums",0.29599642753601074
+S-0176,Epidemic prevention and control management system,0.29261961579322815
+S-0063,UHD Multi-Channel Video Live Broadcast,0.292068213224411
+S-0187,Provide an implementation plan for the Hongkong Financial Secretary's policy of granting HK $10 thousand to permanent residents aged 18 or above.,0.27413690090179443
+S-0189,COVID19 Community Prevention Software System,0.27365031838417053
+S-0091,Next Generation Growable Optical Networks,0.26439404487609863
+S-0086,Micro-Chip 2.0 for pets,0.25740760564804077
+S-0233,Area monitoring solution using 3D camera with privacy-preserving,0.2507324516773224
+S-0098,ECOPLANT Solar Tracking Solar Panel System,0.2390669286251068
+S-0272,Hybrid/ E Bus/ Mini Bus and Ferry Boat,0.23570017516613007
+S-0148,Zscaler,0.16324114799499512
