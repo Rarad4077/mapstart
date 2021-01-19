@@ -12,7 +12,7 @@ class ITsolListGenerator_BiEncoder:
     To use:
     >>> itg_be = ITsolListGenerator_BiEncoder(modelName="stsb-roberta-large")
     >>> itg_be.generateModelEmbedding(numberOfWords=50)
-    >>> itg_be.generateITSolList(bus'N-0001', numberOfWords=10000)
+    >>> itg_be.generateITSolList('N-0001', numberOfWords=10000)
   
     
     Args:
@@ -113,7 +113,7 @@ class ITsolListGenerator_BiEncoder:
             lambda x: util.pytorch_cos_sim(busNeedEnCode, x).item())
         itSol_df = itSol_df.sort_values(by='Cosine Similarity', ascending=False)
 
-        itSol_df = itSol_df.loc[:,["Reference Code","Solution Name (Eng)","Cosine Similarity"]]
+        itSol_df = itSol_df.loc[:,["Reference Code","Solution Name (Eng)","Solution Description","Cosine Similarity"]]
         itSol_df = itSol_df.iloc[:itSolListSize]
         # print(itSol_df)
         if len(str(itSolOutputName)) == 0:
@@ -121,6 +121,33 @@ class ITsolListGenerator_BiEncoder:
         itSol_df.to_csv(itSolOutputName,index=False)
         print("Finished IT solutions list:", itSolOutputName)
         return itSol_df
+    
+
+    def test(self):
+        text = """Public Event Tracking and Early Warning Analysis System. 
+                Multilingual public opinion collection and analysis of public data such as local and overseas websites, social media, etc., 
+                sentiment analysis/trend analysis/geographic visualization analysis/relational analysis, etc. for the events/individuals/entities queried by users, 
+                providing a solution for decision makersExtremely simplified, low-cost, interactive analysis support, in a few minutes, the massive information is 
+                transformed into a key knowledge graph that is immediately available to support decision-making.. 
+                The sky sees itself and the people see, and the sky listens to the people.In recent years, 
+                the Internet and social media have proven to be the best and largest platforms for effectively collecting 
+                public opinion and policy feedback, but noise, huge amounts of data, and natural language processing pose the 
+                biggest challenges.Bitport’s innovative multi-language query-based public opinion monitoring and early warning 
+                and analysis platform can achieve any query for any goal and topic proposed by users in any language, 
+                achieving needle-in-the-haystack knowledge acquisition, and maximizing information gain in a short time 
+                In principle, it constitutes a one-stop public intelligence solution for decision makers from information 
+                collection, visualization to indicative analysis.
+            """
+        # x = self._model.encode(
+        #     sentences=text,
+        #     output_value="token_embeddings")
+        token = self._model.tokenize(text)
+        # print(len(x))
+        print("max",self._model.max_seq_length)
+        print("token", token)
+        print("token length ", len(token) )
+        print(dir(self._model.tokenizer))
+        print(self._model.tokenizer._get_padding_truncation_strategies())
 
 class ITsolListGenerator_CrossEncoder:
     """A class used to generate resultant IT solution List of a specific business needs used. 
@@ -188,17 +215,18 @@ class ITsolListGenerator_CrossEncoder:
 
 
 
-
 if __name__ == '__main__':
     t0 = time.time()
-    itg_be = ITsolListGenerator_BiEncoder(modelName="bert-large-nli-stsb-mean-tokens")
+    itg_be = ITsolListGenerator_BiEncoder(modelName="stsb-roberta-large")
+    # itg_be.test()
+    itg_be.generateITSolList( busNeedCode="N-0001", islemmatize=False)
 
-    itg_be.generateModelEmbedding(islemmatize=False)
+    # itg_be.generateModelEmbedding(islemmatize=False)
 
-    list_of_matching_file_name = "3.list_of_matching.xlsx"
-    listOfMatching_df = pd.read_excel(list_of_matching_file_name)
+    # list_of_matching_file_name = "3.list_of_matching.xlsx"
+    # listOfMatching_df = pd.read_excel(list_of_matching_file_name)
 
-    listOfMatching_df['Needs Ref'].apply(lambda x: itg_be.generateITSolList( busNeedCode=x, islemmatize=False))
+    # listOfMatching_df['Needs Ref'].apply(lambda x: itg_be.generateITSolList( busNeedCode=x, islemmatize=False))
     
     # itg_ce = ITsolListGenerator_CrossEncoder(modelName='cross-encoder/stsb-roberta-large')
     # listOfMatching_df['Needs Ref'].apply(lambda x: itg_ce.generateITSolList( busNeedCode=x, islemmatize=True))

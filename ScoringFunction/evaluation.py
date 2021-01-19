@@ -58,7 +58,7 @@ class Evaluator:
 if __name__ == '__main__':
     t0 = time.time()
     # ev = Evaluator(directory='OutputBackup/stsb-roberta-large_notLemmatize/', encoder='BiEncoder', modelName='stsb-roberta-large',islemmatize=False)
-    ev = Evaluator(directory='', encoder='BiEncoder', modelName='bert-large-nli-stsb-mean-tokens',islemmatize=False)
+    ev = Evaluator(directory='', encoder='BiEncoder', modelName='distilbert-base-nli-stsb-mean-tokens',islemmatize=False)
     ev.evaluate()
     t1 = time.time()
     print("Time Used (s):",t1-t0)
